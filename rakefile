@@ -1,0 +1,172 @@
+# rakefile to convert all fodts to teis
+# see http://www.virtuouscode.com/2014/04/23/rake-part-3-rules/
+
+# Rake.application.options.trace_rules = true
+
+require 'rake/packagetask'
+require 'pp'
+require 'fileutils'
+
+BUILD_DIR="build"
+FODT_DIR="fodt"
+directory BUILD_DIR
+
+# https://confluence.jetbrains.com/display/TCD9/Predefined+Build+Parameters#PredefinedBuildParameters-ServerBuildProperties
+TC_BUILD_NUMBER=ENV["BUILD_NUMBER"]
+
+GROUP="ro.editii"
+VERSION="0.1-SNAPSHOT"
+# pp ENV
+# puts "TEAMCITY_BUILD_NUMBER: #{TC_BUILD_NUMBER}"
+
+ODTTOTEI_BIN= [ 
+        File.expand_path('~') + "/sources/tei-stylesheets/bin/odttotei",  
+        File.expand_path('~') + "/products/tei-stylesheets/bin/odttotei"
+    ]
+    .find { |it| File.exist?(it) && File.executable?(it)}
+
+FODTTOTEI_BIN= [ 
+    File.expand_path('~') + "/sources/tei-stylesheets/bin/fodttotei",  
+    File.expand_path('~') + "/products/tei-stylesheets/bin/fodttotei"
+]
+.find { |it| File.exist?(it) && File.executable?(it)}
+
+
+TEI2EPUB_BIN=[
+    File.expand_path('~') + "/sources/tei-stylesheets/bin/teitoepub3",
+    File.expand_path('~') + "/products/tei-stylesheets/bin/teitoepub3",
+]   
+    .find { |it| File.exist?(it) && File.executable?(it)}
+
+SOFFICE_BIN=[
+        "/Applications/LibreOffice.app/Contents/MacOS/soffice",
+        "/usr/bin/soffice"]
+    .find { |it| File.exist?(it) && File.executable?(it)}
+
+
+
+raise "cannot find soffice" unless SOFFICE_BIN
+raise "cannot find odttotei " unless ODTTOTEI_BIN
+
+
+
+fodt_files = Rake::FileList.new("fodt/**/*.fodt")
+
+# retrieves the fodt/ source for a build/
+def fodt_for_odt(odt) 
+    odt.ext('.fodt').sub(%r{^build/}, "fodt/")
+end
+
+def odt_for_fodt(fodt)
+    fodt.ext(".odt").sub(%r{^fodt/}, "build/")
+end
+
+def mkdirs_for_f(f) 
+    require 'fileutils'
+    dirname = File.dirname(f)
+    FileUtils.mkdir_p(dirname) unless File.directory?(dirname)
+end
+
+task :default => [:all_teis, :all_epubs]
+
+task :tei => :all_teis
+task :epub => :all_epubs
+
+task :all_teis => fodt_files.map {  |fodt| odt_for_fodt(fodt) ; }.ext(".xml")
+task :all_epubs => fodt_files.map { |fodt| odt_for_fodt(fodt) }.ext(".epub")
+
+task :list do
+    puts fodt_files
+end
+
+desc "copy fodt to build and clean it up"
+rule /build\/.*\.fodt$/ => ->(f){ fodt_for_odt(f) } do |t|
+    require_relative 'lib/fodt_style_replacer'
+    dirname = File.dirname(t.name)
+    mkdirs_for_f(t.name)
+    # FileUtils.copy t.source, t.name
+    src = t.source
+    to = t.name
+
+    replacer = File.open(src) { |f|  FodtStyleReplacer.new(f)}
+    replacer.replace_automated_styles
+    File.write(to, replacer.xml)
+
+end
+
+desc "fodt to odt"
+rule '.odt' => '.fodt' do |t|
+# rule /\.odt$/ => ->(f){ fodt_for_odt(f) } do |t|
+    # puts "This rule gets #{t.name} from #{t.source}"
+    dirname = File.dirname(t.name)
+    mkdirs_for_f(t.name)
+
+    FileUtils.rm_f t.name if File.exist? t.name
+
+    soffice_cmd="#{SOFFICE_BIN} --headless --convert-to odt --outdir #{dirname} " + t.source
+    sh (soffice_cmd)
+    exit_code = $?
+    puts "exit code : #{exit_code}"
+    
+end
+
+desc "fodt to tei"
+rule '.xml' => '.fodt' do |task|
+    cmd = "#{FODTTOTEI_BIN} '#{task.source}' '#{task.name}'"
+    puts "will execute #{cmd}"
+  
+    sh cmd
+end
+
+
+desc "odt to tei"
+rule '.xml' => '.odt' do |task|
+    cmd = "#{ODTTOTEI_BIN} '#{task.source}' '#{task.name}'"
+    puts "will execute #{cmd}"
+  
+    sh cmd
+end
+
+desc "tei to epub"
+rule '.epub' => '.xml' do |task|
+    cmd = "#{TEI2EPUB_BIN} #{task.source} #{task.name}"
+    puts "will execute #{cmd}"  
+    sh cmd
+end
+
+
+desc "clean"
+task :clean  do
+    rm_rf BUILD_DIR
+    rm_rf "pkg"
+end
+
+
+VER = "#{VERSION}-b#{TC_BUILD_NUMBER}"
+# see http://rake.rubyforge.org/classes/Rake/PackageTask.html
+Rake::PackageTask.new("epub", VER) do |p|
+    p.need_zip = true
+    p.package_files.include("build/**/*.epub")
+end
+
+Rake::PackageTask.new('tei', VER) do |p|
+    p.need_zip = true
+    p.package_files.include("build/**/*.xml")
+    # p.package_dir = 'build'
+end
+
+task :publish => :package do |t| 
+    # dir = File.expand_path("~/tmp/gv0/repo/snapshots/ro/editii/scriptorium-masters")
+    dir = File.expand_path("/gv0/repo/snapshots/ro/editii/scriptorium-masters")
+    mkdir_p dir
+    cp_r Dir.glob("pkg/*.zip"), dir
+    rm_rf "pkg" # so that successive builds do not fill this with packages # replace this with moving
+end
+
+
+require 'rake/testtask'
+Rake::TestTask.new do |t| 
+  t.libs << 'test' # adds the tests directory to the lists of directories in the #$LOADPATH 
+  t.test_files = FileList['test/*test*.rb']
+  t.verbose = true 
+end

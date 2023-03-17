@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>scriptorium-roman</dc:title><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:editing-duration>PT52M59S</meta:editing-duration><meta:editing-cycles>53</meta:editing-cycles><meta:creation-date>2022-09-03T23:37:03.154584653</meta:creation-date><dc:description>comments here</dc:description><meta:keyword>keywords here</meta:keyword><dc:subject>subject here</dc:subject><dc:date>2022-10-29T17:16:52.629096761</dc:date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="20" meta:paragraph-count="70" meta:word-count="2669" meta:character-count="15892" meta:non-whitespace-character-count="13241"/><meta:user-defined meta:name="Destinations">asdasd</meta:user-defined><meta:user-defined meta:name="Info 4"/><meta:user-defined meta:name="Language">ro</meta:user-defined><meta:user-defined meta:name="Ufpufuf">dgfddf</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="scriptorium-roman" xlink:href="../../../../Templates/scriptorium-roman.ott" meta:date="2022-09-20T21:59:33.469668104"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">201613</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">14935</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">10569</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7712</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">205677</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">201613</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">14933</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">212180</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">160</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">10829349</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard">
+     <ooo:module ooo:name="Module1">
+      <ooo:source-code>
+
+rem usable for novel text pasted from pdf where you have line breaks inside paragraphs
+Sub deleteLineBreaksFromSelection
+	dim oText as object, Selections as object, Selection as object, cursor as object
+	dim position%
+	oText = ThisComponent.Text
+	Selections = ThisComponent.CurrentSelection
+	Selection = Selections.getByIndex(0)
+	cursor = oText.createTextCursorByRange(Selection)
+		With cursor
+		.collapseToStart
+		position = oText.compareRegionEnds(cursor, Selection)
+			While position = 1
+				.goRight(1,True)
+					if .string = Chr(10) then
+						&apos;.string = Chr(13)&apos;turn line break to paragraph
+						.string = &quot;&quot; &apos;delete line break
+					end if
+				.collapseToEnd
+				position = oText.compareRegionEnds(cursor, Selection)
+			Wend
+		End With
+End Sub
+
+
+
+rem usable for poems that have new lines and you just want line breaks
+sub ReplaceNewLinesWithLineBreaksInSelection
+rem ----------------------------------------------------------------------
+rem define variables
+dim document   as object
+dim dispatcher as object
+rem ----------------------------------------------------------------------
+rem get access to the document
+document   = ThisComponent.CurrentController.Frame
+dispatcher = createUnoService(&quot;com.sun.star.frame.DispatchHelper&quot;)
+
+rem ----------------------------------------------------------------------
+dim args1(21) as new com.sun.star.beans.PropertyValue
+args1(0).Name = &quot;SearchItem.StyleFamily&quot;
+args1(0).Value = 2
+args1(1).Name = &quot;SearchItem.CellType&quot;
+args1(1).Value = 0
+args1(2).Name = &quot;SearchItem.RowDirection&quot;
+args1(2).Value = true
+args1(3).Name = &quot;SearchItem.AllTables&quot;
+args1(3).Value = false
+args1(4).Name = &quot;SearchItem.SearchFiltered&quot;
+args1(4).Value = false
+args1(5).Name = &quot;SearchItem.Backward&quot;
+args1(5).Value = false
+args1(6).Name = &quot;SearchItem.Pattern&quot;
+args1(6).Value = false
+args1(7).Name = &quot;SearchItem.Content&quot;
+args1(7).Value = false
+args1(8).Name = &quot;SearchItem.AsianOptions&quot;
+args1(8).Value = false
+args1(9).Name = &quot;SearchItem.AlgorithmType&quot;
+args1(9).Value = 1
+args1(10).Name = &quot;SearchItem.SearchFlags&quot;
+args1(10).Value = 71680
+args1(11).Name = &quot;SearchItem.SearchString&quot;
+args1(11).Value = &quot;$&quot;
+args1(12).Name = &quot;SearchItem.ReplaceString&quot;
+args1(12).Value = Chr(10)
+args1(13).Name = &quot;SearchItem.Locale&quot;
+args1(13).Value = 255
+args1(14).Name = &quot;SearchItem.ChangedChars&quot;
+args1(14).Value = 2
+args1(15).Name = &quot;SearchItem.DeletedChars&quot;
+args1(15).Value = 2
+args1(16).Name = &quot;SearchItem.InsertedChars&quot;
+args1(16).Value = 2
+args1(17).Name = &quot;SearchItem.TransliterateFlags&quot;
+args1(17).Value = 1280
+args1(18).Name = &quot;SearchItem.Command&quot;
+args1(18).Value = 3
+args1(19).Name = &quot;SearchItem.SearchFormatted&quot;
+args1(19).Value = false
+args1(20).Name = &quot;SearchItem.AlgorithmType2&quot;
+args1(20).Value = 2
+args1(21).Name = &quot;Quiet&quot;
+args1(21).Value = true
+
+dispatcher.executeDispatch(document, &quot;.uno:ExecuteSearch&quot;, &quot;&quot;, 0, args1())
+
+
+end sub
+
+      
+      
+      
+      
+      </ooo:source-code>
+     </ooo:module>
+    </ooo:library-embedded>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="WWNum1">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="License">
+   <style:text-properties officeooo:rsid="00942ee7" officeooo:paragraph-rsid="00950ee0"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="SourceDesc">
+   <style:text-properties officeooo:rsid="007ac2db"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Author">
+   <style:text-properties officeooo:rsid="009d0086" officeooo:paragraph-rsid="009d0086"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="009d0086" officeooo:paragraph-rsid="009d0086"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="009d0086" officeooo:paragraph-rsid="009d0086"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:rsid="006474d8" officeooo:paragraph-rsid="009eacdc"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="009eacdc"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="00a053a7"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="00a19c9a"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="009d0086" officeooo:paragraph-rsid="009d0086"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="009d0086"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="006474d8"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="009eacdc"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Alegreya2"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:font-name="Alegreya2" officeooo:rsid="006474d8"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:font-name="Alegreya2" fo:font-style="normal" officeooo:rsid="006474d8"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties style:font-name="Alegreya2" fo:font-style="normal" officeooo:rsid="009eacdc"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:font-name="Alegreya2" fo:font-style="normal" officeooo:rsid="0056fa12"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:font-name="Alegreya2" fo:font-style="normal" officeooo:rsid="00a053a7"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="00a1d44e"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="00a53e25"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">20</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+  <style:master-page style:name="Footnote" style:page-layout-name="pm2" draw:style-name="dp1"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm2" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P6">Poezii</text:p>
+   <text:p text:style-name="P5">Lucian Blaga</text:p>
+   <text:p text:style-name="P3">This electronic edition of a text is property of Ediții Scriptorium. You may not copy it. You are encouraged to reference it using HTTP URLs, or cite small excerpts, followed by the precise {{thisurl}} URL reference.</text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T1"><text:s/>@internet </text:span>.</text:p>
+   <text:p text:style-name="Text_20_body">ro</text:p>
+   <text:h text:style-name="P7" text:outline-level="1">Poezii</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Autoportret</text:h>
+   <text:p text:style-name="P8">Lucian Blaga e mut ca o lebadă.<text:line-break/>În patria sa<text:line-break/>zăpada făpturii ţine loc de cuvânt.<text:line-break/>Sufletul lui e în căutare,<text:line-break/>în mută, seculară căutare,<text:line-break/>de totdeauna,<text:line-break/>şi până la cele din urmă hotare.<text:line-break/>El caută apa din care bea curcubeul.<text:line-break/>El caută apa<text:line-break/>din care curcubeul<text:line-break/>îşi bea frumseţea şi nefiinţa.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Lacrimile</text:h>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Când izgonit din cuibul veşniciei<text:line-break/>întâiul om<text:line-break/>trecea uimit şi-ngândurat pe codri ori pe câmpuri,<text:line-break/>îl chinuiau mustrându-l<text:line-break/>lumina, zarea, norii — şi din orice floare<text:line-break/>îl săgeta c-o amintire paradisul </text:span><text:span text:style-name="T5">—<text:line-break/></text:span><text:span text:style-name="T2">Şi omul cel dintâi, pribeagul, nu ştia să plângă.<text:line-break/>Odată istovit de-albastrul prea senin<text:line-break/>al primăverii,<text:line-break/></text:span><text:soft-page-break/><text:span text:style-name="T2">cu suflet de copil întâiul om<text:line-break/>căzu cu faţa-n pulberea pământului:<text:line-break/></text:span><text:span text:style-name="T7">„</text:span><text:span text:style-name="T2">Stăpâne, ia-mi vederea,<text:line-break/>ori dacă-ţi stă-n putinţă împăienjeneşte-mi ochii<text:line-break/>c-un giulgiu,<text:line-break/>să nu mai văd<text:line-break/>nici flori, nici cer, nici zâmbetele Evei şi nici nori,<text:line-break/>căci vezi — lumina lor mă doare</text:span><text:span text:style-name="T6">”</text:span><text:span text:style-name="T2">.<text:line-break/>Şi-atuncea Milostivul într-o clipă de-ndurare<text:line-break/>îi dete — lacrimile.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Vedenie dantescă</text:h>
+   <text:p text:style-name="lg"><text:span text:style-name="T2">Un cer senin de amplu iunie prin veac<text:line-break/></text:span>şi-a-nfiinţat azurul nefiinţei<text:line-break/>în cestălalt tărîm, al suferinţei,<text:line-break/>şi cată-n ceas a fi durerii mele – leac.<text:line-break/>Să uit că suntem robii negrei ere,<text:line-break/>să uit de jale, cazne, de tenebrele<text:line-break/>din inimă, de tot ce crunt în preajmă e -<text:line-break/>zboară doi fluturi, două giuvaiere,<text:line-break/>peste oraş purtaţi de-o adiere.<text:line-break/>Închis în ăst infern terestru de n-aş fi,<text:line-break/>îndrăgostiţii fluturi nu mi-ar aminti<text:line-break/>de alţii, de Francesca de la Rimini,<text:line-break/>de Paolo, cari au fost purtaţi şi ei cîndva<text:line-break/>de-un vînt prin iad, şi de-o beţie-asemenea.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Eu nu strivesc corola de minuni a lumii</text:h>
+   <text:p text:style-name="lg">Eu nu strivesc corola de minuni a lumiişi nu ucid<text:line-break/><text:line-break/><text:line-break/><text:soft-page-break/><text:line-break/><text:span text:style-name="T2">cu mintea tainele, ce le-ntâlnesc<text:line-break/>în calea mea<text:line-break/>în flori, în ochi, pe buze ori morminte.<text:line-break/>Lumina altora<text:line-break/>sugrumă vraja nepătrunsului ascuns<text:line-break/>în adâncimi de întuneric,<text:line-break/>dar eu,<text:line-break/>eu cu lumina mea sporesc a lumii taină -<text:line-break/>şi-ntocmai cum cu razele ei albe luna<text:line-break/>nu micşorează, ci tremurătoare<text:line-break/>măreşte şi mai tare taina nopţii,<text:line-break/>aşa înbogăţesc şi eu întunecata zare<text:line-break/>cu largi fiori de sfânt mister<text:line-break/>şi tot ce-i neînţeles<text:line-break/>se schimbă-n neînţelesuri şi mai mari<text:line-break/>sub ochii meicăci eu iubesc<text:line-break/>şi flori şi ochi şi buze şi morminte.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Stalactita </text:h>
+   <text:p text:style-name="lg">Tăcerea mi-este duhul -<text:line-break/>şi-ncremenit cum stau şi paşnic<text:line-break/>ca un ascet de piatră,<text:line-break/>îmi pare<text:line-break/>că sunt o stalactită într-o grotă uriaşă,<text:line-break/>în care cerul este bolta.<text:line-break/>Lin,<text:line-break/>lin,<text:line-break/>lin — picuri de lumină<text:line-break/>şi stropi de pace — cad necontenit<text:line-break/>din cer<text:line-break/>şi împietresc — în mine.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Mi-aştept amurgul</text:h>
+   <text:p text:style-name="lg">În bolta înstelată-mi scald privirea<text:line-break/>Şi ştiu că şi eu port în suflet<text:line-break/>Stele multe, multe,<text:line-break/>Şi căi lactee,<text:line-break/>Minunile întunericului,<text:line-break/>Dar nu le văd,<text:line-break/>Am prea mult soare-n mine<text:line-break/>De aceea nu le văd.<text:line-break/>Aştept să îmi apună ziua<text:line-break/>Şi zarea mea pleoapa să-şi închidă,<text:line-break/>Mi-aştept amurgul, noaptea şi durerea<text:line-break/>Şi să răsară-n mine stelele,<text:line-break/>Stelele mele<text:line-break/>Pe care încă niciodată<text:line-break/><text:span text:style-name="T2">Nu le-am văzut...</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">La cumpăna apelor</text:h>
+   <text:p text:style-name="P10">Tu eşti în vară, eu sunt în vară. În vară pornită<text:line-break/>către sfârşit, pe muche-amândoi la cumpăna apelor.<text:line-break/>Cu gând ducăuş – mângâi părul pământului.<text:line-break/>Ne-aplecăm peste stânci, subt albastrul neîmplinit.</text:p>
+   <text:p text:style-name="P10">Priveşte în jos! Priveşte-ndelung, dar să nu vorbim.<text:line-break/>S-ar putea întâmpla să ne tremure glasul.<text:line-break/>Din poarta-nălţimei şi până-n vale<text:line-break/>îmbătrâneşte, ah, cât de repede, apa. Şi ceasul.</text:p>
+   <text:p text:style-name="P10">E mult înapoi? Atâta e şi de-acum înainte<text:line-break/>cu toate că mult mai puţin o să pară.<text:line-break/>Ne-ascundem – stins arzând – după năluca de vară.<text:line-break/>Ne-nchidem inima după nespuse cuvinte.</text:p>
+   <text:p text:style-name="P10"><text:soft-page-break/>Poteca de-acum coboară ca fumul<text:line-break/>din jertfa ce nu s-a primit. De-aici luăm iarăşi drumul<text:line-break/>spre ţărna şi valea trădate-nmiit<text:line-break/><text:span text:style-name="T2">pentr-un cer chemător şi necucerit.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Iubire</text:h>
+   <text:p text:style-name="lg">Iubeşti <text:span text:style-name="T8">—</text:span> când ulciorul de-aramă<text:line-break/>se umple pe rând, de la sine<text:line-break/>aproape, de flori şi de toamnă,<text:line-break/>de foc, de-anotimpul din vine.<text:line-break/>Iubeşti — când suava icoană<text:line-break/>ce-ţi faci în durere prin veac<text:line-break/>o ţii înrămata ca-n rana<text:line-break/>stravechiului verde copac.<text:line-break/>Iubeşti <text:span text:style-name="T8">—</text:span> când sub timpuri prin sumbre<text:line-break/>vâltori, unde nu ajung sorii,<text:line-break/>te-avânţi să culegi printre umbre<text:line-break/>bălaiul surâs al comorii.<text:line-break/>Iubeşti — când simţiri se deşteaptă<text:line-break/>că-n lume doar inima este,<text:line-break/>că-n drumuri la capăt te-asteaptă<text:line-break/>nu moartea, ci altă poveste.<text:line-break/>Iubeşti — când întreaga faptură,<text:line-break/>cu schimbul, odihnă, furtună<text:line-break/>îţi este-n aceeaşi masură<text:line-break/>şi lavă pătrunsă de lună.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Dorul</text:h>
+   <text:p text:style-name="lg">Se<text:span text:style-name="T3">t</text:span>os <text:span text:style-name="T11">î</text:span>ţi beau mirasma şi-ţi cuprind obrajii<text:line-break/>cu palmele-amândouă, cum cuprinzi<text:line-break/>în suflet o minune.<text:line-break/><text:soft-page-break/>Ne arde-apropierea, ochi în ochi cum stăm.<text:line-break/>Şi totuşi tu-mi şopteşti: „Mi-aşa de dor de tine!<text:span text:style-name="T8">”</text:span><text:line-break/>Aşa de tainic tu mi-o spui şi dornic, parc-aş fi<text:line-break/>pribeag pe-un alt pământ.<text:line-break/>Femeie,<text:line-break/>ce mare porţi în inimă şi cine eşti?<text:line-break/>Mai cântă-mi înc-o dată dorul tău,<text:line-break/>să te ascult<text:line-break/>şi clipele să-mi pară nişte muguri plini,<text:line-break/>din care înfloresc aievea — veşnicii.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Flori de mac</text:h>
+   <text:p text:style-name="lg">În frunza de cucută amară<text:line-break/>îmi fluier bucuriile-şi-o neînţeleasă teamă<text:line-break/>de moarte mă pătrunde,<text:line-break/>cum vă privesc pe malul mării de secară,<text:line-break/>flori de mac.<text:line-break/>Aş vrea să vă cuprind,<text:line-break/>că, nu ştiu cum, petalele ce le purtaţi<text:line-break/>îmi par urzite<text:line-break/>din spuma roşie<text:line-break/>a unui cald şi-nflăcărat amurg de vară.<text:line-break/>Aş vrea să vă culeg în braţe<text:line-break/>feciorelnicul avânt,<text:line-break/>dar vi-e atât de fragedă podoabă,<text:line-break/>că nu-ndrăznesc,<text:line-break/>o, nici la pieptul gândurilor mele să vă strâng.<text:line-break/>Şi-aş vrea să vă strivesc,<text:line-break/>că sunteţi roşii, roşii<text:line-break/>cum nu au putut să fie pe pământ<text:line-break/>decât aprinşii, mari stropi de sânge ce-au căzut<text:line-break/>pe stânci<text:line-break/>şi pe nisip în Ghetsemani de pe fruntea lui Isus,<text:line-break/>când s-a-ngrozit de<text:line-break/><text:soft-page-break/>moarte.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">În marea trecere</text:h>
+   <text:p text:style-name="lg">Soarele-n zenit ţine cântarul zilei.<text:line-break/>Cerul se dăruieşte apelor de jos.<text:line-break/>Cu ochi cuminţi dobitoace în trecere<text:line-break/>îşi privesc fără de spaimă umbra în albii.<text:line-break/>Frunzare se boltesc adânci<text:line-break/>peste o-ntreagă poveste.<text:line-break/>Nimic nu vrea să fie altfel decât este.<text:line-break/>Numai sângele meu strigă prin păduri<text:line-break/>după îndepărtata-i copilărie,<text:line-break/>ca un cerb bătrân<text:line-break/>după ciuta lui pierdută în moarte.<text:line-break/>Poate a pierit subt stânci.<text:line-break/>Poate s-a cufundat în pământ.<text:line-break/>În zadar i-aştept veştile,<text:line-break/>numai peşteri răsună,<text:line-break/>pâraie se cer în adânc.<text:line-break/>Sânge fără răspuns,<text:line-break/>o, de-ar fi linişte, cât de bine s-ar auzi<text:line-break/>ciuta călcând prin moarte.<text:line-break/>Tot mai departe sovăi pe drum -<text:line-break/>şi, ca un ucigaş ce-astupă cu năframă<text:line-break/>o gură învinsă,<text:line-break/>închid cu pumnul toate izvoarele,<text:line-break/>pentru totdeauna să tacă,<text:line-break/>să tacă.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">În noapte undeva mai e</text:h>
+   <text:p text:style-name="lg">În noapte undeva mai e<text:line-break/><text:soft-page-break/>tot ce-a fost şi nu mai e,<text:line-break/>ce s-a mutat, ce s-a pierdut<text:line-break/>din timpul viu în timpul mut.<text:line-break/>În Hades e <text:span text:style-name="T8">—</text:span> tot ce-a trecut<text:line-break/>Din aheronticul ţinut<text:line-break/>vin toate amintirile.<text:line-break/>În Hades e <text:span text:style-name="T8">—</text:span><text:span text:style-name="T9"> </text:span><text:s/>tot ce-a trecut<text:line-break/>prierii şi iubirile.<text:line-break/>Cântăreţi bolnavi<text:line-break/>Purtăm fără lacrimi<text:line-break/>o boală în strune<text:line-break/>şi mergem de-a pururi<text:line-break/>spre soare-apune.<text:line-break/>Ni-e sufletul spadă<text:line-break/>de foc stinsă-n teacă.<text:line-break/>Ah iarăşi şi iarăşi<text:line-break/>cuvintele seacă.<text:line-break/>Vânt veşnic răsună<text:line-break/>prin ceţini de zadă.<text:line-break/>Purces-am în lume<text:line-break/>pe punţi de baladă.<text:line-break/>Străbatem amurguri<text:line-break/>cu crini albi în gură.<text:line-break/>Închidem în noi un<text:line-break/>sfârşit sub armură.<text:line-break/>Purtăm fără lacrimi<text:line-break/>o boală în strune<text:line-break/>şi mergem de-a pururi<text:line-break/>spre soare-apune.<text:line-break/>Răni ducem <text:span text:style-name="T8">—</text:span> izvoare <text:span text:style-name="T8">—</text:span><text:line-break/>deschise subt haină.<text:line-break/>Sporim nesfârşirea<text:line-break/>c-un cântec, c-o taină.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Fiu al faptei nu sunt</text:h>
+   <text:p text:style-name="lg">Fără de număr sunteţi fii ai faptei<text:line-break/>pretutindeni pe drumuri, subt cer şi prin case.<text:line-break/>Numai eu stau aici fără folos, nemernic,<text:line-break/>bun doar de-nnecat în ape.<text:line-break/>Totuşi aştept, de mult tot aştept<text:line-break/>vreun trecător atotbun şi-atotdrept ca să-i spun:<text:line-break/>O, nu-ţi întoarce privirea,<text:line-break/>O, nu-mi osândi nemişcarea.<text:line-break/>Cresc între voi, ci umbrit de mâinile mele<text:line-break/>misticul rod se rotunjeşte în altă parte.<text:line-break/>Nu mă blestemaţi, nu mă blestemaţi!<text:line-break/>Prieten al adâncului,<text:line-break/>tovarăş al liniştei,<text:line-break/>joc peste fapte.<text:line-break/>Câteodată prin fluier de os strămoşesc<text:line-break/>mă trimit în chip de cântec spre moarte.<text:line-break/>Întrebător fratele mă priveşte,<text:line-break/>mirată mă-ntâmpină sora,<text:line-break/>dar încolăcit la picioarele mele<text:line-break/>m-ascultă şi mă pricepe prea bine<text:line-break/>şarpele cel cu ochii de-a pururi deschişi<text:line-break/>spre-nţelepciunea de dincolo.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Întrebări către o stea</text:h>
+   <text:p text:style-name="P11">Stea care subt carul cel mare abia licăreşti<text:line-break/>nedumerită-ntre şapte lumini, a cui stea eşti?<text:line-break/><text:span text:style-name="T2">Eşti steaua lui Verde-mpărat – duhul nemântuit?<text:line-break/>Ce sărbătoare scuteşti? Ce ceas împlinit?<text:line-break/>Aperi un mare mormânt, sau vreo apă vindecătoare?<text:line-break/>Păzeşti un norod, o cetate, sau numai o floare?<text:line-break/>Peste ce suflet, peste ce sfinte recolte<text:line-break/>veghezi mistuită subt vinete bolte?<text:line-break/></text:span><text:soft-page-break/><text:span text:style-name="T2">De eşti a mea, păzindu-mi anul şi vatra,<text:line-break/>n-aruncă nimenea după tine cu piatra?</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Lumina</text:h>
+   <text:p text:style-name="lg">Lumina ce-o simt<text:line-break/>năvălindu-mi în piept când te văd,<text:line-break/>oare nu e un strop din lumina<text:line-break/>creată în ziua dintâi<text:line-break/>din lumina aceea-nsetată adânc de<text:line-break/>vieaţă?<text:line-break/>Nimicul zăcea-n agonie<text:line-break/>când singur plutea-n întuneric şi dat-a<text:line-break/>un semn Nepătrunsul.<text:line-break/><text:span text:style-name="T5">„</text:span><text:span text:style-name="T2">Să fie lumină!</text:span><text:span text:style-name="T5">”<text:line-break/></text:span><text:span text:style-name="T2">O mare<text:line-break/>şi-un vifor nebun de lumină<text:line-break/>făcutu-s-a-n clipă:<text:line-break/>o sete era de păcate, de doruri<text:line-break/>de-avânturi, de patimi,<text:line-break/>o sete de lume şi soare.<text:line-break/>Dar unde-a pierit orbitoarea<text:line-break/>lumină de-atunci-cine ştie?<text:line-break/>Lumina ce-o simt năvălindu-mi<text:line-break/>în piept când te văd-minunato,<text:line-break/>e poate că ultimul strop<text:line-break/>din lumina creată în ziua dintâi.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Linişte</text:h>
+   <text:p text:style-name="lg"><text:span text:style-name="T2">Atâta linişte-i în jur de-mi pare că aud<text:line-break/>cum se izbesc de geamuri razele de lună.<text:line-break/></text:span>În piept<text:line-break/><text:soft-page-break/>mi s-a trezit un glas străin<text:line-break/>şi-un cântec cânta-n mine-un dor<text:line-break/>ce nu-i al meu.<text:line-break/>Se spune că strămoşii cari au murit fără de vreme,<text:line-break/>cu sânge tânăr înca-n vine,<text:line-break/>cu patimi mari în sânge,<text:line-break/>cu soare viu în patimi,<text:line-break/>vin,<text:line-break/>vin sa-şi trăiasca mai departe<text:line-break/>în noi<text:line-break/>viaţa netrăita.<text:line-break/>Atâta linişte-i în jur de-mi pare că aud<text:line-break/>cum se izbesc de geamuri razele de lună.<text:line-break/>O, cine ştie — suflete,-n ce piept îţi vei cânta<text:line-break/>şi tu odată peste veacuri<text:line-break/>pe coarde dulci de linişte,<text:line-break/>pe harfă de-ntuneric — dorul sugrumat<text:line-break/>şi frânta bucurie de viaţă? Cine ştie?<text:line-break/>Cine ştie?</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Pentru trandafirul din scaunul împărătesc</text:h>
+   <text:p text:style-name="lg">Roz trandafir, frumseţea ta<text:line-break/>nu m-a cruţat. Din drum m-abat<text:line-break/>şi mă răsfir, când zmeu — când stea -<text:line-break/>prin ziua şi prin soarta ta.<text:line-break/>Roz trandafir, care te-nalţi<text:line-break/>suprafiresc la albe curţi<text:line-break/>din scaunul împărătesc,<text:line-break/>pe lespede în faţa ta<text:line-break/>şi gândul ar îngenunchea.<text:line-break/>Sau poate că tu nici nu eşti?<text:line-break/>Vezi — sufletul mi-e-n cumpănă.<text:line-break/>O, dac-aş şti, aş căuta,<text:line-break/>o, dac-aş şti că fiinţă n-ai,<text:line-break/><text:soft-page-break/>aş căuta să-mi înfloreşti<text:line-break/>aievea-ntruchipându-te,<text:line-break/>să nu-mi adii ca din poveşti<text:line-break/>sau din închipuiri de rai.<text:line-break/>Zmeu tulbure şi amăgit -<text:line-break/>eu mi-aş stârni grădinile,<text:line-break/>trimite-mi-aş albinele -<text:line-break/>din ceara răsăritului<text:line-break/>cu foi, pleoape, ghimpi pe fir,<text:line-break/>să te clădească trandafir<text:line-break/>de la nămiezi la asfinţit.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântec pentru anul 2000</text:h>
+   <text:p text:style-name="lg">Vulturul ce roteşte sus<text:line-break/>va fi atunci de mult apus.<text:line-break/>Lângă Sibiu, lângă Sibiu, prin lunci<text:line-break/>numai stejarii vor mai fi şi atunci.<text:line-break/>Mai aminţi-mă-va un trecător<text:line-break/>vreunui străin, sub ceasul lor?<text:line-break/>Nu cred să mă vestească cineva<text:line-break/>căci basmul ar începe-aşa:<text:line-break/>Pe-aici umbla şi el şi se-ntorcea mereu,<text:line-break/>contimporan cu fluturii, cu Dumnezeu. </text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Extaz</text:h>
+   <text:p text:style-name="lg">O oră între-abis şi umbre<text:line-break/>la răscruci de veac şi teamă,<text:line-break/>o oră prelungită-n slavă<text:line-break/>mi te-a dat, ca-n vis, în seamă.<text:line-break/>Promisă tu, în dar luată,<text:line-break/>fii ureche şi ascultă:<text:line-break/><text:soft-page-break/>puternic vine foc din tine,<text:line-break/>freamăt nou şi sete multă.<text:line-break/>Ah, bucură-te şi veghează,<text:line-break/>tu, edenică-ntrupare!<text:line-break/>Vrăjit un munte în amiază<text:line-break/>se apropie de-o floare.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Vei plânge mult ori vei zâmbi?</text:h>
+   <text:p text:style-name="lg">Eu<text:line-break/>nu mă căiesc,<text:line-break/>c-am adunat în suflet şi noroidar mă gândesc la tine.<text:line-break/>Cu gheare de lumină<text:line-break/>o dimineaţă-ţi va ucide-odată visul,<text:line-break/>că sufletul mi-aşa curat,<text:line-break/>cum gândul tău il vrea,<text:line-break/>cum inima iubirii tale-l crede.<text:line-break/>Vei plânge mult atunci ori vei ierta?<text:line-break/>Vei plânge mult ori vei zâmbi<text:line-break/>de razele acelei dimineţi,<text:line-break/>în care eu ţi-oi zice fără umbră de căinţă:<text:line-break/>“Nu ştii, ca numa-n lacuri cu noroi în fund cresc nuferi?”</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Caut nume</text:h>
+   <text:p text:style-name="lg">Caut nume — fie-o mie -<text:line-break/>să-ţi arăt ce-mi eşti tu mie.<text:line-break/>Noaptea-mi eşti, când dormi în casă,<text:line-break/>inul lunii şi mătasă.<text:line-break/>Ziua, pentru alte feţe<text:line-break/>caut grai, să te răsfeţe.<text:line-break/>La alegerea de nume<text:line-break/>las mireasma să mă-ndrume<text:line-break/><text:soft-page-break/>şi aroma ce te-ngână<text:line-break/>anu-ntreg şi-o săptămână.<text:line-break/>Nume dulci şi nume-amare,<text:line-break/>mulcome sau sunătoare,<text:line-break/>le culeg din ceas, din cale,<text:line-break/>nume multe cum sunt ale<text:line-break/>florilor, suratelor:<text:line-break/>arderea păcatelor,<text:line-break/>mângâierea apelor,<text:line-break/>slava nestematelor,<text:line-break/>suferinţa zorilor,<text:line-break/>iureşul culorilor,<text:line-break/>bucuria sfântului,<text:line-break/>lamura pământului.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Primăvară</text:h>
+   <text:p text:style-name="lg">A cunoaşte. A iubi<text:line-break/>Înc-o dată, iar şi iară<text:line-break/>a cunoaşte-nseamnă iarnă<text:line-break/>a iubi e primăvară.<text:line-break/>A iubi — aceasta vine<text:line-break/>tare de departe-n mine.<text:line-break/>A iubi — aceasta vine<text:line-break/>tare de departe-n tine. <text:line-break/>A cunoaşte. A iubi.<text:line-break/>Care-i drumul? Ce te-ndeamnă?<text:line-break/>A cunoaşte — ce înseamnă?<text:line-break/>A iubi — de ce ţi-e teamă?<text:line-break/>printre flori şi-n mare iarbă?<text:line-break/>Printre flori şi-n mare iarbă,<text:line-break/>patimă fără păcate<text:line-break/>ne răstoarnă-n infinit,<text:line-break/>cu rumoare şi ardoare<text:line-break/>de albine re-ncarnate.<text:line-break/><text:soft-page-break/>Înc-odată, iar şi iară,<text:line-break/>a iubi e primavară.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Din părul tău</text:h>
+   <text:p text:style-name="lg">Înţelepciunea unui mag mi-a povestit odată<text:line-break/>de-un val prin care nu putem străbate cu privirea,<text:line-break/>păienjeniş ce-ascunde pretutindeni firea,<text:line-break/>de nu vedem nimic din ce-i aievea.<text:line-break/>Şi-acum, când tu-mi îneci obrajii, ochii<text:line-break/>în părul tău,<text:line-break/>eu, ameţit de valurile-i negre şi bogate<text:line-break/>visez<text:line-break/>ca valul ce preface-n mister<text:line-break/>tot largul lumii e urzit<text:line-break/>din părul tău <text:span text:style-name="T8">—</text:span><text:line-break/>şi strig,<text:line-break/>şi strig,<text:line-break/>şi-ntâia oară simt<text:line-break/>întreaga vrajă ce-a cuprins-o magul în povestea lui.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Trei feţe</text:h>
+   <text:p text:style-name="lg">Copilul râde:<text:line-break/><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T1">„</text:span>Înţelepciunea şi iubirea mea e jocul<text:span text:style-name="T1">”</text:span>.<text:line-break/>Tânărul cântă:<text:line-break/><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T1">„</text:span>Jocul şi înţelepciunea mea e iubirea<text:span text:style-name="T1">”</text:span>.<text:line-break/>Bătrânul tace:<text:line-break/><text:span text:style-name="T10"><text:tab/></text:span><text:span text:style-name="T1">„</text:span>Iubirea şi jocul meu e înţelepciunea<text:span text:style-name="T1">”</text:span>.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Izvorul nopţii</text:h>
+   <text:p text:style-name="lg">Frumoaso,<text:line-break/>ţi-s ochii-aşa de negrii încât seara<text:line-break/>când stau culcat cu capu-n poala ta<text:line-break/>îmi pare,<text:line-break/>că ochii tăi, adânci, sunt izvorul<text:line-break/>din care tainic curge noaptea peste văi,<text:line-break/>şi peste munţi şi peste şesuri,<text:line-break/>acoperind pământul c-o mare de-ntuneric.<text:line-break/>Aşa-s de negri ochii tăi,<text:line-break/>lumina mea.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântecul focului</text:h>
+   <text:p text:style-name="lg">În fabula verde şi calda-a naturii<text:line-break/>tu crengi ai, iubito, nu braţe,<text:line-break/>şi muguri îmbii, cu mlăditele prinzi.<text:line-break/>Descânzi dintr-un basm vegetal, al răsurii?<text:line-break/>Ia seamă să nu te aprinzi<text:line-break/>cum se-ntâmplă adesea cu lemnul pădurii.<text:line-break/>În chipuri atâtea, flacăra-ntâmpină pasul<text:line-break/>oricarei fapturi pământene,<text:line-break/>şi drumul i-atine şi ceasul.<text:line-break/>Îmi spui:<text:line-break/>&quot;Nimic nu s-aprinde, şi nimeni, de raza de luna&quot;.<text:line-break/>Şi-n galeş surâs înfloreşti mulţumita, crezând<text:line-break/>că sorţii îi stai împotrivă, oricând,<text:line-break/>c-o <text:span text:style-name="T4">șă</text:span>galnică vorb<text:span text:style-name="T4">ă</text:span>.<text:line-break/>Îngădui răspuns înălţat peste timp, peste loc?<text:line-break/>Fapte, o, câte-aş putea înşira,<text:line-break/>ciudate-ntâmplari risipite prin cronici,<text:line-break/>marturii de legendă, ce-arată<text:line-break/>că sunt cu putinţa şi un asemenea foc,<text:line-break/>şi asemenea arderi.<text:line-break/><text:soft-page-break/>Ia totul scânteie din toate. Tâmpla s-aprinde<text:line-break/>de tâmpla, şi piatra de piatră.<text:line-break/>O stea nevăzută ia foc în cădere, din gerul<text:line-break/>văzduhului. Arde-n armură, sub zea cavalerul,<text:line-break/>femeie învinsă, minune fără vesminte, strângând<text:line-break/>lânga vatra,<text:line-break/>Şi-aprind licurici, ei însuşi, din dragoste rugul.<text:line-break/>Iubirea tâsneşte din ţarâna şi face pământului aură<text:line-break/>s-ajungă-n ţării, s-acopere crugul. <text:line-break/>Rareori numai, sfârţitul nu e cenuţă.<text:line-break/>Cât e întinsul şi-naltul luminii,<text:line-break/>dumnezeu singur arde suav câteodată prin tufe<text:line-break/>fără de-a mistui. El crută şi mângâie spinii.<text:line-break/>Altfel noi ardem, iubito. Altfel ne este ardoarea.<text:line-break/>Cât e întinsul, cât e înaltul,<text:line-break/>noi ardem şi nu ne iertam,<text:line-break/>noi ardem, ah, cu cruzime-n văpăi<text:line-break/>mistuindu-ne unul pe altul.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Lacrimile tale</text:h>
+   <text:p text:style-name="lg">Din plâns pustiu şi din dureri ţi se desprind<text:line-break/>Fermecătoare visuri,<text:line-break/>Cu cari încerci să umpli golul lumii tale...<text:line-break/>Cu mintea mea-nţelegătoare văd<text:line-break/>Căci lacrimile tale,<text:line-break/>Fecioară, nu-s ca alte lacrimi -<text:line-break/>Sunt picuri<text:line-break/>Din — apa morţilor:<text:line-break/>Din apele acelea care apar ca din nimic<text:line-break/>Pe şesuri,<text:line-break/>Vrăjind în mijlocul pustiului<text:line-break/>Minunea unei alte lumi...</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Ardere</text:h>
+   <text:p text:style-name="lg">Fiinţă tu — găsi-voi cândva cuvenitul<text:line-break/>sunet de-argint, de foc, şi ritul<text:line-break/>unei rostiri egale<text:line-break/>în veci arderii tale?<text:line-break/>Al seminţiei mele cel din urmă sunt.<text:line-break/>Pumn de lumină — tu, pumn de pământ. Tu rodie,<text:line-break/>tu floare mie, cu puteri de zodie,<text:line-break/>unde şi când găsi-voi singurul cuvânt<text:line-break/>în cercul nopţii să te-ncânt?<text:line-break/>Nepriceput pe lângă vetre<text:line-break/>dar înţeles de zei şi pietre,<text:line-break/>cavântul unde-i — ca un nimb<text:line-break/>să te ridice peste timp?<text:line-break/>Cuvântul unde-i — care leagă<text:line-break/>de nimicire pas şi gând?<text:line-break/>Mă-ncredinţez acestui an, tu floare mie,<text:line-break/>ca să sfârşesc arzând.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântec în doi</text:h>
+   <text:p text:style-name="lg">Şi vine toamna iar&apos;<text:line-break/>ca dup-un psalm aminul.<text:line-break/>Doi suntem gata să gustăm<text:line-break/>cu miere-amestecat veninul.<text:line-break/>Doi suntem gata s-ajutăm<text:line-break/>brinduşile ardorii<text:line-break/>să înflorească iar&apos; în noi<text:line-break/>şi-n toamna-aceasta de apoi.<text:line-break/>Doi suntem, când cu umbra lor<text:line-break/>ne împresoară-n lume norii.<text:line-break/>Ce gânduri are soarele cu noi –<text:line-break/>nu stim, dar suntem doi.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Fata morgana</text:h>
+   <text:p text:style-name="lg">Pustiul:<text:line-break/>Bolnav, de fierbinţeli îi arde fruntea<text:line-break/>Şi trecătoare<text:line-break/>Vedenii îi apar în creierii de nisip...<text:line-break/>Pustiul larg se zbate şi visează...<text:line-break/>Visează-o altă lume<text:line-break/>Mai bună<text:line-break/>Vizionarul sterp... </text:p>
+  </office:text>
+ </office:body>
+</office:document>

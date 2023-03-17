@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>El duque de Alba</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>Manuel José Quintana</meta:initial-creator>
+    
+    <meta:creation-date>2022-09-10T10:26:40Z</meta:creation-date>
+    <dc:date>2022-11-04T04:05:39.137326712</dc:date>
+    
+    
+    
+  <meta:editing-duration>PT2M29S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="24" meta:paragraph-count="53" meta:word-count="13007" meta:character-count="75452" meta:non-whitespace-character-count="62497"/><meta:user-defined meta:name="date"/><meta:user-defined meta:name="language">es</meta:user-defined><meta:user-defined meta:name="publisher">www.elejandria.com</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">38336</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23188</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16166</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6435</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">41591</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">38336</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">23186</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">54501</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1616281</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;, Times, serif"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman1" fo:font-size="12.75pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman1" fo:font-size="12.75pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0000ff" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Times New Roman1" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent" loext:char-shading-value="0"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">24</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">El duque de Alba</text:p>
+   <text:p text:style-name="Author">Manuel José Quintana</text:p>
+   <text:p text:style-name="Date">2021-01-082021-01-08</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">El duque de Alba</text:h>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P4">La casa de Alba, una de las más preeminentes de Castilla, se hallaba á principios del siglo XVI en su más alto acrecentamiento, debido en parte á recompensas dadas por los Reyes en premio de sus señalados servicios, y en parte tambien á adquisiciones granjeadas con el mayor acierto y diligencia por sus poseedores inmediatos. Hallábase entónces á la cabeza de ella D. Fadrique de Toledo, segundo Duque de Alba, el primero de los próceres del Estado en dignidad y en influjo, áun cuando no lo fuese en riquezas ni en poder. Él habia sido uno de los generales más acreditados en la conquista de Granada (1492); él mandó despues las armas españolas en el Rosellon (1503), cuando se hizo levantar el sitio de Rosas á los franceses; él, en fin, ganó para Castilla el Reino de Navarra (1512), y le defendió contra las tentativas que los enemigos hicieron para recuperar tan rica adquisicion. Á estos importantes servicios en la guerra añadió en la paz otros no ménos sobresalientes, y quizá más aceptos al Rey Católico, cuya confianza, aunque tan difícil de ganar, habia sabido granjearse. Porque como despues de fallecida la Reina Doña Isabel los Grandes de Castilla se dividiesen en opiniones sobre la gobernacion del Reino, y los más siguiesen el partido del Rey Don Felipe, el Duque de Alba se mantuvo sólo de parte del Rey de Aragon, y siguiéndole en aquella poco decorosa retirada con que salia de Castilla, ofreciéndole su persona y queriendo acompañarle hasta Nápoles, supo dar á entender que valian más con él los respetos de su amistad antigua y de su agradecimiento al prudente y anciano Monarca, que las esperanzas fundadas por otros en un Príncipe inexperto y jóven, y en una córte nueva. No le permitió el Rey que le acompañase á Italia, ántes bien le persuadió que debia volverse á Castilla donde su presencia le seria más útil para la conservacion de sus respetos y defensa de sus intereses. Él lo hizo así; y si bien en los principios tuvo que sufrir los desaires y temer las consecuencias de su adhesion á un partido que se creia arruinado para siempre, la imprevista y temprana muerte del Rey de Castilla volvió á restablecer las cosas en el estado que ántes tenian. El Duque, contribuyendo muy principalmente á la restauracion y vuelta del Rey Católico al Reino, se halló de nuevo en la cima del poder y en el lleno del influjo, sin que tan favorable mudanza <text:soft-page-break/>de la fortuna le hiciera más arrogante ó más soberbio que ántes le habia abatido el vuelco dado en su daño.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Esta entereza y gravedad de ánimo fueron, por desgracia, puestas despues á mayor prueba. Su hijo primogénito y heredero, D. García, deseoso de entrar y señalarse en la carrera que habia dado tanta gloria á sus progenitores, solicitó y consiguió ser nombrado para acompañar al Conde Pedro Navarro en la guerra que se hacia entónces en la costa de África á los moros. Acababa el Conde de ganarles á Trípoli y Bugía, y se disponia á atacar la isla de los Gelbes, creida fácil presa de sus armas vencedoras. Entónces fué cuando se le unió D. García de Toledo con quince navíos y más de cuatro mil hombres, con los cuales se acrecentó sobremanera el ánimo del ejército, y dieron al instante la vela para los Gelbes. Desembarcaron sin resistencia en uno de los últimos dias de Agosto (1510), ordenándose la gente en escuadrones luego que desembarcaba, y marchando por los arenales á buscar á los enemigos. Ninguno de ellos parecia: el sol, la hora, la arena, y la misma confianza y descuido peleaban contra los españoles. Sedientos y abrasados, pudiendo apenas marchar con la fatiga, cayendo algunos sofocados, y empezados á desordenar los más, atravesaron los arenales contíguos á la playa, despues unos palmares, y entrando por los olivares espaciosos que estaban más adelante descubrieron unos pozos de agua cerca de algunas ruinas antiguas. Á ellos se arrojaron con la impaciencia y la irritacion rabiosa de la sed que les encendia, desordenándose del todo, y áun peleando unos con otros por quién habia de beber primero. Tal era el punto que aguardaban los sagaces africanos que salieron de improviso de entre las ruinas con grandes alaridos y comenzaron á alancearlos á todo su placer. Iba en la vanguardia D. García, que habia querido en aquella primera prueba de sus armas tener el puesto de mayor peligro. Viendo el desconcierto de los suyos, comenzó con voces y ademanes á llamarlos y darles ánimo; pero faltábale pericia y experiencia para contenerlos y volverlos á ordenar</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">1</text:span></text:a><text:span text:style-name="T2">. Ellos huian, y él, tomando el partido que le aconsejaban su nobleza y valor, se apeó del caballo, y cogiendo del suelo una pica cargó con tal denuedo á los moros, acompañado de algunos pocos españoles, que les hizo arredrar gran trecho. Mas este valiente arrojo no bastó, ni á contener á los fugitivos, ni á restablecer el combate: los bárbaros revolvieron con doblada furia sobre aquellos pocos valientes, y los hicieron pedazos, entre ellos á D. García, que se les defendió como un leon, hiriendo y matando á muchos de ellos ántes de caer. Tenia entónces 23 años, y su muerte fué lo que más se sintió en aquel revés que llenó de luto á Castilla</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">2</text:span></text:a><text:span text:style-name="T2">. Cuando el Duque de Alba entreoyó la fatal nueva, sin preguntar por la vida de su hijo y cuidando sólo de su honra, dijo: </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">¿Y García, qué hizo en ese estrago?</text:span></text:span><text:span text:style-name="T2"> </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">-¡Oh, señor!</text:span></text:span><text:span text:style-name="T2"> respondió hábilmente el mensajero: </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">¿Y en dónde estuviera el honor de España, si el señor Don García ántes de morir no hubiera hecho con su pica y espada un monton de moros sobre los cuales cayó? -¡Oh buen hijo!</text:span></text:span><text:span text:style-name="T2"> exclamó entónces el Duque; y el dolor paternal cedió por un momento en su corazon al entusiasmo de la honra y de la patria</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">3</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Quedábale un consuelo en su nieto D. Fernando, de cuya vida vamos á tratar, hijo del malogrado Don García y de Doña Beatriz Pimentel. Era nacido en Piedrahita tres años ántes de esta catástrofe, en 1507</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">4</text:span></text:a><text:span text:style-name="T2">. Su índole, su forma, sus dichos y sus juegos daban ya á conocer lo que habia de ser despues. El venerable abuelo, que consideraba cifradas en él la </text:span><text:soft-page-break/><text:span text:style-name="T2">gloria y esperanzas de su casa, tomó el mayor empeño en darle la mejor educacion, llevando por máxima en ella que ni por sobrado estudiosa fuese afeminada, ni por ajena de las letras enteramente ruda. Dióle por ayo al célebre Boscan, tan sonado en los fastos de nuestra poesía por la parte que tuvo en la introduccion de los ritmos italianos, pero más señalado todavía entre sus contemporáneos como un dechado de virtud igualmente que de cortesanía y discrecion. Pensó tal vez para maestro en Luis Vives, príncipe á la sazon de nuestros filósofos y humanistas</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">5</text:span></text:a><text:span text:style-name="T2">; pero ésto, ó por manejo de los religiosos dominicos, que tenian mucha mano con el Duque, ó porque Vives no se prestase á ello, no llegó á verificarse, sin embargo que por dos veces hubo de hacerse eleccion para este encargo. El primer preceptor que tuvo D. Fernando fué un dominicano mesinés llamado Fr. Bernardo Gentil, diestro humanista, buen poeta latino, mencionado con aprecio en los escritos de Marinéo Sículo y de Antonio de Lebrija. Este religioso se encargó de enseñar al jóven D. Fernando la lengua latina, las humanidades y la historia. Mas no debió durar mucho tiempo en tal comision, porque fué sucedido en ella por un monje benedictino, siciliano y poeta latino tambien, que se llamaba el P. Severo. Garcilaso, que no habla de Gentil, habla con mucho aprecio de Severo; el cual obtuvo despues el encargo de escribir la </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">Historia de España</text:span></text:span><text:span text:style-name="T2">, por muerte de Lebrija, disposicion que no llevaron muy á bien nuestros humanistas de aquel tiempo</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">6</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P4">Con estos dos preceptores aprendió prontamente Don Fernando la lengua latina, y adquirió en las letras y en las nobles artes aquella aficion sana é ilustrada que para la magnificencia y la elegancia sienta tan bien á un político y á un guerrero. Pero los elementos del arte militar, el amor á la gloria y al servicio del Estado, que en D. Fadrique se identificaron siempre con el servicio del Príncipe, quiso el Duque enseñárselos á su nieto por sí mismo. En esta parte el ardor y los progresos del alumno se anticipaban á las esperanzas y áun á los deseos del maestro. Porque su índole, su presencia, sus dichos y sus ademanes mostraban, áun desde la niñez primera, lo que habria de ser despues. Sus conversaciones no eran más que de guerra; sus juegos batallas campales simuladas con los otros niños de su edad y su mayor placer oir empresas, hazañas, peligros y combates. Contemplaba con una curiosidad ansiosa y manoseaba las armas ántes de poderlas vestir, y trotaba y subia en los caballos ántes de tener peso para montarlos, ni fuerza ni arte para dirigirlos. Ya grandezuelo, y viendo que á pesar de sus ruegos y áun de su llanto no le permitia su abuelo el Duque ir á la guerra que á la sazon se hacia en Castilla por la discordia civil de las Comunidades, quiso aprovechar el latin que habia aprendido y dióse á leer á Vegecio y á estudiar en él aquella institucion militar con la cual el pueblo romano, superior en armas á todos los demás, supo enseñorearse del mundo. Deleitábase mucho en esta lectura, y empezaba ya á formarse en él aquel espíritu de combinacion y de espera que constituye la parte más alta y noble de la profesion militar, que da más al arte y pericia que al arrojo, y no deja á la fortuna nada de lo que puede asegurar ventajosamente la prudencia.</text:p>
+   <text:p text:style-name="P4">Habia, sin embargo, en él la lozanía de la edad: tenia ya diez y seis años; la guerra se hacia entre franceses y españoles en las fronteras de Navarra, y su abuelo no le permitia todavía entrar en el servicio, en consideracion á sus tiernos años, poco oportunos aún para las fatigas guerreras. Pero él, impaciente, escuchando el consejo de sólo su bizarría, comete <text:soft-page-break/>entónces una travesura que en otros suele ser sólo por aturdimiento ó por amores, y seguido de unos pocos asistentes á quienes confió su secreto, marcha á largas jornadas y se presenta de improviso en el campo castellano que sitiaba á Fuenterrabía, de que se habian apoderado los franceses en la campaña anterior. Mandaba allí las armas españolas el Condestable D. Íñigo de Velasco, tenido entónces por el mayor hombre de guerra que habia en Castilla. Recibió al jóven voluntario con el honor y agasajo que se debian á su familia y á sus buenos deseos; dió aviso al instante al cuidadoso abuelo del paradero de su nieto; hizo que le perdonase la travesura, y le tuvo en su compañía con el afecto de padre y con la estimacion de amigo. Deseaba D. Fernando señalarse, y ansioso de reputacion se exponia en todas las ocasiones como el último de los soldados. El Condestable, atento á que no se desgraciase y no queriendo que la fortuna privara al viejo Duque de aquel consuelo de su vejez, le prohibió rigurosamente que saliese á pelear sin órden suya y le mandó estar siempre cerca de su persona. Privado de pelear, no podian estorbarle á lo ménos el anhelo de aprender: dióse, pues, á estudiar todo el mecanismo del servicio y las reglas y secretos de la disciplina militar, con el mismo ardor y teson que si se tratase de combatir. Y cierto que no podia hacer este aprendizaje en mejor ocasion ni con mejor guia, puesto que el Condestable era un insigne maestro de milicia. Seguíale á todas partes, meditaba todas sus órdenes y disposiciones, escuchaba todas sus palabras. Era entónces invierno, y asperísimo de nieves y de frios. Los soldados, fatigados con el trabajo y yertos con el rigor de la estacion, se manifestaban á veces tardos y torpes en las fatigas que exigian las tareas del sitio: ayudaba á su desaliento la tierra, que endurecida con el hielo no se dejaba romper ni manejar. El Condestable entónces solía coger el azadón y empezaba a herir el suelo y hacer el oficio de gastador: imitable en ese trabajo D. Fernando, y el General solía decir, viendo a los perezosos, que si no se avergonzaban de poder menos que un viejo y un muchacho; con lo cual estimulados volvían al trabajo con nuevo ardor y más firme constancia. Aladease a estas prendas de aplicación y de valor la facilidad festiva de su trato, con que se hacia querer de oficiales y soldados; la modestia de su porte en su persona y en sus equipajes; una liberalidad sin límites para asistir a heridos y a menesterosos, y por último, la más laudable y franca sinceridad en aplaudir y recomendar toda acción valiente y virtuosa. Pero en medio de esta amable conducta, que decía tan bien con su juventud y su estado, empezaban ya a manifestarse en él otras prendas menos populares y gratas: sobrada gravedad, tesón incontrastable, excesivo desagrado contra cualquiera falta de disciplina, ahínco poco generoso en promover su castigo. Dirías que ya se presentaba desde entonces lo que se hacia de llamar después la severidad inflexible del Duque de Alba.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Rindióse, en fin, por capitulacion Fuenterrabía y se hizo la entrega formal de ella al ejército español en fines de Setiembre del mismo año de 1524</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">7</text:span></text:a><text:span text:style-name="T2">. El Condestable, manifestando lo mucho que estimaba los servicios de D. Fernando y el grande concepto en que le tenia, le encargó el mando de la plaza cuando se retiró de ella llamado de Cárlos V; y aunque jóven aquel de 17 años, no fué juzgado inferior a una comision de tanta confianza. Mas no duró mucho en ella. Los negocios domésticos le llamaron al lado del Duque, quien tal vez trataba entónces de darle estado para asegurar la sucesion de la casa y templar algun tanto con nuevas obligaciones aquella impetuosidad juvenil. En efecto, D. Fernando se casó en </text:span><text:soft-page-break/><text:span text:style-name="T2">1529 con su prima Doña María Enriquez, hija del Conde de Alba de Liste</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">8</text:span></text:a><text:span text:style-name="T2">, dama de la primera nobleza, de superior hermosura, y que realzaba tan altas dotes con los dones de bondad, virtud y discrecion que en ella resplandecian. Establecido así su nieto, el respetable D. Fadrique falleció a 18 de Octubre de 1531</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">9</text:span></text:a><text:span text:style-name="T2">, dejándole con la magnífica sucesion de sus títulos y casa la obligacion de conservar y acrecentar la gloria y esplendor a que él habia sabido elevarla.</text:span></text:p>
+   <text:p text:style-name="P4">El nuevo Duque se presentó inmediatamente en la córte a instalarse en los honores y prerogativas que como tal le competian, y a prestar los obsequios a que era obligado, ofreciendo su persona al servicio del Monarca. Cárlos V se hallaba entónces en Alemania haciendo los preparativos de guerra contra Soliman II, que habia entrado con poderoso ejército en Hungría. Y como hubiese dado órden de que le asistiesen en la jornada los Grandes de Castilla, el Duque de Alba, ansioso de señalarse, se arrancó de pronto a las delicias de la córte, donde se hacia notar igualmente por su gala y bizarría que por su gravedad y compostura, y voló al servicio de la guerra ansioso de participar de los peligros y la gloria de una empresa que llevaba consigo el interés y la atencion de toda la cristiandad (Enero de 1532).</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Tuvo, sin embargo, que detenerse algun tanto en su camino por un accidente que manifiesta demasiado su carácter tenaz y consecuente, para pasarle en silencio. Acompañábale en el viaje Garcilaso de la Vega, el favorito de las Musas castellanas, con quien entónces el Duque tenia estrecha amistad muy honorífica a los dos. Llegados a Tolosa, se presenta al poeta el Corregidor de la villa a hacerle ciertas preguntas judiciales sobre un negocio doméstico que le tenia puesto en desgracia de la Emperatriz, Gobernadora del Reino a la sazon. Poco satisfecho el Juez de las contestaciones de Garcilaso, intimóle que no saliese de Tolosa hasta que S. M. proveyese, y dió cuenta de todo a la córte. Reclamó por su parte Garcilaso contra aquella detencion, y reclamó tambien el Duque rogando a la Emperatriz que mandase poner en franquía a su amigo, añadiendo resueltamente que sin él no pasaria adelante. Como el Duque iba llamado por el Emperador, túvose respeto a su protesta y se le contestó que no era razon que Garcilaso, fiado en su proteccion, se negase a responder como debia, y que él debia mandarle declarar cuanto supiese en el particular sobre que era preguntado. Hízolo así Garcilaso, y fué sentenciado por el Corregidor a destierro del Reino y a no presentarse en la córte del Emperador. Los dos amigos continuaron su viaje por Francia, y a la dilacion ya experimentada se añadió la dolencia que sobrevino al Duque en Paris, que tambien le detuvo algunos dias. Así es que cuando llegaron a Ratisbona, donde se hallaba a la sazon el Emperador teniendo la Dieta del Imperio para deliberar sobre los medios de resistir la invasion de los turcos, ya se les habian anticipado los siniestros informes remitidos a España contra Garcilaso, que fué de pronto desterrado a una de las islas del Danubio. El Duque no cesó en protegerle con su crédito y en auxiliarle con sus recomendaciones de un modo tan constante y eficaz que no dejaba lugar al olvido ni a la desatencion, y pudo, en fin, volverle a la gracia del Príncipe y lograr que siguiese sirviendo en el ejército</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">10</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P4">La guerra en que el Duque iba a hacer sus segundas armas debia presentar el mayor interés é inmensa perspectiva de gloria a un espíritu belicoso como el suyo. No se trataba, como en <text:soft-page-break/>el sitio de Fuenterrabía, de una operacion subalterna confinada a un rincon oscuro de la Europa y disputada entre tropas no muy numerosas y hasta entónces poco señaladas. La contienda que se iba a empeñar en Hungría era entre las tropas más aguerridas del mundo capitaneadas por los dos mayores Príncipes que se conocian en él. De una parte Soliman, vencedor de los húngaros en Mohatz donde les mató su Rey, conquistador de Rodas, de Buda y de Belgrado, que, a duras penas repelido de los muros de Viena en el año anterior, venia al frente de trescientos mil hombres a inundar y desolar la Alemania en venganza de aquel desaire. De la otra el Emperador de Occidente, ilustre ya con las victorias conseguidas por sus generales en Roma y en Pavía, que considerando dignos de su propio esfuerzo aquel conflicto y aquel adversario ponia a peligro su persona en defensa de la cristiandad contra su más formidable enemigo. Acudieron a su llamamiento los guerreros más célebres de Italia, España, Flandes y Alemania, y el ejército que se reunia en Ratisbona, fuerte de más de cien mil infantes y treinta mil caballos, era el mayor y más brillante que hasta entónces se habia juntado contra los bárbaros de Oriente. Cárlos V, por su capacidad, por su espíritu y su valor, era bien digno de mandarle.</text:p>
+   <text:p text:style-name="P4">En medio de los grandes objetos que aquel estruendo militar presentaba a la curiosidad é instruccion del Duque, y entre tantos famosos y experimentados capitanes como allí concurrieron, nada llamó tanto su atencion ni en nadie puso los ojos con más cuidado y reverencia que en el húngaro Tomás Nadasti, defensor contra Soliman en el año anterior de la fortaleza de Buda. Es verdad que el Sultan se apoderó de ella al fin; pero fué porque la guarnicion, compuesta de setecientos tudescos, indigna del caudillo que tenia, y tan pérfida como villana, viendo que Nadasti no queria ceder a sus viles sugestiones de rendirse, le ató de piés y manos y le entregó con la plaza al enemigo, sacando por condicion que se les perdonase las vidas. No supo el turco de pronto lo que aquellos soldados habian hecho con su caudillo; mas luego que fué sabedor de ello, irritado de traicion tan infame los hizo pasar todos a cuchillo y mandó quitar las prisiones a Nadasti. Convidóle a que se pusiese de parte de sus intereses políticos en Hungría; mas viéndole firme en la causa y partido que hasta allí habia defendido, le dejó ir libremente al Rey Don Fernando, con las demostraciones más solemnes de respeto a su valor y a su virtud. Este homenaje caballeroso y noble hecho por el Príncipe turco a la virtud de Nadasti alimentó entre los cristianos el concepto que de él se tenia, elevándolo a una especie de reverencia. Nadie le tributaba más respetos que el Duque de Alba: y como el guerrero húngaro estuviese tan instruido en la fuerza y disciplina militar de los turcos, con quienes habia guerreado tantos años, a él preguntaba el Duque y con él se instruia de todo lo que anhelaba saber respecto de aquella gente, tenida entónces por la más guerrera y poderosa del mundo. Correspondia Nadasti a esta preferencia de Don Fernando, no sólo con las noticias y consejos que le daba, sino con el aplauso y recomendaciones que de él hacia; y admirado de sus precoces disposiciones, en el fuego que en él advertia y en la penetracion y capacidad que ya resaltaban en él, anunciaba a todos los capitanes del Emperador el grande hombre que allí se preparaba para las armas y glorias españolas.</text:p>
+   <text:p text:style-name="P4">Pero aquellos formidables preparativos con que los dos grandes adversarios se previnieron para el conflicto de que al parecer iba a depender la suerte de la cristiandad, produjeron, <text:soft-page-break/>como suele suceder muchas veces, un respeto y circunspeccion igual de una y otra parte. Soliman no quiso comprometer sus fuerzas con las de Cárlos: contento con los daños que habia hecho en Hungría y con el temor que habia inspirado, torció su camino hácia Constantinopla y dejó respirar la Alemania. El Emperador, aunque fatigó su retaguardia con algunos cuerpos ligeros que le hicieron daño considerable, no juzgó tampoco prudente empeñar una accion decisiva con tan formidable enemigo. Bastaba para su gloria en la primera campaña que personalmente dirigia, haber ido a encontrarse con un guerrero como Soliman y obligádole a huir delante de sí. Dícese que el Duque, en los consejos de guerra que entónces se tuvieron, fué siempre de dictámen que se persiguiese eficazmente y de cerca al enemigo; que vertia lágrimas porque no se le permitió ir en su seguimiento con las tropas ligeras que a esto se enviaban, y que decia abiertamente a los que le representaban los peligros de esta clase de guerra, que en qué mejor ocasion podia él perder y aventurar la vida que persiguiendo al enemigo de la cristiandad. El Emperador, sin embargo, no quiso permitírselo; y retirado ya de todo punto Soliman, puso muestra de su ejército en Viena, deshizo su campo y tomó la vuelta de Italia, llevando consigo al Duque de Alba, que en aquella marcha mandaba ya la retaguardia de las tropas que acompañaban al Príncipe, compuesta de la caballería española y de la infantería tudesca. Ajustadas las cosas de Italia a su satisfaccion, Cárlos V regresó a España en Abril de 1533 y con él tambien vino el Duque.</text:p>
+   <text:p text:style-name="P4">A la jornada de Alemania se siguió dos años despues la expedicion sobre Túnez. Al frente de una armada de más de quinientas velas y de cincuenta mil hombres, de los cuales sobre treinta mil eran tropas regulares y aguerridas, quiso Cárlos V ir en persona a arrojar de aquel Reino a su usurpador Barbarroja. Parece a primera vista poco decoroso al Príncipe más grande de la cristiandad y de la Europa ir a probar su persona y sus fuerzas con un pirata. Pero este pirata era uno de los primeros hombres de aquel siglo, tan fecundo en grandes caracteres. A fuerza de valor, de actividad y de fortuna habia sabido alzarse desde la condicion más baja hasta una altura bastante grande para llamar la atencion del poderoso adversario que venia sobre él: ollero al principio, despues corsario, comandante de allí a poco de escuadras que se hacian temer, émulo de Andrea Doria en el mar, vencedor de él a veces, vencido en otras, jamás destruido ni desalentado, Almirante del Gran Señor, Rey de Argel, usurpador y dominador de Túnez, terror de las costas de Italia, de España y de Sicilia, donde nadie estaba a cubierto de su atrevimiento y de sus robos, él, en fin, era el instrumento más útil de los proyectos hostiles de Soliman sobre Italia; y la escuadra formidable que mandaba y los puntos que ocupaba en Berbería no podían ménos de considerarse como la avanguardia del ejército otomano. Deber era del Emperador quitarse este importuno enemigo de delante, y defender sus costas y sus mares contínuamente infestados por aquel hombre tan arrojado y cruel. Fué, pues, sobre él con todo su poderío; pero lo que Soliman no se atrevió a hacer en Hungría dos años ántes, lo hizo Barbarroja en Túnez, y esperó denodadamente a su enemigo. Contando con las fuerzas militares que tenia, con la disposicion del terreno y con el clima y los elementos, se propuso, no sólo sostenerse contra las grandes fuerzas que venian sobre él, sino repelerlas y arrancarles la victoria.</text:p>
+   <text:p text:style-name="P4"><text:soft-page-break/>Acompañó tambien el Duque de Alba en esta empresa a su Príncipe, llevando consigo a su hijo D. Fadrique que aún no habia cumplido seis años. Ni los ruegos y lágrimas de la madre, ni las reconvenciones de sus amigos pudieron retraerle de esta áspera determinacion. Queria que su hijo se habituase desde aquella tierna edad a la descomodidad de las marchas y de los campos, al estruendo de las armas, al azoramiento de los peligros, al aplauso y algazara de la victoria; y que familiarizado con estos objetos desde su primera infancia, le fuesen despues tan indiferentes como los demás actos comunes de la vida, sin extrañarlos nunca y mucho menos temerlos.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Las historias particulares, ó más bien panegíricos del Duque, dan a sus hechos en esta expedicion una importancia tan grande, que parece consistir en ellos el dichoso éxito con que fué coronada. Mas las relaciones generales y auténticas del tiempo no están acordes de todo punto en esta parte con los historiadores del Duque. Resulta, sí, que su asistencia a la jornada fué provechosa; que él, como el señor español más distinguido de cuantos allí concurrieron, fué en todas las ocasiones de aparato y solemnidad honrado con la consideracion que a fuer de tal se le debia, y que sus servicios y sus hechos no desdijeron de las esperanzas que se tenian concebidas así de su valor como de la pericia que pudo adquirir en sus dos anteriores campañas</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">11</text:span></text:a><text:span text:style-name="T2">. Pero su influjo personal en la direccion de las operaciones y en el logro de la victoria no era posible que tuviese el lugar y la importancia que sus panegiristas pregonan. El Emperador, que mandaba la expedicion, el Marqués del Vasto, su primer General, el célebre Hernando de Alarcon, el Marqués de Mondéjar, los dos Generales de mar Andrea Doria y D. Alonso Bazan, padre del famoso Marqués de Santa Cruz, tantos otros oficiales, en fin, distinguidos por sus largos servicios, sus proezas y su experiencia en las guerras de Italia y Francia, no dejaban por entónces otro camino a la juventud y valor del Duque que el de servir y señalarse por su persona en las facciones y puestos que se le encomendasen, y aprender de aquellos grandes militares lo que le faltaba aún que saber en el arte y ejercicio de la guerra.</text:span></text:p>
+   <text:p text:style-name="P4">Estas reflexiones, que en nada disminuyen la gloria del Duque, nos excusan de entrar en la relacion menuda de aquella célebre expedicion tan generalmente sabida. Tomóse primero por asalto la Goleta, a pesar de la bizarra defensa que hizo su guarnicion, y despues el ejército se puso en marcha para embestir a Túnez. Don Fernando en aquel dia (20 de Julio de 1535) llevaba el mando de la retaguardia, compuesta de la infantería visoña española reforzada con doscientos caballos pesadamente armados. Barbarroja, sin caer de ánimo por el gran descalabro de la Goleta, donde habia perdido una gran parte de sus galeras, armas y municiones, salia con todas sus fuerzas a encontrar el ejército cristiano y decidir la suerte de la guerra en una batalla campal. El número de sus tropas era bien grande; pero más que con ellas contaba con tres auxiliares poderosísimos en aquella region, el sol, los arenales y la sed. Hubo de hecho bastante desórden en el ejército imperial luego que los soldados, entrado el dia y acabados los refrescos que llevaban, se encontraron hostigados del calor, encendidos por el sol abrasador, y mucho más cuando avistaron unos pozos de agua dulce donde podian mitigar algun tanto la rabiosa sed que los devoraba. Pero la pericia y diligencia de los capitanes veteranos que los mandaban, y el ejemplo y las palabras del Emperador mismo, restablecieron prontamente el órden. Los bárbaros que acometian por <text:soft-page-break/>diversas partes al ejército fueron en todas ellas rechazados, tomada su artillería, los pozos, en cuyas cercanías habian puesto sus mejores tropas, ganados a la fuerza, y todos ellos dispersos y obligados a huir, los unos por los campos convecinos, los otros constreñidos a encerrarse con Barbarroja en Túnez. La retaguardia, donde iba el Duque, fué tambien embestida por un escuadron de alárabes a caballo, con intento de desbaratarla. Pero D. Fernando hizo luego alto, y los españoles, aunque visoños en gran parte, ordenados y dirigidos por su capitan, resistieron el ataque y los rebatieron de modo que les hicieron volver las espaldas. Así la victoria fué completa: todas las divisiones del ejército tuvieron parte en ella, y para dicha mayor apenas costó veinte cristianos.</text:p>
+   <text:p text:style-name="P4">Mas el espíritu de Barbarroja era mayor que su mala fortuna. Como su pérdida en hombres tambien habia sido corta, todavía se proponia reunir los alárabes desbaratados, y al frente de ellos y de las tropas regulares que le quedaban, salir a hacer rostro segunda vez al Emperador, y en el caso de nuevo descalabro encerrarse en Túnez y sufrir un sitio. Contaba con el rigor de la estacion, sabia que las enfermedades empezaban a picar en el ejército enemigo, y esperaba, no sin fundamento, que alargando de aquel modo la guerra, los cristianos, fatigados, se cansarian de su empresa y la abandonarian. En este plan de resistencia entraba tambien la idea de degollar todos los cautivos que habia en la plaza para que no se alzasen con ella cuando él con el ejército estuviese fuera. El pensamiento, si bien inhumano y atroz, era en aquel caso desgraciadamente necesario, pues a haberlo llevado a ejecucion evitára el bárbaro su ruina, ó la dilatára por lo ménos. Contuviéronle, no tanto las consideraciones debidas a la humanidad, cuanto los respetos del Gran Señor, cuyos intereses se perjudícaban con el exterminio de tantos millares de cautivos que podian reputarse como suyos. No bien salió de Túnez, cuando seis mil cautivos que habia en la Alcazaba se alzaron con ella y empezaron a hacer ahumadas en señal de victoria, para que el ejército cristiano se apresurase a sostenerlos. Entónces el pirata, despues de intentar en vano cobrar el castillo, no hallándose seguro en Túnez salió de la plaza con sus compañeros de armas, llevándose en camellos todas sus riquezas, y dirigiéndose a Bona donde tenia parte de sus galeras, para armarlas de pronto, echarlas a la mar y seguir con ellas el trato de sus piraterías.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">El Emperador entró triunfante en Túnez (miércoles 21 de Julio), restableció en su trono a Muley-Hacen, desposeido por Barbarroja, é hizo con él un tratado ventajoso, quedándose con la Goleta para tener en respeto aquellas costas. De resultas de este tratado veinte mil cautivos de toda la cristiandad, que gemian en aquellas mazmorras, fueron puestos en libertad; y vestidos y auxiliados por su libertador volvieron a sus países engrandeciendo y bendiciendo el nombre del gran Monarca a cuyo valor y munificencia debian tan alto beneficio</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">12</text:span></text:a><text:span text:style-name="T2">. No pudo Túnez, a pesar de los ruegos de Hacen, librarse de las violencias del saqueo. Los cristianos vencedores se llenaron de despojos. Tocó a nuestro Duque uno que, por su calidad y por los recuerdos que en él excitaba, tenia inestimable valor: tal fué la armadura de su padre D. García, el que murió en los Gelbes, guardada allí desde entónces, que contemplada por él con lágrimas de admiracion y dolor, y de satisfaccion tambien, fué despues trasladada a las armerías de la casa para ser allí trofeo perpétuo de gloria y de virtud a sus descendientes.</text:span></text:p>
+   <text:p text:style-name="P5"><text:soft-page-break/><text:span text:style-name="T2">Los lauros conseguidos en tan dichosa expedicion fueron enlutados con la muerte de su hermano D. Bernardino de Toledo, que habia servido con él en aquella guerra y falleció de calenturas en Trápana, a poco de haber llegado allí con la armada vencedora (últimos de Agosto de 1535). Era mancebo de grandes esperanzas, muy querido de su hermano el Duque, a quien Garcilaso escribió una elegía para consolarle, perpetuando así el cariño y la amistad que le unian con uno y otro</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">13</text:span></text:a><text:span text:style-name="T2">. Sintió D. Fernando aquella pérdida, no tan sólo de un buen hermano, sino tambien como la del mejor de los amigos; y dadas las lágrimas que debia a su temprana muerte, buscó distraccion y consuelo en los grandes negocios de política y de guerra a que su condicion, su carácter y sus servicios exclusivamente le llamaban.</text:span></text:p>
+   <text:p text:style-name="P4">Pasó a Italia el Emperador desde Sicilia, y con él el Duque a quien iba cada dia dando más lugar en su confianza y llamaba continuamente a su consejo. Ya cuando estalló la nueva guerra entre Cárlos V y el Rey de Francia (1536), mandaba toda la gente de armas de Nápoles y Flandes, puesto de los más distinguidos en el ejército y en que él empezó a mostrar lo que habia de ser despues en el gobierno y mando de las armas. Mas aunque ya su opinion fuese bastante atendida en el consejo, no era todavía bastante para contrapesar la de Antonio de Leyba, que contra el voto del Duque y de todos los Generales de Cárlos se empeñó en que la campaña habia de abrirse por el sitio de Marsella. Siguió desgraciadamente el Emperador su dictámen; y a pesar de las formidables fuerzas con que entró en la Provenza y se puso sobre Marsella, hallándose con una resistencia mayor de lo que se esperaba, y entre dificultades no previstas, tuvo al fin que abandonar el sitio y retirarse otra vez a Italia con pérdida de reputacion y de gente.</text:p>
+   <text:p text:style-name="P4">Sucedieron a esta campaña desgraciada (1538) las treguas de Niza y las vistas de Aguas Muertas. Notorio es que apenas surgió allí el Emperador, en la vuelta que daba por mar a España, cuando el Rey Francisco, que se hallaba cerca, dándole una prueba generosa de franqueza y confianza se metió en un barco, acompañado de unos pocos cortesanos, y caminó derecho a la galera del Emperador. Quisiera éste excusar tal visita en aquellos términos; pero no pudo estorbarlo, porque el Rey se entró alegremente en la galera: los dos se abrazaron, se besaron y estuvieron hablando algunas horas con muestras de amistad y alegría. Ido el Rey a tierra, se trató en consejo si el Emperador deberia ó nó corresponder a su visita é ir tambien a verle a tierra. La mayor parte de los cortesanos, leyendo en el semblante del Príncipe el poco gusto con que se prestaba a estas amistosas demostraciones de su rival, unos decian que no convenia que se pusiese en sus manos, otros no se atrevian a manifestar opinion, cotejando, como dice un historiador, el peligro con la honra. Sólo el Duque de Alba fué el que se atrevió a dar el consejo que convenia a la gloria y reputacion del Monarca. Él hizo ver que mostrar desconfianza de un Príncipe que se habia venido tan noblemente a poner en poder del Emperador, era mostrarse inferior a él en bizarría, en valor y en generosidad; que el Rey, resentido justamente de aquel no merecido desaire, llenaria el orbe de sus quejas y cerraria para siempre el pecho a todo linaje de reconciliacion, y que el Emperador seria responsable a los ojos de la cristiandad y del mundo de todos los males públicos que de aquel resentimiento iban inmediatamente a seguirse. Las palabras con que expresó estas ideas debieron ser igualmente fuertes que <text:soft-page-break/>ellas, puesto que el Emperador resolvió al dia siguiente saltar en tierra acompañado de pocos de los suyos, entre los cuales iba el Duque, y pasó con su émulo aquel dia en fiestas y banquetes donde a su regocijo particular se añadia el regocijo público, cifrado en la esperanza de una paz larga y firme entre Príncipes que tantas muestras de amor y estimacion se hacian. Despues de muchas palabras afectuosas y de ricas dádivas que hubo de una parte y otra, el Emperador volvió otro dia a su galera, contento y satisfecho de haber procedido como correspondia a un gran Monarca y caballero como él, y llamando al Duque a boca llena el conservador de su honra.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Llegados a España, mientras que el Emperador caminaba lentamente recibiendo los obsequios y festejos de las ciudades por donde iba, el Duque, impaciente ya por ver a su familia, caminó derecho a largas jornadas a Alba a abrazar a su esposa y a sus hijos. Allí, en el seno de su familia, gozó algunos dias el descanso debido a tanta ausencia y fatigas, y se ocupó en arreglar los negocios de su casa que se resentian de su falta, y en dar estado a sus hermanas. Mas no tardó mucho en presentarse en la córte con la duquesa a asistir al Emperador con su consejo y con sus servicios. Quizá contribuyó en gran parte a ello la necesidad de hallarse en las famosas Córtes que se tuvieron en Toledo a fines de aquel año (1538). Fueron convocadas y se reunió allí un número muy considerable de grandes y caballeros, mayor que el que nunca habia asistido a tales concurrencias. Pretendia el Emperador que se le auxiliase para las necesidades públicas con el tributo de la sisa, que su Consejo consideraba como el más productivo para el objeto y ménos gravoso en su pago. Pero la Junta de los Señores no lo consideró así; y en vez de otorgarla, despues de algunas altercaciones con la córte se resumieron en que lo más conveniente para remediar las necesidades era que S. M. procurase al reino la paz universal y residiese en él, una vez que sus viajes y sus guerras eran la ocasion principal de tantos gastos. Señalábase a la cabeza de esta oposicion el Condestable de Castilla, el mismo que veinte años ántes habia defendido y vengado la autoridad real de la audacia y tentativas de las Comunidades, y por lo mismo su celo no podia ser tachado de tibio ni su opinion de parcial. El Duque de Alba, el del Infantado y otros diez y siete señores, propusieron un término medio para que el Monarca no se creyese enteramente desamparado de la nobleza, y fué que en lugar de la sisa podrian cargarse algunos derechos sobre la extraccion de mercaderías del reino. Si la sisa era un arbitrio muy malo, el del Duque y sus compañeros era seguramente peor, y la Junta no acordó nada sobre él. Poco acostumbrado el Monarca a hallar oposicion a sus deseos, se manifestó mal satisfecho de la voluntad de los Grandes, disolvió la Junta y no dejó de mostrar su resentimiento al Condestable en su sobrecejo y razones desabridas</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">14</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Si el Condestable perdió algun tanto del favor del Monarca por la entereza de su conducta, el Duque de Alba debió ganar por la docilidad de la suya. No era él por cierto muy dócil ni obsequioso por carácter; pero el respeto a la prerogativa real lo llevaba hasta el último extremo, y los subsidios que tenian por objeto el sostenimiento de la guerra llevaban siempre consigo su justificacion y disculpa para un genio marcial y ambicioso de gloria como el suyo. De cualquier modo que esto fuese, Cárlos V siguió dando pruebas de la confianza que ya ponia en la capacidad y pericia militar del Duque, fiando a su cuidado las cosas más importantes de la guerra y de la defensa del reino. Él iba de Capitan general de </text:span><text:soft-page-break/><text:span text:style-name="T2">las fuerzas españolas que se embarcaron en Barcelona en las galeras de D. Bernardino de Mendoza para unirse con las del Emperador en la expedicion de Argel (1541), reunion que no llegó a verificarse por la prontitud con que los temporales deshicieron los intentos y armamento de Cárlos V, que, dispersada su armada y su ejército, tuvo primero que recogerse a Caller, en Cerdeña, y de allí volver a España. Despues en el año siguiente (1542), cuando se volvió a encender la guerra con Francia, él fué quien se encargó de atender a la defensa de las fronteras amenazadas. Acudió primero a Navarra y, visto el estado en que se hallaba Pamplona, dejó al Marqués de Cañete, que mandaba allí como Virey, una instruccion muy menuda de todas las disposiciones que debia tomar para poner la plaza y el reino en estado completo de defensa</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">15</text:span></text:a><text:span text:style-name="T2">. De allí pasó al Rosellon, donde amagaba invadir el Delfin Enrique, enviado por su padre el Rey Francisco con un poderoso ejército a embestir a España por aquella parte. Dirigíanse los esfuerzos de los franceses a tomar a Perpiñan. Pero el Duque supo fortificar aquella plaza, pertrecharla y guarnecerla de tal modo, puso en ella soldados tan aguerridos y la encomendó de tal suerte a dos capitanes veteranos, Cerbellon y Machicao, que no quedó en su ánimo duda alguna de la insuperable dificultad que hallarian allí los enemigos para embestirla y ganarla. Tomadas estas disposiciones, se salió de la plaza y se fué a apostar en Gerona con un cuerpo de tropas escogidas, para atender desde allí y acudir a donde fuese menester hostigar y fatigar al enemigo para romper y burlar sus intentos. Sentian los naturales de Perpiñan esta ausencia, atemorizados como estaban de la próxima venida de los franceses y áun de la invasion que se temia por mar de parte de las armadas de Soliman, que se decia venian en su ayuda. Manifestaron al Duque sus temores y le rogaron que se mantuviese en Perpiñan. Pero entónces les respondió, con tanto denuedo como franqueza, que él sabría atender mejor a su seguridad desde fuera que desde dentro, y tuviesen entendido que su corazon no le daba encerrarse en aquella plaza ni en ninguna, pues un general no deberia nunca quedar reducido, ó por la falta de los hombres ó por el rigor de la fortuna, a tener que recibir la ley de la guarnicion, del vecindario ó del enemigo. No presumió en vano de la seguridad con que habia pertrechado la plaza. El Delfin llegó, la embistió y la tuvo cercada algunos dias; pero la vigorosa resistencia de la guarnicion, la falta de Barbarroja que no vino como se pensaba, la vigilancia del Duque y la fama que corria de las fuerzas que el Emperador traia de Castilla para socorrerles, desalentaron a aquel Príncipe; el cual, perdidas sus esperanzas y abatido el vuelo de sus designios, levantó el sitio y se volvió con su padre el Rey que estaba en Mompeller.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Por esta serie de pruebas y de servicios llegó ya el Duque a obtener el concepto de el primer militar que habia en España, y puede decirse tambien que del imperio, puesto que ya el Marqués del Vasto, único General que quedaba a Cárlos V de los formados en Italia, habia declinado con la edad y con las desgracias. Considerábalo así aquel Príncipe cuando al partir de España en el año de 1543 para atender a los negocios de Italia y Alemania, dejando por Gobernador del Reino al jóven D. Felipe su hijo, nombró por Capitan general de todo él, de sus costas y fronteras y de toda la gente de guerra al Duque de Alba para cuidar de la defensa de estos Reinos, como persona en quien concurrian todas las calidades precisas de autoridad, prudencia, experiencia y opinion pública. Ya le tenia nombrado </text:span><text:soft-page-break/><text:span text:style-name="T2">Mayordomo mayor de Palacio, y parecia que con este cargo queria darle una autoridad en las cosas domésticas del Príncipe que pudiera servirle de guia y consejo en su juventud. Pero probablemente la Mayordomía mayor fué una recompensa de los eminentes servicios del Duque y una demostracion de aprecio a la alta calidad de su casa, más bien que una prueba de confianza privada. Si se ha de creer a una carta que se dice escrita por el Emperador a su hijo desde Palmaor, ántes de embarcarse, aunque expresamente califica al Duque del mejor estadista y general de España, no se manifiesta muy satisfecho de su carácter, y advierte al Príncipe que use de reserva con él</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">16</text:span></text:a><text:span text:style-name="T2">. Inútil seria aquí tratar de justificar ó de censurar estas sospechas de Cárlos V; pero ellas nos hacen ver cómo el Duque fué más estimado que querido de estos dos Príncipes, padre é hijo; y que las comisiones y altos encargos que le dieron uno y otro, fué más por la necesidad que tenian de sus talentos que por inclinacion que le tuviesen.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Él como Capitan general llenó los deberes que su cargo le imponia visitando las fronteras, reparando las plazas fuertes, cuidando con el mismo ahinco que en sus mandos anteriores de corregir todos los abusos que se habian introducido en la disciplina militar y en la parte administrativa del ejército. De este modo las plazas y fronteras nada tenian que temer del enemigo en caso de invasion por el excelente estado de defensa en que las puso, y las tropas conducidas y amaestradas con su rigor y sus lecciones, podian arrostrar cualesquiera empresas por dificultosas y arriesgadas que fuesen. Diriase que presintiendo ya las grandes ocasiones que le iba a presentar la fortuna, preparaba y acariciaba los instrumentos de sus hazañas y de su gloria. No tardaron estas ocasiones en presentarse: el Emperador meditaba hacer la guerra en persona a los protestantes de Alemania, y conociendo cuán útil le habia de ser el brazo y consejo del Duque en aquella empresa, llamóle a sí desde Flandes (Enero de 1546), condecoróle con el collar del Toison de oro en el capítulo que celebró en Utrech</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">17</text:span></text:a><text:span text:style-name="T2">, y se le llevó consigo a Ratisbona para donde tenia convocada la Dieta del Imperio.</text:span></text:p>
+   <text:p text:style-name="P4">Cuando treinta años ántes empezaron a cundir en Alemania las nuevas doctrinas de Lutero, Cárlos V, que por aquella época recibió la corona imperial, trató de impedir su propagacion por los medios que entónces parecieron acomodados a las circunstancias. El mal aún no era grande ni en extension ni en malicia, y creyóse que cederia a remedios blandos y prudentes. Mas léjos de ser así, sucedió todo al revés; porque enconado con las disputas, avivado por la novedad y hecho apacible con la indiferencia, el contagio creció con una rapidez prodigiosa, ganando a Príncipes, ciudades, provincias, Estados enteros. En vano en algunas Dietas se pensaron y áun decretaron providencias más severas y rigorosas: los moradores protestaban contra ellas, y fuertes con su número y su poder hacian rostro firme a sus contrarios, y ni cedian ni temian. Las cosas en tal estado amagaban cada dia estallar en una guerra civil. Ya desde 1530 los protestantes, considerando que de sola su union dependia su seguridad y el triunfo de su causa, se habian confederado solemnemente en Smalkalda obligándose todos a la defensa comun contra cualquiera agresor. Entraron en esta liga los potentados más poderosos del Imperio, señaladamente el Elector Juan Federico, Duque de Sajonia, y Felipe, Landgrave de Hesse, y catorce ciudades libres ó imperiales, a cuyo número se fueron agregando otras, segun que los nuevos principios iban prevaleciendo en <text:soft-page-break/>ellas. Un cuerpo así organizado en medio de la Alemania se hacia formidable por su fuerza y peligroso por sus intenciones. No entraba, por cierto, ni podia entrar en los principios religiosos de Cárlos V, y mucho ménos en su política, sufrir por mucho tiempo esta excision escandalosa, que ponia en peligro la integridad de la fe y la unidad del Imperio. Pero Cárlos, como todos los Príncipes que reunen en su dominio Estados diferentes y distantes, podia mucho ménos de lo que él pensaba y sus enemigos temian. Sus intereses y objetos eran tantos, tan complicados, y a veces tan contradictorios, que no podia dar a su accion y a sus miras toda la unidad y consecuencia que eran menester para conseguir lo que intentaba. Las frecuentes invasiones de Soliman en Hungría, sus contínuas guerras y rivalidades con el Rey de Francia le ponian en la necesidad de contemporizar con los Estados y Príncipes de Alemania, para sacar de ellos fuerza con que resistir a los turcos y sostener sus pretensiones contra los franceses. De aquí la alternativa de severidad y templanza, de encono y de indulgencia con que eran tratados los protestantes, y a cuya sombra ellos crecieron y se multiplicaron. Pero en la época en que nos hallamos, la paz ajustada con la Francia en Crespy, las treguas convenidas con Soliman y un tratado estrecho de alianza que estaba para concluirse con el Papa, dejaban a Cárlos lugar para atender exclusivamente al estado de la religion en Alemania, y con la destruccion de la confederacion protestante vengar a un tiempo las injurias hechas a la fe católica y los insultos y desprecios a su dignidad.</text:p>
+   <text:p text:style-name="P4">Pero como le conviniese disimular todavía, arte en que era tan gran maestro, presentóse en Ratisbona con sola su guardia ordinaria de quinientos caballos, y las proposiciones de la Dieta fueron templadas al principio, sin mezcla ninguna de hostilidad ni de encono contra el partido que se proponia combatir. Entretanto, con el mayor secreto que podia, dió comisiones a algunos coroneles para que levantasen tropas en diferentes puntos de Alemania; llamó el tercio de españoles que servia en Hungría bajo el mando de D. Álvaro de Sandy; ordenó que viniesen de Flandes diez mil infantes y tres mil caballos, conducidos por el Conde de Buren; y ajustado ya su tratado con el Papa, esperaba de Italia doce mil hombres que el Pontífice debia enviarle, y otros diferentes cuerpos que estaban derramados en Nápoles y Milan y serian tambien llamados</text:p>
+   <text:p text:style-name="P4">La reunion de todas estas fuerzas,situadas en partes tan distintas y lejanas, presentaba dilaciones y dificultades que él se proponia vencer con su industria y buena fortuna. Pero los confederados de Smalkalda estaban ya de antemano recelosos de sus intenciones. Los más de ellos no habian querido concurrir personalmente a Ratisbona, y enviaron diputados que los representasen en la Dieta. En ésta los católicos tenian una gran mayoría, y las resoluciones que empezaron a tomarse, todas contrarias a los intereses del partido protestante, no dejaban duda a los confederados de las intenciones de sus adversarios y de la necesidad en que ya estaban de precaverse y asegurarse. Hicieron, pues, sus diputados una representacion al Emperador reclamando las seguridades que se les tenian dadas sobre el libre ejercicio de su religion, ínterin las cuestiones controvertidas se decidian por un concilio libre y nacional celebrado en Alemania. Y habiendo posteriormente rastreado las comisiones secretas dadas a los coroneles para el levantamiento de tropas, preguntaron tambien el objeto de aquellos preparativos, ofreciéndose a venir al Emperador en caso de <text:soft-page-break/>guerra, como lo habian hecho otras veces. Cárlos recibió la reclamacion con la risa del desprecio, y contestó a la pregunta, que sus preparativos se dirigian a castigar y reducir al deber a algunos rebeldes del Imperio.</text:p>
+   <text:p text:style-name="P4">Entónces los diputados, ciertos ya de la suerte que aguardaba a sus comitentes, se retiraron de la Dieta; y los confederados inmediatamente tuvieron una junta en Ulma, donde conociendo que no les quedaba otro recurso que la guerra, si habian de defender su creencia y las libertades germánicas, acordaron hacerla con todos los medios que su confederacion les proporcionaba. La diligencia y actividad con que se prepararon a ella excede a toda ponderacion. Pues, sin embargo de que no todos los confederados acudieron con los contingentes de tropa y de dinero a que estaban obligados, el resto de ellos levantó en pocas semanas un ejército de setenta mil infantes, nueve mil caballos, cien piezas de artillería y demás pertrechos militares, poniéndose al frente de estas formidables fuerzas los dos más poderosos Príncipes de la Liga, el Landgrave de Hesse y el Elector de Sajonia.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">No faltaba ciertamente valor y capacidad a estos generales, ni a sus tropas tampoco mucha parte de las cualidades que constituyen los buenos soldados; y a conducir las primeras operaciones con la presteza y resolucion con que habian realizado su armamento, el honor de la campaña era suyo, y acaso tambien la fortuna de la guerra. Mas ni ocuparon las plazas que guarnecian los desfiladeros del Tirol, cerrando así la entrada en Baviera a las tropas imperiales que habian de venir de Italia, ni aprovecharon la gran superioridad que tenian para embestir de pronto a Ratisbona, donde el Emperador, a la sazon sin ejército ni artillería, no podia resistirlos y hubiera tenido para salvarse que escapar rio abajo por el Danubio. Lo primero no lo acertaron; a lo segundo no se atrevieron. Porque aunque los vecinos de Augsbourg, acaudillados por un valiente y experimentado oficial llamado Sebastian Schertel, rompiendo los primeros las hostilidades corrieron hácia el Tirol y se apoderaron de pronto de Chiessa y Fiessen, no pudieron tomar del mismo modo a Inspruk, plaza todavía más importante que las otras dos para su intento, y tuvieron que volverse a su ciudad, dejando abierto el camino a sus enemigos para entrar despues en Baviera y juntarse con el Emperador. Schertel, ó de su propio acuerdo, ó por órden de los Generales de la Liga, ocupó luego con los soldados de su mando a Donawest, plaza que, situada cerca de la confluencia del Lech y del Danubio, a 14 leguas de Ratisbona, y comunicándose por medio de aquellos rios con Ulma, Augsbourg, Ingolstad y otras ciudades confederadas, era el punto más importante para asentar el gran campo de la Liga y ser el centro y base de sus operaciones ulteriores. Así es que Donawest por su posicion, y su nombre lo significa, era tenida por la llave y defensa del Danubio. Allí condujeron el Elector y el Landgrave el grueso de sus huestes, distinguidas con sus diferentes enseñas y banderas, segun el Estado ó pueblo a que pertenecian, y todos llevando en aquellas insignias motes ó lemas que explicaban sus deseos, designios y esperanzas. Eran generalmente textos de la Escritura. Los dos caudillos dieron muestra de la diferencia que habia en sus caracteres con los que eligieron para sus estandartes. El Elector, por ejemplo, más devoto y circunspecto, habia puesto en uno de los suyos: </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">Domine in nomine tuo salvum me fac.</text:span></text:span><text:span text:style-name="T2"> El Landgrave, al contrario, más audaz, más arrogante, manifestaba su confianza y su soberbia en esta sentencia insolente y fanática: </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">Jam securis ad indicem arboris est; omnis igitur arbor, non </text:span></text:span><text:soft-page-break/><text:span text:style-name="Emphasis"><text:span text:style-name="T2">faciens fructum bonum, excidetur, et in ignem conficietur</text:span></text:span><text:span text:style-name="T2">. Los sucesos nos dirán bien pronto si esta confianza era fundada, y quiénes estuvieron más cerca de ser echados al fuego, en caso de que el vencido debiera llevar esta pena.</text:span></text:p>
+   <text:p text:style-name="P4">No bien el Emperador y su General se vieron con alguna apariencia de ejército, compuesto de los españoles que les vinieron de Hungría, de algunas tropas reclutadas en Alemania y de la artillería que les vino de Viena, cuando resueltos a no dejarse sitiar en Ratisbona salieron de allí y se dirigieron a Landshut. Era esta plaza paso necesario para los refrescos de Italia, que habian de venir por Inspruck a reunirse con ellos, y por eso les era de mucha importancia tenerla a su devocion y asegurar su territorio. Asentóse, pues, el campo Imperial cerca de ella, y los confederados, que por la misma razon anhelaban ocuparla, no podian ya hacerlo sin dar una batalla que no entraba en su plan, ni acaso en su osadía. Hallábanse, por los diferentes movimientos que habian hecho desde Donawest, a seis leguas no más de distancia. Desde allí enviaron un paje y un trompeta que llevaban colgado del asta de una pica, segun la costumbre germánica, el cartel de desafío y declaracion de guerra a Cárlos de Gante, que así empezaban ya, por vilipendio, a llamar al Emperador. El Duque de Alba, ante quien, como Capitan general, fueron llevados estos mensajeros, les dijo con su severidad acostumbrada, que si no los mandaba ahorcar, como merecian, era por no ser los principales culpados en el desacato. Y mandándolos salir del campo al instante, les hizo llevar en cambio del cartel que habian traido, el edicto impreso del Emperador, en que los Príncipes coligados eran puestos en el bando del Imperio; lo cual equivalia a proscribir sus personas, y confiscar sus Estados en beneficio del primero que los ocupase.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Empezaron en aquellos dias a llegar las tropas de Italia (10 de Agosto de 1546): primero las del Papa, mandadas por Octavio Farnesio, nieto del Pontífice y yerno del Emperador; despues las de Nápoles y Lombardía, y últimamente las que aún faltaban de algunos puntos de Alemania, que no pudieron llegar más pronto por los rodeos y combates parciales que habian tenido que dar en su camino. Ya el ejército venia a tener forma de tal; pues aunque faltaba la mayor parte de la caballería y no eran venidas las tropas flamencas que debia conducir el Conde de Buren, se contaban en el campo sobre treinta y cuatro mil hombres de la mejor infantería</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">18</text:span></text:a><text:span text:style-name="T2">, y tres mil caballos entre hombres de armas y jinetes. Teniendo ya a su disposicion estas fuerzas, el Emperador volvió a Ratisbona a tomar su artillería, y salió desde allí a buscar a sus enemigos, que andaban campeando en las cercanías de Ingolstad. Su intento era estrecharlos y tenerlos más sujetos acampando junto a ellos, combatirlos si le daban ocasion de hacerlo con ventaja, y en todo caso proteger la marcha del Conde de Buren, que debia venir por allí. Pasó, pues, con sus tropas el Danubio por Neustad, sobre el puente de la villa y otros dos portátiles que llevaba consigo, y fué a asentar su campo más allá de Ingolstad, en un sitio elegido de antemano por él y su general, como el más a propósito para su intento. Tenian la ciudad a la espalda, a la mano izquierda el Danubio, a la derecha un pantano y al frente la campaña. Los enemigos, acampados en un lugar no ménos fuerte, estaban a seis millas de allí; y para manifestar lo poco en que tenian a sus adversarios, movieron al instante su campo y se colocaron a tres millas de distancia sobre </text:span><text:soft-page-break/><text:span text:style-name="T2">unas montañuelas, cuya disposicion era tal, segun un militar práctico de entónces, que el mismo sitio ayudaba a defenderse.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Tan cerca ya así unos de otros, no podian dejar de venir forzosamente a las manos. Los reales del Emperador aún no estaban suficientemente fortificados, y la inferioridad numérica de sus tropas le ponia en la necesidad de evitar un combate todavía sobradamente arriesgado y desigual. Pero estas mismas razones debian sacar a los enemigos de la irresolucion que hasta entónces no les habia sido ni honrosa ni útil, y hacerles aprovechar el momento favorable que tenian (29 de Agosto de 1546). Salieron, pues, de su real formados en batalla; la caballería primero, la artillería despues, y a lo último la infantería que desplegó sus líneas por todo el llano que habia entre los dos campos. Su intento era forzar a su enemigo a salir a pelear con ellos ó desalojarle a cañonazos. Acércanse al campamento, y luego que estuvieron a tiro comenzaron a hacer fuego con su formidable artillería. Los imperiales los esperaron dentro de sus trincheras, colocada la caballería en las partes más fáciles de entrarse, formados en batalla segun la ocasion y el puesto daban lugar, resueltos allí a defenderse si eran acometidos, respondiendo a su fuego con el suyo, y molestando sus baterías con bandas de arcabuceros que salian de cuando en cuando de las líneas. Veíase al Duque de Alba en el puesto más avanzado y peligroso, conteniendo a los soldados y dándoles ejemplo de teson inflexible y de imperturbable valor, mientras que Cárlos V, entónces bien digno de su gloria, montado en un poderoso caballo y vestido de todas armas, corria de unas partes a otras, y mostrando en aquel encarnado penacho que le ondeaba sobre el yelmo, y se veia de lejos, que arrostraba el peligro y la fatiga como el menor de sus soldados. Hablábales a cada uno en su lengua; llamaba a los unos hijos, a los otros camaradas, padres a los veteranos; y todos esforzándose a seguir su ejemplo, no hubo nadie que moviese el pié del puesto en que fué colocado, ni los ojos siquiera, deseando mejor lugar. El cañoneo se hacia cada vez más terrible: el campo se llenaba de las balas que caian en él como lluvia, y los hombres eran heridos y muertos junto al Duque y el Emperador, sin que ni el estrago ni el peligro los apartasen un punto del designio y plan que se habian propuesto. Nueve horas seguidas duró el fuego, a cuyo tiempo los enemigos, no conociendo en el real señal ninguna de flaqueza, y viendo la dificultad de su intento, tocaron a retirada y se volvieron a sus líneas. Aquella noche el Landgrave, cenando con los oficiales, y fastuoso segun costumbre, tomó una copa de vino, y dirigiéndose a Schertel: </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">brindo</text:span></text:span><text:span text:style-name="T2">, dijo,</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2"> por los que hoy hemos muerto con nuestra artillería.</text:span></text:span><text:span text:style-name="T2"> -</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">Yo, señor, no sé</text:span></text:span><text:span text:style-name="T2">, respondió franca y militarmente aquel oficial, </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T2">los que habremos muerto hoy; pero lo que sé es, que los vivos no han perdido un pié del puesto que ocupaban.</text:span></text:span></text:p>
+   <text:p text:style-name="P4">Entre tanto el Duque de Alba, bien ajeno de perder las horas en brindis y banquetes, cuidaba de fortificar su campo, y concluyendo y alzando lo que faltaba para ello a las trincheras comenzadas, puso el real aquella noche fuera de todo insulto ulterior. Tres veces repitieron los enemigos su cañoneo en diferentes dias; pero siempre con ménos efecto, porque tenian que colocar su artillería a distancia mayor. Las líneas del campo imperial, que a fuerza de incesante fatiga se adelantaban cada dia, no les dejaban usar de sus medios de ataque con la facilidad y extension que al principio. Los dos campos estaban ya a cuatrocientos pasos uno de otro, y los confederados que ántes se jactaban de tener sitiados <text:soft-page-break/>y como cogidos con redes a su enemigo, eran ya los embestidos y sitiados en realidad, no cesando de hostigarlos los imperiales, cortándoles sus convoyes, inquietándolos contínuamente, de noche con encamisadas, de dia con escaramuzas.</text:p>
+   <text:p text:style-name="P4">Ejercitábase en ellos a competencia el ardor belicoso de italianos y españoles. Pero no siempre las consentian el Duque y el Emperador, principalmente cuando podian dar ocasion a un empeño general, que era a lo que los enemigos aspiraban, y por eso no podia convenir a los nuestros. Un dia (31 de Agosto de 1546), entre otros, que fué el del segundo cañoneo, se habia prohibido bajo pena de muerte que nadie saliese a escaramuzar fuera de los fosos y trincheras. Presentóse entónces delante de nuestras líneas, como lo tenian de costumbre en aquellos dias, un tudesco membrudo y arrogante, provocando con ademanes y palabras a que saliese alguno a probarse en armas con él. Estaban apostados en aquella parte los arcabuceros españoles del tercio de Don Álvaro de Sandi, que oian al arrogante aleman con impaciencia, pero no se atrevian a romper el freno que les imponia el edicto. Disparaban sobre él los arcabuces, y ningun tiro le acertaba; y él, atribuyendo su circunspeccion a timidez, redoblaba en fueros y en denuestos, llamándolos a gritos viles y cobardes. Un español ménos sufrido que los demás, teniendo a mengua que el bárbaro se fuera riendo de la burla, cogió una pica de uno de sus compañeros, y gateando con manos y piés por la empalizada y el foso salió al campo y enderezó para el tudesco. Era de las montañas de Oña y se llamaba Martin Alonso de Tamayo. El Emperador, avisado de aquella novedad, mandó que le diesen voces para que se volviese atrás, y él, ó no las oia, ó no las quiso obedecer, y se acercó a su contrario que ya a pié firme le esperaba. Diéronse de pronto diferentes botes que uno y otro rebatieron; pero al fin el español, más diestro ó más dichoso, metió la pica por la barbada del morrion de su contrario, y redoblando el empuje cayó al suelo el aleman, sobre el cual se puso al instante Martin Alonso y le cortó la cabeza con su misma espada. Despojóle de cabeza, armas y dinero, y ya se volvia al real, cuando cargando algunos caballos enemigos por aquella parte, tuvo que dejar la cabeza y despojos para correr mejor y salvarse. La arcabucería contigua al foso puso en respeto a aquellos caballos y los hizo retirar: entónces el vencedor volvió por la cabeza y despojos del tudesco, y entró en el campo seguido del aplauso de sus compañeros y abrazado de soldados y capitanes.</text:p>
+   <text:p text:style-name="P4">Esta especie de triunfo le dió aliento para presentarse al Emperador con la cabeza y despojos habidos en la lid, y se le puso de rodillas pidiendo indulto de su desobediencia. El Príncipe enojado mandó que se dispusiese a morir y que le cortasen la cabeza. Él, ménos abatido con la sentencia que irritado de la ingratitud, volvió a coger la cabeza y despojos de su muerto, y marchó al lugar del suplicio mostrando a todos aquellos testimonios de su valor, y convidándolos a que viesen la recompensa que allí se daba a quien con tanto celo y fortuna habia vengado al ejército de los denuestos é insultos de aquel hereje bestial. Veíanle ir los soldados, y se estremecian é indignaban; mientras ante el Emperador el Nuncio del Papa, Octavio Farnesio, el Príncipe de Saboya y el de Hungría solicitaban clemencia y no la podian conseguir. El Duque de Alba guardaba silencio, sin acriminar ni interceder.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Mas cuando el reo llegó cerca de los españoles y ellos le vieron atar las manos y cubrir los ojos para degollarle, entónces la compasion y la ira, no pudiéndose contener, prorumpieron </text:span><text:soft-page-break/><text:span text:style-name="T2">en gritos sediciosos y declararon furiosamente que Martin Alonso no habia de morir. Detuviéronse los verdugos de miedo, ó de respeto, ó de compasion: las voces se aumentaban cada vez más, y nueve mil españoles armados se hacian entónces respetar y oir. Cárlos, informado de la causa de aquel tumulto, ó temiendo los excesos a que podrian llevarle, ó que ya más templado cediese de su rigor, salió del extremo en que se hallaba, con su acostumbrada presencia de ánimo y discrecion, diciendo que los españoles tenian razon en su queja, pues que él se habia mezclado en sentenciar un caso que, segun las leyes militares, sólo debia ser juzgado por el General del ejército. Así que él lo dejaba todo al arbitrio y prudencia del Duque de Alba. Éste comprendíó en estas palabras el decreto de clemencia, y corriendo a donde estaban amotinados los españoles, concedió la vida al reo; pero les reprendió ásperamente su falta de respeto y sumision. Todo quedó así tranquilo. Mas Tamayo, viéndose despues mirar con ojos siniestros por el Emperador, como sucede siempre a los que son ocasion de desaires a la autoridad, nada atendido, y no considerándose seguro, dejó el servicio al acabarse aquella campaña, y se retiró a su patria llevando consigo más celebridad por su peligro que por su trofeo</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">19</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P4">Ya los confederados, perdida la esperanza de forzar a su enemigo al combate ó de lanzarle del puesto que ocupaba, movieron su campo con direccion a Neobourg, donde estuvieron dos dias, y despues se pasaron a Donawest. Podíase recelar que intentasen oponerse con todas sus fuerzas al Conde de Buren, que venia desde el Rhin a largas marchas a juntarse con el ejército imperial. Bastante poderoso contra los diferentes cuerpos que habia apostados contra él, no lo era tanto que pudiese resistir a todo el ejército de la Liga si le salia al encuentro en el camino. Dióle, pues, aviso el Emperador del movimiento de los confederados para que evitase el combate mudando de direccion; pero su marcha no fué interrumpida del modo que se recelaba. Superando con una inteligencia superior y con un valor heróico cuantos estorbos encontró, llegó por fin al campo Imperial (14 de Setiembre de 1546) al frente de veintidos mil infantes y siete mil caballos, unos que habia sacado de Flandes, y otros que se le habian unido en el camino. Cárlos, acompañado de sus Príncipes y capitanes, le salió a recibir, y todos le congratulaban por su habilidad y buena fortuna.</text:p>
+   <text:p text:style-name="P4">Con este considerable refuerzo, ya las operaciones del ejército pudieron ser más activas. Por manera, que fuera por sorpresa, y parte por inteligencias, diestramente aprovechadas, las plazas más importantes puestas a las dos márgenes del Danubio y rios que en él desembocan vinieron a poder del Emperador. De este número fueron Neobourg, Dilligen, Donawest, Nordlingen y otras, y el campo se vió así más provisto de vituallas, en que ántes escaseaba, y tuvo más oportunidad y ensanche a sus movimientos. La facilidad con que estas ventajas se consiguieron inspiraba a soldados y oficiales una confianza excesiva; pedian a voces ser llevados al enemigo, y murmuraban a boca llena de la circunspeccion con que procedian el Emperador y su general, que evitaban el empeño de una accion decisiva mientras no hallaban la ocasion de darla con una superioridad incontestable. Descontentáronse más cuando vieron que se perdió el momento de romper a los confederados cuando se alojaron entre Giengen y el Prens, donde dieron una ventaja muy considerable sobre sí en la marcha que hicieron aquel dia. Despues de una ligera escaramuza, las tropas imperiales se volvieron a su campo sin haberse empeñado la accion <text:soft-page-break/>como entre los soldados se creia. El descontento fué general, y hubo palabras harto mal sonantes en los corrillos de la tropa: tanto, que el Conde de Buren llegó a decir delante de la infantería española: Yo no soy luterano, ni he dado motivo jamás a que tal se me crea; pero segun el espacio con que llevan las cosas el Emperador y el Duque de Alba, tarde creo yo que acabarán la guerra. Doime, pues, al diablo por quince dias y no he de hacer en ellos más que comer y beber para no pensar en cuidados.</text:p>
+   <text:p text:style-name="P4">Pero estas libertades soldadescas no movian un punto de su propósito a los dos jefes, bien persuadidos de que el campo de los confederados se vendria a deshacer por sí mismo, con sólo pasar tiempo sobre ellos y aguardar el efecto inevitable de su incertidumbre, de su lentitud y de sus pasiones. Esperaban ellos lo mismo del ejército imperial, de quien sabian que, a pesar del país que dominaba, escaseaba en provisiones, estaba totalmente falto de dinero, y, atacado de las enfermedades consiguientes al clima y a la estacion del frio, que ya empezaba, disminuia todos los dias con el estrago que causaban en italianos y españoles.</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T2">Este equilibrio en las cosas no podia durar mucho tiempo, ni era difícil prever a cual partido se inclinaria al fin la balanza, atendidas las diferentes circunstancias de unos y otros contendientes. Los coligados, aunque constantemente superiores en número y hábiles sin duda alguna en muchas partes del arte militar</text:span><text:a xlink:type="simple" xlink:href="javascript:void(null);" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">20</text:span></text:a><text:span text:style-name="T2">, no eran regidos por una voluntad fuerte y resuelta que supiese aprovechar las ventajas que tenian. De sus dos generales, el más respetado y estimado, que era el Elector, irresoluto, circunspecto en demasía, perdia las ocasiones por asegurarlas, al paso que el Landgrave, más intrépido y arrojado, y al mismo tiempo vano é inconstante en sus designios, no dejaba madurar ninguno. Este inconveniente en los caracteres de los dos caudillos, se reforzaba con la naturaleza de sus tropas, diversas en ánimo y costumbres, recogidas de diferentes Estados, y nada propias a formar la unidad compacta que hace sólida é invencible la masa de un ejército. No así el del Emperador, donde, aunque para las deliberaciones el dictámen del Duque tuviese un lugar muy preferente, todo al fin se mandaba y hacia a nombre del Monarca, y no habia en realidad más consejo y voluntad que la suya. Sus tropas eran las mejores del mundo en disciplina y valor, exaltadas en sus magnas victorias, y acostumbradas a seguir y obedecer a Cárlos V, no sólo con la docilidad del respeto y de la obediencia, sino con la ciega confianza del entusiasmo y de la adoracion.</text:span></text:p>
+   <text:p text:style-name="P4">Duró la campaña seis meses, en los cuales los confederados, a pesar de su destreza en el arte de la guerra y de las fuerzas superiores con que la empezaron, ni pudieron forzar a su enemigo a una accion general, ni tampoco sostenerse en campo contra él. Cuatro veces fueron desalojados, ya por arte, ya por fuerza, en Ingolstad, Donawest, Norlinguen y Giengen, y desconfiando de poderse sostener en aquel país, agotado por la guerra, se dirigieron a Franconia, provincia descansada y abundante, donde pensaron rehacerse de gente, dinero y vituallas. Mas la infatigable diligencia del Emperador les privó tambien de este recurso; porque marchando rápidamente a Rottembourg, que era la defensa de la tierra y ocupándola ántes que ellos, les defendió así la entrada de Franconia y les obligó a retirarse con grandes rodeos por el Ducado de Wirtemberg, y al fin a dividir sus fuerzas y separarse. El Duque de Sajonia y el Landgrave partieron con sus fuerzas a defender sus <text:soft-page-break/>Estados, amagados é invadidos por los aliados del Emperador. Las ciudades, privadas del apoyo de aquellos Príncipes, retiraron tambien sus fuerzas, y el campo formidable de la Liga, que aspiró y pudo dar la ley a la Alemania, se vió solo y deshecho en pocas semanas, sin esperanza alguna de volverse jamás a rehacer.</text:p>
+   <text:p text:style-name="P4">Entónces ya, desesperando de poder resistir cada cual solo al que juntos no habian podido vencer, los Príncipes y las ciudades que habian compuesto la confederacion vinieron sucesivamente a rendir vasallaje y obediencia al Monarca victorioso, con el mismo ahinco y porfía con que ántes se colocaron contra él. El Elector Palatino y el Duque de Wurtemberg solicitaron su perdon de rodillas, y las ciudades, por medio de sus diputados, sujetándose a la misma humillacion, se sometieron a las condiciones que él quiso imponerles para recibirlas a su gracia. Estas condiciones, si bien gravosas y humillantes, no fueron a la verdad sanguinarias ni crueles: renunciar a la Liga de Smalkalda, recibir guarniciones imperiales, entregar todas sus municiones y pertrechos militares, y pagar gruesas multas cada ciudad, segun su poder y sus medios. Nada se habló de religion en estos conciertos, aunque la religion fuese el pretexto y la ocasion de aquella contienda. Acaso el Emperador no quiso llevar al extremo del rigor en materia tan delicada a gentes a quienes con tanta dificultad acababa de someter. Por otra parte, le era preciso no descontentar a los Príncipes y ciudades germánicas que, aunque sectarias de las nuevas doctrinas, se mantenian a su devocion y le eran necesarias aún. Porque si bien la confederacion estaba deshecha, la guerra no estaba terminada: manteníanse todavía en pié y armados los dos Príncipes más poderosos, verdaderos jefes de la Liga, el Elector y el Landgrave. Cárlos, que ya los tenia proscritos por su edicto de Ratisbona, no queria admitirlos a concierto ni a perdon, y ellos, tenaces en su propósito y confiados en su fuerza, ni le esperaban ni le pedian.</text:p>
+   <text:p text:style-name="P4">Iban entónces las cosas en bonanza, dirigidas por su inteligencia y ayudadas de la fortuna. Cuando el Elector se separó del ejército de la confederacion, sus Estados estaban invadidos y casi ocupados todos por el Príncipe Mauricio de Sajonia y el Rey de Hungría Ferdinando. Era Mauricio primo del Elector, yerno del Landgrave, y tenia además opinion de ser un celoso protestante. Pero estos vínculos, al parecer tan sagrados, no fueron bastantes para que dejase de inclinarse al partido del Emperador. Éste era sin duda el camino más seguro para contentar sus miras ambiciosas, cifradas en la destruccion y ruina de su pariente. Declaróse, pues, en su daño y se encargó de la ejecucion del bando del Imperio fulminado contra él, despues de haber agotado cuanta sagacidad tenia en dorar a los ojos del mundo su escandalosa conducta con una serie de viles artificios, que la política del mundo llama habilidades y la rectitud supercherías.</text:p>
+   <text:p text:style-name="P4">La presencia del Elector restableció las cosas en Sajonia; y no sólo arrojó a sus enemigos de aquel Estado, sino que ocupó casi todos los de Mauricio, y empezó a perturbar los del Rey de Romanos con sus inteligencias y sus correrías. Incapaces de resistirle los dos confederados, enviaron mensaje sobre mensaje al Emperador instándole a que viniese a su socorro, si queria evitar la entera destruccion de Mauricio y asegurar la tranquilidad de la Bohemia. Prometiólo Cárlos y se dispuso a marchar contra el Elector, pero con fuerzas ya muy inferiores. Pocos dias ántes habia despedido al Conde de Buren con sus flamencos, <text:soft-page-break/>dejándoles ir a su país, y por el mismo tiempo el Papa, no muy satisfecho del Emperador por motivos de política y de interés, habia retirado las tropas que le tenia enviadas al mando de Octavio Farnesio.</text:p>
+   <text:p text:style-name="P4">Sólo, pues, con sus alemanes y españoles, el Emperador marchó al Elba. Siguióle tambien como General de su ejército el Duque de Alba en esta campaña, donde le hizo servicios igualmente señalados que en la del Danubio.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4">Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público<text:line-break/>¡Esperamos que lo disfrutéis!</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">¡Gracias por leer este libro de www.elejandria.com!</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Descubre nuestra colección de obras de dominio público en castellano en nuestra web</text:h>
+  </office:text>
+ </office:body>
+</office:document>

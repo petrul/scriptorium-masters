@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2017-01-23T11:01:56.154716000</meta:creation-date><dc:date>2019-01-16T12:59:34.284686000</dc:date><meta:editing-duration>PT2H57M30S</meta:editing-duration><meta:editing-cycles>123</meta:editing-cycles><meta:generator>LibreOffice/5.2.6.2$MacOSX_X86_64 LibreOffice_project/a3100ed2409ebf1c212f5048fbe377c281438fdc</meta:generator><dc:creator>Petru Dimulescu</dc:creator><meta:document-statistic meta:table-count="1" meta:cell-count="238" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">451</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">26303</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">28448</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Sheet1">
+       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">57</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">3</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">50</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1107</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">GB</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterName" config:type="string">Samsung ML-2160 Series</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">4gD+/1NhbXN1bmcgTUwtMjE2MCBTZXJpZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU2Ftc3VuZyBNTC0yMTYwIFNlcmllcwAAAAAAAAAAAAAWAAQABAAAAAAAAAAEAAhSAAAEdAAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="35.43pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="GB" style:font-name-asian="Tahoma" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N122P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="GB">£</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N122">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="GB">£</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N122P0"/>
+  </number:currency-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="Arial Unicode MS" style:font-family-asian="&apos;Arial Unicode MS&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Arial Unicode MS" style:font-family-complex="&apos;Arial Unicode MS&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N122"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="32.6pt"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="114.15pt"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="185.1pt"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="81.81pt"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="267.96pt"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:font-name="Liberation Sans" style:font-name-asian="Arial Unicode MS" style:font-name-complex="Arial Unicode MS"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-01-16">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="12:59:19.511031000">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false"/>
+   <table:table table:name="Sheet1" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="1019" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Id</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Autor</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Titlu</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Colecția</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Unde</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Lang</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Grigore Ureche</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Letopisețul țării Moldovei</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ureche-Letopisetul_tarii_Moldovei,_de_cand_s-au_descalecat_tara.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A4]+1" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Alecu Russo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cântarea României și altele</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pașopt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Russo,Alecu-Cantarea_Romaniei.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A5]+1" office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Garabet Ibrăileanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Adela</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ibraileanu,Garabet-Adela.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A6]+1" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Liviu Rebreanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ion</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rebreanu-Ion.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A7]+1" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nicolae Bălcescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Românii supt Mihai-Voievod Viteazul</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pașopt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Balcescu-Romanii_supt_Mihai-Voievod_Viteazul.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A8]+1" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Liviu Rebreanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Crăișorul Horia</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rebreanu-Craisorul_Horia.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A44]+1" office:value-type="float" office:value="8" calcext:value-type="float">
+      <text:p>8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Miron Costin</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Letopisețul țării Moldovei. De neamul moldovenilor</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Costin-Letopisetul_tarii_moldovei_de_la_aaron_voda_incoace.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A11]+1" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Neagoe Basarab</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Învățăturile lui Neagoe Basarab către fiul său Teodosie</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Basarab,N-Invataturile_lui_Neagoe_Basarab_catre_fiul_sau_Teodosie.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A12]+1" office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mateiu Caragiale</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Craii de Curtea Veche</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Caragiale,M-Craii_de_Curtea_Veche.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A13]+1" office:value-type="float" office:value="11" calcext:value-type="float">
+      <text:p>11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nicolae Iorga</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Istoria românilor prin călători</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Iorga-Istoria_romanilor_prin_calatori.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A14]+1" office:value-type="float" office:value="12" calcext:value-type="float">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gib Mihăescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Donna Alba</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mihaescu,G-Donna_Alba.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A15]+1" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Alexandru Odobescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Doamna Chiajna. Mihnea Vodă cel rău. Pseudo-Kynegetikos</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pașopt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Odobescu-Doamna_Chiajna,Mihnea.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A16]+1" office:value-type="float" office:value="14" calcext:value-type="float">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ion Minulescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Roșu, galben și albastru. Corigent la limba română</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Minulescu-Rosu,_galben_si_albastru.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A17]+1" office:value-type="float" office:value="15" calcext:value-type="float">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Liviu Rebreanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pădurea spânzuraților</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rebreanu-Padurea_spanzuratilor.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A18]+1" office:value-type="float" office:value="16" calcext:value-type="float">
+      <text:p>16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mihai Zamfirescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Maidanul cu dragoste</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zamfirescu-Maidanul_cu_dragoste.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="17" calcext:value-type="float">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eugen Lovinescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mite. Bălăuca</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Lovinescu-Mite,Balauca.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="18" calcext:value-type="float">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Panait Istrati</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ciulinii Bărăganului</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Istrati-Ciulinii_Baraganului.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="19" calcext:value-type="float">
+      <text:p>19</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Liviu Rebreanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ciuleandra</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rebreanu-Ciuleandra.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Liviu Rebreanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Răscoala</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rebreanu-Rascoala.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="23" calcext:value-type="float">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Calistrat Hogaș</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pe drumuri de munte</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hogas-Pe_drumuri_de_munte.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="24" calcext:value-type="float">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ioan Slavici</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nuvele</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slavici-Nuvele.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="25" calcext:value-type="float">
+      <text:p>25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ioan Slavici</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mara, Povești și altele</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slavici-Mara,Povesti.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="26" calcext:value-type="float">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ioan Slavici</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Amintiri</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Slavici-Amintiri.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="27" calcext:value-type="float">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dimitrie Cantemir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Istoria ieroglifică</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir-Istoria_ieroglifica.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Emil Gârleanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Din lumea celor care nu cuvântă și alte scrieri</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Garleanu-Scrieri.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="29" calcext:value-type="float">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ion Neculce</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>O samă de cuvinte. Letopisețul țării Moldovei</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Neculce-O_sama_de_cuvinte_Letopiset.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Costache Negruzzi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scrieri</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pașopt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Negruzzi,C-Scrieri.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="31" calcext:value-type="float">
+      <text:p>31</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>George Topârceanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Proze</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interbellum</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Toparceanu-Scrieri.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="32" calcext:value-type="float">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Vasile Alecsandri</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Articole, călătorii, proză, teatru</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pașopt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Alecsandri-Scrieri.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="33" calcext:value-type="float">
+      <text:p>33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mihai Eminescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Basme. Proză</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eminescu-Proza.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="34" calcext:value-type="float">
+      <text:p>34</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mihai Eminescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Publicistică I</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eminescu-Publicistica.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="35" calcext:value-type="float">
+      <text:p>35</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mihai Eminescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Publicistică II</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eminescu-Publicistica_2.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mihail Kogălniceanu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scrieri literare și politice</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pașopt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kogalniceanu-Scrieri_literare_si_politice.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="37" calcext:value-type="float">
+      <text:p>37</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Duiliu Zamfirescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tănase Scatiu. Viața la țară</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zamfirescu,Duiliu-Tanase_Scatiu,Viata_la_tara.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="38" calcext:value-type="float">
+      <text:p>38</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pompiliu Eliade</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Histoire de l’esprit public en Roumanie au dix-neuvième siècle</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eliade,Pompiliu-Histoire_esprit_public_19eme.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:formula="of:=[.A9]+1" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ion Creangă</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Amintiri, povești și altele</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Classique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Creanga-Amintiri_din_copilarie.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="21" calcext:value-type="float">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dimitrie Cantemir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Descrierea Moldovei</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir-Descrierea_Moldovei.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="22" calcext:value-type="float">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dimitrie Cantemir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hronicul vechimii româno-moldo-vlahilor</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ev</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir-Hronicul_vechimei_a_romano-moldo-vlahilor.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="100" calcext:value-type="float">
+      <text:p>100</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jean-Jacques Rousseau</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Du contrat social ou principes du droit politique</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Biblioteca franceză</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rousseau-Contrat_social.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="200" calcext:value-type="float">
+      <text:p>200</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Petru Dimulescu</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#Pythô</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Egraphsen</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dimulescu-Pytho.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="201" calcext:value-type="float">
+      <text:p>201</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir,Dimitrie</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sistemul și întocmirea religiei mahomedane</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>?</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir-Sistemul_si_intocmirea_religiei_muhamedane.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="202" calcext:value-type="float">
+      <text:p>202</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir-Viata_lui_Constantin_Cantemir.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cantemir-Viata_lui_Constantin_Cantemir.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="203" calcext:value-type="float">
+      <text:p>203</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eliade,Pompiliu-Influence_de l_esprit_francais.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Eliade,Pompiliu-Influence_de_l_esprit_francais.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="204" calcext:value-type="float">
+      <text:p>204</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Filimon-Ciocoii.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Filimon-Ciocoii.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="205" calcext:value-type="float">
+      <text:p>205</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Filimon-Nuvele.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Filimon-Nuvele.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="206" calcext:value-type="float">
+      <text:p>206</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ispirescu-Basme.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ispirescu-Basme.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="207" calcext:value-type="float">
+      <text:p>207</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Istrati-ChiraChiralina,MosAnghel.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Istrati-ChiraChiralina,MosAnghel.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="208" calcext:value-type="float">
+      <text:p>208</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Maiorescu-Critice.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Maiorescu-Critice.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="209" calcext:value-type="float">
+      <text:p>209</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zamfirescu,Duiliu-In_razboi.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zamfirescu,Duiliu-In_razboi.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="210" calcext:value-type="float">
+      <text:p>210</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zamfirescu,Duiliu-Publicistica.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zamfirescu,Duiliu-Publicistica.fodt</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>

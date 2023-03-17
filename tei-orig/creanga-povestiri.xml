@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI lang="ro">
+  <teiHeader type="text" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title>POVESTIRI</title>
+        <author>Ion Creangă</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2004-05-17T17:21:52</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority/>
+        <address></address>
+      </publicationStmt>
+      <sourceDesc default="NO">
+        <p>Written by OpenOffice</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage default="NO">
+        <language id="ro">ISO</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2004-05-17T18:40:36</date>
+        <respStmt>
+          <name>Adrian Petru Dimulescu</name>
+        </respStmt>
+        <item>revision</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <titlePart type="main">Povestiri</titlePart>
+      </titlePage>
+      <docAuthor>Ion Creangă</docAuthor>
+    </front>
+    <body>
+      <div org="uniform" sample="complete" part="N">
+        <head>Poveste</head>
+        <p>A fost odată, când a fost, că dacă n-ar fi fost, nu s-ar povesti.</p>
+        <p>Noi nu suntem de pe când poveştile, ci suntem mai dincoace cu vro două-trei zile, de pe când se potcovea puricele cu nouăzeci şi nouă de ocă de fier la un picior şi tot se părea că-i uşor.</p>
+        <p>Cică era odată un om însurat, şi omul acela trăia la un loc cu soacră-sa. Nevasta lui, care avea copil de ţâţă, era cam proastă; dar şi soacră-sa nu era tocmai hâtră.</p>
+        <p>Într-una din zile, omul nostru iese de-acasă după trebi, ca fiecare om. Nevasta lui, după ce-şi scăldă copilul, îl înfăşă şi-i dete ţâţă, îl puse în albie lângă sobă, căci era iarnă; apoi îl legănă şi-l dezmierdă, până ce-l adormi. După ce-l adormi, stătu ea puţin pe gânduri ş-apoi începu a se boci cât îi lua gura: "Aulio! copilaşul meu, copilaşul meu!"</p>
+        <p>Mama ei, care torcea după horn, cuprinsă de spaimă, zvârli fusul din mână şi furca din brâu cât colo şi, sărind fără sine, o întrebă cu spaimă:</p>
+        <p>— Ce ai, draga mamei, ce-ţi este?!</p>
+        <p>— Mamă, mamă! Copilul meu are să moară!</p>
+        <p>— Când şi cum?</p>
+        <p>— Iată cum. Vezi drobul cel de sare pe horn?</p>
+        <p>— Îl văd. Şi?</p>
+        <p>— De s-a sui mâţa, are să-l trântească drept în capul copilului şi să mi-l omoare!</p>
+        <p>— Vai de mine şi de mine, că bine zici, fata mea; se vede că i s-au sfârşit mititelului zilele!</p>
+        <p>— Şi, cu ochii pironiţi la drobul de sare de pe horn şi cu mâinile încleştate, de parcă le legase cineva, începură a-l boci amândouă, ca nişte smintite, de clocotea casa. Pe când se sluţeau ele, cum vă spun, numai iaca şi tatăl copilului intră pe uşă, flămând şi necăjit ca vai de el.</p>
+        <p>— Ce este? Ce v-a găsit, nebunelor? Atunci ele, venindu-şi puţin în sine, începură a-şi şterge lacrimile şi a-i povesti cu mare jale despre întâmplarea neîntâmplată.</p>
+        <p>Omul, după ce le ascultă, zise cu mirare:</p>
+        <p>— Bre! mulţi proşti am văzut eu în viaţa mea, dar ca voi n-am mai văzut. Mă... duc în toată lumea! Şi de-oi găsi mai proşti decât voi, m-oi mai întoarce acasă, iar de nu, ba.</p>
+        <p>Aşa zicând, oftă din greu, ieşi din casă, fără să-şi ia ziua bună, şi plecă supărat şi amărât ca vai de om!</p>
+        <p>Şi mergând el bezmetic, fără să ştie unde se duce, după o bucată de vreme, oprindu-se într-un loc, i se întâmplă iar să vadă ceva ce nu mai văzuse: un om ţinea puţin un oboroc deşert cu gura spre soare, apoi repede-l înşfăca şi intra cu dânsul într-un bordei; pe urmă iar ieşea, îl punea iar cu gura la soare, şi tot aşa făcea... Drumeţul nostru, nedumerit, zise:</p>
+        <p>— Bună ziua, om bun!</p>
+        <p>— Mulţumesc dumitale, prietene!</p>
+        <p>— Da' ce faci aici?</p>
+        <p>— Ia, mă trudesc de vro două-trei zile să car pocitul ist de soare în bordei, ca să am lumină, şi nici că-l pot...</p>
+        <p>— Bre, ce trudă! zise drumeţul. N-ai vrun topor la îndemână?</p>
+        <p>— Ba am.</p>
+        <p>— Ia-l de coadă, sparge ici, şi soarele va intra singur înlăuntru.</p>
+        <p>Îndată făcu aşa, şi lumina soarelui intră în bordei.</p>
+        <p>— Mare minune, om bun, zise gazda. De nu te-aducea Dumnezeu pe la noi, eram să îmbătrânesc cărând soarele cu oborocul.</p>
+        <p>"Încă un tont", zise drumeţul în sine şi plecă. Şi mergând el tot înainte, peste câtva timp ajunse într-un sat şi, din întâmplare, se opri la casa unui om. Omul de gazdă, fiind rotar, îşi lucrase un car şi-l înjghebase, în casă, în toată întregimea lui; ş-acum, voind să-l scoată afară, trăgea de proţap cu toată puterea, dar carul nu ieşea. Ştiţi pentru ce? Aşa: uşile erau mai strâmte decât carul. Rotarul voia acum să taie uşorii, spre a scoate carul. Noroc însă că drumeţul l-a învăţat să-l desfacă în toate părţile lui, să le scoată pe rând afară ş-apoi iarăşi să-l înjghebe la loc.</p>
+        <p>— Foarte mulţumesc, om bun, zise gazda; bine m-ai învăţat! Ia uită-te dumneata! Era să dărâm bunătate de casă din pricina carului...</p>
+        <p>De aici drumeţul nostru, mai numărând un nătărău, merse tot înainte, până ce ajunse iară la o casă. Acolo, ce să vadă? Un om, c-un ţăpoi în mână, voia s-arunce nişte nuci din tindă în pod.</p>
+        <p>"Din ce în ce dau peste dobitoci", zise drumeţul în sine.</p>
+        <p>— Da' ce te frămânţi aşa, om bun?</p>
+        <p>— Ia, vreau să zvârl nişte nuci în pod, şi ţăpoiul ista, bată-l scârba să-l bată, nu-i nici de-o treabă...</p>
+        <p>— Că degeaba te trudeşti, nene! Poţi să-l blestemi cât l-îi blestema, habar n-are ţăpoiul de scârbă. Ai un oboroc?</p>
+        <p>— Da' cum să n-am?!</p>
+        <p>— Pune nucile într-însul, ia-l pe umăr şi suie-le frumuşel în pod, ţăpoiul e pentru paie şi fân, iar nu pentru nuci.</p>
+        <p>Omul ascultă, şi treaba se făcu îndată. Drumeţul nu zăbovi nici aici mult, ci plecă, mai numărând şi alt neghiob.</p>
+        <p>Apoi, de aici merse mai departe, până ce ajunse ca să mai vadă aiurea şi altă năzbâtie. Un om legase o vacă cu funia de gât, şi suindu-se pe-o şură, unde avea aruncat oleacă de fân, trăgea din răsputeri de funie, să urce vaca pe şură. Vaca răgea cumplit, şi el nu mai putea de ostenit...</p>
+        <p>— Măi omule! zise drumeţul, făcându-şi cruce; dar ce vrei să faci?</p>
+        <p>— Ce să fac, mă-ntrebi? Da' nu vezi?</p>
+        <p>— Ba văd, numai nu pricep.</p>
+        <p>— Ia, haramul ista e hămesit de foame şi nu vrea nici în ruptul capului să vină după mine sus, pe astă şură, să mănânce fân...</p>
+        <p>— Stai puţin, creştine, că spânzuri vaca! Ia fânul şi-l dă jos la vacă!</p>
+        <p>— Da' nu s-a irosi?...</p>
+        <p>— Nu fi scump la tărâţe şi ieftin la făină. Atunci omul ascultă, şi vaca scăpă cu viaţă.</p>
+        <p>— Bine m-ai învăţat, om bun! Pentru-un lucru de nimica eram cât pe ce să-mi gâtui vaca!</p>
+        <p>Aşa drumeţul nostru, mirându-se şi de această mare prostie, zise în sine: "Mâţa tot s-ar fi putut întâmpla să dea drobul de sare jos din horn; dar să cari soarele în casă cu oborocul, să arunci nucile în pod cu ţăpoiul şi să tragi vaca pe şură, la fân, n-am mai gândit!"</p>
+        <p>Apoi drumeţul se întoarse acasă şi petrecu lângă ai săi, pe care-i socoti mai cu duh decât pe cei ce văzuse în călătoria sa. Ş-am încălecat pe-o şa, ş-am spus povestea aşa. Ş-am încălecat pe-o roată, ş-am spus-o toată. Ş-am încălecat pe-o căpşună, şi v-am spus, oameni buni, o mare minciună!</p>
+      </div>
+      <div org="uniform" sample="complete" part="N">
+        <head>Moş Nichifor coţcariul</head>
+        <p>Moş Nichifor nu-i o închipuire din poveşti, ci e un om ca toţi oamenii; el a fost odată, când a fost, trăitor din mahalaua Ţuţuenii din Târgul Neamţului, dinspre satul Vânătorii Neamţului. Cam pe vremea aceea trăia moş Nichifor în Ţuţueni, pe când bunicul bunicului meu fusese cimpoiaş la cumătria lui moş Dediu din Vânători, fiind cumătru mare Ciubăr-vodă, căruia moş Dediu i-a dăruit patruzeci şi nouă de mioare, oacheşe numai de câte un ochi; iară popă, unchiul unchiului mamei mele, Ciubuc Clopotarul de la Mănăstirea Neamţului, care făcuse un clopot mare la acea mănăstire, cu cheltuiala lui, şi avea dragoste să-l tragă singur la sărbători mari; pentru aceea îi şi ziceau Clopotarul. Tocmai pe acea vreme trăia şi moş Nichifor din Ţuţueni.</p>
+        <p>Moş Nichifor era harabagiu. Căruţa lui, deşi era ferecată cu teie, cu curmeie, însă era o căruţă bună, încăpătoare şi îndemânatică. Un poclit de rogojini oprea şi soarele şi ploaia de a răzbate în căruţa lui moş Nichifor. De inima căruţei atârnau păcorniţa cu feleştiocul şi posteuca, care se izbeau una de alta, când mergea căruţa, şi făceau: tronca, tranca! tronca, tranca! Iară în belciugul de la carâmbul dedesubt, din stânga, era aninată o bărdiţă, pentru felurite întâmplări. Două iepe, albe ca zăpada şi iuţi ca focul, se sprijineau mai totdeauna de oiştea căruţei; mai totdeauna, dar nu totdeauna, căci moş Nichifor era şi geambaş de cai, şi când îi venea la socoteală, făcea schimb, ori vindea câte-o iapă chiar în mijlocul drumului, şi atunci rămânea oiştea goală pe de-o parte. Îi plăcea moşneagului să aibă tot iepe tinere şi curăţele; asta era slăbiciunea lui. Mă veţi întreba, poate: De ce iepe, şi totdeauna albe? Vă voi spune şi aceasta: iepe, pentru că moş Nichifor ţinea să aibă prăsilă; albe, pentru că albeaţa iepelor, zicea el, îi slujea de fanar noaptea la drum.</p>
+        <p>Moş Nichifor nu era dintre aceia care să nu ştie "că nu-i bine să te pui viziteu la cai albi şi slugă la femei"; el ştia şi aceasta, dar iepele erau ale lui, şi, când le grijea, grijite erau, iar când nu, n-avea cine să-i bănuiască.</p>
+        <p>Moş Nichifor fugea de cărăuşie, de-şi scotea ochii; el se ferea de ridicături, pentru că se temea de surpătură.</p>
+        <p>Harabagia, zicea el, e mai bună, că ai a face tot cu marfă vie, care la deal se dă pe jos, la vale, pe jos, iar la popas, în căruţă. Moş Nichifor avea o biciuşcă de cele de cânepă, împletită de mâna lui şi cu şfichiul de mătase, cu care pocnea de-ţi lua auzul. Şi cu încărcat şi cu descărcat, la deal moş Nichifor se da pe jos şi trăgea de-a valma cu iepele. La vale iar se da jos, ca să nu se spetească iepele. Chiriaşii, vrând- nevrând, trebuiau să se dea şi ei, căci le era lehamete de morocăneala lui moş Nichifor, care îndată troncănea câte una cam de aceste:</p>
+        <p>— Ia mai daţi-vă şi pe jos, căci calul nu-i ca dobitocul, să poată vorbi...</p>
+        <p>Dacă ştiai să potriveşti din gât pe moş Nichifor, apoi era cât se poate de şăgalnic. De întâlnea vrun om călare, pe drum, întreba: "Departe ai lăsat pe vodă, voinice?" Şi apoi îndată da bici iepelor, zicând:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Alba-nainte, alba la roate,</l>
+          <l part="N">Oiştea goală pe de-o parte.</l>
+        </lg>
+        <p>Hii! opt-un cal, că nu-s departe Galaţii, hii!!! De întâlnea pe drum neveste şi fete mari, cânta cântece şăgalnice, de-alde-aceste:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Când cu baba m-am luat</l>
+          <l part="N">Opt ibovnice-au oftat:</l>
+          <l part="N">Trei neveste cu bărbat</l>
+          <l part="N">Şi cinci fete dintr-un sat ş.a.</l>
+        </lg>
+        <p>Ei, ei! Apoi zi că nu-ţi venea să porneşti la drum, mai ales în luna lui mai, cu asemenea om vrednic şi de-a pururea vesel! Câteodată numai, când prin dreptul crâşmei te făceai niznai şi nu ştiai să potriveşti din gât pe moş Nichifor, nu-l prea vedeai în cheji buni, dar şi atunci tot repede mâna de la o crâşmă până la alta.</p>
+        <p>Mai ales într-un rând îi plăcea lui moş Nichifor două iepuşoare, care mergeau de minune la drum. Dar la crâşmă, mort-copt, trebuiau să stea, căci le cumpărase de la un popă, nefiind pe vremea aceea pojărnicii, de unde să cumpere altele, care să ţină fuga tot întruna!</p>
+        <p>Spunea tata că i-au spus şi lui bătrânii, care auziseră din gura lui moş Nichifor, că pe vremea aceea era bine să fii harabagiu în Târgul-Neamţului, că te-apucau pe-a-mâinile. Cum ieşeai din Văratic, intrai în Agapia, şi cum ieşeai din Agapia, intrai în Văratic: apoi în Războieni, apoi pe la mitoace, şi aveai muşterii, de nu erai bucuros; ba să-i duci la Piatra, ba la Folticeni, ba pe la iarmaroace, ba la Mănă- stirea Neamţului, ba la Secu, ba la Râşca, ba în toate părţile, pe la hramuri.</p>
+        <p>Tot tata mai spunea că ar fi auzit de la bunicul bunicului meu că protopopul de la Neamţ, de pe vremea aceea, ar fi zis unor călugăriţe, care pribegeau în săptămâna mare prin târg:</p>
+        <p>— Maicelor!</p>
+        <p>— Blagosloveşte, cinstite părinte!</p>
+        <p>— De ce nu vă astâmpăraţi în mănăstire şi să vă căutaţi de suflet, măcar în săptămâna patimilor?</p>
+        <p>— Apoi dă, cinstite părinte, cică ar fi răspuns ele cu smerenie, lâna asta ne mănâncă, păcatele noastre... Dar n-am mai veni noi, căci, cum ştii sfinţia-ta, mai mult cu şiacul ne hrănim, şi apoi, de nu curge, măcar picură, şi cine mişcă tot pişcă.</p>
+        <p>Protopopul atunci, sărmanul, cic-ar fi oftat din greu, înghiţind noduri..., şi ar fi dat vina tot pe moş Nichifor, zicând:</p>
+        <p>— De-ar crăpa odată să crape şi harabagiul care v-a adus! C-atunci ştiu că n-ar avea cine să vă mai cărăbănească aşa de des pe la târg.</p>
+        <p>Şi cică auzind moş Nichifor de aceasta, tare s-ar fi mâhnit în sufletul său şi s-ar fi jurat cu jurământ ca să nu mai aibă a face cu parte duhovnicească cât a trăi el; căci, din păcate, era şi evlavios moş Nichifor şi tare se mai temea să nu cadă sub blestemul preoţesc! De-aceea, cu fuga a alergat la schitul Vovidenia, la pusnicul Chiriac din sfânta Agură, care-şi cănea părul şi barba cu cireşe negre, şi în Vinerea Seacă, prea cuviosul cocea oul la lumânare, ca să mai uşureze din cele păcate. Şi apoi s-a hotărât el ca de-acum înainte să aibă a face mai mult cu parte negustorească.</p>
+        <p>— Numai negustorul, zicea moş Nichifor, trăieşte din seul său şi pe seama lui. Când întrebai: "Pentru ce?" moş Nichifor răspundea, tot glumeţ: "Pentru că n-are Dumnezeu stăpân".</p>
+        <p>De glumeţ, glumeţ era moş Nichifor, nu-i vorbă, dar de multe ce dăduse peste dânsul, se făcuse cam hursuz.</p>
+        <p>Băbătia lui, de la o vreme încoace, nu ştiu ce avea, că începuse a scârţâi: ba c-o doare ceea, ba c-o doare ceea, ba i-e făcut de năjit, ba că i-e făcut pe ursită, ba că i-e făcut de plânsori şi tot umbla din babă în babă cu descântece şi cu oblojeli, încât lui moş Nichifor acestea nu-i prea veneau la socoteală, şi de-aceea nu-i erau acum mai niciodată boii acasă. Ba chiar se făcuse buclucaş, hărţăgos şi de tot hapsân, când sta câte două-trei zile pe lângă casă, încât biata băbuşca lui era bucuroasă uneori şi răsbucuroasă în sufletul ei să-l vadă cum l-a vedea urnit de-acasă.</p>
+        <p>Se vede lucru că şi moş Nichifor era făcut pe drumuri, căci cum ieşea afară la drum parcă era altul; nu mai sta din pocnit cu biciul, de şuguit cu toţi drumeţii pe câţi îi întâlnea şi de povestit despre toate locurile însemnate pe unde trecea.</p>
+        <p>Într-o dimineaţă, miercuri înainte de Duminica Mare, moş Nichifor deciocălase căruţa şi-o ungea; când numai iaca se trezeşte la spatele lui cu jupân Strul din Târgul-Neamţului, negustor de băcan, iruri, ghileală, sulimeneală, boia de păr, chiclazuri, piatră-vânătă, piatra sulimanului sau piatră bună pentru făcut alifie de obraz, salcie, fumuri şi alte otrăvuri.</p>
+        <p>Pe vremea aceea nu era spiţerie în Târgul-Neamţului, şi jupânul Strul aducea, pentru hatârul călugărilor şi al călug ăriţelor, tot ce le trebuia. Mai făcea el, nu-i vorbă, şi alte negustorii... În sfârşit, nu ştiu cum să vă spun, era mai mult decât duhovnicul, că fără de dânsul nu puteau mănăstirile.</p>
+        <p>— Muni dimineaţă, moş Nichifor!</p>
+        <p>— Bună să-ţi fie inima... jupâne Strul. Da' cu ce treabă ai venit pe la noi?</p>
+        <p>— Ia, noră-mea vrea să meargă la Piatra. Cât să-ţi dau ca să mi-o duci?</p>
+        <p>— D-apoi a fi având chilotă multă, cum e treaba d-voastră, jupâne, zise moş Nichifor, scărpinându-se în cap; numai nu-i vorbă, că poate să aibă, căci şi căruţa mea e largă; poate să încapă într-însa cât de mult. Apoi, fără să ne zbatem, jupâne Strul, mi-i da şasesprezece lei, un irmilic de aur, şi ţi-oi duce-o, ştii colè, ca pe palmă; că, după cum vezi, căruţa acum am adus-o de la încălţat şi i-am mai tras şi o unsoare de cele a dracului, de are să meargă cum e sucala.</p>
+        <p>— Ai să laşi cu nouă lei, moş Nichifor, şi te-a mai cinsti şi fecioru-meu la Piatra.</p>
+        <p>— Apoi dar, dă! cu bine să dea Dumnezeu, jupâne Strul! Mă bucur şi eu că-i tocmai în dricul iarmarocului şi poate mi-a pica ceva şi când voi veni înapoi. Numai aş vrea să ştiu, când avem să pornim?</p>
+        <p>— Şi acuma, moş Nichifor, dacă eşti gata.</p>
+        <p>— Gata, jupâne Strul, numai s-adăp iepuşoarele aceste. Du-te şi d-ta de-ţi pune nora la cale, că acuş te-ajung şi eu din urmă.</p>
+        <p>Şi cum era moş Nichifor strădalnic şi iute la trebile lui, repede zvârle nişte coşolină în căruţă, aşterne deasupra o pereche de poclăzi, înhamă iepuşoarele, îşi ia cojocul între umeri şi biciul în mână şi tiva, băiete! N-apucase jupânul Strul a ajunge bine acasă, şi moş Nichifor şi trăsese căruţa dinaintea uşii.</p>
+        <p>Malca — aşa era numele nurorii lui jupân Strul — a ieşit afară să-şi vadă harabagiul. Ş-apoi, povestea cântecului; las' că era de la Piatră de locul ei, dar era şi îmbujorată Malca... din pricina plânsului, că se despărţeşte de socri, pentru că întâiaşi dată venise ea la Neamţ, de cale primară la socri, cum se zice la noi. Căci nu erau mai mult decât două săptămâni de când se măritase ea după Iţic, feciorul lui jupân Strul, sau mai bine ar fi să zic, în voia cea bună, că se măritase Iţic după Malca; căci el lăsase casa părintească, după cum li-i obiceiul, şi la două săptămâni Iţic au adus pe Malca la Neamţ, a încredinţat-o în mâna părinţilor lui şi s-a întors repede la Piatra, să se gândească pe negustorie.</p>
+        <p>— Da' te-ai ţinut de cuvânt, moş Nichifor!</p>
+        <p>— Apoi dă, jupâne Strul, vorba-i vorbă: eu nu mă cioşmolesc atâta, că la drum e bine să porneşti cât de dimineaţă, iar seara să poposeşti devreme!</p>
+        <p>— Oare-i ajunge până deseară la Piatra, moş Nichifor?</p>
+        <p>— Ă... ra! da' ce stai de vorbeşti, jupâne Strul? Eu gândesc, de mi-a ajuta Dumnezeu, pe după amiază să-ţi pun nora în Piatra.</p>
+        <p>— D-ta, moş Nichifor, eşti om purtat, ştii mai bine decât mine, dar tot te rog să mâi cu băgare de seamă, ca să nu-mi prăvali nora!</p>
+        <p>— Dacă doar nu-s harabagiu de ieri de-alaltăieri, jupâne Strul! Am mai umblat eu cu cucoane, cu maice boieroaice şi cu alte feţe cinstite, şi, slavă Domnului! nu s-au plâns de mine... Ia, numai cu maica Evlampia, desăgăriţa din Văratic, am avut eu odată oleacă de clenci: că, oriunde mergea, avea obicei să-şi lege vaca dinapoia căruţei, pentru schiverniseală, ca să aibă lăptişor la drum; şi cu asta-mi aducea mare supărare, pentru că vaca, ca vaca, îmi irosea ogrinjii din căruţă, ba câteodată rupea leuca, ba la deal se smuncea, de era, într-un rând, cât pe ce să-mi gâtuiască iepuşoarele. Şi eu, cum îi omul la necaz, îndrăzneam să zic: "Măicuţă, de ce eşti scumpă la tărâţe şi ieftină la făină?" Ea atunci se uita galeş la mine şi-mi zicea cu glas duios: "Ia taci şi d-ta, moş Nichifor, taci, nu mai striga atâta pe biata văcuşoară, pentru că ea, mititica, nu-i vinovată cu nimic. Părinţii pusnici din sfânta Agură mi-au dat canon să mănânc lapte numai de la o vacă, ca să nu îmbătrânesc degrabă; şi dă, ce să fac? trebuie să-i ascultăm, că sfinţiile lor ştiu mai multe decât noi, păcătoasele!" Dacă am auzit aşa, am zis şi eu, în gândul meu, că are întrucâtva dreptate maica desăgăriţa, şi am lăsat-o în plata lui Dumnezeu, pentru că am văzut-o că este pidosnică şi voieşte cu orice chip să se adape de la un izvor. D-ta, jupâne Strul, cred că nu mi-i face necaz la drum şi cu vaci. Şi apoi, giupâneşica Malca, unde-a fi vale mare ori deal mare, s-a mai da şi pe jos câte-oleacă; mai ales că acum e o frumuseţe afară la câmp, de turbă haita! Da' ia să nu ne trecem vremea cu vorbele. Hai sus, giupâneşică Malca, să te duc la bărbăţel acasă; ştiu eu cum îi treaba nevestelor celor tinere, când nu-s bărbaţii cu dânsele: fac zâmbre şi trag acasă, cum trage calul la traista cu orz.</p>
+        <p>Iaca, mă sui, moş Nichifor!</p>
+        <p>Şi îndată încep cu toţii a cărăbăni la saltele cu puf, perini moi, o legătură cu demâncare şi alte mărunţişuri. Apoi Malca îşi ia ziua bună de la socri şi se suie deasupra saltelelor, în fundul căruţei. Iară moş Nichifor se azvârle pe capră, dă bici iepelor şi lasă pe jupânul Strul şi cu ai săi cu lacrimile pe obraz.</p>
+        <p>Prin târg, aşa mâna de tare moş Nichifor, de ţi se părea că zboară iepele, nu altăceva.</p>
+        <p>Prundul, satul şi dealul Humuleştilor le-a trecut într-o clipă. De la Ocea până aproape de Grumăzeşti a ţinut numai o fugă.</p>
+        <p>Dar de pe la Grumăzeşti încolo, moş Nichifor a ras o duşcă de rachiu din plosca lui cea de Braşov, şi-a aprins luleaua şi a început a lăsa iepele mai la voie.</p>
+        <p>— Doamne, jupâneşică, Doamne! Vezi satul ista mare şi frumos? se cheamă Grumăzeştii. De-aş avea eu atâţia gonitori în ocol şi d-ta atâţia băieţi, câţi cazaci, căpcâni şi alte lifte spurcate au căzut morţi aici din vreme în vreme, bine- ar mai fi de noi!</p>
+        <p>— Să te-audă Dumnezeu, să am băieţi, moş Nichifor!</p>
+        <p>— Asemene şi eu gonitori, jupâneşică... că de băieţi nu mai trag nădejde, pentru că baba mea e o sterpătură; n-a fost harnică să-mi facă nici unul, nu i-ar muri mulţi înainte să-i moară! De oi pune eu mâinile pe piept, are să rămână căruţa asta de haimana şi iepuşoarele de izbelişte!</p>
+        <p>— Nu te supăra, moş Nichifor, zise Malca, că poate aşa a fost să fie de la Dumnezeu; pentru că aşa scrie şi la noi în cărţi despre unii, că tocmai la bătrâneţe au făcut copii!</p>
+        <p>— Ia lasă-mă, jupâneasă, cu cărţile cele a d-voastre în pace, că eu ştiu ce ştiu eu, degeaba mai baţi apa-n chiuă să s-aleagă unt, că nu s-a alege niciodată! Am auzit şi eu spunând în biserică la noi că "Pomul care nu face roadă se taie şi în foc se aruncă". Apoi ce-ţi trebuie mai bună vorbă decât asta? Ba zău, încă mă mir c-am avut răbdare să ţin casa cu baba pân-acum. În privinţa asta, îi mai bună legea d-voastră de-o mie de ori. Nu-ţi face una copii, iei alta, nu face nici aceea, alta. Şi de la o vreme trebuie să nimereşti una blagoslovită de Dumnezeu; da nu ca la noi, să fii nevoit să trăieşti cu una beteagă până la sfârşitul vieţii, şi copii, tufă! Că doar Dumnezeu cel mare şi puternic nu s-a răstignit numai pentru un om pe lumea asta! Nu-i aşa, jupâneşică? Mai zi, dacă ai ce!</p>
+        <p>— Poate să fie ş-aşa, moş Nichifor.</p>
+        <p>— Ba chiar aşa-i, jupâneşică dragă, cum îţi spun eu. Ptru! ciii!... Da' bună bucată am mers! Doamne, cum se ia omul la drum cu vorba şi, când se trezeşte, cine ştie unde a ajuns; bun lucru a mai lăsat Dumnezeu sfântul şi tovărăşia asta! Hi!!! zmeoaicele tatei, îndemnaţi înainte! Iaca şi codrul Grumăzeştilor, grija negustorilor şi spaima ciocoilor. Hei! jupâneşică, când ar avea codrul ista gură să spună câte a văzut, cumplită pătăranie ne-ar mai auzi urechile; ştiu că am avea ce asculta!</p>
+        <p>— Da' ce-a fost pe-aici, moş Nichifor?</p>
+        <p>— Of! jupâneşică, of! Ce-a fost, să nu dea Dumnezeu să mai fie! Dar avea cineva chip să treacă pe-aici, fără să fie jefuit, bătut ori omorât? Nu-i vorbă, că acestea se întâmplă mai mult noaptea decât ziua. Însă pe mine, unul, de n-aş grăi într-un ceas rău, până acum, dă, m-a ferit Dumnezeu. Lupi şi alte dihănii mi-au ieşit înainte câteodată, dar nu le-am făcut nimica; le-am dat bună pace, m-am făcut că nici nu-i văd, şi ei s-au dus în treaba lor.</p>
+        <p>— Ă...ra! moş Nichifor, nu mai spune de lup, că tare mă tem! V-am spus că era şăgalnic moş Nichifor, şi, când spunea câte una, ori te ţineai cu mâna de inimă, râzând, ori te făcea să-ţi sară inima din loc, de frică.</p>
+        <p>— Iaca un lup vine spre noi, jupâneşică!</p>
+        <p>— Vai de mine, moş Nichifor, unde să mă ascund eu?</p>
+        <p>— Despre mine, ascunde-te unde ştii, că eu, unul, ţi-am spus că nu mă tem nici de-o potaie întreagă.</p>
+        <p>Atunci biata Malcă, de frică, s-a încleştat de gâtul lui moş Nichifor şi s-a lipit de dânsul, ca lipitoarea. A şezut ea aşa cât a şezut şi apoi a zis tremurând:</p>
+        <p>— Unde-i lupul, moş Nichifor?</p>
+        <p>— Unde să fie?! Ia, a trecut drumul pe dinaintea noastră şi a intrat iar în pădure. Dar cât pe ce erai să mă gâtui, jupâneşică, ş-apoi, dacă scăpam iepele, ştiu că era frumos.</p>
+        <p>N-apucă a sfârşi bine moş Nichifor, şi Malca zice cătinel:</p>
+        <p>— Să nu mai zici că vine lupul, moş Nichifor, că mă vâri în toate boalele!</p>
+        <p>— Nu că zic eu, da' chiar vine, iacătă-l-ăi!</p>
+        <p>— Valeu! Ce spui? Şi iar se ascunde lângă moş Nichifor.</p>
+        <p>— Ce-i tânăr, tot tânăr; îţi vine a te juca, jupâneşică, aşa-i? şi, după cum văd, ai noroc că eu îmi ţin firea, nu mă prea tem de lup; dar să fie altul în locul meu...</p>
+        <p>— Nu mai vine lupul, moş Nichifor?</p>
+        <p>— Apoi, na! eşti de tot poznaşă şi d-ta; prea des vrei să vină, că doar nu-i de tot copacul câte un lup! Ia, pe la Sfântul Andrei umblă şi ei mai câte mulţi la un loc. Ş-apoi, vânătorii ce păzesc? La goană mare, crezi d-ta că puţini lupi dau cinstea pe ruşine, lăsându-şi pieile zălog? Să mai răsuflăm iepele oleacă. Iaca şi Dealul Balaurului, jupâneşică! Ia, aici a căzut odată un balaur grozav de mare, care vărsa jăratic pe gură, şi când şuiera, clocotea codrul, gemeau văile, fiarele tremurau şi se băteau cap în cap, de spaimă, şi ţipenie de om nu cuteza să mai treacă pe aici.</p>
+        <p>— Valeu! şi unde-i balaurul, moş Nichifor?</p>
+        <p>— D-apoi mai ştiu eu, jupâneşică? Pădurea-i mare, el ştie unde s-a fi înfundat! Unii spun că după ce a mâncat foarte mulţi oameni şi a ros toată coaja copacilor din codru, ar fi crăpat chiar aici, în locul acesta. De la unii am auzit spunând că i-ar fi dat lapte de vacă neagră şi cu acesta l-ar fi făcut să se ridice iar la cer, de unde a căzut. Mai ştiu eu pe cine să cred?... Că oamenii vorbesc vrute şi nevrute. Noroc numai că eu unul ştiu solomonii şi nu mă prea tem nici de balauri. Pot să prind şarpele din culcuş, cum ai prinde d-ta un pui de găină din pătul.</p>
+        <p>— Da' ce-s acele solomonii, moş Nichifor?</p>
+        <p>— Ei, jupâneşică dragă, asta nu se poate spune. Eu, babei mele, că merge pe douăzeci şi patru de ani, de când trăiesc cu dânsa, şi ce n-a făcut ea şi cât nu m-a cihăit de cap să-i spun, şi tot nu i-am spus. Şi ea, din pricina asta are să moară, când a muri, de nu i-ar muri mulţi înainte; că atunci mi-aş lua şi eu una tinerică, şi macar trei zile să trăiesc în ticnă cu dânsa, cum ştiu eu, şi apoi să mor! M-am săturat până-n gât de mucegaiul de babă, că hojma mă morocăneşte şi-mi scoate ochii cu cele tinere. Când gândesc, amărâtul de mine, că am să mă întorc iar la dânsa acasă, îmi vine să turbez, să iau câmpii, nu altăceva.</p>
+        <p>— Ia lasă, lasă, moş Nichifor, că aşa sunteţi d-voastră, bărbaţii.</p>
+        <p>— Ei, ei! jupâneşică, iată-ne şi aproape de vârful codrului! Ia mai dă-te şi d-ta oleacă pe jos, pân' vom sui dealul, că nu mi-i de alta, dar mă tem că-i înţepeni în căruţă. Uite florile cele frumoase de prin marginea pădurii cum umplu văzduhul de miroznă! Şi d-ta să şezi ghemuită acolo, nu-i păcat de Dumnezeu?</p>
+        <p>— Mă tem de lup, moş Nichifor, zise Malca, tremurând.</p>
+        <p>— Ia mai sfârşeşte odată cu lupul cela! Altăceva n-ai de vorbit?</p>
+        <p>— Stai dară să mă dau jos!</p>
+        <p>— Ptru! ciii!... Sai binişor pe ici, pe crucea căruţei. Ho... pa! Ia, acum te văd şi eu că eşti voinică; aşa mi-e drag să fie omul: fătat, nu ouat.</p>
+        <p>Şi pe când Malca culegea nişte dumbravnic, să ducă lui Iţic, moş Nichifor stătuse în loc şi nu ştiu ce bichirea şi cisluia primprejurul căruţei. Apoi repede strigă:</p>
+        <p>— Gata eşti, jupâneşică? Hai, sui, şi să pornim cu ajutorul lui Dumnezeu, că de-acum e tot vale mai mult.</p>
+        <p>Malca, după ce se suie, întreabă:</p>
+        <p>— Oare nu-i târziu, moş Nichifor?</p>
+        <p>— D-apoi de acum suntem scăpaţi deasupra nevoii; acuş te pun în Piatra. Ş-odată dă bici iepelor, zicând:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Alba-nainte, alba la roate,</l>
+          <l part="N">Oiştea goală pe de-o parte.</l>
+        </lg>
+        <p>Hii! opt-un cal, că nu-s departe Galaţii, hii!!! N-apucă a merge nici douăzeci de prăjini, şi prrr! se rupse un capăt!</p>
+        <p>— Na, asta încă-i una!</p>
+        <p>— Vai de mine, moş Nichifor, avem să înnoptăm în pădure!</p>
+        <p>— Ia nu mai meni a rău, jupâneşică, că doar n-am păţit eu asta numai o dată în viaţa mea. Până-i îmbuca d-ta ceva, şi iepele iestea ş-or şterge gura c-oleacă de coşolină, eu am şi pus capătul.</p>
+        <p>Când se uită moş Nichifor la belciug, bărdiţa nicăieri!</p>
+        <p>— Apoi toate-au fost cum au fost, zise moş Nichifor, încreţind din sprâncene şi oţărându-se, dar asta pică de coaptă. Bat-o Dumnezeu de babă s-o bată! Iaca cum îngrijeşte ea de mine! Aşa-i că nu-i securea?</p>
+        <p>Malca, sărmana, când mai aude şi asta, începe a suspina şi a zice:</p>
+        <p>— Moş Nichifor, ce facem noi?</p>
+        <p>— Ia las', jupâneşică, nu te împuţina cu inima, că tot mai am oleacă de nădejde.</p>
+        <p>Ş-odată scoate bulicherul din teacă, îl dă pe amânar şi începe a ciocârti un gârneţ de stejar din anul trecut... L-a tăiat el cum l-a tăiat, apoi a început a cotrobăi prin chilna căruţei, să găsească nişte frânghie; dar de unde să iei dacă n-ai pus?</p>
+        <p>Dacă vede şi vede, taie băierile de la traistă, mai căpeţala din capul unei iepe şi face cum poate, de leagă gârneţul unde trebuia; pune roata la loc, vâră leuca, suceşte lamba ş-o strânge la scară; apoi îşi aprinde cioanca şi zice:</p>
+        <p>— Iaca, jupâneşică dragă, cum învaţă nevoia pe om ce să facă... Cu moş Nichifor ţuţuianul nu piere nimene la drum. De-acum, numai să te ţii bine de carâmbi şi de speteze, că am să mân iepele iestea de au să scapere fugind. Da' să ştii d-ta că babei mele n-are să-i fie moale când m-oi întoarce acasă... Am s-o iau de cânepa dracului şi am s-o învăţ eu cum trebuie să caute altă dată de bărbat; că femeia nebătută e ca moara neferecată. Ţine-te, jupâneşică! Hi, ha!!!</p>
+        <p>Ş-odată încep iepele a fugi, de pârâiau roatele şi sărea colbul în naltul cerului. La vro câteva obraţuri, gârneţul s-a înfierbântat, s-a muiat şi... folfenchiu! iar sare roata!</p>
+        <p>— Bre! c-anapoda lucru; se vede că azi-dimineaţă mi-a ieşit înainte vrun popă, sau dracu ştie ce!</p>
+        <p>— Moş Nichifor, ce facem noi?</p>
+        <p>— Om face noi ce-om face, jupâneşică. Dar acum, deodată, linişteşte-te acolo şi taci molcum. Bine că nu s-a întâmplat asta în mijlocul câmpului, undeva. Lemne, slavă Domnului, sunt deajuns şi de-ntrecut în pădure. Poate să ne-ajungă cineva din urmă ori să ne întâmpine cineva dinainte şi să-mi împrumute vro secure. Şi cum vorbea, numai iaca că vede venind un om din urmă cu traista în băţ.</p>
+        <p>— Bun ajuns, om bun! Aşă-i că s-a stricat drumul în mijlocul căruţei?</p>
+        <p>— Ia las' şaga la o parte, măi omule, şi mai bine vin' de-mi ajută să pun capătul ista, că vezi că-mi crapă inima de necaz.</p>
+        <p>— D'apoi eu mă grăbesc să ajung la Oşlobeni. D-ta poţi să mâi astă-noapte şi în pădure; nu cred că-i muri de urât!</p>
+        <p>— Mă mir că nu ţi-e oarecum, să-ţi fie, zise Nichifor posomorât; eşti un cheag zbârcit, mai ca şi mine, şi iaca ce-ţi urlă prin cap!...</p>
+        <p>— Da' nu-ţi fie cu bănat, om bun, că am şuguit şi eu. Bun rămas! Te-a învăţa Dumnezeu ce să faci... şi s-a tot dus înainte.</p>
+        <p>— Vezi, jupâneşică, câtu-i de-a dracului lumea asta? Numai de pleşcuit umblă. Ia să fie un antal cu vin ori cu rachiu, şi să vezi atunci, ar şedea carul stricat atâta timp în mijlocul drumului? Cum văd eu, tot moş Nichifor are să facă ce a face. Ia să mai fac o încercare.</p>
+        <p>Şi iar începe a tăia alt gârneţ. Mocoşeşte el cât mocoşeşte, până îl pune şi pe acela. Apoi dă bici iepelor şi iar mai trage un ropot; când, numai iaca ce ajunge roata de-o teşitură, şi iar se rupe capătul.</p>
+        <p>— Acuma, jupâneşică, mai că-mi vine să zic şi eu ca omul cela, că are să ne fie masul în pădure.</p>
+        <p>— Vai de mine şi de mine, moş Nichifor, ce spui?!</p>
+        <p>— Ia! spun şi eu ce văd cu ochii. Uită-te! Nu vezi şi d-ta că dă soarele după deal, şi noi tot pe loc stăm? Da' nu-i nimica, jupâneşică, să n-ai nici o grijă, că ştiu eu o poiană în pădure, chiar aici, pe-aproape; să tragem acolo, şi suntem ca şi în casă la noi. Locul e ferit, şi iepele au ce paşte. D-ta te-i culca în căruţă, şi eu te-oi străjui toată noaptea. Helbet, o noapte nu-i legată de gard, a trece ea cum a trece, dar a pomeni ea baba mea, câte zilişoare a avea, de necazul acesta, că numai din pricina ei mi se trage...</p>
+        <p>— Apoi dar, fă cum ştii, moş Nichifor, numai să fie bine.</p>
+        <p>— Las', jupâneşică, nu-ţi face voie rea, că are să fie cât se poate de bine.</p>
+        <p>Ş-odată moş Nichifor apucă iepele de dârlog, cârneşte căruţa ş-o târăşte cum poate până în poiană.</p>
+        <p>— Iaca, jupâneşică, ce rai al lui Dumnezeu e aici; să tot trăieşti şi să nu mai mori! Numai d-voastră nu sunteţi deprinşi cu ce-i frumos pe lume. Ia mai dă-te oleacă pe jos, până se mai vede, ca să strângem nişte târşuri şi să facem toată noaptea foc, să fugă tânţarii şi toate gângăniile pe lume!</p>
+        <p>Biata Malca vede şi ea că tot de una îi e acum. Se dă jos şi începe a strânge la târşuri.</p>
+        <p>— Doamne! bine-ţi mai şede, jupâneşică; parcă eşti una de-a noastre! Nu cumva a ţinut vreodată tatăl d-tale orândă în sat, undeva?...</p>
+        <p>— Ba a ţinut mult timp ratoşul de la Bodeşti.</p>
+        <p>— Apoi mă miram eu de ce vorbeşti aşa de bine moldovene şte şi aduci la mers cu de-a noastre. De-acum n-am să te mai cred că te temi de lup. Ei! ei! cum ţi se pare aici în poiană? Aşă-i că erai să mori şi să nu ştii ce-i frumos pe lume? Ia auzi privighetorile ce haz fac! Ia auzi turturelele cum se îngână!</p>
+        <p>— Moş Nichifor, oare n-om păţi ceva în noaptea asta? Ce-a zice Iţic?</p>
+        <p>— Iţic? Lui Iţic i s-a părea c-a prins pe Dumnezeu de-un picior, când te-a vedea acasă. Da' ce crezi d-ta, că Iţic ştie ce-i pe lume? Cum sunt întâmplările la drum? Aşa, numai să se mute de pe vatră pe cuptor, ştie şi hleabul de baba mea, de-acasă. Jupâneşică, ia să te vedem, ştii cum să faci focul?</p>
+        <p>Malca aşază gătejele, moş Nichifor scapără, şi îndată amândoi aţâţă focul. Apoi moş Nichifor zice:</p>
+        <p>— Vezi, jupâneşică, cum pârâie de frumos gătejele?</p>
+        <p>— Văd, moş Nichifor, dar îmi tremură inima în mine de frică!</p>
+        <p>— Ă... ra? Da' ce, Doamne iartă-mă, parcă eşti din neamul lui Iţic. Da' fii mai cu inimă oleacă! Ori, dacă eşti aşa de fricoasă, apoi sui în căruţă şi te-aşterne pe somn, că noaptea-i numai un ceas; acuş se face ziuă!</p>
+        <p>Malca, îmbărbătată de moş Nichifor, se suie în căruţă şi se culcă. Iară moş Nichifor îşi aprinde luleaua, aşterne cojocul şi se pune într-o râlă jos, lângă foc; şi pâc! pâc! pâc! pâc! din lulea, cât pe ce era să-l prindă somnul, când numai iaca că-i sare o scânteie pe nas!</p>
+        <p>— Ptiu, drace! asta trebuie să fie scânteie din gătejele culese de Malca, că tare m-a fript... Dormi, jupâneşică Malcă?</p>
+        <p>— Parcă era să mă prindă somnul oleacă, moş Nichifor, dar mi-au venit o mulţime de năluciri prin cap, şi m-am trezit.</p>
+        <p>— Şi eu mai tot aşa am păţit: mi-a sărit o scânteie pe nas, şi mi s-a speriat somnul, de parcă am dormit o noapte întreagă. Las' că poate să mai doarmă cineva de răul nebunelor istor de privighetori? parcă-şi fac de cap, nu altăceva! Da' acum li-e şi lor vremea să se drăgostească... Dormi, jupâneşică?</p>
+        <p>— Parcă iar era să mă prindă somnul, moş Nichifor.</p>
+        <p>— Ştii una, jupâneşică? Mie-mi vine să sting focul, că tocmai acum, în durătul ista, mi-am adus aminte că dihania de lup adulmecă şi vine după fum.</p>
+        <p>— Stinge-l, moş Nichifor, dacă-i aşa. Atunci moş Nichifor odată începe a turna la ţărnă peste foc şi-l înnăduşă.</p>
+        <p>— De-acum, jupâneşică, dormi fără grijă, că acuş se face ziuă. Na, c-am stins focul şi am uitat să-mi aprind luleaua! Dar las' că am scăpărător. Bată-vă pustia, privighetori, să vă bată, că ştiu că vă drăgostiţi bine!</p>
+        <p>Mai şede moş Nichifor aşa pe gânduri, până-şi găteşte de băut luleaua, apoi se scoală binişor şi se duce în vârful degetelor lângă căruţă. Malca începuse a horăi puţin. Moş Nichifor o clatină încetişor şi zice:</p>
+        <p>— Jupâneşică, jupâneşică!</p>
+        <p>— Aud, moş Nichifor, răspunse Malca tresărind spăimântată.</p>
+        <p>— Ştii ce-am gândit eu cât am stat lângă foc?</p>
+        <p>— Ce, moş Nichifor?</p>
+        <p>— Ia, după ce-i adormi d-ta, să încalec pe o iapă şi să mă reped acasă la mine, să-mi aduc un capăt şi securea şi, când s-a zări de ziuă, sunt aici.</p>
+        <p>— Vai de mine, moş Nichifor, ce vorbeşti? Vrei să mă găseşti moartă de frică când îi veni?</p>
+        <p>— Ba să te ferească Dumnezeu de una ca asta, jupâ- neşică! Ia las', nu te spăimânta, că am zis şi eu, ia aşa, o vorbă în vânt...</p>
+        <p>— Ba nu, moş Nichifor! De-acum nici nu vreau să mai dorm; mă dau jos şi am să şed toată noaptea lângă d-ta.</p>
+        <p>— Ba păzeşte-ţi treaba, jupâneşică; şezi binişor unde şezi, că bine şezi.</p>
+        <p>— Ba iaca vin; ş-odată se dă jos şi vine pe iarbă, lângă moş Nichifor.</p>
+        <p>Şi ba unul una, ba altul alta, de la o vreme i-a furat somnul pe amândoi, şi-au adormit duşi. Şi când s-au trezit ei, era ziulica albă!...</p>
+        <p>— Iaca, jupâneşică, şi sfânta ziuă! Scoală-te şi hai să vedem ce-i de făcut. Vezi că nu te-a mâncat nimica? Numai frica ţi-a fost mai mare.</p>
+        <p>Malca, în vorbele acestea, iar a adormit... Iar moş Nichifor, ca cel cu grija, s-a suit în căruţă şi a început a scormoli în toate părţile pe sub coşolină, şi numai iaca că dă de secure, de-o funie şi de un sfredeleac pe pomoştina căruţei!</p>
+        <p>— Iaca, păcatele mele! Cine-i cu pagubă, şi cu păcat; mă miram eu să nu se îngrijească biata babă de mine, până într-atâta. Pentru c-am năpăstuit-o chiar pe sfânta dreptate, am să-i duc un fes roş şi un tulpan undelemniu, ca să-şi mai aducă aminte din tinereţe. Eu se vede că m-am luat ieri cu luleaua. Dar biata baba mea, bună, rea, cum este, tot a ştiut ce-mi trebuie la drum, numai nu le-a pus la locul lor... Dar ţi-ai găsit să ştie femeia trebile bărbatului!</p>
+        <p>— Jupâneşică, jupâneşică!</p>
+        <p>— Ce-i, moş Nichifor?</p>
+        <p>— Da' nu ştii una! Scoală-te, că am găsit şi secure şi frânghie, şi sfredel, şi tot ce-mi trebuie.</p>
+        <p>— Unde, moş Nichifor?</p>
+        <p>— Ia, pe sub buclucurile d-tale. Numai n-au avut gură să răspundă. Am păţit şi noi ca un cerşetor care şedea pe comoară şi cerea milostenie... Da' bine că s-au găsit şi acum; tot biata babă se vede că le-a pus.</p>
+        <p>— Vezi cât eşti de avan, moş Nichifor, cum îţi încarci sufletul de păcate?</p>
+        <p>— Apoi dă, jupâneşică, văd şi eu că am greşit, de-am ponegrit-o aşa de tare către d-ta. Da de-acum am să-i cânt şi eu un cântec de împăcare:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Sărmana băbuşca mea!</l>
+          <l part="N">Fie bună, fie rea,</l>
+          <l part="N">Am să ţin casă cu ea.</l>
+        </lg>
+        <p>Ş-odată suflecă moş Nichifor mânecile, taie un stuhariu de fag şi face un capăt minunat. Apoi îl aşază cum trebuie, pune roata la loc, înhamă iepele, iese încet-încet la drum şi zice:</p>
+        <p>— Sui, jupâneşică, şi haidem să mergem de acum! Iepele, fiind hrănite şi odihnite bine, pe la prânzul cel mare i-au pus în Piatra.</p>
+        <p>— Iaca, te-am văzut ş-acasă, jupâneşică!</p>
+        <p>— Slavă lui Dumnezeu, moş Nichifor, că şi-n pădure nu mi-a fost rău...</p>
+        <p>— Aşa este, jupâneşică, nu-i vorbă, dar ca la casa omului nu-i nicăiurea.</p>
+        <p>Şi, din vorbă în vorbă, au şi ajuns la poarta lui jupân Iţic. Iţic tocmai atunci venea de la şcoală şi, când a văzut pe Malca, nu mai ştia ce să facă de bucurie. Dar când a mai auzit şi despre întâmplarea ce au avut, şi cum i-a scăpat Dumnezeu din primejdie, nu ştia cum să mulţumească lui moş Nichifor. Cu ce nu l-au dăruit ei? Că se mira şi el singur ce dăduse peste dânsul.</p>
+        <p>A doua zi, moş Nichifor a pornit înapoi cu alţi muşterii. Şi când au ajuns acasă, era foarte vesel, încât nu ştia baba lui ce l-a găsit, de-i aşa cu chef, cum nu mai fusese de multă vreme. După aceasta, tot la două-trei săptămâni, jupâneşica Malca venea la Neamţ la socri şi se întorcea acasă numai cu moş Nichifor, fără să se mai teamă de lup...</p>
+        <p>După un an, sau după mai mulţi, moş Nichifor s-a răsuflat, la un pahar cu vin, către un prieten al său, despre întâmplarea din codrul Grumăzeştilor şi frica ce a tras jupâneasa Malca... Prietenul lui moş Nichifor s-a răsuflat şi el către alţi prieteni ai săi, şi de-atunci oamenii, cum sunt oamenii, ca să-i pună sânge rău la inimă... au început a porecli pe moş Nichifor şi a-i zice: "Nichifor Coţcariul, Nichifor Coţcariul". Şi poate acum a fi oale şi ulcioare, şi tot Nichifor Coţcariul i-a rămas bietului om numele şi până în ziulica de astăzi.</p>
+      </div>
+      <div org="uniform" sample="complete" part="N">
+        <head>Povestea unui om leneş</head>
+        <p>Cică era odată într-un sat un om grozav de leneş; de leneş ce era, nici îmbucătura din gură nu şi-o mesteca. Şi satul, văzând că acest om nu se dă la muncă nici în ruptul capului, hotărî să-l spânzure, pentru a nu mai da pildă de lenevie şi altora. Şi aşa, se aleg vreo doi oameni din sat şi se duc la casa leneşului, îl umflă pe sus, îl pun într-un car cu boi, ca pe un butuc nesimţitor, şi hai cu dânsul la locul de spânzurătoare!</p>
+        <p>Aşa era pe vremea aceea. Pe drum se întâlnesc ei cu o trăsură în care era o cucoană. Cucoana, văzând în carul cel cu boi un om care semăna a fi bolnav, întrebă cu milă pe cei doi ţărani, zicând:</p>
+        <p>— Oameni buni! Se vede că omul cel din car e bolnav, sărmanul, şi-l duceţi la vro doftoroaie undeva, să se caute.</p>
+        <p>— Ba nu, cucoană, răspunse unul dintre ţărani; să ierte cinstită faţa dumneavoastră, dar aista e un leneş care nu credem să fi mai având pereche în lume, şi-l ducem la spânzurătoare, ca să curăţim satul de-un trândav.</p>
+        <p>— Alei! oameni buni, zise cucoana, înfiorându-se; păcat, sărmanul, să moară ca un câine, fără de lege! Mai bine duceţi-l la moşie la mine; iacătă curtea pe costişa ceea. Eu am acolo un hambar plin cu posmagi, ia aşa, pentru împrejurări grele, Doamne fereşte! A mânca la posmagi şi-a trăi şi el pe lângă casa mea, că doar ştiu că nu m-a mai pierde Dumnezeu pentr-o bucăţică de pâine. Dă, suntem datori a ne ajuta unii pe alţii.</p>
+        <p>— I-auzi, măi leneşule, ce spune cucoana: că te-a pune la coteţ, într-un hambar cu posmagi, zise unul dintre săteni. Iaca peste ce noroc ai dat, bată-te întunericul să te bată, urâciunea oamenilor! Sai degrabă din car şi mulţumeşte cucoanei că te-a scăpat de la moarte şi-ai dat peste belşug, luându-te sub aripa dumisale. Noi gândeam să-ţi dăm săpun şi frânghie. Iar cucoana, cu bunătatea dumisale, îţi dă adăpost şi posmagi; să tot trăieşti, să nu mai mori! Să-şi pună cineva obrazul pentru unul ca tine şi să te hrănească ca pe un trântor, mare minune-i şi asta! Dar tot de noroc să se plângă cineva... Bine-a mai zis cine-a zis că "Boii ară şi caii mănâncă". Hai, dă răspuns cucoanei, ori aşa, ori aşa, că n-are vreme de stat la vorbă cu noi.</p>
+        <p>— Dar muieţi-s posmagii? zise atunci leneşul, cu jumătate de gură, fără să se cârnească din loc.</p>
+        <p>— Ce-a zis? întrebă cucoana pe săteni.</p>
+        <p>— Ce să zică, milostivă cucoană, răspunde unul. Ia, întreabă, că muieţi-s posmagii?</p>
+        <p>— Vai de mine şi de mine, zise cucoana cu mirare, încă asta n-am auzit! Da' el nu poate să şi-i moaie?</p>
+        <p>— Auzi, măi leneşule: te prinzi să moi posmagii singur, ori ba?</p>
+        <p>— Ba, răspunse leneşul. Trageţi mai bine tot înainte! Ce mai atâta grijă pentru astă pustie de gură!</p>
+        <p>Atunci unul din săteni zise cucoanei:</p>
+        <p>— Bunătatea dumnevoastră, milostivă cucoană, dar degeaba mai voiţi a strica orzul pe gâşte. Vedeţi bine că nu-l ducem noi la spânzurătoare numai aşa, de flori de cuc, să-i luăm năravul. Cum chitiţi? Un sat întreg n-ar fi pus oare mână de la mână ca să poată face dintr-însul ceva? Dar ai pe cine ajuta? Doar lenea-i împărăteasă mare, ce-ţi baţi capul!</p>
+        <p>Cucoana atunci, cu toată bunăvoinţa ce avea, se lehă- meteşte şi de binefacere şi de tot, zicând:</p>
+        <p>— Oameni buni, faceţi dar cum v-a lumina Dumnezeu! Iar sătenii duc pe leneş la locul cuvenit şi-i fac felul. Şi iaca aşa au scăpat şi leneşul acela de săteni, şi sătenii aceia de dânsul.</p>
+        <p>Mai poftească de-acum şi alţi leneşi în satul acela, dacă le dă mâna şi-i ţine cureaua.</p>
+        <p>Ş-am încălecat pe-o şa şi v-am spus povestea aşa.</p>
+      </div>
+      <div org="uniform" sample="complete" part="N">
+        <head>Moş Ion Roată</head>
+        <p>
+          <emph>(Anecdotă)</emph>
+        </p>
+        <p>La 1857, pe când se fierbea Unirea în Iaşi, boierii moldoveni liberali, ca de-alde Costache Hurmuzachi, M. Kogălniceanu şi alţii, au găsit cu cale să cheme la Adunare şi câţiva ţărani fruntaşi, câte unul de fiecare judeţ, spre a lua şi ei parte la facerea acestui măreţ şi nobil act naţional. Cum au ajuns ţăranii la Iaşi, boierii au pus mână de la mână, de i-au ferchezuit frumos şi i-au îmbrăcat la fel, cu cheburi albe şi cuşme nouă, de se mirau ţăranii ce berechet i-a găsit. Apoi, se zice că i-ar fi dat pe seama unuia dintre boieri să le ţină cuvânt, ca să-i facă a înţelege scopul chemării lor la Iaşi.</p>
+        <p>— Oameni buni, ştiţi pentru ce sunteţi chemaţi aici, între noi? zise boierul cu blândeţe.</p>
+        <p>— Vom şti, cucoane, dacă ni-ţi spune, răspunse cu sfială un ţăran mai bătrân, scărpinându-se în cap.</p>
+        <p>— Apoi, iaca ce, oameni buni: de sute de ani, două ţări surori, creştine şi megieşe, Moldova noastră şi Valahia sau Ţara Muntenească, de care poate-ţi fi auzit vorbindu-se, se sfâşie şi se mănâncă între dânsele, spre cumplita urgie şi pieire a neamului românesc. Ţări surori şi creştine, am zis, oameni buni; căci precum ne închinăm noi, moldovenii, aşa se închină şi fraţii noştri din Valahia. Statura, vorba, hrana, îmbrăcămintea şi toate obiceiurile câte le avem noi le au întocmai şi fraţii noştri munteni. Ţări megieşe, am zis, oameni buni; căci numai pârăuaşul Milcov, ce trece pe la Focşani, le desparte. "Să-l secăm dar dintr-o sorbire" şi să facem sfânta Unire, adică înfrăţirea dorită de strămoşii noştri, pe care ei n-au putut s-o facă în împrejurările grele de pe atunci. Iaca, oameni buni, ce treabă creştinească şi frumoasă avem de făcut. Numai Dumnezeu să ne-ajute! Înţeles-aţi, vă rog, oameni buni, pentru ce v-am chemat? Şi dacă aveţi ceva de zis, nu vă sfiiţi; spuneţi verde, moldoveneşte, ca la nişte fraţi ce vă suntem; că de-aceea ne-am adunat aici, ca să ne luminăm unii pe alţii şi Dumnezeu să ne lumineze pe toţi cum a şti el mai bine!</p>
+        <p>— Înţelegem, cucoane, aşa a fi, răspunseră câţiva ţărani mai ruşinoşi; că, dă, dacă nu-ţi şti dumneavoastră ce-i pe lume, noi, ţărănimea de la coarnele plugului, avem să ştim ce-i bine şi ce-i rău?...</p>
+        <p>— Ba eu, drept să vă spun, cucoane, n-am înţeles! cică zise cu îndrăzneală unul dintre ţărani, anume Ion Roată. Ş-apoi, chiar dacă ne-am pricepe şi noi la câte ceva, cine se mai uită în gura noastră? Vorba ceea, cucoane: "Ţăranul, când merge, tropăieşte, şi când vorbeşte, hodorogeşte", să ierte cinstită faţa dumneavoastră. Eu socot că treaba asta se putea face şi fără de noi; că, dă, noi ştim a învârti sapa, coasa şi secera, dar dumneavoastră învârtiţi condeiul şi, când vreţi, ştiţi a face din alb negru şi din negru alb... Dumnezeu v-a dăruit cu minte, ca să ne povăţuiţi şi pe noi, prostimea...</p>
+        <p>— Ba nu, oameni buni; s-a trecut vremea aceea, pe când numai boierii făceau totul în ţara aceasta ş-o storceau după plac. Astăzi toţi, de la vlădică până la opincă, trebuie să luăm parte la nevoile şi la fericirea ţării. Muncă şi câştig, datorii şi drepturi, pentru toţi deopotrivă.</p>
+        <p>Le spuse boierul apoi despre originea românilor, cum şi de cine au fost ei aduşi pe aceste locuri; despre suferinţele lor şi cum au ajuns a fi dezbinaţi şi împrăştiaţi prin alte ţări. Le dă el pilde câte şi mai multe: cu smocul de nuiele, cu taurii învrăjbiţi şi, în sfârşit, se sileşte bietul creştin din răsputeri a-i face să înţeleagă care sunt roadele binefăcătoare ale Unirii, aducându-le aminte că tot "pentru unirea tuturor" se roagă şi sfânta biserică în toate zilele, mai bine de 1.850 de ani.</p>
+        <p>— Ei, oameni buni, cred că acum aţi priceput!</p>
+        <p>— Priceput, cucoane, cât se poate de bine, răspunseră mai toţi. Dumnezeu să vă ajute la cele bune!</p>
+        <p>— Ba eu tot nu, cucoane, răspunse moşul Ion Roată.</p>
+        <p>— Dumnezeu să mă ierte, moş Ioane, dar dumneata, cum văd, eşti cam greu de cap; ia haidem în grădină, să vă fac a înţelege şi mai bine. Moş Ioane, vezi colo, în ogradă la mine, bolovanul cel mare?</p>
+        <p>— Îl vedem, cucoane.</p>
+        <p>— Ia fă bine şi adă-l ici lângă mine, zise boierul, care şedea acum pe un jilţ în mijlocul ţăranilor.</p>
+        <p>— S-avem iertare, cucoane, n-om putea, că doar acolo-i greutate, nu şagă.</p>
+        <p>— Ia cearcă şi vezi. Moş Ion Roată se duce şi vrea să ridice bolovanul, dar nu poate.</p>
+        <p>— Ia du-te şi dumneata, moş Vasile, şi dumneata, bade Ilie, şi dumneata, bade Pandelachi.</p>
+        <p>În sfârşit, se duc ei vro 3­4 ţărani, urnesc bolovanul din loc, îl ridică pe umeri şi-l aduc lângă boier.</p>
+        <p>— Ei, oameni buni, vedeţi? S-a dus moş Ion şi n-a putut face treaba singur; dar când v-aţi mai dus câţiva într-ajutor, treaba s-a făcut cu mare uşurinţă, greutatea n-a mai fost aceeaşi. Povestea cântecului:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Unde-i unul, nu-i putere,</l>
+          <l part="N">La nevoi şi la durere;</l>
+          <l part="N">Unde-s mulţi, puterea creşte,</l>
+          <l part="N">Şi duşmanul nu sporeşte.</l>
+        </lg>
+        <p>Aşa şi cu Unirea, oameni buni! Credeţi dumneavoastră că, de-a ajuta Dumnezeu a se uni Moldova cu Valahia, avem să fim numai atâţia? Fraţii noştri din Transilvania, Bucovina, Basarabia şi cei de peste Dunăre, din Macedonia şi de prin alte părţi ale lumii, numai să ne vadă că trăim bine, şi ei se vor bucura şi ne vor iubi, de n-or mai îndrăzni duşmanii, în vecii vecilor, a se lega de români. D-apoi fraţii noştri de sânge: franţujii, italienii, spaniolii şi portughezii, ce aşteaptă? La orice întâmplare, Doamne fereşte, stau gata să-şi verse sângele pentru noi... Unirea face puterea, oameni buni. Ei, acum cred c-aţi înţeles şi răsînţeles.</p>
+        <p>— Ba eu, unul, să iertaţi dumneavoastră, cucoane, încă tot n-am înţeles, răspunde moş Roată.</p>
+        <p>— Cum se face asta, moş Ioane? Mai bine ce v-am tălmăcit, şi un copil putea să înţeleagă.</p>
+        <p>— Mai aşa, cucoane, răspunseră ceilalţi.</p>
+        <p>— Moş Ioane, zise acum boierul, cam tulburat de multă oboseală, ia spune dumneata, în legea dumitale, cum ai înţeles, cum n-ai înţeles, de când se face atâta vorbă; să auzim şi noi!</p>
+        <p>— Dă, cucoane, să nu vă fie cu supărare, dar de la vorbă şi până la faptă este mare deosebire... Dumneavoastră, ca fiecare boier, numai ne-aţi poruncit să aducem bolovanul, dar n-aţi pus umărul împreună cu noi la adus, cum ne spuneaţi dinioarea, că de-acum toţi au să ia parte la sarcini: de la vlădică până la opincă. Bine-ar fi dac-ar fi aşa, cucoane, căci la război înapoi şi la pomană năvală, parcă nu prea vine la socoteală... Iar de la bolovanul dumneavoastră am înţeles aşa: că până acum noi, ţăranii, am dus fiecare câte-o piatră mai mare sau mai mică pe umeri; însă acum suntem chemaţi a purta împreună tot noi, opinca, o stâncă pe umerele noastre... Să dea Domnul, cucoane, să fie altfel, că mie unuia, nu mi-a părea rău...</p>
+        <p>La aceste vorbe, ţăranii ceilalţi au început a strânge din umeri, a se uita lung unul la altul şi a zice :</p>
+        <p>— Ia, poate că şi Roată al nostru să aibă dreptate!... Iar boierul, luându-i înainte cu glume, a înghiţit găluşca şi a tăcut molcum.</p>
+        <p>
+          <emph>Iaşi, 4 mai, 1880</emph>
+        </p>
+      </div>
+      <div org="uniform" sample="complete" part="N">
+        <head>Popa Duhu</head>
+        <p>Cine-a întâlnit vrodată în calea sa un popă, îmbrăcat cu straie sărăcuţe, scurt la stat, smolit la faţă, cu capul pleş, mergând cu pas rar, încet şi gânditor, răspunzând îndesat "sluga dumitale" cui nu-l trecea cu vederea, căscând cu zgomot când nu-şi găsea omul cu care să stea la vorbă, făcând lungi popasuri prin aleile ascunse ale grădinilor publice din Iaşi, câte cu o carte în mână, tresărind la cântecul păsărelelor şi oprindu-se cu mirare lângă moşi noaiele de furnici, pe care le numea el "republici înţelepte", dezmierdând iarba şi florile câmpului, icoane ale vieţii omeneşti, pe care le uda câte c-o lacrimă fierbinte din ochii săi şi apoi, cuprins de foame şi obosit de osteneală şi gândire, îşi lua cătinel drumul spre gazdă, unde-l aştepta sărăcia cu masa întinsă.</p>
+        <p>Acesta ere părintele Isaia Duhu, născut în satul CogeascaVeche din judeţul Iaşi.</p>
+        <p>Patru pereţi străini, afumaţi şi îmbrăcaţi cu rogojini; teancuri de traftoloage greceşti, latineşti, bulgăreşti, franţuzeşti, ruseşti şi româneşti, pline de painjeni şi aruncate în neregulă prin cele unghere, un lighean de lut cu ibric pentru spălat, în mijlocul odăii, apărie pe jos, gunoi şi gândaci fojgăind în toate părţile, o pâine uscată pe masă şi un motan ghemuit după sobă era toată averea sfinţiei-sale.</p>
+        <p>Mare de inimă, iar la gură şi mai mare, părintele Duhu nu se învrednicise de o viaţă mai bună; dar se vede că nici poftea el una aşa, de vreme ce nu-şi astâmpăra gura către mai-marii săi măcar să-l fi picat cu lumânarea.</p>
+        <p>De copil, în seminarul Socola, unde-a învăţat carte, mai mult singur decât de la profesori, îşi punea degetele pe o piatră şi le bătea cu alta, de ciudă că nu scriu frumos; se lovea cu pumnul peste cap, când vedea că nici dascălul nu putea să-i tălmăcească bine ceva, şi vai de şcolarii care-l sminteau de la învăţătură!</p>
+        <p>Aşa fiind el, cică unul dintre călugării Socolei a zis că e bun de călugăr, numindu-l "Duh diavolesc", şi de unde până unde l-a şi călugărit, şi Duhu i-a rămas numele. Iară el Isaia Teodorescu se iscălea. Şi din şcolar, profesor a ajuns la Socola; şi duh din duhul său a dat şcolarilor săi o bucată de vreme. Dar purici mulţi nu făcea el într-un loc, Doamne fereşte, căci era duh neastâmpărat şi neîmpăcat chiar cu sine însuşi. Nici lacom de avere, nici de chinuri; mulţumit cu cât avea, cu cât n-avea, când te miri ce nu-i venea la socoteală, ia-ţi, popo, desagii şi toiagul, şi pe ici ţi-e drumul! Vorba ceea: "Geasta cu trepădatele, că nu-s departe satele".</p>
+        <p>Aci era la Socola, aci în Iaşi, aci la mănăstirea şi în Târgul Neamţului profesor, de unde cutreiera munţii în sudoarea frunţii, şi mai la tot pasul cânta:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Ruinată cetăţuie, ce acopere-acel munte,</l>
+          <l part="N">Şi de unde ochiul vede lucruri multe!</l>
+        </lg>
+        <p>Apoi:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Pe o stâncă neagră, într-un vechi castel,</l>
+          <l part="N">Unde curge-n vale un râu mititel.</l>
+        </lg>
+        <p>Iar la urma urmelor:</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Pasăre galbenă-n cioc,</l>
+          <l part="N">Rău mi-ai cântat de noroc!...</l>
+        </lg>
+        <p>Şi tot aşa, şi iar aşa, până i se făcea viaţa neagră şi aici; apoi iar se întorcea la Iaşi, îndrăgindu-l pentru o bucată de vreme.</p>
+        <p>Duh neastâmpărat şi cutezător în predicile sale de pe amvoanele bisericilor, înţepa ca viespea, zicând:</p>
+        <p>— Elisei a curăţit de lepră pe Neeman Sirianul, trimiţându-l să se scalde în râul Iordanului. Iară eu vă trimit la Căcaina, ca să vă curăţiţi de lepra ignoranţei şi a trândăviei!</p>
+        <p>— Odată era o floare, numită ruşinea fetelor, foarte răspândită în ţară la noi; dar de când au luat "mârşavele de modă" locul gospodinelor românce, această floare a început a dispărea din grădinile şi ţarinile noastre.</p>
+        <p>— Cine are urechi de auzit să audă! Iar pe cei slugarnici, mândri şi luxoşi, îi arăta cu degetul, zicând:</p>
+        <p>— Făţarnice, a zis Hristos, curăţă mai întâi partea cea dinlăuntru a paharului şi a blidului, ca să fie şi cea din afară curată!</p>
+        <p>Şi câte şi mai câte, publicate prin jurnalul Predicatorul moralului evanghelic, redactat de dânsul, până i-a luat chiriarhia puterea de predicator. Dar părintelui Duhu nu i-a tors mă-sa pe limbă.</p>
+        <p>Odată, slujind un episcop oarecare de hramul bisericii, la Bunavestire din Iaşi, părintele Duhu intră în biserică, se închină rar pe la icoane, şi cum era lume multă adunată, şi episcopul sta în strana arhierească, îmbrăcat pompos şi cu mitra pe cap, părintele Duhu se opreşte în faţă-i şi zice cu gura mare, clătinând din cap:</p>
+        <p>— Dragul mamei Cânilic, bine-ţi şede mitropolit! Unde-i neneaca-ta să te vadă? Apoi, oftând adânc, mai adaugă: Când veţi vedea urâciunea pustiirii stând la locul unde nu se cade să stea, să ştiţi că aproape este sfârşitul, a zis Hristos.</p>
+        <p>După aceea se trage cu dispreţ din faţa episcopului şi, ieşind din biserică, îşi caută de drum.</p>
+        <p>Iară ceilalţi popi, înlemniţi cu mâinile la piept, cât pe ce să cadă ameţiţi din picioare, de frica şi de ruşinea arhipăstorului.</p>
+        <p>Nu târziu după aceasta, mitropolitul face pe părintele Duhu arhimandrit cu mitră, adică îi dă voie să poarte straie de mii de lei, fără să aibă cu ce să şi le cumpere.</p>
+        <p>Şi părintele Isaia, în loc să umble morţiş, ca alţi popi, după cerşitorit, luând şi de pe viu şi de pe mort, să aibă cu ce se împopoţona, el, dimpotrivă, zicea că este de altă părere, şi anume: "Decât să dai de pomană la calici sâmbăta, mai bine ceva de băut mahmurilor, marţea"...</p>
+        <p>Odată, chemând epitropul unei biserici mai sărăcuţe pe părintele Duhu să slujească de hram, sfinţia-sa şi-a atârnat la piept o cruce mare, de lemn, legată cu sfoară groasă de cânepă, zicând:</p>
+        <p>— Iartă-mă, Doamne, că te-am spânzurat cu aţă, neavând lanţ de aur, nici de argint, cu care te spânzură mai marii mei, arhiereii.</p>
+        <p>La Mănăstirea Neamţului, stând adeseori de vorbă cu stareţul Naftanail, părintele Duhu îi zicea, şfichiuindu-l, că ruşii din această lavră românească s-au puiezit, ca şi holera adusă în Moldova pe cozile cailor ruseşti la 1828. Stareţul, nemaiputându-i sta împotrivă, zicea de la o vreme: "Hai pacam, părinte Isaia", cinstindu-l cu rachiu îndulcit cu miere, pahar după pahar, până ce părintele Duhu spunea:</p>
+        <p>— Lasă-mă în pace, cuvioase, că se învârteşte lumea cu mine de-atâta aghiazmă rusească; mai bine să ne împăcăm. Şi începea a-i cânta irmosul următor, pe glas al doilea: "Umblat-au Israil prin valul cel învăluit, c-un ulcior legat de gât şi c-un curcan fript, că s-a proslăvit".</p>
+        <p>Apoi antifoanele beţivilor, pe glas al patrulea: "Din tinereţile mele, multe oale şi ulcele se luptă cu mine; dar mai multe păhărele, câte stele sunt pe cer...</p>
+        <lg org="uniform" sample="complete" part="N">
+          <l part="N">Ploscuţa mea, iubit vas,</l>
+          <l part="N">Pasare cu dulce glas,</l>
+          <l part="N">Eu la gură te ridic,</l>
+          <l part="N">Tu îmi cânţi; coglic! coglic!</l>
+          <l part="N">Şi nu mă-ndur să te las,</l>
+          <l part="N">Căci mă plesneşti tot în nas...</l>
+          <l part="N">Vai, sărace poloboace,</l>
+          <l part="N">De te-ai face mai încoace;</l>
+          <l part="N">Să ne strângem vro câţiva,</l>
+          <l part="N">Noi, spre mântuirea ta.</l>
+          <l part="N">Ş-om mai veni vro doi-trei</l>
+          <l part="N">Şi ţi-om pune-un căpătăi,</l>
+          <l part="N">Ş-om aduce-un popă rus,</l>
+          <l part="N">Şi te-a da cu fundu-n sus!"</l>
+        </lg>
+        <p>Unui arhimandrit grec ce blagoslovea pe diacon la slujbă: "Să îndrepteze Domnul paşii lui spre tot lucrul bun", părintele Duhu îi zise:</p>
+        <p>— Ba mai bine să îndrepteze Domnul paşii voştri peste Dunăre, cuvioşilor, că destul ne-aţi pângărit biserica şi neamul cu smeritele voastre blagoslovenii.</p>
+        <p>Profesorului Columb de la liceu, care zise odată părintelui Isaia "Bună dimineaţa, Duhule", el îi răspunse:</p>
+        <p>— Mulţumesc, cadavrule! Şi cred că ai la ştiinţă că cuvintele popă şi profesor se încep cu "pocoi", ca şi substantivul porcule.</p>
+        <p>Popilor de mir, pe care îi numea haldei, le cânta antifoanele următoare:</p>
+        <p>"Diaconii şi cu pochii, de treji ce sunt, de-abia văd cu ochii. Iar mamelor preotese, beţia din cap nu le mai iese!"</p>
+        <p>Şi câte ponturi şi ponosuri nu da dintr-însul, de-i era şi lui lehamete câteodată să se mai întâlnească cu cineva şi să-l mai stârnească la vorbă.</p>
+        <p>Odată, ieşind supărat de la Mitropolie, îl întâlneşte părintele Arbore de la Bărnovschi şi-l întreabă:</p>
+        <p>— De unde vii, părinte Isaie?</p>
+        <p>— Nu ştiu!</p>
+        <p>— Încotro ai luat-o, părinte Isaie?</p>
+        <p>— Nu ştiu!</p>
+        <p>— Cum aşa, de nu ştii nici de unde vii, nici încotro te duci?!</p>
+        <p>— Iaca cum, răspunse părintele Duhu: când eram băiat, stupeam în palma stângă, apoi trânteam cu muchea palmei celeilalte în stupit şi, în care parte sărea el, într-acolo apucam şi eu.</p>
+        <p>— Şi acum tot aşa faci? întrebă părintele Arbore.</p>
+        <p>— Tot, batăr să crape dracul!</p>
+        <p>— Dar dacă, din întâmplare, ar sări stupitul înspre Golia, cum ţi s-ar părea?</p>
+        <p>— Dar ştii că m-ai ars, haldeule?! zise părintele Duhu, luându-şi tălpăşiţa, Dunăre de mânios.</p>
+        <p>La cea din urmă, strângând părintele Duhu para către para, şi-a comisionat cărţi spiritiste şi, citindu-le, cică a zis către oarecine:</p>
+        <p>— Aceste cărţi, încăpând în mâna unor şarlatani ignoranţi, ai să auzi vorbindu-se că fac minuni, ca sfinţii.</p>
+        <p>Şi sfânt să fie rostul părintelul Duhu, căci tocmai aşa s-a întâmplat.</p>
+        <p>Într-una din zile, neavând el cu ce să-şi cumpere pâine, le-a luat cu vravul şi le-a vândut directoraşului unei şcoli primare cu te miri ce. Şi de-atunci începutul spiritiştilor în Iaşi. De-atunci Grigore Nazianzul, Efrem Sirul, Solomon înţeleptul şi alţi răposaţi de veacuri nu se mai pot linişti în morminte; întrebare peste întrebare li se face. Ş-apoi, ia să nu răspundă, că dracu-i al lor pe şapte ani!</p>
+        <p>Auzind părintele Duhu că s-a făcut zvon prin Iaşi despre nişte năzdrăvănii ca aceste, cică s-a luat sfinţia-sa pe gânduri, zicând:</p>
+        <p>— Vai de cel ce se sminteşte, dar mai vai de cel prin care vine sminteala!</p>
+        <p>Şi poate că din această pricină, bolnăvindu-se greu, şi-a dat duhul, tocmai când ajunsese îngrijitor la biserica Nicoriţa din Tataraşi; de unde aproape fiindu-i ţintirimul Eternitatea, şi-a luat acolo casă de veci, fie-i ţărna uşoară! Şi de-atunci, ca' mai ba să-l vadă cineva bădădăind pe uliţele Iaşilor.</p>
+      </div>
+      <div org="uniform" sample="complete" part="N">
+        <head>Cinci pâini</head>
+        <p>
+          <emph>(Anecdotă)</emph>
+        </p>
+        <p>Doi oameni, cunoscuţi unul cu altul, călătoreau odată, vara, pe un drum. Unul avea în traista sa trei pâini, şi celălalt două pâini. De la o vreme, fiindu-le foame, poposesc la umbra unei răchiţi pletoase, lângă o fântână cu ciutură, scoate fiecare pâinile ce avea şi se pun să mănânce împreună, ca să aibă mai mare poftă de mâncare.</p>
+        <p>Tocmai când scoaseră pâinile din traiste, iaca un al treilea drumeţ, necunoscut, îi ajunge din urmă şi se opreşte lângă dânşii, dându-le ziua bună. Apoi se roagă să-i dea şi lui ceva de mâncare, căci e tare flămând şi n-are nimica merinde la dânsul, nici de unde cumpăra.</p>
+        <p>— Poftim, om bun, de-i ospăta împreună cu noi, ziseră cei doi drumeţi călătorului străin; căci, mila Domnului! unde mănâncă doi, mai poate mânca şi al treilea.</p>
+        <p>Călătorul străin, flămând cum era, nemaiaşteptând multă poftire, se aşază jos lângă cei doi, şi încep a mânca cu toţii la pâine goală şi a bea apă rece din fântână, căci altă udătură nu aveau. Şi mănâncă ei la un loc tustrei, şi mă- nâncă, până ce gătesc de mâncat toate cele cinci pâini, de parcă n-au mai fost.</p>
+        <p>După ce-au mântuit de mâncat, călătorul străin scoate cinci lei din pungă şi-i dă, din întâmplare, celui ce avusese trei pâini, zicând:</p>
+        <p>— Primiţi, vă rog, oameni buni, această mică mulţumită de la mine, pentru că mi-aţi dat demâncare la nevoie; veţi cinsti mai încolo câte un pahar de vin, sau veţi face cu banii ce veţi pofti. Nu sunt vrednic să vă mulţumesc de binele ce mi-aţi făcut, căci nu vedeam lumea înaintea ochilor de flămând ce eram.</p>
+        <p>Cei doi nu prea voiau să primească, dar, după multă stăruinţă din partea celui al treilea, au primit. De la o vreme, călătorul străin şi-a luat ziua bună de la cei doi şi apoi şi-a căutat de drum. Ceilalţi mai rămân oleacă sub răchită, la umbră, să odihnească bucatele. Şi, din vorbă în vorbă, cel ce avuse trei pâini dă doi lei celui cu două pâini, zicând:</p>
+        <p>— Ţine, frate, partea dumitale, şi fă ce vrei cu dânsa. Ai avut două pâini întregi, doi lei ţi se cuvin. Şi mie îmi opresc trei lei, fiindc-am avut trei pâini întregi, şi tot ca ale tale de mari, după cum ştii.</p>
+        <p>— Cum aşa?! zise celălalt cu dispreţ; pentru ce numai doi lei, şi nu doi şi jumătate, partea dreaptă ce ni se cuvine fiecăruia? Omul putea să nu ne dea nimic, şi atunci cum rămânea?</p>
+        <p>— Cum să rămână? zise cel cu trei pâini; atunci aş fi avut eu pomană pentru partea ce mi se cuvine de la trei pâini, iar tu, de la două, şi pace bună! Acum, însă, noi am mâncat degeaba, şi banii pentru pâine îi avem în pungă cu prisos: eu trei lei şi tu doi lei, fiecare după numărul pâinilor ce am avut. Mai dreaptă împărţeală decât aceasta nu cred că se mai poate nici la Dumnezeu sfântul...</p>
+        <p>— Ba nu, prietene, zise cel cu două pâini. Eu nu mă ţin că mi-ai făcut parte dreaptă. Haide să ne judecăm, şi cum a zice judecata, aşa să rămână.</p>
+        <p>— Haide şi la judecată, zise celălalt, dacă nu te mulţumeşti. Cred că şi judecata are să-mi găsească dreptate, deşi nu m-am târât prin judecăţi de când sunt.</p>
+        <p>Şi aşa, pornesc ei la drum, cu hotărârea să se judece. Şi cum ajung într-un loc unde era judecătorie, se înfăţişază înaintea judecătorului şi începe a spune împrejurarea din capăt, pe rând fiecare; cum a venit întâmplarea de au călătorit împreună, de au stat la masă împreună, câte pâini a avut fiecare, cum a mâncat drumeţul cel străin la masa lor, deopotrivă cu dânşii, cum le-a dat cinci lei drept mulţumită şi cum cel cu trei pâini a găsit cu cale să-i împartă.</p>
+        <p>Judecătorul, după ce-i ascultă pe amândoi cu luare aminte, zise celui cu două pâini:</p>
+        <p>— Şi nu eşti mulţumit cu împărţeala ce s-a făcut, omule?</p>
+        <p>— Nu, domnule judecător, zise nemulţumitul; noi n-am avut de gând să luăm plată de la drumeţul străin pentru mâncarea ce i-am dat; dar, dac-a venit întâmplarea de-aşa, apoi trebuie să împărţim drept în două ceea ce ne-a dăruit oaspetele nostru. Aşa cred eu că ar fi cu cale, când e vorba de dreptate.</p>
+        <p>— Dacă e vorba de dreptate, zise judecătorul, apoi fă bine de înapoieşte un leu istuilalt, care spui c-a avut trei pâini.</p>
+        <p>— De asta chiar mă cuprinde mirarea, domnule judecător, zise nemulţumitul cu îndrăzneală. Eu am venit înaintea judecăţii să capăt dreptate, şi văd că dumneata, care ştii legile, mai rău mă acufunzi. De-a fi să fie tot aşa şi judecata dinaintea lui Dumnezeu, apoi vai de lume!</p>
+        <p>— Aşa ţi se pare dumitale, zise judecătorul liniştit, dar ia să vezi că nu-i aşa. Ai avut dumneata două pâini?</p>
+        <p>— Da, domnule judecător, două am avut.</p>
+        <p>— Tovarăşul dumitale avut-a trei pâini?</p>
+        <p>— Da, domnule judecător, trei a avut.</p>
+        <p>— Udătură ceva avut-aţi vreunul?</p>
+        <p>— Nimic, domnule judecător, numai pâine goală şi apă rece din fântână, fie de sufletul cui a făcut-o acolo, în calea trecătorilor.</p>
+        <p>— Dinioarea, parcă singur mi-ai spus, zise judecătorul, că aţi mâncat toţi tot ca unul de mult; aşa este?</p>
+        <p>— Aşa este, domnule judecător.</p>
+        <p>— Acum, ia să statornicim rânduiala următoare, ca să se poată şti hotărât care câtă pâine a mâncat. Să zicem că s-a tăiat fiecare pâine în câte trei bucăţi deopotrivă de mari: câte bucăţi ai fi avut dumneata, care spui că avuşi două pâini?</p>
+        <p>— Şase bucăţi aş fi avut, domnule judecător.</p>
+        <p>— Dar tovarăşul dumitale, care spui că avu trei pâini?</p>
+        <p>— Nouă bucăţi ar fi avut, domnule judecător.</p>
+        <p>— Acum, câte fac la un loc şase bucăţi şi nouă bucăţi?</p>
+        <p>— Cincisprezece bucăţi, domnule judecător.</p>
+        <p>— Câţi oameni aţi mâncat aceste cincisprezece bucăţi de pâine?</p>
+        <p>— Trei oameni, domnule judecător.</p>
+        <p>— Bun! Câte câte bucăţi vin de fiecare om?</p>
+        <p>— Câte cinci bucăţi, domnule judecător.</p>
+        <p>— Acum, ţii minte câte bucăţi ai fi avut dumneata?</p>
+        <p>— Şase bucăţi, domnul judecător.</p>
+        <p>— Dar de mâncat, câte ai mâncat dumneata?</p>
+        <p>— Cinci bucăţi, domnule judecător.</p>
+        <p>— Şi câte ţi-au mai rămas de întrecut?</p>
+        <p>— Numai o bucată, domnule judecător.</p>
+        <p>— Acum să stăm aici, în ceea ce te priveşte pe dumneata şi să luăm pe istalalt la rând. Ţii minte câte bucăţi de pâine ar fi avut tovarăşul d-tale?</p>
+        <p>— Nouă bucăţi, domnule judecător.</p>
+        <p>— Şi câte a mâncat el de toate?</p>
+        <p>— Cinci bucăţi, ca şi mine, domnule judecător.</p>
+        <p>— Dar de întrecut, câte i-au mai rămas?</p>
+        <p>— Patru bucăţi, domnule judecător.</p>
+        <p>— Bun! Ia, acuşi avem să ne înţelegem cât se poate de bine! Vasăzică, dumneata ai avut numai o bucată de întrecut, iar tovarăşul dumitale, patru bucăţi. Acum o bucată de pâine rămasă de la dumneata şi cu patru bucăţi de la istalalt fac la un loc cinci bucăţi?</p>
+        <p>— Taman cinci, domnule judecător.</p>
+        <p>— Este adevărat că aceste bucăţi de pâine le-a mâncat oaspetele dumneavoastră, care spui că v-a dat cinci lei drept mulţumită?</p>
+        <p>— Adevărat este, domnule judecător.</p>
+        <p>— Aşadar, dumitale ţi se cuvine numai un leu, fiindcă numai o bucată de pâine ai avut de întrecut, şi aceasta, ca şi cum ai fi avut-o de vânzare, deoarece aţi primit bani de la oaspetele dumneavoastră. Iar tovarăşului dumitale i se cuvin patru lei, fiindcă patru bucăţi de pâine a avut de întrecut.</p>
+        <p>Acum dară fă bine de înapoieşte un leu tovarăşului dumitale. Şi dacă te crezi nedreptăţit, du-te şi la Dumnezeu, şi las' dacă ţi-a face şi el judecată mai dreaptă decât asta!</p>
+        <p>Cel cu două pâini, văzând că nu mai are încotro şovăi, înapoieşte un leu tovarăşului său, cam cu părere de rău, şi pleacă ruşinat.</p>
+        <p>Cel cu trei pâini, uimit de aşa judecată, mulţumeşte judecă- torului şi apoi iese, zicând cu mirare:</p>
+        <p>— Dac-ar fi pretutindene tot asemenea judecători, ce nu iubesc a le cânta cucul din faţă, cei ce n-au dreptate n-ar mai năzui în veci şi-n pururea la judecată.</p>
+        <p>Corciogarii, porecliţi şi apărători, nemaiavând chip de trai numai din minciuni, sau s-ar apuca de muncă, sau ar trebui, în toată viaţa lor, să tragă pe dracul de coadă...</p>
+        <p>Iar societatea bună ar rămânea nebântuită.</p>
+        <p>
+          <emph>Iaşi, 22 ianuarie, 1883</emph>
+        </p>
+      </div>
+      <div org="uniform" sample="complete" part="N">
+        <head>Ioan Roată şi Vodă Cuza</head>
+        <p>Între tăranii fruntaşi care au luat parte, împreună cu boierii, cu episcopii şi cu mitropolitul ţării la Divanul ad-hoc din Moldova, în 1857, era şi moş Ion Roată, om cinstit şi cuviincios, cum sunt mai toţi ţăranii români de pretutindeni. Numai atâta, că moş Ion Roată, după câte văzuse şi după câte păţise el în viaţa sa, nu prea punea temei pe vorbele boiereşti şi avea gâdilici la limbă, adică spunea omului verde în ochi, fie cine-a fi, când îl scormolea ceva la inimă. Aşa e ţăranul: nu prea ştie multe. Şi moş Ion Roată, fiind ţăran, cum v-am spus, deşi se-nvrednicise a fi acum printre boieri, nu avea ascunzători în sufletul său.</p>
+        <p>În Divanul ad-hoc din Moldova erau boieri de toată mâna: şi mai mari, şi mai mici; şi mai bătrâni, şi mai tineri; şi mai învăţaţi, şi mai neînvăţaţi, cum îi apucase timpul. Între aceşti din urmă erau de-alde bătrânul Alecu Forăscu, poreclit şi Tololoiu, Grigore Cuza şi alţi câţiva de-alde aceştia, care, ţinându-se de obiceiurile strămoşeşti, în toate sărbătorile ascultau cu evlavie slujbă bisericească de la început până la sfârşit, cântând şi citind la strană de-a valma cu dascălii şi preoţii bisericii; iar la zile mari, ca să le ticnească veselia, împărţeau bucăţica de pâine cu orfanii, cu văduvele şi cu alţi nevoiaşi, cum apucară din părinţi. Atâta-i ajungea capul, atâta făceau şi ei pe vremea lor, Dumnezeu să-i ierte şi să-i odihnească, unde-or fi acolo, că bună inimă mai aveau!</p>
+        <p>Dar să ne întoarcem iar la Divanul ad-hoc. Aici, ca în toate adunările de felul acestora, se făcea vorbă multă; şi era lucru firesc să se facă, fiind în luptă timpul de faţă cu cel trecut, pentru cea mai dreaptă cauză a neamului românesc: Unirea, sfânta Unire!</p>
+        <p>Boierii cei mai tineri, crescuţi de mici în străinătate, numai cu franţuzească şi nemţească, erau cârtitori asupra trecutului şi cei mai guralivi totodată. Vorba, portul şi apucăturile bătrâneşti nu le mai veneau la socoteală. Şi din această pricină, unii, în aprinderea lor, numeau pe cei bătrâni: rugini învechite, işlicari, strigoi şi câte le mai venea în minte, după cum le era şi creşterea; dă, învăţaţi nu-s?...</p>
+        <p>Nu-i vorbă că şi nătângia unor bătrâni era mare. Uneori, când se mâniau, dădeau şi ei tinerilor câte-un ibrişin pe la nas, numindu-i: bonjurişti, duelgii, pantalonari, oameni smintiţi la minte şi ciocoi înfumuraţi, lepădaţi de lege, stricători de limbă şi de obiceiuri. În aşa împoncişare de idei se aflau boierii bătrâni cu tineretul din Divanul ad-hoc al Moldovei, cu toate că şi unii şi alţii erau pentru "Unire". Numai atâta, că bătrânii voiau "Unire" cu tocmală, iar tinerii "Unire" fără socoteală, cum s-a şi făcut.</p>
+        <p>Toate ca toatele, dar mare luptă aveau unii dintre boierii tineri cu cuconul Alecu Forăscu, care, una-două, îi tolocănea, mustrându-i: ba că nu vorbesc drept româneşte, cum vorbeau părinţii lor, ci au corchezit graiul strămoşesc, de nu-i mai înţelege nimene; ba că "umblaţi cu şurubele, să ne trageţi butucul"; ba că "face omul cu cineva o tovărăşie cât de mică, şi tot urmează învoială între părţi, iar nu aşa cu ochii închişi", căci, "dacă n-ai carte, n-ai parte", scurtă socoteală; ba că, "de când cu străinătatea, v-aţi înstrăinat şi legea, şi limba, şi inima, şi chiar dragostea sătenilor; şi după nepăsarea şi risipa ce o facem, zvârlind banul pe lucruri de nimica, puţin mai avem de înstrăinat, şi nu-i departe vremea aceea, pe cât văd eu. Întrebaţi pe bieţii nemernici de săteni, să spuie ei dacă mai cunosc cine le e stăpân. Au rămas ca nişte câini ai nimănui, sărmanii oameni! Cine se scoală mai dimineaţă, acela e mai mare în sat la ei, de-i horopseşte şi-i ţuhăieşte mai rău decât pe vite! Ciocoismul şi străinii să trăiască, şi las' pe dânşii, că ne scot ei la covrigi!" Ba că "vai de ţara care ajunge s-o puie copiii la cale"; ba că "vorba multă, sărăcia omului", şi, dacă li-i treaba de-aşa, facă ei ce-or şti, că el mai bine se duce acasă, că-i plouă caii în spate şi-i stau vitele cu dinţii la stele, din pricina slugilor, cărora puţin le pasă de munca stăpânului; şi câte şi mai câte năzdrăvănii de-alde aceste. Las' pe bătrâni să te descânte şi să te judece ei, în legea lor, că nu-ţi mai trebuie alt popă... Şi iaca aşa cu de-alde cuconul Alecu Forăscu.</p>
+        <p>Acum vine alta la rând. Într-una din zile, cum vorbea frumos un boier dintre cei tineri, iaca şi moş Ion Roată sare cu gura:</p>
+        <p>— Aveţi bunătate de vorbiţi mai moldoveneşte, cucoane, să ne dumerim şi noi; căci eu, unul, drept vă spun, că nu pricep nimica, păcatele mele!</p>
+        <p>Un oarecare boier întâmpină atunci pe moş Ion Roată, zicându-i cu glas poruncitor şi răutăcios:</p>
+        <p>— Dar ce nevoie mare este să înţelegi tu, mojicule? Tacă-ţi leoarba, dac-ai venit aici; c-apoi întoarce-ne-vom noi acasă, şi helbet! nu ţi-a lua nime din spate ce ştiu eu... Auzi obrăznicie! Tu... cu optzeci de mii de fălci de moşie, şi el un ghiorlan c-un petic de pământ, şi uite ce gură face alăturea cu mine!...</p>
+        <p>Moş Ion Roată, simţindu-se lovit până în suflet, răspunde atunci cu glas plângător:</p>
+        <p>— Dar bine, cucoane, dacă nu v-a fost cu plăcere să picepem şi noi câte ceva din cele ce spuneţi dumneavoastră, de ce ne-aţi mai adus aici să vă bateţi joc de noi? Ei, cucoane, cucoane! Puternic eşti, megieş îmi eşti, ca răzeş ce mă găsesc, şi ştiu bine că n-are să-mi fie moale când m-oi întoarce acasă, unde mă aşteaptă nevoile. Dar să nu vă fie cu supărare, ia, palmele aceste ţărăneşti ale noastre, străpunse de pălămidă şi pline de bătături, cum le vedeţi, vă ţin pe d-neavoastră deatâta amar de vreme şi vă fac să huzuriţi de bine. Şi mai mult decât atâta: orice venetic, în ţara asta, este oploşit de dumneavoastră, şi-l priviţi cu nepăsare cum ne suge sângele, şi tăceţi şi-l îmbrăţişaţi! Numai noi, vite de muncă, vă suntem dragi ca sarea în ochi... Din mojici, din ghiorlani şi din dobitoci nu ne mai scoateţi! Dumnezeu să ne ierte, şi să ne iertaţi şi dumneavoastră, cucoane, dar cu adevărat aşa este: v-aţi deprins a lua focul totdeauna cu mâinile noastre cele mojiceşti... şi tot noi cei horopsiţi!</p>
+        <p>— Sfânt să-ţi fie rostul, moş Ioane, că ai vorbit din durere, răspunse atunci cuconul Alecu Forăscu; şi sunt fericit că stai alăturea cu mine. Decât un bonjurist c-o mână de învăţătură, mai bine un ţăran cu un car de minte!</p>
+        <p>La aceste vorbe, mulţi dintre boieri s-au simţit atinşi; cel cu pricina... a rămas ca opărit. Iar colonelul Alexandru Cuza a dat mâna prieteneşte cu moş Ion Roată.</p>
+        <p>În sfârşit, după multe dezbateri furtunoase urmate în Divanul ad-hoc, s-a încuviinţat "Unirea", şi apoi deputaţii s-au întors fiecare pe la vetrele lor.</p>
+        <p>Peste câţiva ani după aceasta, trecând Cuza-vodă spre Bucureşti, a poposit la Agiud, unde l-a întâmpinat o mulţime de lume, ca pe un domnitor.</p>
+        <p>Printre lumea ce se înghesuia, cu treabă, fără treabă, iaca se zăreşte o hârtie fâlfâind pe deasupra capetelor mulţimii, în vârful unei prăjini. Cuza-vodă, înţelegând că trebuie să fie vrun suflet necăjit, face semn să i se deschidă calea. Şi, când colo, un ţăran bătrân cade în genunchi dinaintea domnitorului, sărutându-i mâna, cu lacrimile în ochi, şi dându-i o hârtie scrisă pe toate feţele.</p>
+        <p>— He, he! moş Ion Roată, prietenul şi tovarăşul meu cel vechi din Divanul ad-hoc, lucru negândit! Ridică-te, moş Ioane, şi spune-mi, fără sfială, ce durere ai. Ţi-a făcut cineva vrun neajuns?</p>
+        <p>Moş Ion Roată, văzând că, după atâţia ani de zile, nu l-a uitat colonelul Alexandru Cuza şi că l-a primit cu atâta bunătate, a început a plânge cu hohot şi a-l ruga să-i citească hârtia.</p>
+        <p>Vodă, fiind gata de plecare şi văzând că hârtia lui moş Roată cuprinde multă polologhie, zise cu blândeţe:</p>
+        <p>— Spune, moş Ioane, din gură ce ai de spus, că mai bine am să înţeleg!</p>
+        <p>Atunci moş Roată, venindu-şi în sine, începe a se jelui cum urmează:</p>
+        <p>— Luminarea-voastră! De când cu păcatul cel de "ad-hoc", n-am mai avut zi bună cu megieşul meu cel puternic, stăpânul unei moşii foarte mari, pe care-l cunoşti măria-ta. N-am gândit, nenorocitul de mine, că dumnealui, un boier aşa de mare, putred de bogat şi cu învăţătură, să-şi pună mintea cu unul ca mine, de la nişte vorbe nesocotite ce le-am zis şi eu atunci, într-un necaz. Numai Dumnezeu să-i dea sănătate şi bine, dar amarnic m-a lovit în avere şi în cinste! Crede, măria-ta, că nici eu n-am fost aşa de sec, între cei de-o seamă cu mine. Dar, de cum am ajuns acasă, goană şi prigoană pe capul meu, din partea boierului, în tot felul.</p>
+        <p>Întâi şi-ntâi, a pus înadins pe feciorii boiereşti să-mi caute pricină şi să mă aducă la sapă de lemn. Şi aceştia, ca oameni fără judecată şi pizmaşi, făceau toate chipurile sataniceşti, sau ei de-a dreptul, sau prin alţii, cum să dea vitişoarele mele măcar de-un pas pe moşia boierească; ş-apoi, sub cuvânt că au făcut stricăciune, să mi le poată ucide fără nici o cruţare! Şi astăzi împuşcă-i porcii; mâine, vacile şi boii; poimâine, căişorii; în altă zi ie-i oile dinapoi cu grămada şi du-le la curte. Îţi poţi închipui, măria-ta, ce urgie grozavă era pe capul meu!</p>
+        <p>Văzând eu de la o vreme că nu mai încetează cu jafurile, mi-am luat inima-n dinţi şi m-am dus la boier să mă jeluiesc. Şi boierul, în loc de un cuvânt bun, m-a scuipat drept în obraz, de faţă cu slugile sale şi cu alţi oameni ce se aflau atunci la curte, încât am crezut că a căzut cerul pe mine de ruşine! Ba încă m-a şi ameninţat că altă dată, de mi-a mai călca piciorul în ograda boierească, are să poruncească să mă întindă la scară şi să mă bată cu biciul! Şi cu rânduiala asta, măria-ta, în câţiva ani de zile m-a calicit cu desăvârşire, şi mi-a ridicat şi cinstea, care pentru mine a fost cel mai scump lucru!</p>
+        <p>Cuza-vodă a stat neclintit şi s-a uitat ţintă la moş Ion Roată, cât a vorbit el. Şi când a isprăvit vorba, vodă i-a pus două fişicuri de napoleoni în mână, zicându-i cu bunătate:</p>
+        <p>— Ţine, moş Ioane, acest mic dar de la mine, şi întâmpină-ţi nevoia, de azi pe mâine, cum te-a lumina Cel-de-sus! Iar pe boier lasă-l în judecata lui Dumnezeu, căci "El nu bate cu ciomagul".</p>
+        <p>Lui moş Ion Roată i se umplură din nou ochii de lacrimi, şi, sărutând mâna lui vodă, ca semn de mulţumire, zice oftând:</p>
+        <p>— Dar cu ruşinea ce mi-a făcut, cum rămâne, măria-ta?</p>
+        <p>— Cu ruşinea, iaca aşa rămâne, moş Ioane, zise Cuza-vodă, sărutându-l pe un obraz şi pe altul, în faţa mulţimii adunate acolo. Du-te şi spune sătenilor dumitale, moş Ioane, că, pe unde te-a scuipat boierul, te-a sărutat domnitorul ţării şi ţi-a şters ruşinea.</p>
+        <p>
+          <emph>Iaşi, 1882, noiembrie 13</emph>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>Le Corbeau   </dc:title><meta:initial-creator>XXXXX</meta:initial-creator><meta:creation-date>2003-06-06T23:57:00</meta:creation-date><dc:date>2022-12-07T17:30:22.460546010</dc:date><meta:editing-cycles>50</meta:editing-cycles><meta:editing-duration>PT1H28M20S</meta:editing-duration><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="21" meta:paragraph-count="233" meta:word-count="8377" meta:character-count="48359" meta:non-whitespace-character-count="40118"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="livres.dot" xlink:href="C:\Documents MS Office\Modèles\livres.dot"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">134853</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22163</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16314</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6339</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">114145</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">134853</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22162</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">151165</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">109</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕゛゜ゝゞ・ヽヾ！％），．：；？］｝｡｣､･ﾞﾟ￠</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([\{£¥‘“〈《「『【〔＄（［｛｢￡￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1124102</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1124102</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern"/>
+  <style:font-face style:name="Courier New1" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Georgia" svg:font-family="Georgia" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Helvetica" svg:font-family="Helvetica" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Symbol" svg:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma2" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Wingdings" svg:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma2" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Normal_20__28_Web_29_" style:display-name="Normal (Web)" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0.494cm" fo:margin-bottom="0.494cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Explorateur_20_de_20_document" style:display-name="Explorateur de document" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#000080"/>
+   <style:paragraph-properties fo:background-color="#000080"/>
+   <style:text-properties style:font-name="Tahoma1" fo:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0.501cm" fo:margin-top="0.423cm" fo:margin-bottom="0.423cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.984cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="none" fo:country="none" style:language-asian="none" style:country-asian="none" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Text_20_body_20_indent" style:display-name="Text body indent" style:family="paragraph" style:parent-style-name="Standard" style:class="text"/>
+  <style:style style:name="Corps_20_de_20_texte_20_3" style:display-name="Corps de texte 3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="8.001cm" style:type="center"/>
+     <style:tab-stop style:position="16.002cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Corps_20_de_20_texte_20_2" style:display-name="Corps de texte 2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Retrait_20_corps_20_de_20_texte_20_2" style:display-name="Retrait corps de texte 2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Retrait_20_corps_20_de_20_texte_20_3" style:display-name="Retrait corps de texte 3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.953cm" fo:margin-right="0cm" fo:text-indent="0.048cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Helvetica" fo:font-family="Helvetica" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Helvetica" style:font-family-complex="Helvetica" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Légende" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.423cm" fo:margin-bottom="0.423cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Georgia" fo:font-family="Georgia" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" style:font-size-asian="20pt" style:font-name-complex="Georgia" style:font-family-complex="Georgia" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0.501cm" fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.984cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="15pt" fo:language="none" fo:country="none" style:font-size-asian="15pt" style:language-asian="none" style:country-asian="none"/>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.85cm" fo:margin-right="0cm" fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false" fo:text-indent="1cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="14pt" style:font-size-asian="14pt"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.376cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.834cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_6" style:display-name="Contents 6" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.293cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_7" style:display-name="Contents 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.752cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_8" style:display-name="Contents 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.21cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_9" style:display-name="Contents 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.669cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="WW8Num1z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num1z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num1z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num2z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num2z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num2z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num3z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num3z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num3z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num4z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num4z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num4z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Police_20_par_20_défaut" style:display-name="Police par défaut" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Page_20_Number" style:display-name="Page Number" style:family="text" style:parent-style-name="Police_20_par_20_défaut"/>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma2" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="WW8Num1" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num1z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num1z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num1z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num1z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num1z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num1z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num1z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num1z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num1z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num2" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num2z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num2z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num2z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num2z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num2z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num2z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num2z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num2z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num2z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num3" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num3z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num3z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num3z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num3z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num3z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num3z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num3z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num3z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num3z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num4" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num4z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num4z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num4z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num4z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num4z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num4z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num4z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num4z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num4z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Corps_20_de_20_texte_20_2">
+   <style:text-properties fo:font-size="15pt" fo:font-style="italic" style:font-size-asian="15pt" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Normal_20__28_Web_29_" style:master-page-name="Convert_20_1">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Retrait_20_corps_20_de_20_texte_20_3">
+   <style:paragraph-properties fo:margin-left="0.953cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Georgia" fo:font-size="15pt" style:font-size-asian="15pt" style:font-name-complex="Georgia"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="-0.501cm" fo:margin-right="-0.501cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="2.501cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="17pt" style:font-size-asian="17pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="4.001cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="17pt" style:font-size-asian="17pt"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Georgia" fo:font-size="15pt" style:font-size-asian="15pt" style:font-name-complex="Georgia"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="15pt" fo:font-style="italic" style:font-size-asian="15pt" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:language="none" fo:country="none" style:language-asian="none" style:country-asian="none"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:language="none" fo:country="none" fo:font-style="italic" fo:font-weight="bold" style:language-asian="none" style:country-asian="none" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:language="none" fo:country="none" fo:font-weight="bold" style:language-asian="none" style:country-asian="none" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body_20_indent">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text"/>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-size="17pt" style:font-size-asian="17pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:font-name-asian="Georgia"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-size="15pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="15pt" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-size="15pt" fo:font-style="italic" style:font-size-asian="15pt" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:language="none" fo:country="none" style:language-asian="none" style:country-asian="none"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:language="none" fo:country="none" fo:font-weight="bold" style:language-asian="none" style:country-asian="none" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:language="none" fo:country="none" fo:font-weight="bold" style:language-asian="none" style:country-asian="none" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="00112706"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="46" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.099cm" fo:margin-top="0cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.501cm" fo:margin-bottom="1cm" fo:margin-left="2.501cm" fo:margin-right="2.501cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="41" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.501cm" fo:margin-top="1.402cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:footer>
+    <text:p text:style-name="P1">- <text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">2</text:page-number></text:span><text:span text:style-name="Page_20_Number"><text:s/>-</text:span></text:p>
+   </style:footer>
+   <style:footer-first>
+    <text:p text:style-name="Footer"/>
+   </style:footer-first>
+  </style:master-page>
+  <style:master-page style:name="Convert_20_1" style:display-name="Convert 1" style:page-layout-name="pm2">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T2">- </text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T2"><text:page-number text:select-page="current">21</text:page-number></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T2"><text:s/>-</text:span></text:span></text:p>
+   </style:footer>
+   <style:footer-first>
+    <text:p text:style-name="P2"/>
+   </style:footer-first>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Author">Prosper Mérimée</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Il viccolo di<text:span text:style-name="T22"> </text:span>Madama Lucrezia</text:h>
+   <text:p text:style-name="P12">Écrit en 1846.<text:line-break/>Publication posthume en 1873.</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P6">J’avais vingt-trois ans quand je partis pour Rome. Mon père me donna une douzaine de lettres de recommandation, dont une seule, qui n’avait pas moins de quatre pages, était cachetée. Il y avait sur l’adresse : « A la marquise Aldobrandi ».</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Tu m’écriras, me dit mon père, si la marquise est encore belle.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Or, depuis mon enfance, je voyais dans son cabinet, suspendu à la cheminée, le portrait en miniature d’une fort jolie femme, la tête poudrée et couronnée de lierre, avec une peau de tigre sur l’épaule. Sur le fond, on lisait : <text:span text:style-name="T7">Roma 18...</text:span> Le costume me paraissant singulier, il m’était arrivé bien des fois de demander quelle était cette dame. On me répondait :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>C’est une bacchante.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Mais cette réponse ne me satisfaisait guère ; même je soupçonnais un secret ; car, à cette question si simple, ma mère pinçait les lèvres, et mon père prenait un air sérieux.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Cette fois, en me donnant la lettre cachetée, il regarda le portrait à la dérobée ; j’en fis de même involontairement, et l’idée me vint que cette bacchante poudrée pouvait bien être la marquise Aldobrandi. Comme je commençais à comprendre les choses de ce monde, je tirai toute sorte de conclusions des mines de ma mère et du regard de mon père.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Arrivé à Rome, la première lettre que j’allai rendre fut celle de la marquise. Elle demeurait dans un beau palais près de la place Saint-Marc.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je donnai ma lettre et ma carte à un domestique en livrée jaune qui m’introduisit dans un vaste salon, sombre et triste, assez mal meublé. Mais, dans tous les palais de Rome, il y a des tableaux de maîtres. Ce salon en contenait un assez grand nombre, dont plusieurs fort remarquables.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je distinguai tout d’abord un portrait de femme qui me parut être un Léonard de Vinci. A la richesse du cadre, au chevalet de palissandre sur lequel il était posé, on ne pouvait douter que ce ne fût le morceau capital de la collection. Comme la marquise ne venait pas, j’eus tout le loisir de l’examiner. Je le portai même près d’une fenêtre afin de le voir sous un jour plus favorable. C’était évidemment un portrait, non une tête de fantaisie, car on n’invente pas de ces physionomies-là : une belle femme avec les lèvres un peu grosses, les sourcils presque joints, le regard altier et caressant tout à la fois. Dans le fond, on voyait son écusson, surmonté d’une couronne ducale. Mais ce qui me frappa le plus, c’est que le costume, à la poudre près, était le même que celui de la bacchante de mon père.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je tenais encore le portrait à la main quand la marquise entra.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Juste comme son père ! s’écria-t-elle en s’avançant vers moi. Ah ! les Français ! les Français ! A peine arrivé, et déjà il s’empare de <text:span text:style-name="T7">Madame Lucrèce</text:span>.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je m’empressai de faire mes excuses pour mon indiscrétion, et me jetai dans des éloges à perte de vue sur le chef-d’œuvre de Léonard que j’avais eu la témérité de déplacer.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>C’est en effet un Léonard, dit la marquise, et c’est le portrait de la trop fameuse Lucrèce Borgia. De tous mes tableaux, c’est celui que votre père admirait le plus... Mais, bon Dieu ! <text:soft-page-break/>quelle ressemblance ! Je crois voir votre père, comme il était il y a vingt-cinq ans. Comment se porte-t-il ? Que fait-il ? Ne viendra-t-il pas nous voir un jour à Rome ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Bien que la marquise ne portât ni poudre ni peau de tigre, du premier coup d’œil, par la force de mon génie, je reconnus en elle la bacchante de mon père. Quelque vingt-cinq ans n’avaient pu faire disparaître entièrement les traces d’une grande beauté. Son expression avait changé seulement, comme sa toilette. Elle était tout en noir, et son triple menton, son sourire grave, son air solennel et radieux, m’avertissaient qu’elle était devenue dévote.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Elle me reçut, d’ailleurs, on ne peut plus affectueusement. En trois mots, elle m’offrit sa maison, sa bourse, ses amis, parmi lesquels elle me nomma plusieurs cardinaux.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Regardez-moi, dit-elle, comme votre mère...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Elle baissa les yeux modestement.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Votre père me charge de veiller sur vous et de vous donner des conseils.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Et, pour me prouver qu’elle n’entendait pas que sa mission fût une sinécure, elle commença sur l’heure par me mettre en garde contre les dangers que Rome pouvait offrir à un jeune homme de mon âge, et m’exhorta fort à les éviter. je devais fuir les mauvaises compagnies, les artistes surtout, ne me lier qu’avec les personnes qu’elle me désignerait. Bref, j’eus un sermon en trois points. J’y répondis respectueusement et avec l’hypocrisie convenable.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Comme je me levais pour prendre congé :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Je regrette, me dit-elle, que mon fils le marquis soit en ce moment dans nos terres de la Romagne, mais je veux vous présenter mon second fils, don Ottavio, qui sera bientôt un monsignor. J’espère qu’il vous plaira et que vous deviendrez amis comme vous devez l’être...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Elle ajouta précipitamment :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Car vous êtes à peu près du même âge, et c’est un garçon doux et rangé comme vous.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Aussitôt, elle envoya chercher don Ottavio. Je vis un grand jeune homme pâle, l’air mélancolique, toujours les yeux baissés, sentant déjà son cafard.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Sans lui laisser le temps de parler, la marquise me fit en son nom toutes les offres de service les plus aimables. Il confirmait par de grandes révérences toutes les phrases de sa mère, et il fut convenu que, dès le lendemain, il irait me prendre pour faire des courses par la ville, et me ramènerait dîner en famille au palais Aldobrandi.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’avais à peine fait une vingtaine de pas dans la rue, lorsque quelqu’un cria derrière moi d’une voix impérieuse :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Où donc allez-vous ainsi seul à cette heure, don Ottavio ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je me retournai, et vis un gros abbé qui me considérait des pieds à la tête en écarquillant les yeux.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>–<text:span text:style-name="T6"> </text:span>Je ne suis pas don Ottavio, lui dis-je.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">L’abbé, me saluant jusqu’à terre, se confondit en excuses, et, un moment après, je le vis entrer dans le palais Aldobrandi. Je poursuivis mon chemin, médiocrement flatté d’avoir été pris pour un monsignor en herbe.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Malgré les avertissements de la marquise, peut-être même à cause de ses avertissements, je n’eus rien de plus pressé que de découvrir la demeure d’un peintre de ma connaissance, et je passai une heure avec lui dans son atelier à causer des moyens d’amusements, licites ou non, que Rome pouvait me fournir. Je le mis sur le chapitre des Aldobrandi.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">La marquise, me dit-il, après avoir été fort légère, s’était jetée dans la haute dévotion, quand elle eut reconnu que l’âge des conquêtes était passé pour elle. Son fils aîné était une brute qui passait son temps à chasser et à encaisser l’argent que lui apportaient les fermiers de ses vastes domaines. On était en train d’abrutir le second fils, don Ottavio, dont on voulait faire un jour un cardinal. En attendant, il était livré aux jésuites. Jamais il ne sortait seul. Défense de regarder une femme, ou de faire un pas sans avoir à ses talons un abbé qui l’avait élevé pour le service de Dieu, et qui, après avoir été le dernier <text:span text:style-name="T7">amico</text:span> de la marquise, gouvernait maintenant sa maison avec une autorité à peu près despotique.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Le lendemain, don Ottavio, suivi de l’abbé Negroni, le même qui, la veille, m’avait pris pour son pupille, vint me chercher en voiture et m’offrir ses services comme cicérone.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Le premier monument où nous nous arrêtâmes était une église. A l’exemple de son abbé, don Ottavio s’y agenouilla, se frappa la poitrine, et fit des signes de croix sans nombre. Après s’être relevé, il me montra les fresques et les statues, et m’en parla en homme de bon sens et de goût. Cela me surprit agréablement. Nous commençâmes à causer et sa conversation me plut. Pendant quelque temps, nous avions parlé italien. Tout à coup, il me dit en français :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Mon gouverneur n’entend pas un mot de votre langue. Parlons français, nous serons plus libres.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">On eût dit que le changement d’idiome avait transformé ce jeune homme. Rien dans ses discours ne sentait le prêtre. Je croyais entendre un de nos libéraux de province. Je remarquai qu’il débitait tout d’un même ton de voix monotone, et que souvent ce débit contrastait étrangement avec la vivacité de ses expressions. C’était une habitude prise apparemment pour dérouter le Negroni, qui de temps à autre, se faisait expliquer ce que nous disions. Bien entendu que nos traductions étaient des plus libres.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Nous vîmes passer un jeune homme en bas violets.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Voilà, me dit don Ottavio, nos patriciens d’aujourd’hui. Infâme livrée ! et ce sera la mienne dans quelques mois ! Quel bonheur, ajouta-t-il après un moment de silence, quel bonheur de vivre dans un pays comme le vôtre ! Si j’étais Français, peut-être un jour deviendrais-je député !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Cette noble ambition me donna une forte envie de rire, et, notre abbé s’en étant aperçu, je fus obligé de lui expliquer que nous parlions de l’erreur d’un archéologue qui prenait pour antique une statue de Bernin.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>Nous revîmes dîner au palais Aldobrandi. Presque aussitôt après le café, la marquise me demanda pardon pour son fils, obligé, par certains devoirs pieux, à se retirer dans son appartement. Je demeurai seul avec elle et l’abbé Negroni, qui, renversé dans un grand fauteuil, dormait du sommeil du juste.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Cependant, la marquise m’interrogeait en détail sur mon père, sur Paris, sur une vie passée, sur mes projets pour l’avenir. Elle me parut aimable et bonne, mais un peu trop curieuse et surtout trop préoccupée de mon salut. D’ailleurs, elle parlait admirablement l’italien, et je pris avec elle une bonne leçon de prononciation que je me promis bien de répéter.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je revins souvent la voir. Presque tous les matins, j’allais visiter les antiquités avec son fils et l’éternel Negroni, et, le soir, je dînais avec eux au palais Aldobrandi. La marquise recevait peu de monde, et presque uniquement des ecclésiastiques.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Une fois cependant, elle me présenta à une dame allemande, nouvelle convertie et son amie intime. C’était une madame de Strahlenheim, fort belle personne établie depuis longtemps à Rome. Pendant que ces dames causaient entre elles d’un prédicateur renommé, je considérais, à la clarté d’une lampe, le portrait de Lucrèce, quand je crus devoir placer mon mot.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Quels yeux ! m’écriai-je ; on dirait que ces paupières vont remuer !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">A cette hyperbole un peu prétentieuse que je hasardais pour m’établir en qualité de connaisseur auprès de madame Strahlenheim, elle tressaillit d’effroi et se cacha la figure dans son mouchoir.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Qu’avez-vous, ma chère ? dit la marquise.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Ah ! rien, mais ce que monsieur vient de dire !...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">On la pressa de questions, et, une fois qu’elle nous eut dit que mon expression lui rappelait une histoire effrayante, elle fut obligée de la raconter.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">La voici en deux mots :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Madame de Strahlenheim avait une belle-sœur nommée Wilhelmine, fiancée à un jeune homme de Westphalie, Julius de Katzenellenbogen, volontaire dans la division du général Kleist. Je suis bien fâché d’avoir à répéter tant de noms barbares mais les histoires merveilleuses n’arrivent jamais qu’à des personnes dont les noms sont difficiles à prononcer.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Julius était un charmant garçon rempli de patriotisme et de métaphysique. En partant pour l’armée, il avait donné son portrait à Wilhelmine, et Wilhelmine lui avait donné le sien, qu’il portait toujours sur son cœur. Cela se fait beaucoup en Allemagne.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Le 13 septembre 1813, Wilhelmine était à Cassel, vers cinq heures du soir, occupée à tricoter avec sa mère et sa belle-sœur. Tout en travaillant, elle regardait le portrait de son fiancé, placé sur une petite table à ouvrage en face d’elle. Tout à coup, elle pousse un cri horrible, porte la main sur son cœur et s’évanouit. On eut toutes les peines du monde à lui faire reprendre connaissance, et, dès qu’elle put parler :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Julius est mort ! s’écria-t-elle, Julius est tué !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>Elle affirma, et l’horreur peinte sur tous ses traits prouvait assez sa conviction, qu’elle avait vu le portrait fermer les yeux, et qu’au même instant elle avait senti une douleur atroce, comme si un fer rouge lui traversait le cœur.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Chacun s’efforça inutilement de lui démontrer que sa vision n’avait rien de réel et qu’elle n’y devait attacher aucune importante. La pauvre enfant était inconsolable ; elle passa la nuit dans les larmes, et, le lendemain, elle voulut s’habiller de deuil, comme assurée déjà du malheur qui lui avait été révélé.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Deux jours après, on reçut la nouvelle de la sanglante bataille de Leipzig. Julius écrivait à sa fiancée un billet daté du 13 à trois heures de l’après-midi. Il n’avait pas été blessé, s’était distingué et venait d’entrer à Leipzig, où il comptait passer la nuit avec le quartier général, éloigné par conséquent de tout danger. Cette lettre si rassurante ne put calmer Wilhelmine, qui, remarquant qu’elle était datée de trois heures, persista à croire que son amant était mort à cinq.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">L’infortunée ne se trompait pas. On sut bientôt que Julius, chargé de porter un ordre, était sorti de Leipzig à quatre heures et demie, et qu’à trois quarts de lieue de la ville, au delà de l’Elster, un traînard de l’armée ennemie, embusqué dans un fossé, l’avait tué d’un coup de feu. La balle, en lui perçant le cœur, avait brisé le portrait de Whilhelmine.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Et qu’est devenue cette pauvre jeune personne ? demandai-je à madame de Strahlenheim.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Oh ! elle a été bien malade. Elle est mariée maintenant à M. le conseiller de justice de Werner, et, si vous alliez à Dessau, elle vous montrerait le portrait de Julius.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Tout cela se fait par l’entremise du diable, dit l’abbé, qui n’avait dormi que d’un œil pendant l’histoire de madame de Strahlenheim. Celui qui faisait parler les oracles des païens, peut bien faire mouvoir les yeux d’un portait quand bon lui semble. Il n’y a pas vingt ans qu’à Tivoli, un Anglais a été étranglé par une statue.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Par une statue ! m’écriai-je ; et comment cela ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>C’était un milord qui avait fait des fouilles à Tivoli. Il avait trouvé une statue d’impératrice, Agrippine, Messaline,... peu importe. Tant il y a qu’il la fit porter chez lui, et qu’à force de la regarder et de l’admirer, il en devint fou. Tous ces messieurs protestants le sont déjà plus qu’à moitié. Il l’appelait sa femme, sa milady, et l’embrassait, tout de marbre qu’elle était. Il disait que la statue s’animait tous les soirs à son profit. Si bien qu’un matin on trouva mon milord roide mort dans son lit. Eh bien, le croiriez-vous ? Il s’est rencontré un autre Anglais pour acheter cette statue. Moi, j’en aurais fait faire de la chaux.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Quand on a entamé une fois le chapitre des aventures surnaturelles, on ne s’arrête plus. Chacun avait son histoire à raconter. Je fis ma partie moi-même dans ce concert de récits effroyables ; en sorte qu’au moment de nous séparer, nous étions tous passablement émus et pénétrés de respect pour le pouvoir du diable.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je regagnai à pied mon logement, et, pour tomber dans la rue du Corso, je pris une petite ruelle tortueuse par où je n’avais point encore passé. Elle était déserte. On ne voyait que de longs murs de jardin, ou quelques chétives maisons dont pas une n’était éclairée. Minuit venait de sonner ; le temps était sombre. J’étais au milieu de la rue, marchant assez vite, <text:soft-page-break/>quand j’entendis au-dessus de ma tête un petit bruit, un <text:span text:style-name="T7">st ! </text:span>et, au même instant, une rose tomba à mes pieds. Je levai les yeux, et, malgré l’obscurité, j’aperçus une femme vêtue de blanc, à une fenêtre, le bras étendu vers moi. Nous autres, Français, nous sommes fort avantageux en pays étranger, et nos pères, vainqueurs de l’Europe, nous ont bercés de traditions flatteuses pour l’orgueil national. Je croyais pieusement à l’inflammabilité des dames allemandes, espagnoles et italiennes à la seule vue d’un Français. Bref, à cette époque, j’étais encore bien de mon pays, et, d’ailleurs, la rose ne parlait-elle pas clairement ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Madame, dis-je à voix basse, en ramassant la rose, vous avez laissé tomber votre bouquet...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Mais déjà la femme avait disparu, et la fenêtre s’était fermée sans faire le moindre bruit. Je fis ce que tout autre eût fait à ma place. Je cherchai la porte la plus proche ; elle était à deux pas de la fenêtre ; je la trouvai, et j’attendis qu’on vînt me l’ouvrir. Cinq minutes se passèrent dans un profond silence. Alors, je toussai, puis je grattai doucement ; mais la porte ne s’ouvrit pas. Je l’examinai avec plus d’attention, espérant trouver une clef ou un loquet ; à ma grande surprise, j’y trouvai un cadenas.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Le jaloux n’est donc pas rentré, me dis-je.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je ramassai une petite pierre et la jetai contre la fenêtre. Elle rencontra un contrevent de bois et retomba à mes pieds.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Diable ! pensai-je, les dames romaines se figurent donc qu’on a des échelles dans sa poche ? On ne m’avait pas parlé de cette coutume.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’attendis encore plusieurs minutes tout aussi inutilement. Seulement, il me sembla une ou deux fois voir trembler légèrement le volet, comme si de l’intérieur on eût voulu l’écarter, pour voir dans la rue. Au bout d’un quart d’heure, ma patience étant à bout, j’allumai un cigare, et je poursuivis mon chemin, non sans avoir bien reconnu la situation de la maison au cadenas.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Le lendemain, en réfléchissant à cette aventure, je m’arrêtai aux conclusions suivantes : Une jeune dame romaine, probablement d’une grande beauté, m’avait aperçu dans mes courses par la ville, et s’était éprise de mes faibles attraits. Si elle ne m’avait déclaré sa flamme que par le don d’une fleur mystérieuse, c’est qu’une honnête pudeur l’avait retenue, ou bien qu’elle avait été dérangée par la présence de quelque duègne, peut-être par un maudit tuteur comme le Bartolo de Rosine. Je résolus d’établir un siège en règle devant la maison habitée par cette infante.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Dans ce beau dessein, je sortis de chez moi après avoir donné à mes cheveux un coup de brosse conquérant. J’avais mis ma redingote neuve et des gants jaunes. En ce costume, le chapeau sur l’oreille, la rose fanée à la boutonnière, je me dirigeai vers la rue dont je ne savais pas encore le nom, mais que je n’eus pas de peine à découvrir. Un écriteau au-dessus d’une madone m’apprit qu’on l’appelait <text:span text:style-name="T7">il viccolo di Madama Lucrezia</text:span>.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Ce nom m’étonna. Aussitôt, je me rappelai le portrait de Léonard de Vinci, et les histoires de pressentiments et de diableries que, la veille, on avait racontées chez la marquise. Puis je pensai qu’il y avait des amours prédestinées dans le ciel. Pourquoi mon objet ne s’appellerait-il pas Lucrèce ? Pourquoi ne ressemblerait-il pas à la Lucrèce de la galerie Aldobrandi ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>Il faisait jour, j’étais à deux pas d’une charmante personne et nulle pensée sinistre n’avait part à l’émotion que j’éprouvais.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’étais devant la maison. Elle portait le n° 13. Mauvais augure... Hélas ! elle ne répondait guère à l’idée que je m’en étais faite pour l’avoir vue la nuit. Ce n’était pas un palais, tant s’en faut. Je voyais un enclos de murs noircis par le temps et couverts de mousse, derrière lesquels passaient les branches de quelques arbres à fruits mal échenillés. Dans un angle de l’enclos s’élevait un pavillon à un seul étage, ayant deux fenêtres sur la rue, toutes les deux fermées par de vieux contrevents garnis à l’extérieur de nombreuses barres de fer. La porte était basse, surmontée d’un écusson effacé, fermée comme la veille d’un gros cadenas attaché d’une chaîne. Sur cette porte on lisait, écrit à la craie : <text:span text:style-name="T7">Maison à vendre ou à louer</text:span>.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Pourtant, je ne m’étais pas trompé. De ce côté de la rue, les maisons étaient assez rares pour que toute confusion fût impossible. C’était bien mon cadenas, et, qui plus est, deux feuilles de rose sur le pavé, près de la porte, indiquaient le lieu précis où j’avais reçu la déclaration par signes de ma bien-aimée, et prouvaient qu’on ne balayait guère le devant de sa maison.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je m’adressai à quelques pauvres gens du voisinage pour savoir où logeait le gardien de cette mystérieuse demeure.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Ce n’est pas ici, me répondait-on brusquement.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il semblait que ma question déplût à ceux que j’interrogeais et cela piquait d’autant plus ma curiosité. Allant de porte en porte, je finis par entrer dans une espèce de cave obscure, où se tenait une vieille femme qu’on pouvait soupçonner de sorcellerie, car elle avait un chat noir et faisait cuire je ne sais quoi dans une chaudière.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Vous voulez voir la maison de madame Lucrèce ? dit-elle, c’est moi qui en ai la clef.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Eh bien, montrez-la-moi.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Est-ce que vous voudriez la louer ? demanda-t-elle en souriant d’un air de doute.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Oui, si elle me convient.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Elle ne vous conviendra pas. Mais, voyons, me donnerez-vous un paul si je vous la montre ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Très volontiers.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Sur cette assurance, elle se leva prestement de son escabeau, décrocha de la muraille une clef toute rouillée et me conduisit devant le n° 13.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Pourquoi, lui dis-je, appelle-t-on cette maison, la maison de Lucrèce ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Alors, la vieille en ricanant :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Pourquoi, dit-elle, vous appelle-t-on étranger ? N’est-ce pas parce que vous êtes étranger ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Bien ; mais qui était cette madame Lucrèce ? Était-ce une dame de Rome ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>–<text:span text:style-name="T6"> </text:span>Comment ! vous venez à Rome, et vous n’avez pas entendu parler de madame Lucrèce ! Quand nous serons entrés, je vous conterai son histoire. Mais voici bien une autre diablerie ! Je ne sais ce qu’a cette clef, elle ne tourne pas. Essayez vous-même.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">En effet le cadenas et la clef ne s’étaient pas vus depuis longtemps. Pourtant, au moyen de trois jurons et d’autant de grincements de dents, je parvins à faire tourner la clef ; mais je déchirai mes gants jaunes et me disloquai la paume de la main. Nous entrâmes dans un passage obscur qui donnait accès à plusieurs salles basses.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Les plafonds, curieusement lambrissés, étaient couverts de toiles d’araignée sous lesquelles on distinguait à peine quelques traces de dorures. A l’odeur de moisi qui s’exhalait de toutes les pièces, il était évident que, depuis longtemps, elles étaient inhabitées. On n’y voyait pas un seul meuble. Quelques lambeaux de vieux cuir pendaient le long des murs salpêtrés. D’après les sculptures de quelques consoles et la forme des cheminées, je conclus que la maison datait du XV<text:span text:style-name="T8">e</text:span> siècle, et il est probable qu’autrefois elle avait été décorée avec quelque élégance. Les fenêtres, à petits carreaux, la plupart brisés, donnaient sur le jardin, où j’aperçus un rosier en fleur, avec quelques arbres fruitiers et quantité de brocolis.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Après avoir parcouru toutes les pièces du rez-de-chaussée, je montai à l’étage supérieur, où j’avais vu mon inconnue. La vieille essaya de me retenir, en me disant qu’il n’y avait rien à voir et que l’escalier était fort mauvais. Me voyant entêté, elle me suivit, mais avec une répugnance marquée. Les chambres de cet étage ressemblaient fort aux autres ; seulement, elles étaient moins humides ; le plancher et les fenêtres étaient aussi en meilleur état. Dans la dernière pièce où j’entrai, il y avait un large fauteuil en cuir noir, qui, chose étrange, n’était pas couvert de poussière. Je m’y assis, et, le trouvant commode pour écouter une histoire, je priai la vieille de me raconter celle de madame Lucrèce ; mais auparavant, pour lui rafraîchir la mémoire, je lui fis présent de quelques pauls. Elle toussa, se moucha et commença de la sorte :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Du temps des païens, Alexandre étant empereur, il avait une fille belle comme le jour, qu’on appelait madame Lucrèce. Tenez, la voilà !...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je me retournai vivement. La vieille me montrait une console sculptée qui soutenait la maîtresse poutre de la salle. C’était une sirène fort grossièrement exécutée.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Dame, reprit la vieille, elle aimait à s’amuser. Et, comme son père aurait pu y trouver à redire, elle s’était fait bâtir cette maison où nous sommes.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">« Toutes les nuits, elle descendait du Quirinal et venait ici pour se divertir. Elle se mettait à cette fenêtre, et, quand il passait par la rue un beau cavalier comme vous voilà, monsieur, elle l’appelait ; s’il était bien reçu, je vous le laisse à penser. Mais les hommes sont babillards, au moins quelques-uns, et ils auraient pu lui faire du tort en jasant. Aussi y mettait-elle bon ordre. Quand elle avait dit adieu au galant, ses estafiers se tenaient dans l’escalier par où nous sommes montés. Ils vous le dépêchaient, puis vous l’enterraient dans ces carrés de brocolis. Allez ! on y en a trouvé des ossements, dans ce jardin !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">« Ce manège-là dura bien quelque temps. Mais voilà qu’un soir son frère, qui s’appelait Sisto Tarquino, passe sous sa fenêtre. Elle ne le reconnaît pas. Elle l’appelle. Il monte. La nuit tous chats sont gris. Il en fut de celui-là comme des autres. Mais il avait oublié son mouchoir, sur lequel il y avait son nom écrit.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>« Elle n’eut pas plus tôt vu la méchanceté qu’ils avaient faite, que le désespoir la prend. Elle défait vite sa jarretière et se pend à cette solive-là. Eh bien, en voilà un exemple pour la jeunesse ! »</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Pendant que la vieille confondait ainsi tous les temps, mêlant les Tarquins aux Borgias, j’avais les yeux fixés sur le plancher. Je venais d’y découvrir quelques pétales de rose encore frais, qui me donnaient fort à penser.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Qui est-ce qui cultive ce jardin ? demandai-je à la vieille.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>C’est mon fils, monsieur, le jardinier de M. Vanozzi, celui à qui est le jardin d’à côté. M. Vanozzi est toujours dans la Maremme ; il ne vient guère à Rome. Voilà pourquoi le jardin n’est pas très bien entretenu. Mon fils est avec lui. Et je crains bien qu’ils ne reviennent pas de si tôt, ajouta-t-elle en soupirant.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Il est donc fort occupé avec M. Vanozzi ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Ah ! c’est un drôle d’homme qui l’occupe à trop de choses... Je crains qu’il ne se passe de mauvaises affaires... Ah ! mon pauvre fils !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Elle fit un pas vers la porte comme pour rompre la conversation.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Personne n’habite donc ici ? repris-je en l’arrêtant.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Personne au monde.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Et pourquoi cela ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Elle haussa les épaules.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Écoutez, lui dis-je en lui présentant une piastre, dites-moi la vérité. Il y a une femme qui vient ici.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Une femme, divin Jésus !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Oui, je l’ai vue hier au soir. Je lui ai parlé.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Sainte Madone ! s’écria la vieille en se précipitant vers l’escalier. C’était donc madame Lucrèce ? Sortons, sortons, mon bon monsieur ! On m’avait bien dit qu’elle revenait la nuit, mais je n’ai pas voulu vous le dire, pour ne pas faire de tort au propriétaire, parce que je croyais que vous aviez envie de louer.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il me fut impossible de la retenir. Elle avait hâte de quitter la maison, pressée, dit-elle, d’aller porter un cierge à la plus proche église.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je sortis moi-même et la laissai aller, désespérant d’en apprendre davantage.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">On devine bien que je ne contai pas mon histoire au palais Aldobrandi : la marquise était trop prude, don Ottavio trop exclusivement occupé de politique pour être de bon conseil dans une amourette. Mais j’allais trouver mon peintre, qui connaissait tout à Rome, depuis le cèdre <text:soft-page-break/>jusqu’à l’hysope, et je lui demandai ce qu’il en pensait.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Je pense, dit-il, que vous avez vu le spectre de Lucrèce Borgia. Quel danger vous avez couru ! si dangereuse de son vivant, jugez un peu de qu’elle doit être maintenant qu’elle est morte : Cela fait trembler.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Plaisanterie à part, qu’est-ce que cela peut être ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">C’est-à-dire que monsieur est athée et philosophe et ne croit pas aux choses les plus respectables. Fort bien ; alors, que dites-vous de cette autre hypothèse ? Supposons que la vieille prête sa maison à des femmes capables d’appeler les gens qui passent dans la rue. On a vu des vieilles assez dépravées pour faire ce métier-là.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>A merveille, dis-je ; mais j’ai donc l’air d’un saint pour que la vieille ne m’ait pas fait d’offres de service. Cela m’offense. Et puis, mon cher, rappelez-vous l’ameublement de la maison. Il faudrait avoir le diable au corps pour s’en contenter.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Alors, c’est un revenant à n’en plus douter. Attendez donc ! encore une dernière hypothèse. Vous vous serez trompé de maison. Parbleu ! j’y pense : près d’un jardin ? petite porte basse ?... Eh bien, c’est ma grande amie la Rosina. Il n’y a pas dix-huit mois qu’elle faisait l’ornement de cette rue. Il est vrai qu’elle est devenue borgne, mais c’est un détail... Elle a encore un très beau profil.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Toutes ces explications ne me satisfaisaient point. Le soir venu, je passai lentement devant la maison de Lucrèce. Je ne vis rien. Je repassai, pas davantage. Trois ou quatre soirs de suite, je fis le pied de grue sous ses fenêtres en revenant du palais Aldobrandi, toujours sans succès. Je commençais à oublier l’habitante mystérieuse de la maison n° 13, lorsque, passant vers minuit dans le viccolo, j’entendis distinctement un petit rire de femme derrière le volet de la fenêtre, où la donneuse de bouquets m’était apparue. Deux fois j’entendis ce petit rire, et je ne pus me défendre d’une certaine terreur, quand, en même temps, je vis déboucher à l’autre extrémité de la rue une troupe de pénitents encapuchonnés, des cierges à la main, qui portaient un mort en terre. Lorsqu’ils furent passés, je m’établis en faction sous la fenêtre, mais alors je n’entendis plus rien. J’essayai de jeter des cailloux, j’appelai même plus ou moins distinctement ; personne ne parut, et une averse qui survint m’obligea de faire retraite.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’ai honte de dire combien de fois je m’arrêtai devant cette maudite maison sans pouvoir parvenir à résoudre l’énigme qui me tourmentait. Une seule fois je passai dans le viccolo de Madame Lucrezia avec don Ottavio et son inévitable abbé.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Voilà, dis-je, la maison de Lucrèce.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je le vis changer de couleur.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Oui, répondit-il, une tradition populaire, fort incertaine, veut que Lucrèce Borgia ait eu ici sa petite maison. Si ces murs pouvaient parler, que d’horreurs ils nous révéleraient ! Pourtant, mon ami, quand je compare ce temps avec le nôtre, je me prends à le regretter. Sous Alexandre VI, il y avait encore des Romains. Il n’y en a plus. César Borgia était un monstre mais un grand homme. Il voulait chasser les barbares de l’Italie, et peut-être, si son père eût vécu, eût-il accompli ce grand dessein. Ah ! que le ciel nous donne un tyran comme Borgia et qu’il nous délivre de ces despotes humains qui nous abrutissent !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>Quand don Ottavio se lançait dans les régions politiques, il était impossible de l’arrêter. Nous étions à la place du Peuple que son panégyrique du despotisme éclairé n’était pas à sa fin. Mais nous étions à cent lieues de ma Lucrèce à moi.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Certain soir que j’étais allé fort tard rendre mes devoirs à la marquise, elle me dit que son fils était indisposé et me pria de monter dans sa chambre. Je le trouvai couché sur son lit tout habillé, lisant un journal français que je lui avais envoyé le matin soigneusement caché dans un volume des Pères de l’Église. Depuis quelque temps, la collection des saints Pères nous servait à ces communications qu’il fallait cacher à l’abbé et à la marquise. Les jours de courrier de France, on m’apportait un in-folio. J’en rendais un autre dans lequel je glissais un journal, que me prêtait le secrétaire de l’ambassade. Cela donnait une haute idée de ma piété à la marquise et à son directeur, qui parfois voulait me faire parler théologie.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Après avoir causé quelque temps avec don Ottavio, remarquant qu’il était fort agité et que la politique même ne pouvait captiver son attention, je lui recommandai de se déshabiller et je lui dis adieu. Il faisait froid et je n’avais pas de manteau. Don Ottavio me pressa de prendre le sien, je l’acceptai et me fis donner une leçon dans l’art difficile de se draper en vrai Romain.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Emmitouflé jusqu’au nez, je sortis du palais Aldobrandi. A peine avais-je fait quelques pas sur le trottoir de la place Saint-Marc, qu’un homme du peuple que j’avais remarqué, assis sur un banc à la porte du palais, s’approcha de moi et me tendit un papier chiffonné.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Pour l’amour de Dieu, dit-il, lisez ceci.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Aussitôt, il disparut en courant à toutes jambes.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’avais pris le papier et je cherchais de la lumière pour le lire. A la lueur d’une lampe allumée devant une madone, je vis que c’était un billet écrit au crayon et, comme il semblait, d’une main tremblante. Je déchiffrai avec beaucoup de peine les mots suivants :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">« Ne viens pas ce soir, ou nous sommes perdus ! On sait tout, excepté ton nom, rien ne pourra nous séparer. Ta Lucrèce ».</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Lucrèce ! m’écriai-je, encore Lucrèce ! quelle diable de mystification y a-t-il au fond de tout cela ? « Ne viens pas ». Mais, ma belle, quel chemin prend-on pour aller chez vous ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Tout en ruminant sur le compte de ce billet, je prenais machinalement le chemin du viccolo di Madama Lucrezia, et bientôt je me trouvai en face de la maison n° 13.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">La rue était aussi déserte que de coutume, et le bruit seul de mes pas troublait le silence profond qui régnait dans le voisinage. Je m’arrêtai et levai les yeux vers une fenêtre bien connue. Pour le coup, je ne me trompais pas. Le contrevent s’écartait.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Voilà la fenêtre toute grande ouverte.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je crus voir une forme humaine qui se détachait sur le fond noir de la chambre.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Lucrèce, est-ce vous ? dis-je à voix basse.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">On ne me répondit pas, mais j’entendis un claquement, dont je ne compris pas d’abord la <text:soft-page-break/>cause.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Lucrèce, est-ce vous ? repris-je un peu plus haut.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Au même instant, je reçus un coup terrible dans la poitrine, une détonation se fit entendre, et je me trouvai étendu sur le pavé.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Une voix rauque me cria :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>De la part de la signora Lucrèce !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Et le contrevent se referma sans bruit.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je me relevai aussitôt en chancelant, et d’abord je me tâtai, croyant me trouver un grand trou au milieu de l’estomac. Le manteau était troué, mon habit aussi, mais la balle avait été amortie par les plis du drap, et j’en étais quitte pour une forte contusion.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">L’idée me vint qu’un second coup pouvait bien ne pas se faire attendre, et je me traînai aussitôt du côté de cette maison inhospitalière, rasant les murs de façon qu’on ne pût me viser.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je m’éloignais le plus vite que je pouvais, tout haletant encore, lorsqu’un homme que je n’avais pu remarquer derrière moi me prit le bras et me demanda avec intérêt si j’étais blessé.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">A la voix, je reconnus don Ottavio. Ce n’était pas le moment de lui faire des questions, quelque surpris que je fusse de le voir seul et dans la rue à cette heure de la nuit. En deux mots, je lui dis qu’on venait de me tirer un coup de feu de telle fenêtre et que je n’avais qu’une contusion.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>C’est une méprise ! s’écria-t-il. Mais j’entends venir du monde. Pouvez-vous marcher ? Je serais perdu si l’on nous trouvait ensemble. Cependant, je ne vous abandonnerai pas.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il me prit le bras et m’entraîna rapidement. Nous marchâmes ou plutôt nous courûmes tant que je pus aller ; mais bientôt force me fut de m’asseoir sur une borne pour reprendre haleine.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Heureusement, nous nous trouvions alors à peu de distance d’une grande maison où l’on donnait un bal. Il y avait quantité de voitures devant la porte.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Don Ottavio alla en chercher une, me fit monter dedans et me reconduisit à mon hôtel. Un grand verre d’eau que je bus m’ayant tout à fait remis, je lui racontai en détail tout ce qui m’était arrivé devant cette maison fatale, depuis le présent d’une rose jusqu’à celui d’une balle de plomb.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il m’écoutait la tête baissée, à moitié cachée dans une de ses mains. Lorsque je lui montrai le billet que je venais de recevoir, il s’en saisit, le lut avec avidité et s’écria encore :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>C’est une méprise ! une horrible méprise !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Vous conviendrez, mon cher, lui dis-je, qu’elle est fort désagréable pour moi et pour vous aussi. On manque de me tuer, et l’on vous fait dix ou douze trous dans votre beau manteau. Tudieu ! quels jaloux que vos compatriotes !</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>Don Ottavio me serrait les mains d’un air désolé, et relisait le billet sans me répondre.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Tâchez donc, lui dis-je, de me donner quelque explication de toute cette affaire. Le diable m’emporte si j’y comprends goutte.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il haussa les épaules.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Au moins, lui dis-je, que dois-je faire ? A qui dois-je m’adresser, dans votre sainte ville, pour avoir justice de ce monsieur, qui canarde les passants sans leur demander seulement comment ils se nomment. Je vous avoue que je serai charmé de le faire pendre.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Gardez-vous-en bien ! s’écria-t-il. Vous ne connaissez pas ce pays-ci. Ne dites mot à personne de ce qui vous est arrivé. Vous vous exposeriez beaucoup.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Comment, je m’exposerais ? Morbleu ! je prétends bien avoir ma revanche. Si j’avais offensé le maroufle, je ne dis pas ; mais, pour avoir ramassé une rose,... en conscience, je ne mérite pas une balle.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Laissez-moi faire, dit don Ottavio ; peut-être parviendrai-je à éclaircir ce mystère. Mais je vous le demande comme une grâce, comme une preuve signalée de votre amitié pour moi, ne parlez de cela à personne au monde. Me le promettez-vous ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il avait l’air si triste en me suppliant, que je n’eus pas le courage de résister, et je lui promis tout ce qu’il voulut. Il me remercia avec effusion, et, après m’avoir appliqué lui-même une compresse d’eau de Cologne sur la poitrine, il me serra la main et me dit adieu.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>A propos, lui demandai-je comme il ouvrait la porte pour sortir, expliquez-moi donc comment vous vous êtes trouvé là, juste à point pour me venir en aide ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>J’ai entendu le coup de fusil, répondit-il, non sans quelque embarras, et je suis sorti aussitôt, craignant pour vous quelque malheur.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Il me quitta précipitamment, après m’avoir de nouveau recommandé le secret.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Le matin, un chirurgien, envoyé sans doute par don Ottavio, vint me visiter. Il me prescrivit un cataplasme, mais ne me fit aucune question sur la cause qui avait mêlé des violettes au lis de mon teint. On est discret à Rome et je voulus me conformer à l’usage du pays.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Quelques jours se passèrent sans que je pusse causer librement avec don Ottavio. Il était préoccupé, encore plus sombre que de coutume, et, d’ailleurs, il me paraissait chercher à éviter mes questions. Pendant les rares moments que je passai avec lui, il ne dit pas un mot sur les hôtes étranges du viccolo di Madama Lucrezia. L’époque fixée pour la cérémonie de son ordination approchait, et j’attribuai sa mélancolie à sa répugnance pour la profession qu’on l’obligeait d’embrasser.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Pour moi, je me préparais à quitter Rome pour aller à Florence. Lorsque j’annonçai mon départ à la marquise Aldobrandi, don Ottavio me pria, sous je ne sais quel prétexte, de monter dans sa chambre.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Là, me prenant les deux mains :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>–<text:span text:style-name="T6"> </text:span>Mon cher ami, dit-il, si vous ne m’accordez la grâce que je vais vous demander, je me brûlerai certainement la cervelle, car je n’ai pas d’autre moyen de sortir d’embarras. Je suis parfaitement résolu à ne jamais endosser le vilain habit que l’on veut me faire porter. Je veux fuir de ce pays-ci. Ce que j’ai à vous demander, c’est de m’emmener avec vous. Vous me ferez passer pour votre domestique. Il suffira d’un mot ajouté à votre passe-port pour faciliter ma fuite.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’essayai d’abord de le détourner de son dessein en lui parlant du chagrin qu’il allait causer à sa mère ; mais, le trouvant inébranlable dans sa résolution, je finis par lui promettre de le prendre avec moi, et de faire arranger mon passe-port en conséquence.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Ce n’est pas tout, dit-il. Mon départ dépend encore du succès d’une entreprise où je suis engagé. Vous voulez partir après-demain. Après-demain j’aurai réussi peut-être, et alors, je suis tout à vous.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Seriez-vous assez fou, lui demandai-je, non sans inquiétude, pour vous être fourré dans quelque conspiration ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Non, répondit-il ; il s’agit d’intérêts moins graves que le sort de ma patrie, assez graves pourtant pour que du succès de mon entreprise dépende ma vie et mon bonheur. Je ne puis vous en dire davantage maintenant. Dans deux jours, vous saurez tout.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je commençais à m’habituer au mystère ; je me résignai. Il fut convenu que nous partirions à trois heures du matin et que nous ne nous arrêterions qu’après avoir gagné le territoire toscan.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Persuadé qu’il était inutile de me coucher, devant partir de si bonne heure, j’employai la dernière soirée que je devais passer à Rome à faire des visites dans toutes les maisons où j’avais été reçu. J’allai prendre congé de la marquise, et serrer la main de son fils officiellement et pour la forme. Je sentis qu’elle tremblait dans la mienne. Il me dit tout bas :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>En cet instant, ma vie se joue à croix ou pile. Vous trouverez en rentrant à votre hôtel une lettre de moi. Si à trois heures précises je ne suis pas auprès de vous, ne m’attendez pas.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">L’altération de ses traits me frappa ; mais je l’attribuai à une émotion bien naturelle de sa part, au moment où, pour toujours peut-être, il allait se séparer de sa famille.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Vers une heure à peu près, je regagnai mon logement. Je voulus repasser encore une fois par le viccolo di Madama Lucrezia. Quelque chose de blanc pendait à la fenêtre où j’avais vu deux apparitions si différentes. Je m’approchai avec précaution. C’était une corde à nœuds. Était-ce une invitation d’aller prendre congé de la signora ? Cela en avait tout l’air, et la tentation était forte. Je n’y cédai point pourtant, me rappelant la promesse faite à don Ottavio, et aussi, il faut bien le dire, la réception désagréable que m’avait attirée, quelques jours auparavant, une témérité beaucoup moins grande.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Je poursuivis mon chemin, mais lentement, désolé de perdre la dernière occasion de pénétrer les mystères de la maison n° 13. A chaque pas que je faisais, je tournais la tête, m’attendant toujours à voir quelque forme humaine monter ou descendre le long de la corde. Rien ne paraissait. J’atteignis enfin l’extrémité du viccolo ; j’allais entrer dans le Corso.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Adieu, madame Lucrèce, dis-je en ôtant mon chapeau à la maison que j’apercevais encore. <text:soft-page-break/>Cherchez, s’il vous plaît, quelque autre que moi pour vous venger du jaloux qui vous tient emprisonnée.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Deux heures sonnaient quand je rentrai dans mon hôtel. La voiture était dans la cour, toute chargée. Un des garçons de l’hôtel me remit une lettre. C’était celle de don Ottavio, et, comme elle me parut longue, je pensai qu’il valait mieux la lire dans ma chambre, et je dis au garçon de m’éclairer.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Monsieur, me dit-il, votre domestique que vous nous aviez annoncé, celui qui doit voyager avec monsieur...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Eh bien, est-il venu ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Non, monsieur...</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Il est à la poste ; il viendra avec les chevaux.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Monsieur, il est venu tout à l’heure une dame qui a demandé à parler au domestique de monsieur. Elle a voulu absolument monter chez monsieur et m’a chargé de dire au domestique de monsieur, aussitôt qu’il viendrait, que madame Lucrèce était dans votre chambre.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Dans ma chambre ? m’écriai-je en serrant avec force la rampe de l’escalier.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Oui, monsieur. Et il paraît qu’elle part aussi, car elle m’a donné un petit paquet ; je l’ai mis sur la vache.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Le cœur me battait fortement. Je ne sais quel mélange de terreur superstitieuse et de curiosité s’était emparé de moi. Je montai l’escalier marche à marche. Arrivé au premier étage (je demeurais au second), le garçon qui me précédait fit un faux pas, et la bougie qu’il tenait à la main tomba et s’éteignit. Il me demanda un million d’excuses, et descendit pour la rallumer. Cependant, je montais toujours.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Déjà j’avais la main sur la clef de ma chambre. J’hésitais. Quelle nouvelle vision allait s’offrir à moi ? Plus d’une fois, dans l’obscurité, l’histoire de la nonne sanglante m’était revenue à la mémoire. Étais-je possédé d’un démon comme don Alonso ? Il me sembla que le garçon tardait horriblement.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">J’ouvris ma porte. Grâce au ciel ! il y avait de la lumière dans ma chambre à coucher. Je traversai rapidement le petit salon qui la précédait. Un coup d’œil suffit pour me prouver qu’il n’y avait personne dans ma chambre à coucher. Mais aussitôt j’entendis derrière moi des pas légers et le frôlement d’une robe. je crois que mes cheveux se hérissèrent sur ma tête. Je me retournai brusquement.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Une femme vêtue de blanc, la tête couverte d’une mantille noire, s’avançait les bras tendus :</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Te voilà donc enfin, mon bien-aimé ! s’écria-t-elle en saisissant ma main.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">La sienne était froide comme la glace, et ses traits avaient la pâleur de la mort. Je reculai jusqu’au mur.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_"><text:soft-page-break/>–<text:span text:style-name="T6"> </text:span>Sainte Madone, ce n’est pas lui !... Ah ! monsieur, êtes-vous l’ami de don Ottavio ?</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">A ce mot, tout fut expliqué. La jeune femme, malgré sa pâleur, n’avait nullement l’air d’un spectre. Elle baissait les yeux, ce que ne font jamais les revenants, et tenait ses deux mains croisées à hauteur de sa ceinture, attitude modeste, qui me fit croire que mon ami don Ottavio n’était pas un aussi grand politique que je me l’étais figuré. Bref, il était grand temps d’enlever Lucrèce, et, malheureusement, le rôle de confident était le seul qui me fût destiné dans cette aventure.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Un moment après arriva don Ottavio déguisé. Les chevaux vinrent et nous partîmes. Lucrèce n’avait pas de passe-port, mais une femme, et une jolie femme, n’inspire guère de soupçons. Un gendarme cependant fit le difficile. Je lui dis qu’il était un brave, et qu’assurément il avait servi sous le grand Napoléon. Il en convint. Je lui fis présent d’un portrait de ce grand homme, en or, et je lui dis que mon habitude était de voyager avec une <text:span text:style-name="T7">amica</text:span> pour me tenir compagnie ; et que, attendu que j’en changeais fort souvent, je croyais inutile de les faire mettre sur mon passe-port.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Celle-ci, ajoutai-je, me mène à la ville prochaine. On m’a dit que j’en trouverais là d’autres qui la vaudraient.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Vous auriez tort d’en changer, me dit le gendarme en fermant respectueusement la portière.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">S’il faut tout vous dire, madame, ce traître de don Ottavio avait fait la connaissance de cette aimable personne, sœur d’un certain Vanozzi, riche cultivateur, mal noté comme un peu libéral et très-contrebandier. Don Ottavio savait bien que, quand même sa famille ne l’eût pas destiné à l’Église, elle n’aurait jamais consenti à lui laisser épouser une fille d’une condition si fort au-dessous de la sienne.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Amour est inventif. L’élève de l’abbé Negroni parvint à établir une correspondance secrète avec sa bien-aimée. Toutes les nuits, il s’échappait du palais Aldobrandi, et, comme il eût été peu sûr d’escalader la maison de Vanozzi, les deux amants se donnaient rendez-vous dans celle de madame Lucrèce, dont la mauvaise réputation les protégeait.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Une petite porte cachée par un figuier mettait les deux jardins en communication. Jeunes et amoureux, Lucrèce et Ottavio ne se plaignaient pas de l’insuffisance de leur ameublement, qui se réduisait, je crois l’avoir déjà dit, à un vieux fauteuil de cuir.</text:p>
+   <text:p text:style-name="Normal_20__28_Web_29_">Un soir, attendant don Ottavio, Lucrèce me prit pour lui, et me fit le cadeau que j’ai rapporté en son lieu. Il est vrai qu’il y avait quelque ressemblance de taille et de tournure entre don Ottavio et moi, et quelques médisants, qui avaient connu mon père à Rome, prétendaient qu’il y avait des raisons pour cela. Advint que le maudit frère découvrit l’intrigue ; mais ses menaces ne purent obliger Lucrèce à révéler le nom de son séducteur. On sait quelle fut sa vengeance et comment je pensai payer pour tous. Il est inutile de vous dire comment les deux amants, chacun de son côté, prirent la clef des champs.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Conclusion</text:h>
+   <text:p text:style-name="Normal_20__28_Web_29_">–<text:span text:style-name="T6"> </text:span>Nous arrivâmes tous les trois à Florence. Don Ottavio épousa Lucrèce, et partit aussitôt avec elle pour Paris. Mon père lui fit le même accueil que j’avais reçu de la marquise. Il se chargea de négocier sa réconciliation, et il y parvint non sans quelque peine. Le marquis Aldobrandi gagna fort à propos la fièvre des Maremmes, dont il mourut. Ottavio a hérité de son titre et de sa fortune, et je suis le parrain de son premier enfant.</text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T7">27 avril 1846</text:span>.</text:p>
+   <text:p text:style-name="P14"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">À propos de cette édition électronique :</text:h>
+   <text:p text:style-name="P19"/>
+   <text:p text:style-name="Corps_20_de_20_texte_20_2"><text:span text:style-name="T13">Sources : </text:span><text:span text:style-name="T14">Saisie du texte : S. Pestel pour la collection électronique<text:line-break/>de la Bibliothèque municipale de Lisieux (21/10/1998).</text:span></text:p>
+   <text:p text:style-name="P3"><text:span text:style-name="T6"><text:s/></text:span>Texte relu par : A. Guézou. <text:line-break/>Adresse : Bibliothèque municipale, <text:line-break/>B.P. 7216, 14107 Lisieux cedex.<text:line-break/>Mél : bmlisieux@mail. cpod.fr, <text:line-break/>[Olivier Bogros] <text:line-break/>Web : www.bmlisieux.com</text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P10">Texte libre de droits.</text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P21">Corrections, édition, conversion informatique et publication par le groupe :<text:line-break/></text:p>
+   <text:p text:style-name="P22">Ebooks libres et gratuits</text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P9"><text:a xlink:type="simple" xlink:href="http://fr.groups.yahoo.com/group/ebooksgratuits" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">http://fr.groups.yahoo.com/group/ebooksgratuits</text:span></text:span></text:a><text:span text:style-name="T18"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T18">Adresse du site web du groupe :<text:line-break/> </text:span><text:a xlink:type="simple" xlink:href="http://www.ebooksgratuits.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T20">http://www.ebooksgratuits.com/</text:span></text:span></text:a></text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P21">——</text:p>
+   <text:p text:style-name="P23">13 septembre 2003</text:p>
+   <text:p text:style-name="P21">——</text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P15">- Dispositions :</text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T15">Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, </text:span><text:span text:style-name="T16">à une fin non commerciale et non professionnelle</text:span><text:span text:style-name="T15">. Si vous désirez les faire paraître sur votre site, ils ne doivent pas être altérés en aucune sorte. </text:span><text:span text:style-name="T17">Tout lien vers notre site est bienvenu…</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P15">- Qualité :</text:p>
+   <text:p text:style-name="P7">Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l&apos;original. Nous rappelons que c&apos;est un travail d&apos;amateurs non rétribués et nous essayons de promouvoir la culture littéraire avec de maigres moyens.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P18">Votre aide est la bienvenue !</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P10">VOUS POUVEZ NOUS AIDER<text:line-break/>À CONTRIBUER À FAIRE CONNAÎTRE<text:line-break/>CES CLASSIQUES LITTÉRAIRES.</text:p>
+  </office:text>
+ </office:body>
+</office:document>

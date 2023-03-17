@@ -1,0 +1,2397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI lang="ro">
+  <teiHeader type="text" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title>Balade vesele şi triste</title>
+        <author>George Topârceanu</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2004-08-10T12:16:11</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <name>Scriptorium.ro</name>
+          <address>
+            <addrLine>petru.at.scriptorium.ro</addrLine>
+          </address>
+        </publisher>
+        <distributor>Scriptorium</distributor>
+        <availability status="unknown">
+          <p>Aceasta ediţie electronică este (c) Adrian Petru Dimulescu si acoperită de licenţa Attribution 1.0 a Creative Commons, http://creativecommons.org/licenses/by/1.0/</p>
+          <p>In mare, licenta permite reutilizarea in orice mod, chiar comerciala, a textului, atata vreme cat mentiunile cuvenite referitoare la creatorul acestei versiuni electronice sunt prezente in copii.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc default="NO">
+        <bibl default="NO">
+          <author>George Topârceanu</author>
+          <title>Balade vesele şi triste</title>
+          <date>1920</date>
+          <imprint>
+            <pubPlace>Bucureşti</pubPlace>
+            <publisher>Editura pentru literatură</publisher>
+            <date>1969</date>
+          </imprint>
+        </bibl>
+        <p>Written by OpenOffice</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage default="NO">
+        <language id="ro">ISO</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2004-09-08T00:48:57</date>
+        <respStmt>
+          <name>Adrian Petru Dimulescu</name>
+        </respStmt>
+        <item>creation</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Balade vesele şi triste</titlePart>
+        </docTitle>
+        <byline>George Topârceanu</byline>
+      </titlePage>
+    </front>
+    <body>
+      <div org="uniform" sample="complete" part="N">
+        <head>Balade vesele şi triste</head>
+        <div org="uniform" sample="complete" part="N">
+          <head>Rapsodii de primăvară</head>
+          <l part="N">I</l>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sus prin crângul adormit,</l>
+            <l part="N">A trecut în taină mare,</l>
+            <l part="N">De cu noapte, risipind</l>
+            <l part="N">Şiruri de mărgăritare</l>
+            <l part="N">Din panere de argint,</l>
+            <l rend="indent(6)" part="N">Stol bălai</l>
+            <l rend="indent(6)" part="N">De îngeraşi</l>
+            <l rend="indent(6)" part="N">Cu alai</l>
+            <l rend="indent(6)" part="N">De toporaşi.</l>
+            <l part="N">Primăvară, cui le dai?</l>
+            <l part="N">Primăvară, cui le laşi?</l>
+          </lg>
+          <l part="N">II</l>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Se-nalţă abur moale din grădină.</l>
+            <l part="N">Pe jos, pornesc furnicile la drum.</l>
+            <l part="N">Acoperişuri veştede-n lumină</l>
+            <l part="N">Întind spre cer ogeacuri fără fum.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Pe lângă garduri s-a zvântat pământul</l>
+            <l part="N">Şi ies gândacii-Domnului pe zid.</l>
+            <l part="N">Ferestre amorţite se deschid</l>
+            <l part="N">Să intre-n casă soarele şi vântul.</l>
+            <l rend="indent(6)" part="N">De prin balcoane</l>
+            <l rend="indent(6)" part="N">Şi coridoare</l>
+            <l rend="indent(6)" part="N">Albe tulpane</l>
+            <l rend="indent(6)" part="N">Fâlfâie-n soare.</l>
+            <l rend="indent(6)" part="N">Ies gospodinele</l>
+            <l rend="indent(6)" part="N">Iuţi ca albinele,</l>
+            <l rend="indent(6)" part="N">Părul le flutură,</l>
+            <l rend="indent(6)" part="N">Toate dau zor.</l>
+            <l rend="indent(6)" part="N">Unele mătură,</l>
+            <l rend="indent(6)" part="N">Altele scutură</l>
+            <l rend="indent(6)" part="N">Colbul din pătură</l>
+            <l rend="indent(6)" part="N">Şi din covor.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un zarzăr mic, în mijlocul grădinii,</l>
+            <l part="N">Şi-a răsfirat crenguţele ca spinii</l>
+            <l part="N">De frică să nu-i cadă la picioare,</l>
+            <l part="N">Din creştet, vălul subţirel de floare.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Că s-a trezit aşa de dimineaţă</l>
+            <l part="N">Cu ramuri albe — şi se poate spune</l>
+            <l part="N">Că-i pentru-ntâia oară în viaţă</l>
+            <l part="N">Când i se-ntâmplă-asemenea minune.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l rend="indent(6)" part="N">Un nor sihastru</l>
+            <l rend="indent(6)" part="N">Şi-adună-n poală</l>
+            <l rend="indent(6)" part="N">Argintul tot.</l>
+            <l rend="indent(6)" part="N">Cerul e-albastru</l>
+            <l rend="indent(6)" part="N">Ca o petală</l>
+            <l rend="indent(6)" part="N">De miozot.</l>
+          </lg>
+          <l part="N">III</l>
+          <lg org="uniform" sample="complete" part="N">
+            <l rend="indent(6)" part="N">Soare crud în liliac,</l>
+            <l rend="indent(6)" part="N">Zbor subţire de gândac,</l>
+            <l rend="indent(6)" part="N">Glasuri mici</l>
+            <l rend="indent(6)" part="N">De rândunici,</l>
+            <l rend="indent(6)" part="N">Viorele şi urzici...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Primăvară, din ce rai</l>
+            <l part="N">Nevisat de pământeni</l>
+            <l part="N">Vii cu mândrul tău alai</l>
+            <l part="N">Peste crânguri şi poieni?</l>
+            <l part="N">Pogorâtă pe pământ</l>
+            <l part="N">În mătăsuri lungi de vânt,</l>
+            <l part="N">Laşi în urmă, pe câmpii,</l>
+            <l part="N">Galbeni vii</l>
+            <l part="N">De păpădii,</l>
+            <l part="N">Bălţi albastre şi-nsorite</l>
+            <l part="N">De omăt topit abia,</l>
+            <l part="N">Şi pe dealuri mucezite</l>
+            <l part="N">Arături de catifea.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi porneşti departe-n sus</l>
+            <l part="N">După iarna ce s-a dus,</l>
+            <l part="N">După trena-i de ninsori</l>
+            <l part="N">Aşternută pe colini...</l>
+            <l part="N">Drumuri nalte de cocori,</l>
+            <l part="N">Călăuzii cei străini,</l>
+            <l part="N">Îţi îndreaptă an cu an</l>
+            <l part="N">Pasul tainic şi te mint</l>
+            <l part="N">Spre ţinutul diafan</l>
+            <l part="N">Al câmpiilor de-argint.</l>
+            <l part="N">Iar acolo te opreşti</l>
+            <l part="N">Şi doar pasul tău uşor,</l>
+            <l part="N">În omăt strălucitor,</l>
+            <l part="N">Lasă urme viorii</l>
+            <l part="N">De conduri împărăteşti</l>
+            <l part="N">Peste albele stihii...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Primăvară, unde eşti?</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Cântec</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Frumoasă eşti, pădurea mea,</l>
+            <l part="N">Când umbra-i încă rară</l>
+            <l part="N">Şi printre crengi adie-abia</l>
+            <l part="N">Un vânt de primăvară...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Când de sub frunze moarte ies</l>
+            <l part="N">În umbră viorele,</l>
+            <l part="N">Iar eu străbat huceagul des</l>
+            <l part="N">Cu gândurile mele...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Când strălucesc sub rouă grea</l>
+            <l part="N">Cărări de soare pline,</l>
+            <l part="N">Frumoasă eşti, pădurea mea.</l>
+            <l part="N">Şi singură ca mine...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Balada morţii</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cobora pe Topolog</l>
+            <l part="N">Dintre munţi, la vale...</l>
+            <l part="N">Şi la umbra unui stog</l>
+            <l part="N">A căzut din cale.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">În ce vară? În ce an?</l>
+            <l part="N">Anii trec ca apa...</l>
+            <l part="N">El era drumeţ sărman</l>
+            <l part="N">Muncitor cu sapa.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Oamenii l-au îngropat</l>
+            <l part="N">Într-un loc aiurea,</l>
+            <l part="N">Unde drumul către sat</l>
+            <l part="N">Taie-n lung pădurea.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi de-atunci, lângă mormânt,</l>
+            <l part="N">Plopi cu frunză rară</l>
+            <l part="N">S-au zbătut uşor în vânt,</l>
+            <l part="N">Zile lungi de vară.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Soarele spre asfinţit</l>
+            <l part="N">Şi-a urmat cărarea.</l>
+            <l part="N">Zi cu zi l-au troienit</l>
+            <l part="N">Vremea şi uitarea.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dimineaţa ca un fum</l>
+            <l part="N">Urcă pe coline,</l>
+            <l part="N">Zvon de glasuri dinspre drum</l>
+            <l part="N">Până-n preajmă-i vine.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Peste vârfuri lunecând</l>
+            <l part="N">În argint, condurii</l>
+            <l part="N">Înfioară când şi când</l>
+            <l part="N">Liniştea pădurii...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Numai colo-ntr-un frunzar</l>
+            <l part="N">Galben în lumină,</l>
+            <l part="N">Stă pe-o creangă de arţar</l>
+            <l part="N">Pasăre străină.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Stă şi-aşteaptă fără glas</l>
+            <l part="N">Parcă — să măsoare</l>
+            <l part="N">Cum se mută, ceas cu ceas,</l>
+            <l part="N">Umbra după soare...</l>
+          </lg>
+          <l part="N">*</l>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Astfel, tot mai neştiut</l>
+            <l part="N">Spre adânc îl fură</l>
+            <l part="N">Şi-l îngroapă-n sânu-i mut</l>
+            <l part="N">Veşnica Natură.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Vara trece; pe cărări</l>
+            <l part="N">Frunza-n codru sună.</l>
+            <l part="N">Trec cernite înserări,</l>
+            <l part="N">Nopţi adânci cu lună.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar când norii-nvăluiesc</l>
+            <l part="N">Alba nopţii Doamnă,</l>
+            <l part="N">Peste groapa lui pornesc</l>
+            <l part="N">Vânturi lungi de toamnă...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Balada călătorului</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O, e-atât de bine când pe drumuri ninse</l>
+            <l part="N">Întâlneşti o casă cu lumini aprinse,</l>
+            <l part="N">Un ogeac din care se ridică fum,</l>
+            <l part="N">Când te prinde noaptea călător la drum!</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sania coboară clinul de pădure.</l>
+            <l part="N">Fug în urma noastră luminişuri sure</l>
+            <l part="N">Şi-n singurătatea care ne petrece,</l>
+            <l part="N">Peste vârf de arbori, asfinţitul rece</l>
+            <l part="N">Străbătând podoaba crengilor subţiri</l>
+            <l part="N">Luminează-n aer bolţi de trandafiri.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar amurgul palid a-nceput să scadă.</l>
+            <l part="N">Noaptea, ca un abur, creşte din zăpadă.</l>
+            <l part="N">Se ivesc departe măguri de hotar,</l>
+            <l part="N">Într-un loc se face drum pustiu de car,</l>
+            <l part="N">Şi-o fântână strâmbă pe lumina zării</l>
+            <l part="N">Pare că sporeşte liniştea-nserării...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Drum de vis! E clipa mutei agonii</l>
+            <l part="N">Când alaiul Nopţii zboară pe câmpii,</l>
+            <l part="N">Când singurătatea umbrele-şi arată</l>
+            <l part="N">Şi departe-n şesuri Ziua alungată</l>
+            <l part="N">Lângă reci fruntarii alergarea-şi curmă,</l>
+            <l part="N">Cu ochi mari de spaimă să privească-n urmă,</l>
+            <l part="N">Să-şi adune-n locul unde-a-ncremenit</l>
+            <l part="N">Peste sâni de gheaţă părul despletit.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ca-ntr-o presimţire sufletul ţi-e-nchis.</l>
+            <l part="N">Unde eşti? Îţi pare că trăieşti un vis...</l>
+            <l part="N">Treci lăsând în urmă, la răspântii mute,</l>
+            <l part="N">Umbre solitare şi necunoscute,</l>
+            <l part="N">Treci ducând o parte din tristeţea lor,</l>
+            <l part="N">Un suspin, o rugă, un zadarnic dor.</l>
+            <l part="N">Iar târziu, când taina dimprejur te cheamă</l>
+            <l part="N">Şi-ţi strecoară-n suflet un fior de teamă,</l>
+            <l part="N">Singur cu povara cugetului tău</l>
+            <l part="N">Te cuprind deodată lungi păreri de rău</l>
+            <l part="N">După-o fericire care întârzie,</l>
+            <l part="N">După câte n-au fost, dar puteau să fie,</l>
+            <l part="N">După cele duse pentru totdeauna...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Astfel, cu mirare, te trezeşti când luna</l>
+            <l part="N">Luminează somnul unei lumi din basme,</l>
+            <l part="N">Iar omătul umple noaptea de fantasme.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">......................</l>
+            <l part="N">......................</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O, e-atât de bine când pe drumuri ninse</l>
+            <l part="N">Întâlneşti o casă cu lumini aprinse,</l>
+            <l part="N">Un ogeac din care se ridică fum,</l>
+            <l part="N">Când te prinde noaptea călător la drum!</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Balada popii din Rudeni</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">De la târg la Vadul-Mare</l>
+            <l part="N">Taie drumul prin poieni,</l>
+            <l part="N">Legănându-se călare,</l>
+            <l part="N">Popa Florea din Rudeni.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-n priveliştea bogată</l>
+            <l part="N">Sus pe culme, jos pe drum,</l>
+            <l part="N">Iarna palidă-şi arată</l>
+            <l part="N">Plăzmuirile de fum.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Somnul revărsat în fire,</l>
+            <l part="N">Gerul sfânt al Bobotezii</l>
+            <l part="N">A-nchegat argint subţire</l>
+            <l part="N">Peste faldurii zăpezii</l>
+            <l part="N">Şi, legând în gheaţă stropii,</l>
+            <l part="N">Bura care-n aer joacă</l>
+            <l part="N">A ţesut pe barba popii</l>
+            <l part="N">Fire lungi de promoroacă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Bolta sură ca cenuşa,</l>
+            <l part="N">Codrii vineţi — dorm adânc.</l>
+            <l part="N">Sună numai căldăruşa</l>
+            <l part="N">Atârnată de oblânc.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Bate Surul din potcoavă</l>
+            <l part="N">Drum de iarnă, fără spor,</l>
+            <l part="N">Calcă rar şi cu zăbavă</l>
+            <l part="N">Lunecuşuri de pripor.</l>
+            <l part="N">Şi-n tăcerea care creşte,</l>
+            <l part="N">Adâncit ca-ntr-o visare,</l>
+            <l part="N">Popa când şi când şopteşte</l>
+            <l part="N">Legănându-se călare...</l>
+            <l part="N">Scutură din treacăt salbe,</l>
+            <l part="N">Reci podoabe care mint,</l>
+            <l part="N">Surpă bolţi de ramuri albe</l>
+            <l part="N">Cu portaluri de argint.</l>
+            <l part="N">Lângă drum bătut de sănii</l>
+            <l part="N">Unde malul stă să cadă,</l>
+            <l part="N">Vede urme de dihănii</l>
+            <l part="N">Înstelate pe zăpadă.</l>
+            <l part="N">Iar pe culmea unei creste,</l>
+            <l part="N">Ameţit de zare multă,</l>
+            <l part="N">Strânge frâul fără veste</l>
+            <l part="N">Şi-mpietrit pe cal ascultă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Nici o şoaptă... nici un ropot...</l>
+            <l part="N">Numai din adâncuri sure</l>
+            <l part="N">Vine vuiet lung de clopot</l>
+            <l part="N">Peste-ntinderi de pădure...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Lung îi sună în ureche,</l>
+            <l part="N">Pe când el cu grijă scoate</l>
+            <l part="N">Pântecoasă ploscă veche</l>
+            <l part="N">Din desaga de la spate.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi cu plosca ridicată,</l>
+            <l part="N">Zugrăvit pe cerul gol,</l>
+            <l part="N">Popa capătă deodată</l>
+            <l part="N">Măreţie de simbol.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Colo-n vale, unde drumul</l>
+            <l part="N">Taie luminişuri rare,</l>
+            <l part="N">Printre plopi se vede fumul</l>
+            <l part="N">Hanului din Vadul-Mare.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Calul, vesel, simte locul</l>
+            <l part="N">Şi s-abate scurt din cale, —</l>
+            <l part="N">C-a-nvăţat şi dobitocul</l>
+            <l part="N">Patima sfinţiei-sale...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar hangiţa iese-n uşă,</l>
+            <l part="N">Bucuroasă de câştig.</l>
+            <l part="N">Ochii-i râd spre căldăruşă:</l>
+            <l part="N">— Frig, părinte?</l>
+            <l part="N">— Straşnic frig!</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Balada munţilor</head>
+          <l part="N">I</l>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">S-au ivit pe rând în soare,</l>
+            <l part="N">Jos, la capătul potecii,</l>
+            <l part="N">Turma albă de mioare,</l>
+            <l part="N">Noatinele şi berbecii.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sunet de tălăngi se-ngână.</l>
+            <l part="N">Sub poiana din Fruntarii,</l>
+            <l part="N">Zăboveşte-n deal la stână</l>
+            <l part="N">Baciul Toma cu măgarii.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El se pleacă din cărare</l>
+            <l part="N">Şi tot leagă şi dezleagă,</l>
+            <l part="N">Cumpăneşte pe samare</l>
+            <l part="N">O gospodărie-ntreagă:</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Maldăr de tărhaturi grele</l>
+            <l part="N">Cu desagi, căldări şi pături,</l>
+            <l part="N">Că de-abia pot sta sub ele</l>
+            <l part="N">Doi măgari voinici alături.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Gata!... Baciul stă pe gânduri,</l>
+            <l part="N">Peste frunte mâna-şi duce.</l>
+            <l part="N">Se ridică-n două rânduri</l>
+            <l part="N">Şi domol îşi face cruce.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Apoi cată lung spre creste</l>
+            <l part="N">Şi spre ţarcurile goale...</l>
+            <l part="N">Şi convoiul, fără veste,</l>
+            <l part="N">A pornit încet la vale.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cerul şi-a schimbat veşmântul.</l>
+            <l part="N">Ploaia parcă stă să-nceapă.</l>
+            <l part="N">Printre brazi coboară vântul</l>
+            <l part="N">Ca un foşnet lung de apă.</l>
+            <l part="N">Adâncit în gânduri multe</l>
+            <l part="N">Baciul stă şi nu-şi dă seamă</l>
+            <l part="N">C-a rămas în loc s-asculte...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">După el, călcând cu teamă,</l>
+            <l part="N">Merg tăcuţii lui prieteni</l>
+            <l part="N">Prin sălbatice pripoare,</l>
+            <l part="N">Pe sub poale verzi de cetini,</l>
+            <l part="N">Pe potecă fără soare,</l>
+            <l part="N">Ori străbat în pas alene</l>
+            <l part="N">Luminişuri fără flori,</l>
+            <l part="N">Singuratice poiene</l>
+            <l part="N">Cu mesteceni visători...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Rar trezesc în a lor cale</l>
+            <l part="N">Câte-o piatră sub copită.</l>
+            <l part="N">Iar când drumul se prăvale</l>
+            <l part="N">Jos, la coastă povârnită,</l>
+            <l part="N">Calcă baciul ca pe gratii</l>
+            <l part="N">Şi-i struneşte blând cu gura:</l>
+            <l part="N">— Cătinel, feciorii tatii,</l>
+            <l part="N">Ca să n-o pornim de-a dura!...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">II</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Astfel, turmă după turmă</l>
+            <l part="N">Pleacă toamna de la stâni,</l>
+            <l part="N">De rămân pustii în urmă</l>
+            <l part="N">Munţii singuri şi bătrâni.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Astăzi ca şi-odinioară,</l>
+            <l part="N">Cât s-afundă-n vreme anii,</l>
+            <l part="N">Ei văzură cum coboară</l>
+            <l part="N">Pe cărări de plai ciobanii,</l>
+            <l part="N">Când pe soare, când pe ploaie,</l>
+            <l part="N">Vreme multă, fără număr,</l>
+            <l part="N">Cu căciula lor de oaie</l>
+            <l part="N">Şi cu sarica pe umăr,</l>
+            <l part="N">A' trecutului vii moaşte</l>
+            <l part="N">Peste care vremea creşte, —</l>
+            <l part="N">Culmea verde mi-i cunoaşte,</l>
+            <l part="N">Stânca sură mi-i iubeşte...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar în urma lor, pe sară,</l>
+            <l part="N">Astăzi ca şi alte dăţi,</l>
+            <l part="N">Lungă linişte coboară</l>
+            <l part="N">Peste mari singurătăţi.</l>
+            <l part="N">Toamna cu-a ei albă frunte</l>
+            <l part="N">Şi cu galbenii-i conduri</l>
+            <l part="N">A lăsat argint pe munte</l>
+            <l part="N">Şi rugină pe păduri.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">La răspântii creşte stogul</l>
+            <l part="N">De foi moarte de curând.</l>
+            <l part="N">Strigă-n vale Topologul,</l>
+            <l part="N">Şi-a lui larmă, când şi când,</l>
+            <l part="N">Ca o voce omenească</l>
+            <l part="N">Până sus pe culmi tresare,</l>
+            <l part="N">Preajma mută s-o trezească</l>
+            <l part="N">Din senina ei visare.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Tot mai jos apoi se lasă</l>
+            <l part="N">Poala norilor pe munte.</l>
+            <l part="N">Vin din iarna-ntunecoasă</l>
+            <l part="N">Zile lungi cu ploi mărunte.</l>
+            <l part="N">Neguri dese-ncep să cadă,</l>
+            <l part="N">Se târăsc în jos pe plai.</l>
+            <l part="N">Pe păduri se strâng grămadă</l>
+            <l part="N">Falduri albe de buhai.</l>
+            <l part="N">Brazii stau în nemişcare,</l>
+            <l part="N">Printre ramuri ploaia pică, —</l>
+            <l part="N">Nici o creangă nu tresare,</l>
+            <l part="N">Nici un zbor de păsărică.</l>
+            <l part="N">Numai ferigele ude,</l>
+            <l part="N">Putregaiul şi bureţii</l>
+            <l part="N">Îşi trimit miresme crude</l>
+            <l part="N">În desimea groasă-a ceţii.</l>
+            <l part="N">Trunchiuri strâmbe, răsturnate</l>
+            <l part="N">Scorburile şi buştenii</l>
+            <l part="N">Cu-a lor cioturi, pe-nserate</l>
+            <l part="N">Umplu codrii de vedenii.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sihla neagră se-nfioară.</l>
+            <l part="N">Speriat, dintr-un hăţiş</l>
+            <l part="N">Pui sfios de căprioară</l>
+            <l part="N">A ieşit la luminiş...</l>
+            <l part="N">Cu blăniţa zgribulită</l>
+            <l part="N">Stă şi-ascultă nemişcat...</l>
+            <l part="N">Vremea pare-ncremenită...</l>
+            <l part="N">Brazii fruntea şi-au plecat,</l>
+            <l part="N">Spăimântaţi, ca pentru rugă:</l>
+            <l part="N">Colo-n fundul curmăturii,</l>
+            <l part="N">Dormitând pe-o buturugă</l>
+            <l part="N">S-a ivit Muma-Pădurii...</l>
+            <l part="N">Dar nu-i nimeni să-i zărească</l>
+            <l part="N">Trupul hâd şi deşirat,</l>
+            <l part="N">Faţa galbenă de iască,</l>
+            <l part="N">Nasul — ciot de brad uscat.</l>
+            <l part="N">Nici nu vede, nici n-aude,</l>
+            <l part="N">Doar îşi scutură pe-o mână</l>
+            <l part="N">Părul ei de vreascuri ude,</l>
+            <l part="N">Fruntea plină de ţărână.</l>
+            <l part="N">Şi cum stă cu ceaţa-n spate</l>
+            <l part="N">Istovită lângă trunchi,</l>
+            <l part="N">Rădăcini şi crengi uscate</l>
+            <l part="N">Îi atârnă pe genunchi.</l>
+            <l part="N">Negurile-i sug puterea.</l>
+            <l part="N">Ochii-i nemişcaţi şi suri</l>
+            <l part="N">Cheamă noaptea şi tăcerea</l>
+            <l part="N">Din adâncuri de păduri...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">III</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi se duc pe nesimţite</l>
+            <l part="N">Nopţi pustii şi zile reci,</l>
+            <l part="N">Cum s-adună, putrezite,</l>
+            <l part="N">Frunze moarte pe poteci.</l>
+            <l part="N">Colo sus, culcat pe-o rână,</l>
+            <l part="N">Stă Negoiul mohorât</l>
+            <l part="N">Cu-a lui negură bătrână</l>
+            <l part="N">Care-i ţine de urât.</l>
+            <l part="N">Fulgii-ncep apoi să cadă.</l>
+            <l part="N">Firea-şi doarme somnul ei</l>
+            <l part="N">Amorţită sub zăpadă...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar târziu, la Sfântu-Andrei,</l>
+            <l part="N">Când cobori de la povarnă</l>
+            <l part="N">Printre plopi subţiri şi rari,</l>
+            <l part="N">În senină zi de iarnă</l>
+            <l part="N">Vezi departe munţii mari</l>
+            <l part="N">Cum îşi zugrăvesc în soare</l>
+            <l part="N">Piscuri vinete spre cer,</l>
+            <l part="N">Povârnişuri sclipitoare,</l>
+            <l part="N">Brazi împodobiţi de ger,</l>
+            <l part="N">Atârnând ca nişte salbe</l>
+            <l part="N">Pe grumajii lor de stânci,</l>
+            <l part="N">Peste plaiurile albe</l>
+            <l part="N">Şi prăpăstiile-adânci.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Pastel</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Din asfinţit, de peste munte,</l>
+            <l part="N">Răsfrângeri roşii de amurg</l>
+            <l part="N">Se sfarmă-n licăriri mărunte</l>
+            <l part="N">Şi-n Dunărea umbrită curg.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar unda tulbure le-ngroapă</l>
+            <l part="N">Când, sub răchitele din vale,</l>
+            <l part="N">De-abia mai tremură pe apă</l>
+            <l part="N">Ca nişte coji de portocale.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Acolo jos, peste cununa</l>
+            <l part="N">Întunecatului boschet,</l>
+            <l part="N">Sclipeşte-n aer semiluna</l>
+            <l part="N">Din vârful unui minaret.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi parcă zugrăvit anume,</l>
+            <l part="N">Îşi culcă umbra până-n mal</l>
+            <l part="N">Ostrovul izolat de lume</l>
+            <l part="N">Ca un castel medieval.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El pare-o navă fermecată</l>
+            <l part="N">Ce-a ancorat aici, sub munte,</l>
+            <l part="N">Minune îndelung visată</l>
+            <l part="N">De valul Dunării cărunte!</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">A aşteptat în nopţi senine</l>
+            <l part="N">Strălucitoarea dimineaţă,</l>
+            <l part="N">Când din adâncul apei line</l>
+            <l part="N">S-a ridicat la suprafaţă</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ca o grădină plutitoare</l>
+            <l part="N">Cu pomi şi păsări împreună,</l>
+            <l part="N">Cu florile-i ce râd în soare</l>
+            <l part="N">Şi noaptea tremură sub lună.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Rapsodii de vară</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">I</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cine-ar putea să spună</l>
+            <l part="N">Câţi secoli au trecut</l>
+            <l rend="indent(6)" part="N">De-o lună,</l>
+            <l part="N">De când nu te-am văzut?...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Salcâmii plini de floare</l>
+            <l part="N">Se uită lung spre sat,</l>
+            <l rend="indent(6)" part="N">Şi-n soare</l>
+            <l part="N">Frunzişul legănat</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Le-atârnă ca o barbă...</l>
+            <l part="N">Acolo mi-am găsit</l>
+            <l rend="indent(6)" part="N">În iarbă</l>
+            <l part="N">Refugiul favorit.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Acolo, ca-ntr-un templu,</l>
+            <l part="N">De-atâtea dimineţi</l>
+            <l rend="indent(6)" part="N">Contemplu</l>
+            <l part="N">O tufă de scaieţi.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Pe când departe-n zare,</l>
+            <l part="N">Mirat ca un copil,</l>
+            <l rend="indent(6)" part="N">Răsare</l>
+            <l part="N">Un astru inutil...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">II</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iubito, fără tine</l>
+            <l part="N">Începe-o nouă zi...</l>
+            <l rend="indent(6)" part="N">Dar cine</l>
+            <l part="N">Le poate socoti?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Că zilele-n restrişte</l>
+            <l part="N">Se-nalţă şi apun</l>
+            <l rend="indent(6)" part="N">Ca nişte</l>
+            <l part="N">Baloane de săpun...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cu mâinile sub tâmplă</l>
+            <l part="N">Cum stau aşa culcat,</l>
+            <l rend="indent(6)" part="N">Se-ntâmplă</l>
+            <l part="N">Un fenomen ciudat:</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Privirea mea distrată</l>
+            <l part="N">Prin negre rămurişti</l>
+            <l rend="indent(6)" part="N">Mi-arată</l>
+            <l part="N">Doi ochi adânci şi trişti</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-n orice strop de rouă</l>
+            <l part="N">Văd două braţe, mici</l>
+            <l rend="indent(6)" part="N">Ca două</l>
+            <l part="N">Picioare de furnici.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar dacă o lăcustă,</l>
+            <l part="N">Din verdele talaz,</l>
+            <l rend="indent(6)" part="N">Robustă</l>
+            <l part="N">Îmi sare pe obraz, —</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Din ochii mei dispare</l>
+            <l part="N">Mirajul interpus,</l>
+            <l rend="indent(6)" part="N">Pe care</l>
+            <l part="N">L-am zugrăvit mai sus,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-n ochii mei deodată,</l>
+            <l part="N">Ca-n alte dimineţi,</l>
+            <l rend="indent(6)" part="N">S-arată</l>
+            <l part="N">O tufă de scaieţi...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">III</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Acum natura-ncepe</l>
+            <l part="N">Cu tainicul ei glas</l>
+            <l rend="indent(6)" part="N">Din stepe</l>
+            <l part="N">Să cânte-ncet pe nas.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Prin ierburile crude,</l>
+            <l part="N">Sub cerul fără fund,</l>
+            <l rend="indent(6)" part="N">S-aude</l>
+            <l part="N">Un bâzâit profund</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi până la amiază</l>
+            <l part="N">Pământul încropit</l>
+            <l rend="indent(6)" part="N">Vibrează</l>
+            <l part="N">Adânc şi liniştit.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sunt gâze şi gângănii</l>
+            <l part="N">Ce sar şi fac mereu</l>
+            <l rend="indent(6)" part="N">Mătănii</l>
+            <l part="N">Când trec prin dreptul meu,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-mpreunându-şi zborul,</l>
+            <l part="N">În ierburi îşi ascund</l>
+            <l rend="indent(6)" part="N">Amorul</l>
+            <l part="N">Multiplu şi fecund.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">IV</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-n vremea asta, oare,</l>
+            <l part="N">Când eu visez mereu</l>
+            <l rend="indent(6)" part="N">La soare —</l>
+            <l part="N">Ce face dorul meu?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iubirea mea nebună,</l>
+            <l part="N">De-abia trezită-n zori,</l>
+            <l rend="indent(6)" part="N">Adună</l>
+            <l part="N">Mănunchiuri mari de flori.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Se-ntreabă — ce să facă?</l>
+            <l part="N">Şi făr-a pregeta,</l>
+            <l rend="indent(6)" part="N">Ea pleacă</l>
+            <l part="N">Întins, la casa ta.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi nici nu bagi de seamă</l>
+            <l part="N">Cum pasu-i furişat</l>
+            <l rend="indent(6)" part="N">Cu teamă</l>
+            <l part="N">S-apropie de pat,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ci doar treasari deodată</l>
+            <l part="N">Şi parcă-ţi pare rău.</l>
+            <l rend="indent(6)" part="N">Mirată,</l>
+            <l part="N">Te uiţi în jurul tău...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar ea-ntr-un suflet vine</l>
+            <l part="N">Cu părul desfăcut</l>
+            <l rend="indent(6)" part="N">La mine,</l>
+            <l part="N">Să-mi spuie ce-a făcut...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Aşa, spre zarea largă,</l>
+            <l part="N">Pe zi de-atâtea ori</l>
+            <l rend="indent(6)" part="N">Aleargă</l>
+            <l part="N">Pe drumuri lungi de flori.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">V</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Târziu, când peste lanuri</l>
+            <l part="N">Coboară spre câmpii</l>
+            <l rend="indent(6)" part="N">Noianuri</l>
+            <l part="N">De umbre argintii;</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Când luminosul crainic,</l>
+            <l part="N">Luceafărul stingher</l>
+            <l rend="indent(6)" part="N">Şi tainic</l>
+            <l part="N">S-aprinde iar pe cer</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi cu lumina nouă</l>
+            <l part="N">Sclipeşte ca un strop</l>
+            <l rend="indent(6)" part="N">De rouă</l>
+            <l part="N">Pe vârful unui plop,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iubirea mea fugară</l>
+            <l part="N">De-abia s-a liniştit,</l>
+            <l rend="indent(6)" part="N">Şi-afară,</l>
+            <l part="N">Ca un copul trudit,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Pe-un maldăr de sulfine,</l>
+            <l part="N">Cu cel din urmă gând</l>
+            <l rend="indent(6)" part="N">La tine,</l>
+            <l part="N">Adoarme suspinând.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Broaştele</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Am ascultat din umbră cântarea lor înaltă.</l>
+            <l part="N">Buchetele de trestii dormeau cu foşnet lin.</l>
+            <l part="N">Era o lună plină în fiecare baltă,</l>
+            <l part="N">Şi-n fiecare undă o piatră de rubin.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar nuferii, pe care lianele-i dezgroapă</l>
+            <l part="N">Când i-a-nchegat în tremur lumina unui val,</l>
+            <l part="N">Păreau luceferi galbeni, căzuţi adânc în apă</l>
+            <l part="N">Să-nsemne calea lunii spre-ntunecatul mal.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ostroave mari de umbră închipuiau corăbii,</l>
+            <l part="N">Iar papura, mişcată în treacăt de zefiri,</l>
+            <l part="N">Nălţa mănunchi în aer tremurătoare săbii,</l>
+            <l part="N">Prin pânza de lumină a undelor subţiri.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi broaştele semeţe cântau cu glasuri multe</l>
+            <l part="N">Pe când, din înălţime, privindu-şi faţa-n lac,</l>
+            <l part="N">Un nour singuratic stătea uimit s-asculte</l>
+            <l part="N">Cum bat ca toaca toate şi-o clipă toate tac.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Se ridicau departe prelungi bătăi din palme</l>
+            <l part="N">Şi note-adânci de flaut ieşeau de jos, din stuh.</l>
+            <l part="N">Părea că lapidează tăcerea nopţii calme</l>
+            <l part="N">O grindină de note zvârlite în văzduh.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi cum deasupra apei s-amestecau întruna</l>
+            <l part="N">Umplând singurătatea de freamăt viu, părea</l>
+            <l part="N">Că toate laolaltă apostrofează luna.</l>
+            <l part="N">Că fiecare broască se ceartă cu o stea.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Erau ocări în larma lunaticei orchestre</l>
+            <l part="N">Şi rugă arzătoare în tainicul ei zvon.</l>
+            <l part="N">Spuneau Nemărginirii durerile terestre</l>
+            <l part="N">Cu imnul lor zadarnic, solemn şi monoton...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cum le-ascultam din umbră acvatica fanfară,</l>
+            <l part="N">Sub cerul vast al nopţii cu ele-am retrăit</l>
+            <l part="N">O noapte luminoasă din era terţiară.</l>
+            <l part="N">Nefericit şi singur ca primul troglodit.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Acceleratul</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Peste fagi cu vârfuri sure</l>
+            <l part="N">A căzut amurgul rece.</l>
+            <l part="N">Înserarea mută trece</l>
+            <l part="N">Furişată prin pădure.</l>
+            <l part="N">Spre apus abia s-arată</l>
+            <l part="N">Printre crengi, întunecată,</l>
+            <l part="N">O văpaie de rubin...</l>
+            <l part="N">Din frunzişurile grele</l>
+            <l part="N">De-nnoptare, tot mai vin</l>
+            <l part="N">Glasuri mici de păsărele...</l>
+            <l part="N">Reci şi palide-n senin</l>
+            <l part="N">Se ivesc deasupra stele.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi deodată, dintre dealuri</l>
+            <l part="N">Se desprinde larg un zvon</l>
+            <l part="N">Depărtat şi monoton,</l>
+            <l part="N">Ca un murmur lung de ape</l>
+            <l part="N">Revărsate peste maluri...</l>
+            <l part="N">Creşte-n luncă, mai aproape,</l>
+            <l part="N">Umple văile vecine</l>
+            <l part="N">De răsunet mare...</l>
+            <l part="N">Vine!...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Fulger negru... trăsnet lung</l>
+            <l part="N">Dus pe aripi de furtună,</l>
+            <l part="N">Zguduind pământul tună,</l>
+            <l part="N">Zările de-abia-i ajung...</l>
+            <l part="N">Parcă zboară,</l>
+            <l part="N">Parcă-noată.</l>
+            <l part="N">Scuipă foc, înghite drum,</l>
+            <l part="N">Şi-ntr-un valvârtej de fum</l>
+            <l part="N">Taie-n lung pădurea toată...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">A trecut...</l>
+            <l part="N">Dinspre câmpie,</l>
+            <l part="N">Vuiet greu de fierărie</l>
+            <l part="N">Se destramă în tăcere...</l>
+            <l part="N">Scade-n depărtare...</l>
+            <l part="N">Piere...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar în urmă-i, din tufişuri,</l>
+            <l part="N">De prin tainice-ascunzişuri,</l>
+            <l part="N">Se ivesc pe jumătate</l>
+            <l part="N">Păsărele ciufulite,</l>
+            <l part="N">Alarmate</l>
+            <l part="N">Şi-ngrozite:</l>
+            <l part="N">Cine-i?... Ce-i?... Ce-a fost pe-aici?...</l>
+            <l part="N">Ciripesc cu glasuri mici</l>
+            <l part="N">Cinteze şi pitulici.</l>
+            <l part="N">Doar un pui de piţigoi,</l>
+            <l part="N">Într-un vârf de fag pitic,</l>
+            <l part="N">Stă cu penele vulvoi</l>
+            <l part="N">Şi făcând pe supăratul:</l>
+            <l part="N">— Ce să fie? Nu-i nimic.</l>
+            <l part="N">A trecut Acceleratul...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Sfârşit de vară</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dacă liniştea pădurii adormite</l>
+            <l part="N">Nici o veste de-altădată nu-ţi trimite</l>
+            <l part="N">Şi pe freamăte pornite de departe</l>
+            <l part="N">Nu te-ajunge glas de dincolo de moarte,</l>
+            <l part="N">Vin' cu mine să ne pierdem în zadar</l>
+            <l part="N">Printre galbenele rarişti de stejar,</l>
+            <l part="N">Cu sfioase campanule şi sulfine,</l>
+            <l part="N">Pe cărări pe unde nimeni nu mai vine.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dulce zumzet somnoros şi ireal</l>
+            <l part="N">Să ne cheme spre poienile din deal.</l>
+            <l part="N">Taina liniştii înalte să ne fure</l>
+            <l part="N">Prin cotite luminişuri de pădure</l>
+            <l part="N">Şi la umbră să ne-mbie mai târziu</l>
+            <l part="N">O clopotniţă de aur străveziu,</l>
+            <l part="N">Legănând deasupra creştetelor noastre</l>
+            <l part="N">Licuricii înălţimilor albastre...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Fără gânduri, ca-ntr-un somn abia deschis,</l>
+            <l part="N">Să trăim în clipe lungi acelaşi vis.</l>
+            <l part="N">Foi uscate-n jurul tău să cadă rar,</l>
+            <l part="N">La ureche să-ţi descânte un bondar</l>
+            <l part="N">Şi cum stai cu ochii-nchişi pe jumătate,</l>
+            <l part="N">Soare galben printre ramuri nemişcate</l>
+            <l part="N">Să-ţi învăluie-n tăcere şi-n lumină</l>
+            <l part="N">Fruntea mică de domniţă bizantină.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iar la-ntoarcere, să trecem prin păşuni</l>
+            <l part="N">Şi prin funduri de livadă cu aluni,</l>
+            <l part="N">Printre garduri fumurii şi solitare</l>
+            <l part="N">Ce se uită-n urma noastră cu mirare...</l>
+            <l part="N">Şi din treacăt, ici şi colo, să culegi</l>
+            <l part="N">Sânziene cu tulpinele întregi,</l>
+            <l part="N">Margarete, scânteioare şi aglice,</l>
+            <l part="N">Un buchet de flori orfane şi calice,</l>
+            <l part="N">Lung în coadă şi ghimpos şi cu ţărână.</l>
+            <l part="N">La plecare să-l ţii falnic într-o mână,</l>
+            <l part="N">Dar cu vremea, desfoiat, să-ţi pară greu</l>
+            <l part="N">Şi la urmă să mi-l dai să-l duc tot eu...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O şopârlă pe cărare, lângă noi,</l>
+            <l part="N">Speriată să foşnească dintre foi</l>
+            <l part="N">Şi să stea, să vă uitaţi o dată bine,</l>
+            <l part="N">De departe, tu la ea şi ea la tine,</l>
+            <l part="N">Tu de sus şi ea din pietrele fierbinţi,</l>
+            <l part="N">Amândouă serioase şi cuminţi.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Mai încolo o crenguţă de mălin</l>
+            <l part="N">Ori un ghimpe să te-ntârzie puţin</l>
+            <l part="N">Şi — purtând de-a lungul văilor prin ţară</l>
+            <l part="N">Vestea nouă a sfârşitului de vară,</l>
+            <l part="N">Flutur mic, într-o lucire de-asfinţit,</l>
+            <l part="N">Să ne-ntâmpine din ţarină grăbit,</l>
+            <l part="N">Cu rugină pe albastre aripioare</l>
+            <l part="N">Ca o veştedă petală de cicoare.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Rapsodii de toamnă</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">I</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">A trecut întâi o boare</l>
+            <l part="N">Pe deasupra viilor,</l>
+            <l part="N">Şi-a furat de prin ponoare</l>
+            <l part="N">Puful păpădiilor.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cu acorduri lungi de liră</l>
+            <l part="N">I-au răspuns fâneţele.</l>
+            <l part="N">Toate florile şoptiră,</l>
+            <l part="N">Întorcându-şi feţele.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un salcâm privi spre munte</l>
+            <l part="N">Mândru ca o flamură.</l>
+            <l part="N">Solzii frunzelor mărunte</l>
+            <l part="N">S-au zburlit pe-o ramură.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Mai târziu, o coţofană</l>
+            <l part="N">Fără ocupaţie</l>
+            <l part="N">A adus o veste-n goană</l>
+            <l part="N">Şi-a făcut senzaţie:</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cică-n munte, la povarnă,</l>
+            <l part="N">Plopii şi răsurile</l>
+            <l part="N">Spun că vine-un vânt de iarnă</l>
+            <l part="N">Răscolind pădurile.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-auzind din depărtare</l>
+            <l part="N">Vocea lui tiranică,</l>
+            <l part="N">Toţi ciulinii pe cărare</l>
+            <l part="N">Fug cuprinşi de panică...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Zvonul prin livezi coboară.</l>
+            <l part="N">Colo jos, pe mlaştină.</l>
+            <l part="N">S-a-ntâlnit un pui de cioară</l>
+            <l part="N">C-un bâtlan de baştină</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi din treacăt îi aruncă</l>
+            <l part="N">Altă veste stranie,</l>
+            <l part="N">C-au pornit-o peste luncă</l>
+            <l part="N">Frunzele-n bejanie!</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">II</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Într-o clipă, alarmate,</l>
+            <l part="N">Ies din şanţuri vrăbiile.</l>
+            <l part="N">Papura pe lac se zbate</l>
+            <l part="N">Legănându-şi săbiile.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un lăstun, în frac, apare</l>
+            <l part="N">Sus pe-un vârf de trestie</l>
+            <l part="N">Ca să ţie-o cuvântare</l>
+            <l part="N">În această chestie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar broscoii din răstoacă</l>
+            <l part="N">Îl insultă-n pauze</l>
+            <l part="N">Şi din papură-l provoacă</l>
+            <l part="N">Cu prelungi aplauze.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Lişiţele-ncep să strige</l>
+            <l part="N">Ca de mama focului.</l>
+            <l part="N">Cocostârci, pe catalige,</l>
+            <l part="N">Vin la faţa locului.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un ţânţar, nervos şi foarte</l>
+            <l part="N">Slab de constituţie,</l>
+            <l part="N">În zadar vrea să ia parte</l>
+            <l part="N">Şi el la discuţie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Când deodată un erete,</l>
+            <l part="N">Poliţai din naştere,</l>
+            <l part="N">Peste baltă şi boschete</l>
+            <l part="N">Vine-n recunoaştere</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cu poruncă de la centru</l>
+            <l part="N">Contra vinovatului,</l>
+            <l part="N">Ca să-l aresteze pentru</l>
+            <l part="N">Siguranţa statului...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">De emoţie, în surdină,</l>
+            <l part="N">Sub un snop de bozie,</l>
+            <l part="N">O păstaie de sulcină</l>
+            <l part="N">A făcut explozie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">III</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Florile-n grădini s-agită.</l>
+            <l part="N">Peste straturi, dalia,</l>
+            <l part="N">Ca o doamnă din elită</l>
+            <l part="N">Îşi îndreaptă talia.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Trei petunii subţirele,</l>
+            <l part="N">Farmec dând regretelor,</l>
+            <l part="N">Stau de vorbă între ele:</l>
+            <l part="N">,,Ce ne facem, fetelor?..."</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Floarea-soarelui, bătrână,</l>
+            <l part="N">De pe-acum se sperie</l>
+            <l part="N">C-au să-i cadă în ţărână</l>
+            <l part="N">Dinţii, de mizerie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi cu galbena ei zdreanţă</l>
+            <l part="N">Stă-n lumina matură,</l>
+            <l part="N">Ca un talger de balanţă</l>
+            <l part="N">Aplecat pe-o latură...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Între gâze, fără frică</l>
+            <l part="N">Se re-ncep idilele.</l>
+            <l part="N">Doar o gărgăriţă mică,</l>
+            <l part="N">Blestemându-şi zilele,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Necăjită cere sfatul</l>
+            <l part="N">Unei molii tinere,</l>
+            <l part="N">Că i-a dispărut bărbatul</l>
+            <l part="N">În costum de ginere.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Împrejur îi cântă-n şagă</l>
+            <l part="N">Greierii din flaute.</l>
+            <l part="N">"Uf, ce lume, soro dragă!"</l>
+            <l part="N">Unde să-l mai caute?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">L-a găsit sub trei grăunţe</l>
+            <l part="N">Mort de inaniţie.</l>
+            <l part="N">Şi-acum pleacă să anunţe</l>
+            <l part="N">Cazul la poliţie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">IV</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Buruienile-ngrozite</l>
+            <l part="N">De-aşa vremi protivnice</l>
+            <l part="N">Se vorbiră pe şoptite</l>
+            <l part="N">Să se facă schivnice.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi cum ştie-o rugăciune</l>
+            <l part="N">Doamna măsălariţă,</l>
+            <l part="N">Tot soborul îi propune</l>
+            <l part="N">S-o aleagă stariţă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Numai colo sus, prin vie,</l>
+            <l part="N">Rumenele lobode</l>
+            <l part="N">Vor de-acuma-n văduvie</l>
+            <l part="N">Să trăiască slobode.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Vezi! de-aceea mătrăguna</l>
+            <l part="N">A-nvăţat un brusture</l>
+            <l part="N">Să le spuie-n faţă una</l>
+            <l part="N">Care să le usture!...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Jos, pe-un vârf de campanulă</l>
+            <l part="N">Pururea-n vibraţie,</l>
+            <l part="N">Şi-a oprit o libelulă</l>
+            <l part="N">Zborul plin de graţie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Mic, cu solzi ca de balaur,</l>
+            <l part="N">Trupu-i fin se clatină,</l>
+            <l part="N">Giuvaer de smalţ şi aur</l>
+            <l part="N">Cu sclipiri de platină.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">V</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar deodată, pe coline</l>
+            <l part="N">Scade animaţia...</l>
+            <l part="N">De mirare parcă-şi ţine</l>
+            <l part="N">Vântul respiraţia.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Zboară veşti contradictorii,</l>
+            <l part="N">Se-ntretaie ştirile...</l>
+            <l part="N">Ce e?... Ce e?... Spre podgorii</l>
+            <l part="N">Toţi întorc privirile.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iat-o!... Sus în deal, la strungă,</l>
+            <l part="N">Aşternând pământului</l>
+            <l part="N">Haina ei cu trenă lungă</l>
+            <l part="N">De culoarea vântului,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">S-a ivit pe culme Toamna,</l>
+            <l part="N">Zâna melopeelor,</l>
+            <l part="N">Spaima florilor şi Doamna</l>
+            <l part="N">Cucurbitaceelor...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Lung îşi flutură spre vale,</l>
+            <l part="N">Ca-ntr-un nimb de glorie,</l>
+            <l part="N">Peste şolduri triumfale</l>
+            <l part="N">Haina iluzorie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Apoi pleacă mai departe</l>
+            <l part="N">Pustiind cărările,</l>
+            <l part="N">Cu alai de frunze moarte</l>
+            <l part="N">Să colinde zările.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">.................</l>
+            <l part="N">.................</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Gâze, flori întârziate!</l>
+            <l part="N">Muza mea satirică</l>
+            <l part="N">V-a-nchinat de drag la toate</l>
+            <l part="N">Câte-o strofă lirică.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar când ştiu c-o să vă-ngheţe</l>
+            <l part="N">Iarna mizerabilă,</l>
+            <l part="N">Mă cuprinde o tristeţe</l>
+            <l part="N">Iremediabilă...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Balada unui greier mic</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Peste dealuri zgribulite,</l>
+            <l part="N">Peste ţarini zdrenţuite,</l>
+            <l part="N">A venit aşa, deodată,</l>
+            <l part="N">Toamna cea întunecată.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Lungă, slabă şi zăludă,</l>
+            <l part="N">Botezând natura udă</l>
+            <l part="N">C-un mănunchi de ciumafai, —</l>
+            <l part="N">Când se scutură de ciudă,</l>
+            <l part="N">Împrejurul ei departe</l>
+            <l part="N">Risipeşte-n evantai</l>
+            <l rend="indent(6)" part="N">Ploi mărunte,</l>
+            <l rend="indent(6)" part="N">Frunze moarte,</l>
+            <l rend="indent(6)" part="N">Stropi de tină,</l>
+            <l rend="indent(12)" part="N">Guturai...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi cum vine de la munte,</l>
+            <l rend="indent(6)" part="N">Blestemând</l>
+            <l rend="indent(6)" part="N">Şi lăcrimând,</l>
+            <l part="N">Toţi ciulinii de pe vale</l>
+            <l part="N">Se pitesc prin văgăuni,</l>
+            <l part="N">Iar măceşii de pe câmpuri</l>
+            <l part="N">O întâmpină în cale</l>
+            <l part="N">Cu grăbite plecăciuni...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Doar pe coastă, la urcuş,</l>
+            <l part="N">Din căsuţa lui de humă</l>
+            <l part="N">A ieşit un greieruş,</l>
+            <l part="N">Negru, mic, muiat în tuş</l>
+            <l part="N">Şi pe-aripi pudrat cu brumă:</l>
+            <l rend="indent(6)" part="N">— Cri-cri-cri,</l>
+            <l rend="indent(6)" part="N">Toamnă gri,</l>
+            <l part="N">Nu credeam c-o să mai vii</l>
+            <l part="N">Înainte de Crăciun,</l>
+            <l part="N">Că puteam şi eu s-adun</l>
+            <l part="N">O grăunţă cât de mică,</l>
+            <l part="N">Ca să nu cer împrumut</l>
+            <l part="N">La vecina mea furnică,</l>
+            <l part="N">Fi'ndcă nu-mi dă niciodată,</l>
+            <l part="N">Şi-apoi umple lumea toată</l>
+            <l part="N">Că m-am dus şi i-am cerut...</l>
+            <l rend="indent(6)" part="N">Dar de-acuş,</l>
+            <l part="N">Zise el cu glas sfârşit</l>
+            <l part="N">Ridicând un picioruş,</l>
+            <l part="N">Dar de-acuş s-a isprăvit...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l rend="indent(6)" part="N">Cri-cri-cri,</l>
+            <l rend="indent(6)" part="N">Toamnă gri,</l>
+            <l part="N">Tare-s mic şi necăjit!</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Catrene</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">,,N-o să mai iubesc", zisese</l>
+            <l part="N">Biată-mi inimă naivă,</l>
+            <l part="N">Dar văzându-te pe tine,</l>
+            <l part="N">A căzut în recidivă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Supărările iubirii</l>
+            <l part="N">Sunt ca ploile cu soare:</l>
+            <l part="N">Repezi, dar cu cât mai repezi</l>
+            <l part="N">Cu atât mai trecătore.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Musafiri la mine-acasă,</l>
+            <l part="N">Fără să-i poftesc vreodată,</l>
+            <l part="N">Am un şoarec, doi păinjeni</l>
+            <l part="N">Şi, din când în când, o fată.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">La fereastra ta-mi zâmbiră</l>
+            <l part="N">Toate florile din glastră,</l>
+            <l part="N">Numai floarea cea mai dulce</l>
+            <l part="N">A fugit de la fereastră.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cum pierzi noaptea cu cititul!</l>
+            <l part="N">Am trecut din întâmplare</l>
+            <l part="N">Şi-mi venea, aşa, să intru</l>
+            <l part="N">Şi să suflu-n lumânare...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Zici că la război, iubito,</l>
+            <l part="N">Vii cu mine fără preget...</l>
+            <l part="N">O, dar cum plângeai asară,</l>
+            <l part="N">Când te-ai înţepat la deget!</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Greu mi-i, dragă, fără tine</l>
+            <l part="N">Şi te chem de-atâtea ori, —</l>
+            <l part="N">Nu din zori şi până-n sară,</l>
+            <l part="N">Cât din sară până-n zori...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Multe-i spun când nu m-ascultă,</l>
+            <l part="N">Dar tresar şi tac din gură</l>
+            <l part="N">Când, c-un zâmbet, îşi ridică</l>
+            <l part="N">Ochii de pe cusătură.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ochii negri, faţa albă</l>
+            <l part="N">Păr întunecat şi mare,</l>
+            <l part="N">Inima — un sloi de gheaţă.</l>
+            <l part="N">Alte semnalmente: n-are.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Draga mea, fără cuvinte,</l>
+            <l part="N">Doar din ochi pricepe toate.</l>
+            <l part="N">Numai cât mă uit la dânsa</l>
+            <l part="N">Şi-mi răspunde: ,,Nu se poate!"</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">,,Toate-s vechi", a zis poetul...</l>
+            <l part="N">Chiar şi cântecul acesta</l>
+            <l part="N">A mai fost, odinioară,</l>
+            <l part="N">Publicat în Zend-Avesta.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Manon şi Des Grieux</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ea-şi pune voalul cu mişcări discrete.</l>
+            <l part="N">El stă cuprins de-o presimţire gravă.</l>
+            <l part="N">Cerşindu-i mut o clipă de zăbavă.</l>
+            <l part="N">Sărută braţul zâmbitoarei fete.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Sunt trist, Manon: mi-e inima bolnavă...</l>
+            <l part="N">Atât şopti, cu faţa la perete,</l>
+            <l part="N">Căci se temea acum să nu-l îmbete</l>
+            <l part="N">Ameţitoarea ochilor otravă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi ea s-a dus... În clipa asta mare</l>
+            <l part="N">I-a aruncat din prag o sărutare</l>
+            <l part="N">Şi n-a-nţeles durerea-i fără nume...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O, tu cea mai nebună dintre toate,</l>
+            <l part="N">Manon, Manon! de ce-ai lăsat pe lume</l>
+            <l part="N">Atâtea zeci de mii de strănepoate!...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Balada chiriaşului grăbit</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Trec anii, trec lunile-n goană</l>
+            <l part="N">Şi-n zbor săptămânile trec.</l>
+            <l part="N">Rămâi sănătoasă, cucoană,</l>
+            <l part="N">Că-mi iau geamantanul şi plec!</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Eu nu ştiu limanul spre care</l>
+            <l part="N">Pornesc cu bagajul acum,</l>
+            <l part="N">Ce demon mă pune-n mişcare,</l>
+            <l part="N">Ce taină mă-ndeamnă la drum.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar simt că m-apasă pereţii, —</l>
+            <l part="N">Eu sunt chiriaş trecător:</l>
+            <l part="N">În scurtul popas al vieţii</l>
+            <l part="N">Vreau multe schimbări de decor.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Am stat la mansardă o lună.</l>
+            <l part="N">De-acolo, de sus, de la geam,</l>
+            <l part="N">Şi ziua şi noaptea pe lună</l>
+            <l part="N">Priveam ca la teatru, madam!</l>
+            <l part="N">Când luna-mi venea la fereastră,</l>
+            <l part="N">Oraşul părea că mă cheamă</l>
+            <l part="N">Să-i văd în lumină albastră</l>
+            <l part="N">Fantastica lui panoramă...</l>
+            <l part="N">Mai sus, într-o cameră mică,</l>
+            <l part="N">Făceau împreună menaj</l>
+            <l part="N">Un moş, un actor şi-o pisică.</l>
+            <l part="N">Iar dincolo, jos, la etaj —</l>
+            <l part="N">O damă cu vizite multe</l>
+            <l part="N">Şi-alături de ea un burlac,</l>
+            <l part="N">Un demon serios de la Culte</l>
+            <l part="N">Cu cioc şi cu ghete de lac.</l>
+            <l part="N">De-acolo, pe-o vreme ploioasă,</l>
+            <l part="N">Mi-am pus geamantanu-n tramvai</l>
+            <l part="N">Şi-abia am ajuns pân-acasă:</l>
+            <l part="N">Pe Berzei, la conu Mihai.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ţin minte şi-acuma grădina,</l>
+            <l part="N">Ferestrele unse cu var...</l>
+            <l part="N">În faţă sta coana Irina</l>
+            <l part="N">Şi-n curte, un fost arhivar.</l>
+            <l part="N">Vedeai răsărind laolaltă,</l>
+            <l part="N">Un colţ luminos de ietac,</l>
+            <l part="N">Pridvorul cu iederă naltă</l>
+            <l part="N">Şi flori zâmbitoare-n cerdac...</l>
+            <l part="N">Pe-atunci înflorea liliacul</l>
+            <l part="N">Şi noaptea cădea parfumată</l>
+            <l part="N">Umplând de miresme cerdacul, —</l>
+            <l part="N">Şi-avea arhivarul o fată...</l>
+            <l part="N">Stam ceasuri întregi sub umbrarul</l>
+            <l part="N">De flori, aşteptând neclintit</l>
+            <l part="N">(C-avea obicei arhivarul</l>
+            <l part="N">Să sforăie noaptea cumplit).</l>
+            <l part="N">Târziu, când se da la o parte</l>
+            <l part="N">Perdeaua, părea că visez...</l>
+            <l part="N">Şi iar am plecat mai departe,</l>
+            <l part="N">De teamă să nu mă fixez.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Străine privelişti fugare!</l>
+            <l part="N">Voi nu ştiţi că-n inimă port</l>
+            <l part="N">O dulce mireasmă de floare,</l>
+            <l part="N">Parfumul trecutului mort...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-am stat la un unchi, pe Romană,</l>
+            <l part="N">ţiu minte... dar unde n-am stat?</l>
+            <l part="N">La domnul Manuc, o persoană</l>
+            <l part="N">Cu nasul puţin coroiat;</l>
+            <l part="N">La doamna Mary, pe Regală</l>
+            <l part="N">(O, cum mă ruga să nu plec!</l>
+            <l part="N">Mi-a scris chiar o carte poştală);</l>
+            <l part="N">Pe strada Unirii la Şbeck;</l>
+            <l part="N">Pe Grant, lângă birtul lui Sbierea;</l>
+            <l part="N">Pe Witing, pe Tei la Confort, —</l>
+            <l part="N">M-a dus pretutindeni puterea</l>
+            <l part="N">Aceluiaşi tainic resort.</l>
+            <l part="N">C-aşa mi-e viaţa — o goană,</l>
+            <l part="N">Şi astfel durerile trec...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Rămâi sănătoasă, cucoană,</l>
+            <l part="N">Că-mi iau geamantanul şi plec!</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Noapte de mai</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sărman cizmar!</l>
+            <l part="N">Ce demon te-a ursit să stai</l>
+            <l part="N">Pe trepiedul tău barbar,</l>
+            <l part="N">În noaptea limpede de mai?...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O şoaptă prinde să-nfioare</l>
+            <l part="N">Umila ta singurătate.</l>
+            <l part="N">Prelung şi rar, în depărtare</l>
+            <l part="N">Un clopot miezul nopţii bate.</l>
+            <l part="N">Coboară vremea ca o apă</l>
+            <l part="N">Nestăvilită-n lunga-i cale,</l>
+            <l part="N">Şi fiecare ceas îngroapă</l>
+            <l part="N">Comoara tinereţii tale.</l>
+            <l part="N">Ca nişte ritmice ciocane</l>
+            <l part="N">Răsună paşii pe asfalt:</l>
+            <l part="N">Sunt ghete mari ,,americane"</l>
+            <l part="N">Şi ghete mici cu tocul nalt...</l>
+            <l part="N">Acum odaia-ţi pare mică.</l>
+            <l part="N">Te uiţi cu silă împrejur...</l>
+            <l part="N">Un fum subţire se ridică</l>
+            <l part="N">Din lampa ta cu abajur...</l>
+            <l part="N">Şi iată, ca-n atâtea rânduri,</l>
+            <l part="N">Ai devenit sentimental,</l>
+            <l part="N">Privind cu ochii duşi pe gânduri</l>
+            <l part="N">Pantoful delicat de bal.</l>
+            <l part="N">În căptuşala-i de mătasă</l>
+            <l part="N">Te-ndeamnă visul tău curat</l>
+            <l part="N">Să pui o formă graţioasă</l>
+            <l part="N">De picioruş aristocrat...</l>
+            <l part="N">................</l>
+            <l part="N">O vezi la bal... aşa, înaltă</l>
+            <l part="N">Şi elegantă ca o floare...</l>
+            <l part="N">În ploaie de confetti saltă</l>
+            <l part="N">Perechile dănţuitoare...</l>
+            <l part="N">Şi visul tău acum te-arată</l>
+            <l part="N">Frumos ca un locotenent,</l>
+            <l part="N">Când vii în faţa ei deodată</l>
+            <l part="N">Şi-i faci uşor un compliment:</l>
+            <l part="N">— Dansaţi cu mine, domnişoară?</l>
+            <l part="N">— Mersi! răspunde ea încet...</l>
+            <l part="N">Şi-n luxul care vă-nconjoară,</l>
+            <l part="N">O strângi la pieptul tău, discret.</l>
+            <l part="N">Te prinde redingota bine.</l>
+            <l part="N">Sunt mândre ghetele de lac:</l>
+            <l part="N">Zâmbeşti, încrezător în tine...</l>
+            <l part="N">Apoi, când muzicile tac,</l>
+            <l part="N">La braţ vă strecuraţi afară,</l>
+            <l part="N">Prin parcul liniştit să stai</l>
+            <l part="N">Cu ea, pe-o bancă solitară,</l>
+            <l part="N">În noaptea tainică de mai...</l>
+            <l part="N">Şi-ţi tremură deodată mâna</l>
+            <l part="N">Când te gândeşti c-ai săruta,</l>
+            <l part="N">În raza lunii, pe stăpâna</l>
+            <l part="N">Pantofului din mâna ta.</l>
+            <l part="N">O, mâna ta rudimentară,</l>
+            <l part="N">Cu piele aspră, de toval!...</l>
+            <l part="N">Acum în pieptul tău coboară</l>
+            <l part="N">Revolta caldă, ca un val.</l>
+            <l part="N">Alungi vedeniile triste</l>
+            <l part="N">Din lumea celor fericiţi,</l>
+            <l part="N">Şi mii de gânduri anarhiste</l>
+            <l part="N">S-aprind în ochii tăi trudiţi.</l>
+            <l part="N">O, cum ai răscula norodul,</l>
+            <l part="N">,,Sărmana plebe care-asudă", —</l>
+            <l part="N">Ai da nebun cu calapodul</l>
+            <l part="N">În rânduiala asta crudă!</l>
+            <l part="N">Va trebui să vie-odată</l>
+            <l part="N">Acel feeric viitor...</l>
+            <l part="N">Şi-n mintea ta înfierbântată,</l>
+            <l part="N">Te vezi deodată orator:</l>
+            <l part="N">Înflăcărat rosteşti tirade,</l>
+            <l part="N">Porneşti mulţimea după tine.</l>
+            <l part="N">Se-nalţă mii de baricade</l>
+            <l part="N">Şi cad palatele-n ruine.</l>
+            <l part="N">Tu vezi în noapte mii de torţii,</l>
+            <l part="N">,,Femei cu părul despletit",</l>
+            <l part="N">Prin aer trece duhul morţii</l>
+            <l part="N">Şi-al răzbunării vânt cumplit!...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar până-atunci, la judecată,</l>
+            <l part="N">Pe trepiedul tău barbar,</l>
+            <l part="N">Cu fruntea-n mână rezemată</l>
+            <l part="N">Ai adormit...</l>
+            <l rend="indent(6)" part="N">Sărman cizmar!</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Noapte de iarnă</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cad din cer mărgăritare</l>
+            <l part="N">Pe oraşul adormit...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Plopii, umbre solitare</l>
+            <l part="N">În văzduhul neclintit,</l>
+            <l part="N">Visători ca amorezii</l>
+            <l part="N">Stau de veghe la fereastră,</l>
+            <l part="N">Şi pe marmura zăpezii</l>
+            <l part="N">Culcă umbra lor albastră.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iarna!... Iarna tristă-mbracă</l>
+            <l part="N">Streşinile somnoroase,</l>
+            <l part="N">Pune văl de promoroacă</l>
+            <l part="N">Peste pomi şi peste case.</l>
+            <l part="N">Scoate-o lume ca din basme</l>
+            <l part="N">În lumini de felinare —</l>
+            <l part="N">Umple noaptea de fantasme</l>
+            <l part="N">Neclintite şi bizare.</l>
+            <l part="N">Din ogeagul de cărbune</l>
+            <l part="N">Face albă colonadă</l>
+            <l part="N">Şi pe trunchiuri negre pune</l>
+            <l part="N">Capiteluri de zăpadă,</l>
+            <l part="N">Iar prin crengile cochete</l>
+            <l part="N">Flori de marmură anină, —</l>
+            <l part="N">O ghirlandă de buchete</l>
+            <l part="N">Care tremură-n lumină.</l>
+            <l part="N">Reci podoabe-n ramuri goale</l>
+            <l part="N">Plouă fără să le scuturi,</l>
+            <l part="N">Ici, risipă de petale,</l>
+            <l part="N">Colo, roi uşor de fluturi...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi din valul de zăpadă,</l>
+            <l part="N">Ca o mută arătare</l>
+            <l part="N">Legănându-se pe stradă,</l>
+            <l part="N">Un drumeţ ciudat răsare...</l>
+            <l part="N">Vine cu popasuri multe,</l>
+            <l part="N">Face-n calea lui mătănii.</l>
+            <l part="N">Câte-odată stă s-asculte</l>
+            <l part="N">Clopoţeii de la sănii.</l>
+            <l part="N">Alteori uimit tresare,</l>
+            <l part="N">Dă din mâini şoptind grăbit —</l>
+            <l part="N">Parcă spune-o taină mare</l>
+            <l part="N">Unui soţ închipuit...</l>
+            <l part="N">Ca o umbră din poveste</l>
+            <l part="N">Se strecoară-ncet, şi iar</l>
+            <l part="N">Stă deodată fără veste</l>
+            <l part="N">Rezemat de-un felinar.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Faţa lui se lămureşte, —</l>
+            <l part="N">Pare-nduioşat acum...</l>
+            <l part="N">Visător şi lung priveşte</l>
+            <l part="N">Casele de peste drum:</l>
+            <l part="N">Poartă mică... pomi în floare...</l>
+            <l part="N">O fereastră luminată...</l>
+            <l part="N">Streşini albe de ninsoare...</l>
+            <l part="N">Toate-i par ca altădată!</l>
+            <l part="N">Şi păreri de rău trecute</l>
+            <l part="N">Cad pe inima-i trudită,</l>
+            <l part="N">Ca un stol de păsări mute</l>
+            <l part="N">Pe-o grădină părăsită:</l>
+            <l part="N">,,Bulgăraş de gheaţă rece,</l>
+            <l part="N">Iarna vine, vara trece</l>
+            <l part="N">Şi n-am cu cine-mi petrece...</l>
+            <l part="N">Bulgăraş topit în foc,</l>
+            <l part="N">Dacă n-am avut noroc!</l>
+            <l part="N">Dacă n-am avut noroc..."</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Glasul, înecat, se curmă.</l>
+            <l part="N">Omul, şovăind în stradă,</l>
+            <l part="N">Pleacă iar, lăsând în urmă</l>
+            <l part="N">Pete negre pe zăpadă.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Singuri</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dormi!... Un val de aer umed am adus cu mine-n casă.</l>
+            <l part="N">Tremurând s-a stins văpaia lumânării de pe masă,</l>
+            <l part="N">Iar acuma numai ochiul de jăratic din cămin</l>
+            <l part="N">Licăreşte-n umbra dulce, ca o piatră de rubin.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Bate vânt cu ploaie-n geamuri</l>
+            <l part="N">Şi e noapte neagră-afară...</l>
+            <l part="N">Plânsul streşinii suspină ca un cântec de vioară</l>
+            <l part="N">Monoton, şoptind povestea unei vremi de mult uitate...</l>
+            <l part="N">Nici o rază nu pătrunde prin perdelele lăsate.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ci-ntunericul prieten stăpânind până departe,</l>
+            <l part="N">Şi de oameni şi de patimi fericirea ne-o desparte.</l>
+            <l part="N">Singur eu veghez în noapte,</l>
+            <l part="N">Ploaia cântă tot mai tare...</l>
+            <l part="N">Şi m-apropii, ochii negri să-i deschid cu-o sărutare.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>În drum</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Peste firea mută doarme</l>
+            <l part="N">Cerul plin de stele.</l>
+            <l part="N">Patru plopi ascund în umbră</l>
+            <l part="N">Casa dragii mele.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar mi-a fost pesemne calea</l>
+            <l part="N">De-un duşman ursită:</l>
+            <l part="N">Am găsit lumina stinsă,</l>
+            <l part="N">Uşa zăvorită...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">De trei nopţi aceeaşi cale</l>
+            <l part="N">Bate călătorul.</l>
+            <l part="N">Cine n-are dor pe vale</l>
+            <l part="N">Nu-mi cunoaşte dorul.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Gânduri triste, mâine sară</l>
+            <l part="N">Viu în ciuda voastră, —</l>
+            <l part="N">Şi de-o fi zăvor la uşă</l>
+            <l part="N">Intru pe fereastră!</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Noapte de toamnă</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Murmur lung de streşini, risipite şoapte</l>
+            <l part="N">Cresc de pretutindeni şi se pierd în noapte.</l>
+            <l part="N">Rareori prin storuri o lumină scapă</l>
+            <l part="N">De-mi aprinde-n cale reci oglinzi de apă</l>
+            <l part="N">Şi-mi trimite-n faţă raza ei răsfrântă...</l>
+            <l part="N">Ploaia bate-n geamuri, streşinile cântă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar treptat, cu larmă potolită scade</l>
+            <l part="N">Cântecul acestui tremur de cascade.</l>
+            <l part="N">Tot mai des în preajmă umbre vii răsar,</l>
+            <l part="N">Ploaia peste case pică tot mai rar</l>
+            <l part="N">Şi-n grămezi de neguri apele se strâng...</l>
+            <l part="N">Lumea-ntreagă doarme, streşinile plâng.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Până când o rază de argint în zare,</l>
+            <l part="N">Lămurind pe boltă straturi de ninsoare,</l>
+            <l part="N">Lin desface umbra şi de crengi anină</l>
+            <l part="N">Scânteieri albastre, boabe de lumină.</l>
+            <l part="N">Iar acum din taina cerului deschis,</l>
+            <l part="N">Peste firea mută cad lumini de vis</l>
+            <l part="N">Şi-n troiene albe norii se desfac...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar când iese luna, streşinile tac.</l>
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dormi, iubire dulce!...</l>
+            <l part="N">Numai eu întârziu, singur pe cărare,</l>
+            <l part="N">Farmecul acestei clipe călătoare...</l>
+            <l part="N">Gândurile mele vin să te deştepte,</l>
+            <l part="N">Din pridvorul tainic să cobori pe trepte.</l>
+            <l part="N">Să cobori în toamna limpede şi rece</l>
+            <l part="N">Şi, visând cu mine clipa care trece,</l>
+            <l part="N">Să-mi sporeşti tristeţea ceasului târziu</l>
+            <l part="N">Când, străin de tine, sufletu-mi pustiu</l>
+            <l part="N">Va porni zadarnic, rătăcind pe drum,</l>
+            <l part="N">Să sărute urma paşilor de-acum.</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Romanţă</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O, vis al iubirii trecute!</l>
+            <l part="N">Sunt singur — omătul târziu</l>
+            <l part="N">Pătează aleile mute</l>
+            <l part="N">Şi parcul e încă pustiu.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Văd iarăşi castanii şi plopii.</l>
+            <l part="N">Prin ramuri suspine străbat.</l>
+            <l part="N">Acum cu sfială m-apropii</l>
+            <l part="N">De banca pe care ai stat.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi pieptul începe să-mi bată.</l>
+            <l part="N">De sus fluturând a căzut</l>
+            <l part="N">Pe bancă o foaie uscată,</l>
+            <l part="N">O frunză din anul trecut...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Păinjiniş</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">În plasa gândurilor mele de lumină</l>
+            <l part="N">ţi-am prins imaginea: o viespe</l>
+            <l part="N">Subţire-n mijloc, ageră şi fină.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O adiere poate s-o desprindă</l>
+            <l part="N">Din luminosul ei hamac.</l>
+            <l part="N">Să cadă ca o floare pe faţa unui lac,</l>
+            <l part="N">Să-i tulbure metalica oglindă...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">E seară... Plopii înşiraţi în zare</l>
+            <l part="N">Se sting departe —</l>
+            <l part="N">Văpăi de umbră, facle funerare</l>
+            <l part="N">La căpătâiul zilei moarte...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">De ce să-mi stai zadarnic împotrivă?</l>
+            <l part="N">Rămâi a mea...</l>
+            <l part="N">O, nu te zbate, dulcea mea captivă, —</l>
+            <l part="N">Reţeaua fină s-ar cutremura</l>
+            <l part="N">Şi fiecare fir întins prea tare</l>
+            <l part="N">Mă doare...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Că le-am urzit — păianjen solitar —</l>
+            <l part="N">Nu din argintul razelor de lună,</l>
+            <l part="N">Ci din fiorul unui vis bizar</l>
+            <l part="N">Pe care Noaptea mi-l aduce-n dar</l>
+            <l part="N">Ca să-l trăim o clipă împreună...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Epilog</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Lângă ţărmul tristei mări</l>
+            <l part="N">M-am oprit pe-o stâncă.</l>
+            <l part="N">Apa tremură spre zări,</l>
+            <l part="N">Verde şi adâncă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sufletu-mi, împovărat</l>
+            <l part="N">De-o iubire moartă,</l>
+            <l part="N">Se ridică ne-mpăcat</l>
+            <l part="N">Şi cu el o poartă,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cum îşi duce greu în zbor</l>
+            <l part="N">Vulturul de mare,</l>
+            <l part="N">Peste valuri călător,</l>
+            <l part="N">Prada moartă-n gheare...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Distih eroic</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Plop tânăr, încrustat în miezul verii,</l>
+            <l part="N">Cu ramuri vii şi frunză sclipitoare,</l>
+            <l part="N">Când râul vântului te scaldă,</l>
+            <l part="N">Învaţă-mă să râd ca tine-n soare,</l>
+            <l part="N">Să-i sorb lumina caldă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">*</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Plop negru, încrustat în ger</l>
+            <l part="N">Şi-ncremenit sub lună</l>
+            <l part="N">Cu rămuriş de zgură şi de fier...</l>
+            <l part="N">Învaţă-mă să uit lumina verii</l>
+            <l part="N">Şi-n câmp silhui</l>
+            <l part="N">Să dau tristeţea mea tăcerii</l>
+            <l part="N">Şi gândurile mele nimănui...</l>
+          </lg>
+        </div>
+        <div org="uniform" sample="complete" part="N">
+          <head>Infernul</head>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Stanţe apocrife la Divina Comedie</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">I</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <epigraph>
+              <l part="N">"Allor si mosse, ed io gli tenni dietro."</l>
+              <p>Dante</p>
+            </epigraph>
+            <l part="N">... Trudit apoi, m-am aşezat pe-o stâncă.</l>
+            <l part="N">La capătul călătoriei mele</l>
+            <l part="N">Se deschidea prăpastie adâncă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi străbătând a norilor perdele</l>
+            <l part="N">Cu-nveninate ace de lumină,</l>
+            <l part="N">Sclipeau în întuneric şapte stele.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Eu le simţeam arsura pe retină</l>
+            <l part="N">Şi-n van mă apăram, cu faţa-ntoarsă,</l>
+            <l part="N">De raza lor caustică şi fină.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Simţii atunci că-n juru-mi se revarsă</l>
+            <l part="N">Un pal amurg ce umple de-ntristare</l>
+            <l part="N">Văzduhul mirosind a piatră arsă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-n aburi de pucioasă, pe cărare,</l>
+            <l part="N">Văzui venind spre mine fără grabă</l>
+            <l part="N">Un om cu nasul dezolat şi mare.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Părea că Cerul pe figura-i slabă</l>
+            <l part="N">A pus stigmatul dragostei şi-al urii,</l>
+            <l part="N">Eternizând profilul lui de babă:</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Tristeţe-amară-n colţurile gurii,</l>
+            <l part="N">O frunte devastată de furtună</l>
+            <l part="N">Şi de-ale vremii nobile injurii.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Purta pe cap o veştedă cunună</l>
+            <l part="N">Şi-n ochii lui părea că, deopotrivă,</l>
+            <l part="N">Melancolia lumii-ntregi s-adună.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Aşa, din vasta vremii perspectivă,</l>
+            <l part="N">El cobora-n tăcere către mine,</l>
+            <l part="N">ţinând în gol privirea-i corosivă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— De unde vii şi cine eşti, străine?</l>
+            <l part="N">L-am întrebat, abia şoptind cuvântul.</l>
+            <l part="N">— Eu viu de unde nimeni nu mai vine...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">De şase veacuri m-a-nghiţit pământul.</l>
+            <l part="N">Viaţa-mi dete vitrega Firenze,</l>
+            <l part="N">Şi la Ravena mi-am găsit mormântul.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Poet am fost şi-n libere cadenţe</l>
+            <l part="N">Cântai Amorul ce-mi robi toţi anii,</l>
+            <l part="N">Din pragul tristei mele-adolescenţe.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar vrând să-mpac a' patriei zâzanii,</l>
+            <l part="N">Mărunte intrigi, lupte intestine,</l>
+            <l part="N">Cu ură grea m-au prigonit duşmanii.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">În crud exil, pribeag prin ţări străine,</l>
+            <l part="N">Visai atunci o vastă trilogie</l>
+            <l part="N">Pe care-am prins-o-n şiruri de terţine</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Săpate în granit pe veşnicie;</l>
+            <l part="N">Şi ca o răzbunare milenară</l>
+            <l part="N">Am publicat Divina Comedie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un op, pe care anii-l îngropară</l>
+            <l part="N">Sub comentarii sterpe şi pedante,</l>
+            <l part="N">Ce-mi fac contemporanii de ocară...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Cum, tu, eşti tu nefericitul Dante,</l>
+            <l part="N">Cel care-a Morţii jalnice mistere</l>
+            <l part="N">Le-a evocat în rapsodii vibrante?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Nu pot, Maestre, nici n-am precădere</l>
+            <l part="N">Să te slăvesc aşa cum se cuvine!...</l>
+            <l part="N">Dar mult aş vrea, spre umedele sfere,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">În patria eternelor suspine</l>
+            <l part="N">Să mă conduci, precum odinioară</l>
+            <l part="N">Virgiliu te-a călăuzit pe tine.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El, mie: — Oare, crezi că tot ce zboară,</l>
+            <l part="N">Cum zice un adagiu, — se mănâncă?</l>
+            <l part="N">Fiindc-ai scris o cronică uşoară,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Nici superficială, nici adâncă,</l>
+            <l part="N">Vrei să-ţi servesc acum de cicerone?...</l>
+            <l part="N">— Nici tu, Maestre, nu scriseseşi încă</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">La început, decât vreo cinci Canzone,</l>
+            <l part="N">O carte plină de elucubraţii</l>
+            <l part="N">Şi câteva sonete monotone.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar lui Virgiliu i-ai intrat în graţii</l>
+            <l part="N">(Adăugai, văzându-l că rezistă), —</l>
+            <l part="N">El se purta mai bine cu confraţii...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Epoca voastră materialistă</l>
+            <l part="N">Mi-a zdruncinat credinţa de-altădată, —</l>
+            <l part="N">O-ntoarse el. Infernul nu există,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Sau cel puţin eu unul niciodată</l>
+            <l part="N">Nu l-am văzut decât cu ochii minţii,</l>
+            <l part="N">Orbit de-o superstiţie uzată.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Eu, lui: — Acestea-s roadele Ştiinţei!</l>
+            <l part="N">Concepţia lui Strauss şi-a lui Nietzsche,</l>
+            <l part="N">De care mi s-au strepezit toţi dinţii!</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar cel puţin te-ai întrebat ce-ar zice</l>
+            <l part="N">În clipa asta, dacă fără veste</l>
+            <l part="N">Te-ar auzi divina Beatrice?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El mi-a răspuns placid: — Amorul este</l>
+            <l part="N">Un ce banal, prin care Firea drege</l>
+            <l part="N">A Nimicirii opere funeste;</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un van instinct, de sub a cărui lege</l>
+            <l part="N">Nici microorganismele nu scapă.</l>
+            <l part="N">Eu, lui: — Atât? El, mie: — Se-nţelege!...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Văzui atunci în linişte cum crapă</l>
+            <l part="N">A stâncilor întunecate blocuri</l>
+            <l part="N">Şi trec plutind pe-a nopţii neagră apă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Fantome prinse-n diafane jocuri</l>
+            <l part="N">Călcau mărunt văzduhul, fără tropot,</l>
+            <l part="N">Ca cei ce poartă cauciuc la tocuri.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Apoi un sunet depărtat de clopot</l>
+            <l part="N">Păru că bate-n aer<emph>tarantella</emph></l>
+            <l part="N">Şi ploaia se porni cu grabnic ropot.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Înfricoşat de freamătul acela</l>
+            <l part="N">Ce se-nălţa vuind în vijelie,</l>
+            <l part="N">Am zis: — Maestre, să deschid umbrela?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">N-aş vrea să facem hidroterapie.</l>
+            <l part="N">La anii tăi, o gripă subversivă</l>
+            <l part="N">Îţi poate-aduce vreo pneumonie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Eu nu mă tem de moarte, dimpotrivă,</l>
+            <l part="N">Răspunse el, — când ai murit o dată</l>
+            <l part="N">E foarte greu să cazi în recidivă...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Această vorbă îmi păru ciudată.</l>
+            <l part="N">Cuprins de-un fel de vagă presimţire,</l>
+            <l part="N">Pândii pe-ascuns figura-i nemişcată.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Nu m-ai luat cumva c-un plan subţire</l>
+            <l part="N">Mai adineaori când ziceai, Magistre,</l>
+            <l part="N">Că Iadul nu-i decât o-nchipuire?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El, mie: — Văd din vorbele-ţi sinistre</l>
+            <l part="N">Că-n orice caz, Infernul pentru tine</l>
+            <l part="N">Îşi va deschide negrele registre.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Destul am încercat a-ţi face bine.</l>
+            <l part="N">Ca să te vindeci pentru totdeauna,</l>
+            <l part="N">Ridică-te şi vino după mine...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cu fulgere verzui creştea furtuna.</l>
+            <l part="N">Rostind aceste nobile cuvinte</l>
+            <l part="N">Prin care şi-a răscumpărat minciuna,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Maestrul a pornit-o înainte,</l>
+            <l part="N">Pe când, sub cer de zgură şi aramă,</l>
+            <l part="N">Eu mă ţineam în urma lui cuminte</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Precum se ţine puiul după mamă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">II</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <epigraph>
+              <l part="N">,,...E caddi comme corpo morto cade."</l>
+              <p>Dante</p>
+            </epigraph>
+            <l part="N">"Pe-aici se intră-n braţele durerii,</l>
+            <l part="N">Pe-aici se intră-n bezna subterană,</l>
+            <l part="N">Precum afirmă Dante Alighieri.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">M-a conceput o-nchipuire vană,</l>
+            <l part="N">Un rafinat instinct de răzbunare,</l>
+            <l part="N">Dar m-a-ntrecut mizeria umană.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Zadarnică e orice protestare.</l>
+            <l part="N">Voi, cei ce-n lume aţi comis păcate,</l>
+            <l part="N">Lăsaţi-vă năravul la intrare."</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Aceste vorbe, oarecum ciudate,</l>
+            <l part="N">Citindu-le cu jumătate gură</l>
+            <l part="N">Deasupra unei porţi dărăpănate,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Am zis: — Intrarea pare cam obscură...</l>
+            <l part="N">N-ar fi prudent să renunţăm, Maestre?</l>
+            <l part="N">Căci la un caz cumva de-ncurcătură,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Nu văd nici uşi deschise, nici ferestre</l>
+            <l part="N">Pe unde teafăr să purced afară,</l>
+            <l part="N">Utilizând resursele-mi pedestre...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El mi-a răspuns cu voce funerară:</l>
+            <l part="N">— De ce te porţi acum ca fariseii,</l>
+            <l part="N">Au vrei să-mi faci fantoma de ocară?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Priveşte cel puţin prin borta cheii,</l>
+            <l part="N">Să ştiu că nu m-am ostenit degeaba.</l>
+            <l part="N">Eu, lui: — Pardon! Aşa fac doar lacheii.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Începe tu! Ori m-ai luat cu graba,</l>
+            <l part="N">Să-mi scoţi la urmă niscaiva ponoase?</l>
+            <l part="N">(Şi-n gândul meu: "Se oţărăşte baba!")</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Ce interes avut-ai, ce foloase,</l>
+            <l part="N">Ca să m-atragi cu vorbele-ţi viclene</l>
+            <l part="N">Prin locurile-acestea dubioase?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Doar ştim noi că pe-aici, prin buruiene,</l>
+            <l part="N">Se află o panteră-n libertate</l>
+            <l part="N">Şi alte lighioane indigene.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Vrei să m-aplec din curiozitate,</l>
+            <l part="N">Şi-n vreme ce nici nu gândesc cu gândul,</l>
+            <l part="N">Vrun cerber să m-apuce pe la spate?...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Aşa vorbii, cu ochii spionându-l;</l>
+            <l part="N">Iar la sfârşit cedarăm fiecare,</l>
+            <l part="N">Când el, când eu, să stăm privind cu rândul.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Văzui atunci, aproape de intrare,</l>
+            <l part="N">Un pudel gras şi plin de panglicuţe,</l>
+            <l part="N">Cu scabie canină pe spinare.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O lebădă şi câteva maimuţe</l>
+            <l part="N">Înconjurau dihania neroadă,</l>
+            <l part="N">Ce se lăsase moale pe lăbuţe.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Cu gingiile neputând să roadă</l>
+            <l part="N">Un beefsteak crud şi tare ca de piatră,</l>
+            <l part="N">El sta sugând din propria lui coadă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Acest căţel ce toată ziua latră,</l>
+            <l part="N">Rosti Maestrul cu-a lui voce tristă,</l>
+            <l part="N">A fost un biet erou, lăsat la vatră.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Cunosc! am zis cu nasul în batistă.</l>
+            <l part="N">Dă-mi voie să-i dedic, fiindcă-i place,</l>
+            <l part="N">Această rimă impresionistă...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Vezi colo, între două vingalace,</l>
+            <l part="N">Un om cu alfabetul la spinare,</l>
+            <l part="N">Venind pe sub colină într-acoace?</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Acela este tipograful care,</l>
+            <l part="N">În primul tău poem, din zăpăceală,</l>
+            <l part="N">ţi-a mutilat trei strofe lapidare.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Atunci la borta cheii, cu sfială,</l>
+            <l part="N">Urmând ilustrei mele Călăuze,</l>
+            <l part="N">Văzui o mutră plină de cerneală:</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Un om trecea... Şi cele nouă Muze</l>
+            <l part="N">Îl zgâriau, purtându-l sub escortă</l>
+            <l part="N">Şi obligându-l să le ceară scuze.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Degeaba cauţi, i-am strigat prin bortă,</l>
+            <l part="N">Să scapi de blamul negrei tale fapte!</l>
+            <l part="N">Sus, pe pământ, poetul te suportă,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Dar jos te-aşteaptă a lui Cain noapte,</l>
+            <l part="N">Precum a zis Francesca da Rimini,</l>
+            <l part="N"><emph>Infernul</emph>, cântul V, 107...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">El s-a oprit pe creştetul colinei,</l>
+            <l part="N">Înfricoşat de-această ameninţare,</l>
+            <l part="N">Şi, neclintită-n tremurul luminii,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Statura lui s-a proiectat pe zare,</l>
+            <l part="N">Încovoiată, lungă, amărâtă,</l>
+            <l part="N">Ca un fantastic semn de întrebare...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Văzui apoi o namilă urâtă,</l>
+            <l part="N">Un fel de baci cu sarica sub glugă,</l>
+            <l part="N">Ce sta deoparte sprijinit în bâtă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">De propria lui umbră vrea să fugă,</l>
+            <l part="N">Dar se trezea că-n juru-i gravitează,</l>
+            <l part="N">Mânat de-o oarbă forţă centrifugă.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O clipă se oprea şi, cu emfază,</l>
+            <l part="N">ţintea-n pământ căutătura-i proastă,</l>
+            <l part="N">Apoi din nou pornea ca o sfârlează.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Acest Zoil, cu proza lui nefastă,</l>
+            <l part="N">A pângărit de două ori pe lună</l>
+            <l part="N">A Venerei stea limpede şi castă...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Atât Maestrul apucă să-mi spună.</l>
+            <l part="N">În umbră se ivise-o albă pată,</l>
+            <l part="N">Un corp suav ca un reflex de lună...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">O blondă apariţie-ntristată</l>
+            <l part="N">Plutea spre noi din umeda genune...</l>
+            <l part="N">Şi-n întuneric, albu-i trup de fată,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Îngenuncheat ca pentru rugăciune</l>
+            <l part="N">Şi luminos şi fin ca diamantul,</l>
+            <l part="N">Părea-ncrustat în rocă de cărbune.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Cu glas pierdut îşi caută amantul...</l>
+            <l part="N">Ea are-n ochi misterul nopţii clare,</l>
+            <l part="N">Pe buze-Amor şi-n inimă Neantul...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Iubirea ei crescuse ca o floare</l>
+            <l part="N">Sub ziduri de făţarnică Gomoră,</l>
+            <l part="N">O dulce-mpătimire arzătoare:</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">În ceasuri caste, mângâieri de soră.</l>
+            <l part="N">Sărutul ei — văpaie purpurie,</l>
+            <l part="N">Privirea — luminiş de auroră...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi-o clipă fu de-ajuns: pe veşnicie</l>
+            <l part="N">Se risipiră toate, fără urmă,</l>
+            <l part="N">Într-un fior de neagră isterie.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">— Destul! Destul!... Simţeam cum mi se curmă</l>
+            <l part="N">Viaţa-n piept, — cum vipere rebele</l>
+            <l part="N">Se zvârcolesc în inima-mi şi scurmă...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Şi fără glas, cu capul gol sub stele, —</l>
+            <l part="N">Văzând cum iarăşi piere-n fund, departe,</l>
+            <l part="N">Fantoma tristă a iubirii mele,</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">M-am prăbuşit cu braţele-ntr-o parte,</l>
+            <l part="N">Împins în gol de-o tainică povară,</l>
+            <l part="N">Cum cade omul fulgerat de moarte.</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Părea că peste sufletu-mi coboară</l>
+            <l part="N">O noapte liniştită şi adâncă</l>
+            <l part="N">Şi-n giulgii moi de umbre mă-nfăşoară...</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Apoi, cu ochii plini de visuri încă,</l>
+            <l part="N">M-am scuturat ca dup-o catastrofă</l>
+            <l part="N">Şi m-am trezit din nou pe-aceeaşi stâncă —</l>
+          </lg>
+          <lg org="uniform" sample="complete" part="N">
+            <l part="N">Pe care mă găseam în prima strofă.</l>
+          </lg>
+        </div>
+      </div>
+      <div org="uniform" sample="complete" part="N"><head>Poezii neincluse în ultimele ediţii</head><div org="uniform" sample="complete" part="N"><head>Din vol. Balade vesele şi triste,</head><head>ed. a II-a şi a III-a</head><div org="uniform" sample="complete" part="N"><head>În tren</head><lg org="uniform" sample="complete" part="N"><l part="N">E larmă şi trenul stă gata să plece.</l><l part="N">Vagonul se umple de oameni străini.</l><l part="N">Mi-e inima strânsă... E şapte şi zece.</l><l part="N">Mă-ntorc la fereastră şi stau ca pe spini.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Dă-i, neamţule, drumul, că n-avem răbdare!</l><l part="N">E gata... Un şuier, un repede zvon, —</l><l part="N">Şi simt că se mişcă cu noi... Salutare!</l><l part="N">Trec umbre grăbite pe lângă vagon.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">E clipa când glasul durerilor tace.</l><l part="N">Duc mâna la frunte şi ochii mi-i strâng, —</l><l part="N">În suflet deodată un gol mi se face...</l><l part="N">Dă-i, neamţule, drumul, că-mi vine să plâng!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Acum, pe de laturi, încep să rămână</l><l part="N">Semnale, macazuri, vagoane şi fum;</l><l part="N">Trec umbre de oameni cu steaguri în mână, —</l><l part="N">Şi trenul, năvalnic, s-aşterne la drum.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Adio! Adio, romanitcă urbe!</l><l part="N">Adio, zadarnic şi dulce trecut!</l><l part="N">Din goană, când trenul se-ndoaie la curbe,</l><l part="N">Scot capul afară şi lung te salut...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Oraşul rămâne sclipind în lumină,</l><l part="N">Biserici şi case deodată apun,</l><l part="N">În faţă le cade o verde cortină, —</l><l part="N">Şi trenul aleargă, aleargă nebun.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Se schimbă decorul priveliştii sure:</l><l part="N">Un şes, peste care trec umbre de nori...</l><l part="N">Un drum singuratic... un colţ de pădure</l><l part="N">Cu vârfuri uscate şi cuiburi de ciori...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">În arie largă se-nvârte pământul</l><l part="N">Şi curge-n rotire întregul teren.</l><l part="N">Pe netede câmpuri ne ducem ca vântul.</l><l part="N">Cantoanele albe se uită la tren...</l></lg></div><div org="uniform" sample="complete" part="N"><head>Prefaţă</head><lg org="uniform" sample="complete" part="N"><l part="N">Am plâns şi eu în versuri pesimiste</l><l part="N">Amorul meu dintâi, ca orice om,</l><l part="N">Şi poate că aş fi sporit c-un tom</l><l part="N">Biblioteca sufletelor triste.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Dar azi vă dau o veselă agapă</l><l part="N">De inedite şi răzleţe pagini.</l><l part="N">Durerea mea, topită în imagini,</l><l part="N">Dispare ca un fulg de nea în apă.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Se schimbă-n glume lacrimile clare.</l><l part="N">Simbolice baloane-de-săpun</l><l part="N">Plutesc deasupra vântului nebun</l><l part="N">Stârnit de reci curente literare.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi-n existenţa lor cea efemeră,</l><l part="N">Cu străvezii pereţi, de-abia închid</l><l part="N">O parte mică din eternul vid,</l><l part="N">Şi totuşi cer un loc în atmosferă.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">O, indulgentă Critică postumă,</l><l part="N">Să nu le-nţepi cu vârful unui ac,</l><l part="N">Că rând pe rând baloanele de spumă</l><l part="N">În lacrimi grele iarăşi se prefac.</l></lg></div><div org="uniform" sample="complete" part="N"><head>Broasca ţestoasă</head><lg org="uniform" sample="complete" part="N"><l part="N">Nu-i vezi nici cap, nici coadă, nici picioare.</l><l part="N">Un bolovan... Dar dac-o laşi în pace,</l><l part="N">Ea scoate botul de sub carapace</l><l part="N">Şi-ncet-încet se pune în mişcare...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">În câte milioane de tipare,</l><l part="N">Cu haine transparente sau opace,</l><l part="N">A trebuit Viaţa să se-mbrace</l><l part="N">În drumu-i de prefaceri milenare!</l><l part="N"/><l part="N">Căci dibuind o formă mai perfectă,</l><l part="N">De la amibă până la insectă</l><l part="N">S-a rătăcit în mii de ipoteze.</l><l part="N"/><l part="N">Şi ce drum lung şi evoluţii grele,</l><l part="N">Pân-a ajuns Natura să creeze</l><l part="N">Gingaşa formă a iubitei mele!</l></lg></div><div org="uniform" sample="complete" part="N"><head>Despărţire</head><lg org="uniform" sample="complete" part="N"><l part="N">Trec pâlcuri de răchită şi stâlpii fug întruna,</l><l part="N">Pe cer în clarul zilei ne urmăreşte luna, —</l><l part="N">Şi trenul deopotrivă la-ntrecere cu ea</l><l part="N">Aleargă peste câmpuri... Adio, draga mea!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Adio Gândul doarme şu sufletu-mi veghează...</l><l part="N">Uimit mă uit cum joacă pe mâna mea o rază...</l><l part="N">Vecinul mă priveşte cu ochii plini de somn,</l><l part="N">O muscă întârzie pe fruntea unui domn...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Iubito, simt în urmă-mi cum zările se mută, —</l><l part="N">Cum se destramă-n aer chemarea mea pierdută, —</l><l part="N">Şi lacrimile tale pe suflet mi s-abat</l><l part="N">Ca stropii mari de ploaie pe-un lan de grâu uscat...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">În marea de lumină surâde-ntreg pământul.</l><l part="N">Un om aleargă-n urmă de parcă-l duce vântul.</l><l part="N">Din galbena rotire de lanuri, se desfac</l><l part="N">Cicoarele albastre şi florile de mac...</l><l part="N">O, de-aş putea viaţa să mi-o prefac în floare,</l><l part="N">Acum ţi-aş arunca-o din goană, la picioare!...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi dacă pentru tine aş vrea să uit că sufăr,</l><l part="N">S-arunc în vânt afară scrisorile din cufăr, —</l><l part="N">Mă sfâşie ca spinii părerile de rău</l><l part="N">Şi-n inimă-mi răsună, adânc, suspinul tău...</l><l part="N">Iar dacă-ncerc trecutul, cu şiru-i de morminte,</l><l part="N">Să mi-l rechem zadarnic, — aducerile-aminte</l><l part="N">Mi se topesc în suflet ca stelele-n fântână,</l><l part="N">Ca fulgii de zăpadă pe care-i prinzi în mână...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Mă-ntorc şi mă cutremur...</l><l part="N">Nemesis, taină crudă,</l><l part="N">Ia-ţi înapoi năframa de calde lacrimi udă.</l><l part="N">Tu, care, ne-mblânzită din umbră,. fără glas,</l><l part="N">M-ai urmărit pe drumul durerii pas cu pas, —</l><l part="N">Tu care-ntuneci steaua ce-n ochii mei scânteie</l><l part="N">Şi-mi spulberi ale nopţii albastre curcubee, —</l><l part="N">Întoarce-ţi fruntea rece şi lasă-mă de-acum,</l><l part="N">Străin pe mine însumi, să merg pe-acelaşi drum</l><l part="N">Pe care-a mers de veacuri nefericita turmă...</l><l part="N">Şi voi primi c-un zâmbet popasul cel din urmă.</l></lg></div><div org="uniform" sample="complete" part="N"><head>Amintire</head><lg org="uniform" sample="complete" part="N"><l part="N">Am stat o clipă-n loc s-ascult:</l><l part="N">Ce freamăt lung s-aude?...</l><l part="N">Doar vântul apa scutura</l><l part="N">Din ramurile ude.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi paşii mei foşneau uşor</l><l part="N">Pe frunzele cărării,</l><l part="N">Mergeam în noapte tremurând</l><l part="N">De chinul aşteptării.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">La stânga codru-ntunecat,</l><l part="N">Grădina-n mâna dreaptă</l><l part="N">Şi-n fund o casă între plopi...</l><l part="N">Iubita-n prag m-aşteaptă.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Aşa, ţin minte ca acum,</l><l part="N">Când ne chemam în şoapte</l><l part="N">Prelung, departe a ţipat</l><l part="N">O pasăre în noapte.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Mi se părea când ascultam</l><l part="N">Copacii mari din faţă</l><l part="N">Că duşmani răi şi nevăzuţi</l><l part="N">Vor să mi-o ia din braţă,</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi-atunci bolnav o sărutam</l><l part="N">Pe ochii mari, pe tâmple,</l><l part="N">Şi-n taină parcă aşteptam</l><l part="N">Un rău să mi se-ntâmple...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">În zori de zi ne-am despărţit.</l><l part="N">Cântau în sat cocoşii</l><l part="N">Iar norii de la răsărit</l><l part="N">Pluteau în flăcări roşii.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Ş-acum sunt singur... şi-i târziu...</l><l part="N">Iubita mi-e departe.</l><l part="N">Mă arde-n suflet dorul viu,</l><l part="N">Şi zilele mi-s moarte.</l></lg></div></div><div org="uniform" sample="complete" part="N"><head>Din vol. PARODII ORIGINALE, ed. I şi a II-a</head><div org="uniform" sample="complete" part="N"><head>Odă sobei mele</head><l part="N"><emph>Cum ar face-o un student sărac</emph></l><lg org="uniform" sample="complete" part="N"><l part="N">Păstrând intactă adormita spuză,</l><l part="N">În colţul tău, stai rece şi ursuză.</l><l part="N">O, inutilă mobilă, pesemne</l><l part="N">Te-ai supărat că nu-ţi mai cumpăr lemne?</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Tu nu-ţi dai seama că, deşi regret,</l><l part="N">Nu te-am putut prevede în buget, —</l><l part="N">Dar hai să facem amândoi bilanţul,</l><l part="N">Să vezi şi tu cât valorează sfanţul:</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Sunt 40 la birt</l><l rend="indent(6)" part="N">30 chiria</l><l part="N">Sunt 7 şi 80 spălătoria</l><l rend="indent(6)" part="N">5 franci e vinul (fără amănunte)</l><l rend="indent(6)" part="N">3 gazul,</l><l rend="indent(6)" part="N">4 cheltuieli mărunte</l><l part="N">Sunt 10 franci şi 20, tutunu</l><l rend="indent(6)" part="N">1 franc, pomană</l><l part="N">Fac 101</l><l part="N">Plus 6 franci pe lună şvarţ cu lapte</l><l rend="indent(6)" part="N">107 (una sută şapte)</l><l part="N">Scăzând acum din leafa de... student,</l><l part="N">Rămâne o băncuţă — excedent...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi, vezi, de tine nu mă mir de loc</l><l part="N">C-ai stat o iarnă-ntreagă fără foc,</l><l part="N">Dar m-aş mira de mine să trăiesc</l><l part="N">O săptămână, fără să iubesc.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Deci, pân' să cumpăr lemne cu căruţa,</l><l part="N">Eu totdeauna cheltuiesc băncuţa —</l><l part="N">Şi-abia atunci constat c-ar fi posibil</l><l part="N">Să faci căldură, — fără combustibil!</l></lg></div><div org="uniform" sample="complete" part="N"><head>Armonii vesperale</head><lg org="uniform" sample="complete" part="N"><l part="N">În vespreala simfonie tronează liniştea regală<note place="unspecified" anchored="yes">Contradicţie numai aparentă. În fond liniştea cântă, precum muzica tace (n. a.).</note></l><l part="N">Şi parcul rozelor senzaţii cu-ndoliate crizanteme</l><l part="N">Sonor deşteaptă cascadarea de note vagi în catedrală</l><l part="N">Orizontând<note place="unspecified" anchored="yes">Verb nou, formaţie proprie. Se simţea nevoie (n. a.).</note>în ritmul mistic albumul stinselor poeme...</l><l part="N"/><l part="N">Şi-n aiurarea muribundă convoi de ore funerare</l><l part="N">Pătau linţoliul de mistere cloroformate în sudrină,</l><l part="N">Pe când banalele foburguri filtrau tăcuta orchestrare</l><l part="N">A cimitirului spasmodic iluminat de luna plină.</l><l part="N"/><l part="N">O, socluri diafanisate de nostalgii şi de torente,</l><l part="N">Cântări funebre de silabe crispate în amurgul trist!</l><l part="N">Ce rugi bizare palpitară în la bemol, când transparente</l><l part="N">Se desenau în atmosferă pe cerul dur de ametist?</l><l part="N"/><l part="N">Alcovuri magice, safire punctează pacea violetă.</l><l part="N">Cu gesturi pale şi acute spre negre sfere siderale,</l><l part="N">În calmul pur al simfoniei apare-o neagră siluetă.</l><l part="N">Şi liniştea regală cade cu emanaţii vesperale...<note place="unspecified" anchored="yes">A se observa impresia de infinit palpabil a acestui vers magistral (n. a.).</note></l></lg></div><div org="uniform" sample="complete" part="N"><head>Enigma cărţilor închise</head><l part="N">— Poliritmie —</l><lg org="uniform" sample="complete" part="N"><l part="N">Imaculate pagini scrise de mâini pe care umila vreme</l><l part="N">A pus eternele-i embleme!</l><l part="N">O, gânduri stinse-n cărţi închise</l><l part="N">O, reci abise deschise peste paradise</l><l part="N">O, vise scrise!</l><l part="N">Sunt cărţi îndoliate din care misticii fiori</l><l part="N">Uşori</l><l part="N">Înghirlandează mutele dezastre</l><l part="N">Cu orizonturi pale şi albastre,</l><l part="N">Neantul brelocat în străluciri de astre</l><l part="N">Profund inoculează statuile nocturne cu gesturi oglindite</l><l part="N">În lacuri de mistere</l><l part="N">Şi de tăcere.<note place="unspecified" anchored="yes">Precum se poate observa, ritmul a variat deja puţin (n. a.).</note></l><l part="N">Sunt cărţi îndoliate</l><l part="N">Cu nostalgii bronzate,</l><l part="N">Sunt cărţi în care psalmodii cu vagi ecouri</l><l part="N">Prelung deşteaptă-n aer spasmul din regalele cavouri...</l><l part="N">Când ritmul melancolic al mutelor balade</l><l part="N">Renaşte, vibrează, contemplă şi cade</l><l part="N">Şi cade-n cascade</l><l part="N">De palide vise.</l><l part="N">O, strania enigmă a cărţilor închise!...</l></lg></div><div org="uniform" sample="complete" part="N"><head>Poetul M. Săulescu:</head><lg org="uniform" sample="complete" part="N"><l part="N">În seara asta luna trecea peste grădină...</l><l part="N">De ce trecea ea oare aşa peste grădină...</l><l part="N">Ştiu eu? Poate că duce cevaşilea cu ea...</l><l part="N">Sau poate că atuncea când am văzut-o eu</l><l rend="indent(6)" part="N">De-aicea, cum trecea,</l><l part="N">Ea sta pe loc... şi norii fugeau mereu-mereu,</l><l part="N">Într-una pe sub dânsa, goniţi de vânt aşa.</l><l part="N">Dar poate ca să fie şi altcumva...</l><l rend="indent(15)" part="N">Ştiu eu?</l></lg></div><div org="uniform" sample="complete" part="N"><head>Fără adresă</head><l part="N">— Unui domn care-mi cerea adresa în 1914 —</l><lg org="uniform" sample="complete" part="N"><l part="N">Îmi ceri adresa, domnul meu?</l><l rend="indent(3)" part="N">Sunt trist din cale-afară...</l><l part="N">Cum să ţi-o dau, când însumi eu</l><l rend="indent(3)" part="N">O caut de-astă vară!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Să nu mă-ntrebi cum s-a făcut, —</l><l rend="indent(3)" part="N">Cine-ar putea să spuie?</l><l part="N">Adresa mea a dispărut.</l><l rend="indent(3)" part="N">M-am pomenit că nu e!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">A rătăcit de azi pe mâini</l><l rend="indent(3)" part="N">Pribeagă prin Moldova,</l><l part="N">Iar peste două săptămâni</l><l rend="indent(3)" part="N">Am prins-o-n Vârciorova.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi cum am dat ochi amândoi</l><l rend="indent(3)" part="N">Mi-a spus, acolo-n gară,</l><l part="N">Că dacă nu era război</l><l rend="indent(3)" part="N">Ar fi ieşit din ţară...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Înduioşat i-am amintit</l><l rend="indent(3)" part="N">Atunci, cu vorbă bună,</l><l part="N">Ce trai frumos şi liniştit</l><l rend="indent(3)" part="N">Am dus noi împreună.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">I-am explicat apoi c-aş vrea</l><l rend="indent(3)" part="N">Menaj indivizibil, —</l><l part="N">I-am spus că nu pot fără ea,</l><l rend="indent(3)" part="N">Că-mi este imposibil!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Dar ea s-a dus şi m-a lăsat</l><l rend="indent(3)" part="N">Din nou, în toamna sumbră,</l><l part="N">Să rătăcesc neconsolat</l><l rend="indent(3)" part="N">Ca "omul fără umbră".</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">De-atunci, urmând adresa mea</l><l rend="indent(3)" part="N">Necontenit fugară,</l><l part="N">Cu geamantanul după ea</l><l rend="indent(3)" part="N">Alerg din gară-n gară.</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Am întrebat pe la amici,</l><l rend="indent(3)" part="N">Cu jumătate-gură:</l><l part="N">— N-a fost adresa mea pe-aici?...</l><l rend="indent(3)" part="N">— E-n vilegiatură!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Chiar adineauri a plecat.</l><l rend="indent(3)" part="N">Venise de la munte...</l><l part="N">Purta un plic decolorat</l><l rend="indent(3)" part="N">Şi-o marcă strâmbă-n frunte...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Şi-am mai zărit-o, dacă vrei,</l><l rend="indent(3)" part="N">Acum vreo zece zile, —</l><l part="N">Urâtă, vai de capul ei,</l><l rend="indent(3)" part="N">Şi plină de ştampile!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Ce-o fi păţit adresa ta?</l><l rend="indent(3)" part="N">Pe unde-i sărăcuţa, —</l><l part="N">Să ştii c-a prins-o cineva</l><l rend="indent(3)" part="N">Ş-a dus-o la Mărcuţa...</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">O, doamne, cum m-am săturat</l><l rend="indent(3)" part="N">De-atâtea ipoteze!...</l><l part="N">Decât să stau aşa-ncurcat,</l><l rend="indent(3)" part="N">Voi pune s-o sculpteze</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">În caractere de granit</l><l rend="indent(3)" part="N">Pe-o piatră funerară,</l><l part="N">Să dorm încalte liniştit</l><l rend="indent(3)" part="N">Că n-o să mai dispară...</l></lg></div><div org="uniform" sample="complete" part="N"><head>Strofe de iarnă</head><lg org="uniform" sample="complete" part="N"><l part="N">Doamne, tu te ţii de glume?</l><l rend="indent(3)" part="N">Nu ne vezi mizeria?</l><l part="N">Pentru ce-ai lăsat pe lume</l><l rend="indent(3)" part="N">Geruri ca-n Siberia?</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Nu mai este mămăligă,</l><l rend="indent(3)" part="N">Vremile-s teribile.</l><l part="N">Astăzi toată lumea strigă:</l><l rend="indent(3)" part="N">N-avem combustibile!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Nu e chip de dimineaţă</l><l rend="indent(3)" part="N">Să mai baţi trotuarele</l><l part="N">Că-ntr-o clipă îţi îngheaţă</l><l rend="indent(3)" part="N">Nasul şi picioarele!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Astă-noapte mi se pare</l><l rend="indent(3)" part="N">Gazda mea, Emilia,</l><l part="N">S-a-ncălzit la lumânare</l><l rend="indent(3)" part="N">Cu toată familia!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Casele sunt dezolate:</l><l rend="indent(3)" part="N">Sobele şi vetrele</l><l part="N">Stau cu gurile căscate...</l><l rend="indent(3)" part="N">Ger, de crapă pietrele!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Plitele de fier îngheaţă</l><l rend="indent(3)" part="N">Fără foc, deoarece</l><l part="N">Nu găseşti cărbune-n piaţă</l><l rend="indent(3)" part="N">Să chiorăşti un şoarece!</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">*</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Doamna Şvartz alaltăsară</l><l rend="indent(3)" part="N">Cât p-aci să leşine:</l><l part="N">O pisică vrând să sară</l><l rend="indent(3)" part="N">Între două streşine,</l></lg><lg org="uniform" sample="complete" part="N"><l part="N">Cum furase o bucată</l><l rend="indent(3)" part="N">Nu ştiu din ce cratiţă,</l><l part="N">A încremenit deodată</l><l rend="indent(3)" part="N">Ca o caracatiţă!</l></lg></div></div>.</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Rimas</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>Gustavo Adolfo Bécquer</meta:initial-creator>
+    
+    <meta:creation-date>2022-09-10T10:20:33Z</meta:creation-date>
+    <dc:date>2022-11-25T10:30:45.888773261</dc:date>
+    
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT31M16S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="57" meta:paragraph-count="183" meta:word-count="7444" meta:character-count="39726" meta:non-whitespace-character-count="31836"/><meta:user-defined meta:name="contributor">calibre (3.4.0) [https://calibre-ebook.com]</meta:user-defined><meta:user-defined meta:name="date">2020-01-11T23:00:00+00:00</meta:user-defined><meta:user-defined meta:name="identifier"/><meta:user-defined meta:name="language">es</meta:user-defined><meta:user-defined meta:name="publisher" meta:value-type="string">http://www.elejandria.com</meta:user-defined><meta:user-defined meta:name="rights" meta:value-type="string">(c) 1868 by Gustavo Adolfo Bécquer</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">510247</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">26672</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13707</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7805</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">517527</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">510247</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">26670</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">523953</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1837034</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Author">
+   <style:text-properties officeooo:paragraph-rsid="00172819"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="0019da98"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties fo:font-style="italic" officeooo:paragraph-rsid="0019da98" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="lg">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="00172819"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.706cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">57</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">Rimas</text:p>
+   <text:p text:style-name="P3">Bécquer<text:span text:style-name="T2">, </text:span>Gustavo Adolfo </text:p>
+   <text:p text:style-name="Date">2020-01-11T23:00:00+00:00</text:p>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Rimas</text:h>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">I</text:h>
+   <text:p text:style-name="lg">Yo sé un himno gigante y extraño<text:line-break/>que anuncia en la noche del alma una aurora,<text:line-break/>y estas páginas son de este himno<text:line-break/>cadencias que el aire dilata en la sombras.<text:line-break/>Yo quisiera escribirlo, del hombre<text:line-break/>domando el rebelde, mezquino idioma,<text:line-break/>con palabras que fuesen a un tiempo<text:line-break/>suspiros y risas, colores y notas.<text:line-break/>Pero en vano es luchar; que no hay cifra<text:line-break/>capaz de encerrarle, y apenas ¡oh hermosa!<text:line-break/>si teniendo en mis manos las tuyas<text:line-break/>pudiera, al oído, cantártelo a solas.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XLVIII</text:h>
+   <text:p text:style-name="lg">Como se arranca el hierro de una herida<text:line-break/>su amor de las entrañas me arranqué,<text:line-break/>¡aunque sentí al hacerlo que la vida<text:line-break/>me arrancaba con él!<text:line-break/>Del altar que le alcé en el alma mía<text:line-break/>la voluntad su imagen arrojó,<text:line-break/>y la luz de la fe que en ella ardía<text:line-break/>ante el ara desierta se apagó.<text:line-break/>Aun para combatir mi firme empeño<text:line-break/>viene a mi mente su visión tenaz...<text:line-break/>¡Cuándo podré dormir con ese sueño<text:line-break/>en que acaba el soñar!!<text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XLVII</text:h>
+   <text:p text:style-name="lg">Yo me he asomado a las profundas simas<text:line-break/>de la tierra y del cielo,<text:line-break/>y les he visto el fin, o con los ojos,<text:line-break/>o con el pensamiento.<text:line-break/>Mas ¡ay! de un corazón llegué al abismo<text:line-break/>y me incliné un momento,<text:line-break/>y mi alma y mis ojos se turbaron:<text:line-break/>¡tan hondo era y tan negro!!<text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XLV</text:h>
+   <text:p text:style-name="lg">En la clave del arco mal seguro<text:line-break/>cuyas piedras el tiempo enrojeció,<text:line-break/>obra de cincel rudo, campeaba<text:line-break/>el gótico blasón.<text:line-break/>Penacho de su yelmo de granito,<text:line-break/>la yedra que colgaba en derredor<text:line-break/>daba sombra al escudo en que una mano<text:line-break/>tenía un corazón.<text:line-break/>A contemplarle en la desierta plaza<text:line-break/>nos paramos los dos:<text:line-break/>y, ése, me dijo, es el cabal emblema<text:line-break/>de mi constante amor.<text:line-break/>¡Ay! es verdad lo que me dijo entonces:<text:line-break/>verdad que el corazón<text:line-break/>lo llevará en la mano... en cualquier parte...<text:line-break/>pero en el pecho no.<text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXVIII</text:h>
+   <text:p text:style-name="lg">¡Los suspiros son aire y van al aire!<text:line-break/>¡Las lágrimas son agua y van al mar!<text:line-break/>Dime, mujer, cuando el amor se olvida<text:line-break/>¿sabes tú adónde va?<text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LXXII</text:h>
+   <text:p text:style-name="P5">Primera voz</text:p>
+   <text:p text:style-name="P6">Las ondas tienen vaga armonía,<text:line-break/>las violetas suave olor,<text:line-break/>brumas de plata la noche fría,<text:line-break/>luz y oro el día,<text:line-break/>yo algo mejor;<text:line-break/>¡yo tengo <text:span text:style-name="T1">Amor</text:span>!</text:p>
+   <text:p text:style-name="P7">Segunda voz</text:p>
+   <text:p text:style-name="P6">Aura de aplausos, nube radiosa,<text:line-break/>ola de envidia que besa el pie,<text:line-break/>isla de sueños donde reposa<text:line-break/>el alma ansiosa,<text:line-break/>¡dulce embriaguez<text:line-break/>la <text:span text:style-name="T1">Gloria</text:span> es!</text:p>
+   <text:p text:style-name="P7">Tercera voz</text:p>
+   <text:p text:style-name="P6">Ascua encendida es el tesoro,<text:line-break/>sombra que huye la vanidad.<text:line-break/>Todo es mentira: la gloria, el oro,<text:line-break/>lo que yo adoro<text:line-break/>sólo es verdad;</text:p>
+   <text:p text:style-name="P6">¡la <text:span text:style-name="T1">Libertad</text:span>!</text:p>
+   <text:p text:style-name="lg">Así los barqueros pasaban cantando<text:line-break/><text:soft-page-break/>la eterna canción<text:line-break/>y al golpe del remo saltaba la espuma<text:line-break/>y heríala el sol.<text:line-break/>—¿Te embarcas?, gritaban, y yo sonriendo<text:line-break/>les dije al pasar:<text:line-break/>Yo ya me he embarcado; por señas que aún tengo<text:line-break/>la ropa en la playa tendida a secar.<text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XVIII</text:h>
+   <text:p text:style-name="lg">Fatigada del baile,<text:line-break/>encendido el color, breve el aliento,<text:line-break/>apoyada en mi brazo<text:line-break/>del salón se detuvo en un extremo.<text:line-break/>Entre la leve gasa<text:line-break/>que levantaba el palpitante seno,<text:line-break/>una flor se mecía<text:line-break/>en compasado y dulce movimiento.<text:line-break/>Como cuna de nácar<text:line-break/>que empuja al mar y que acaricia el céfiro,<text:line-break/>tal vez allí dormía<text:line-break/>al soplo de sus labios entreabiertos.<text:line-break/>¡Oh! ¡quién así, pensaba,<text:line-break/>dejar pudiera deslizarse el tiempo!<text:line-break/>¡Oh! si las flores duermen,<text:line-break/>¡qué dulcísimo sueño!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XXVI</text:h>
+   <text:p text:style-name="lg">Voy contra mi interés al confesarlo,<text:line-break/>no obstante, amada mía,<text:line-break/>pienso cual tú que una oda sólo es buena<text:line-break/>de un billete del Banco al dorso escrita.<text:line-break/>No faltará algún necio que al oírlo<text:line-break/>se haga cruces y diga:<text:line-break/>¡Mujer al fin del siglo diez y nueve,<text:line-break/>material y prosaica!... ¡Boberías!<text:line-break/>¡Voces que hacen correr cuatro poetas<text:line-break/>que en invierno se embozan con la lira!<text:line-break/>¡Ladridos de los perros a la luna!<text:line-break/>Tú sabes y yo sé que en esta vida<text:line-break/>con genio es muy contado el que <text:span text:style-name="T1">la escribe<text:line-break/></text:span>y con oro cualquiera <text:span text:style-name="T1">hace</text:span> poesía.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LVIII</text:h>
+   <text:p text:style-name="lg">¿Quieres que de ese néctar delicioso<text:line-break/>no te amargue la hez?<text:line-break/>Pues aspírale, acércale a tus labios<text:line-break/>y déjale después.<text:line-break/>¿Quieres que conservemos una dulce<text:line-break/>memoria de este amor?<text:line-break/>Pues amémonos hoy mucho y mañana<text:line-break/>digámonos ¡adiós!</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LV</text:h>
+   <text:p text:style-name="lg">Entre el discorde estruendo de la orgía<text:line-break/>acarició mi oído,<text:line-break/>como nota de música lejana,<text:line-break/>el eco de un suspiro.<text:line-break/>El eco de un suspiro que conozco,<text:line-break/>formado de un aliento que he bebido,<text:line-break/>perfume de una flor que oculta crece<text:line-break/>en un claustro sombrío.<text:line-break/>Mi adorada de un día, cariñosa,<text:line-break/>—¿En qué piensas?, me dijo.<text:line-break/>—En nada... —En nada ¿y lloras? —Es que tengo<text:line-break/>alegre la tristeza y triste el vino.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XLIV</text:h>
+   <text:p text:style-name="lg">Como en un libro abierto<text:line-break/>leo de tus pupilas en el fondo.<text:line-break/>¿A qué fingir el labio<text:line-break/>risas que se desmienten con los ojos?<text:line-break/>¡Llora! No te avergüences<text:line-break/>de confesar que me quisiste un poco.<text:line-break/>¡Llora! Nadie nos mira.<text:line-break/>Ya ves; yo soy un hombre... y también lloro.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>L</text:h>
+   <text:p text:style-name="lg">Lo que el salvaje que con torpe mano<text:line-break/>hace de un tronco a su capricho un dios<text:line-break/>y luego ante su obra se arrodilla,<text:line-break/>eso hicimos tú y yo.<text:line-break/>Dimos formas reales a un fantasma,<text:line-break/>de la mente ridícula invención,<text:line-break/>y hecho el ídolo ya, sacrificamos<text:line-break/>en su altar nuestro amor.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">VII</text:h>
+   <text:p text:style-name="lg">Del salón en el ángulo oscuro,<text:line-break/>de su dueña tal vez olvidada,<text:line-break/>silenciosa y cubierta de polvo,<text:line-break/>veíase el arpa.<text:line-break/>¡Cuánta nota dormía en sus cuerdas,<text:line-break/>como el pájaro duerme en las ramas,<text:line-break/>esperando la mano de nieve<text:line-break/>que sabe arrancarlas!<text:line-break/>¡Ay!, pensé; ¡cuántas veces el genio<text:line-break/>así duerme en el fondo del alma,<text:line-break/>y una voz como Lázaro espera<text:line-break/>que le diga «Levántate y anda»!</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XLIX</text:h>
+   <text:p text:style-name="lg">Alguna vez la encuentro por el mundo<text:line-break/>y pasa junto a mí;<text:line-break/>y pasa sonriéndose y yo digo:<text:line-break/>¿Cómo puede reír?<text:line-break/>Luego asoma a mi labio otra sonrisa,<text:line-break/>máscara del dolor,<text:line-break/>y entonces pienso: —Acaso ella se ríe,<text:line-break/>como me río yo.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">II</text:h>
+   <text:p text:style-name="lg">Saeta que voladora<text:line-break/>cruza arrojada al azar,<text:line-break/>y que no sabe dónde<text:line-break/>temblando se clavará;<text:line-break/>hoja que del árbol seca<text:line-break/>arrebata el vendaval,<text:line-break/>sin que nadie acierte el surco<text:line-break/>donde al polvo volverá;<text:line-break/>gigante ola que el viento<text:line-break/>riza y empuja en el mar,<text:line-break/>y rueda y pasa, y se ignora<text:line-break/>qué playa buscando va;<text:line-break/>luz que en cercos temblorosos<text:line-break/>brilla próxima a expirar<text:line-break/>y que no se sabe de ellos<text:line-break/>cuál el último será;<text:line-break/><text:soft-page-break/>eso soy yo que al acaso<text:line-break/>cruzo el mundo sin pensar<text:line-break/>de dónde vengo ni adónde<text:line-break/>mis pasos me llevarán.<text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XLII</text:h>
+   <text:p text:style-name="lg">Cuando me lo contaron sentí el frío<text:line-break/>de una hoja de acero en las entrañas,<text:line-break/>me apoyé contra el muro, y un instante<text:line-break/>la conciencia perdí de donde estaba.<text:line-break/>Cayó sobre mi espíritu la noche,<text:line-break/>en ira y en piedad se anegó el alma,<text:line-break/>¡y entonces comprendí por qué se llora!<text:line-break/>¡y entonces comprendí por qué se mata!<text:line-break/>Pasó la nube de dolor... con pena<text:line-break/>logré balbucear breves palabras...<text:line-break/>¿Quién me dio la noticia?... Un fiel amigo...<text:line-break/>Me hacía un gran favor... Le di las gracias.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LIX</text:h>
+   <text:p text:style-name="lg">Yo sé cuál el objeto<text:line-break/>de tus suspiros es,<text:line-break/>yo conozco la causa de tu dulce<text:line-break/>secreta languidez.<text:line-break/><text:soft-page-break/>¿Te ríes...? Algún día<text:line-break/>sabrás, niña, por qué.<text:line-break/>Tú acaso lo sospechas,<text:line-break/>y yo lo sé.<text:line-break/>Yo sé cuándo tú sueñas,<text:line-break/>y lo que en sueños ves,<text:line-break/>como en un libro puedo lo que callas<text:line-break/>en tu frente leer.<text:line-break/>¿Te ríes...? Algún día<text:line-break/>sabrás, niña, por qué.<text:line-break/>Tú acaso lo sospechas,<text:line-break/>y yo lo sé.<text:line-break/>Yo sé por qué sonríes<text:line-break/>y lloras a la vez:<text:line-break/>yo penetro en los senos misteriosos<text:line-break/>de tu alma de mujer.<text:line-break/>¿Te ríes...? Algún día<text:line-break/>sabrás, niña, por qué.<text:line-break/>Mientras tú sientes mucho y nada sabes,<text:line-break/>yo, que no siento ya, todo lo sé.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXVII</text:h>
+   <text:p text:style-name="lg">¡Qué hermoso es ver el día<text:line-break/>coronado de fuego levantarse,<text:line-break/>y a su beso de lumbre<text:line-break/>brillar las olas y encenderse el aire!<text:line-break/>¡Qué hermoso es tras la lluvia<text:line-break/>del triste otoño en la azulada tarde,<text:line-break/>de las húmedas flores<text:line-break/>el perfume aspirar hasta saciarse!<text:line-break/><text:soft-page-break/>¡Qué hermoso es cuando en copos<text:line-break/>la blanca nieve silenciosa cae,<text:line-break/>de las inquietas llamas<text:line-break/>ver las rojizas lenguas agitarse!<text:line-break/>¡Qué hermoso es cuando hay sueño<text:line-break/>dormir bien... y roncar como un sochantre...<text:line-break/>y comer... y engordar...! ¡y qué fortuna<text:line-break/>que esto sólo no baste!</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXII</text:h>
+   <text:p text:style-name="lg">¿Cómo vive esa rosa que has prendido<text:line-break/>junto a tu corazón?<text:line-break/>Nunca hasta ahora contemplé en el mundo<text:line-break/>junto al volcán la flor.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LVI</text:h>
+   <text:p text:style-name="lg">Hoy como ayer, mañana como hoy,<text:line-break/>¡y siempre igual!<text:line-break/>Un cielo gris, un horizonte eterno<text:line-break/>y andar... andar.<text:line-break/>Moviéndose a compás como una estúpida<text:line-break/>máquina el corazón:<text:line-break/><text:soft-page-break/>la torpe inteligencia del cerebro<text:line-break/>dormida en un rincón.<text:line-break/>El alma, que ambiciona un paraíso,<text:line-break/>buscándole sin fe;<text:line-break/>fatiga sin objeto, ola que rueda<text:line-break/>ignorando por qué.<text:line-break/>Voz que incesante con el mismo tono<text:line-break/>canta el mismo cantar,<text:line-break/>gota de agua monótona que cae,<text:line-break/>y cae sin cesar.<text:line-break/>Así van deslizándose los días<text:line-break/>unos de otros en pos,<text:line-break/>hoy lo mismo que ayer... y todos ellos<text:line-break/>sin gozo ni dolor.<text:line-break/>¡Ay! ¡a veces me acuerdo suspirando<text:line-break/>del antiguo sufrir!<text:line-break/>¡Amargo es el dolor; pero siquiera<text:line-break/>padecer es vivir!</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXI</text:h>
+   <text:p text:style-name="lg">¿Qué es poesía?, dices mientras clavas<text:line-break/>en mi pupila tu pupila azul.<text:line-break/>¿Qué es poesía? ¿Y tú me lo preguntas?<text:line-break/>Poesía... eres tú.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XXIII</text:h>
+   <text:p text:style-name="lg">Por una mirada, un mundo;<text:line-break/>por una sonrisa, un cielo;<text:line-break/>por un beso... yo no sé<text:line-break/>qué te diera por un beso.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXXV</text:h>
+   <text:p text:style-name="lg">¿Será verdad que cuando toca el sueño<text:line-break/>con sus dedos de rosa nuestros ojos,<text:line-break/>de la cárcel que habita huye el espíritu<text:line-break/>en vuelo presuroso?<text:line-break/>¿Será verdad que, huésped de las nieblas,<text:line-break/>de la brisa nocturna al tenue soplo,<text:line-break/>alado sube a la región vacía<text:line-break/>a encontrarse con otros?<text:line-break/>¿Y allí desnudo de la humana forma,<text:line-break/>allí los lazos terrenales rotos,<text:line-break/>breves horas habita de la idea<text:line-break/>el mundo silencioso?<text:line-break/>¿Y ríe y llora y aborrece y ama<text:line-break/>y guarda un rastro del dolor y el gozo,<text:line-break/>semejante al que deja cuando cruza<text:line-break/>el cielo un meteoro?<text:line-break/>Yo no sé si ese mundo de visiones<text:line-break/>vive fuera o va dentro de nosotros.<text:line-break/>Pero sé que conozco a muchas gentes<text:line-break/>a quienes no conozco.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXXIV</text:h>
+   <text:p text:style-name="lg">Las ropas desceñidas,<text:line-break/>desnudas las espadas,<text:line-break/>en el dintel de oro de la puerta<text:line-break/>dos ángeles velaban.<text:line-break/>Me aproximé a los hierros<text:line-break/>que defienden la entrada,<text:line-break/>y de las dobles rejas en el fondo<text:line-break/>la vi confusa y blanca.<text:line-break/>La vi como la imagen<text:line-break/>que en leve ensueño pasa,<text:line-break/>como rayo de luz tenue y difuso<text:line-break/>que entre tinieblas nada.<text:line-break/>Me sentí de un ardiente<text:line-break/>deseo llena el alma;<text:line-break/>como atrae un abismo, aquel misterio<text:line-break/>hacia sí me arrastraba.<text:line-break/>Mas ¡ay! que de los ángeles<text:line-break/>parecían decirme las miradas:<text:line-break/>—El umbral de esta puerta<text:line-break/>sólo Dios lo traspasa.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>VIII</text:h>
+   <text:p text:style-name="lg">¡Cuando miro el azul horizonte<text:line-break/>perderse a lo lejos,<text:line-break/>al través de una gasa de polvo<text:line-break/>dorado e inquieto;<text:line-break/>me parece posible arrancarme<text:line-break/>del mísero suelo<text:line-break/>y flotar con la niebla dorada<text:line-break/>en átomos leves<text:line-break/>cual ella deshecho!<text:line-break/>Cuando miro de noche en el fondo<text:line-break/>oscuro del cielo<text:line-break/>las estrellas temblar como ardientes<text:line-break/>pupilas de fuego;<text:line-break/>me parece posible a do brillan<text:line-break/>subir en un vuelo,<text:line-break/>y anegarme en su luz, y con ellas<text:line-break/>en lumbre encendido<text:line-break/>fundirme en un beso.<text:line-break/>En el mar en la duda en que bogo<text:line-break/>ni aún sé lo que creo;<text:line-break/>sin embargo estas ansias me dicen<text:line-break/>que yo llevo algo<text:line-break/>divino aquí dentro.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XLI</text:h>
+   <text:p text:style-name="lg">Tú eras el huracán y yo la alta<text:line-break/><text:soft-page-break/>torre que desafía su poder:<text:line-break/>¡tenías que estrellarte o que abatirme!...<text:line-break/>¡No pudo ser!<text:line-break/>Tú eras el océano y yo la enhiesta<text:line-break/>roca que firme aguarda su vaivén:<text:line-break/>¡tenías que romperte o que arrancarme!...<text:line-break/>¡No pudo ser!<text:line-break/>Hermosa tú, yo altivo: acostumbrados<text:line-break/>uno a arrollar, el otro a no ceder;<text:line-break/>la senda estrecha, inevitable el choque...<text:line-break/>¡No pudo ser!</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">IX</text:h>
+   <text:p text:style-name="lg">Besa el aura que gime blandamente<text:line-break/>las leves ondas que jugando riza;<text:line-break/>el sol besa a la nube de occidente<text:line-break/>y de púrpura y oro la matiza;<text:line-break/>la llama en derredor del tronco ardiente<text:line-break/>por besar a otra llama se desliza<text:line-break/>y hasta el sauce, inclinándose a su peso,<text:line-break/>al río que le besa, vuelve un beso.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XXXVII</text:h>
+   <text:p text:style-name="lg">Antes que tú me moriré: escondido<text:line-break/>en las entrañas ya<text:line-break/>el hierro llevo con que abrió tu mano<text:line-break/>la ancha herida mortal.<text:line-break/>Antes que tú me moriré; y mi espíritu<text:line-break/>en su empeño tenaz<text:line-break/>se sentará a las puertas de la muerte,<text:line-break/>esperándote allá.<text:line-break/>Con las horas los días, con los días<text:line-break/>los años volarán,<text:line-break/>y a aquella puerta llamarás al cabo...<text:line-break/>¿Quién deja de llamar?<text:line-break/>Entonces que tu culpa y tus despojos<text:line-break/>la tierra guardará,<text:line-break/>lavándote en las ondas de la muerte<text:line-break/>como en otro Jordán;<text:line-break/>allí donde el murmullo de la vida<text:line-break/>temblando a morir va,<text:line-break/>como la ola que a la playa viene<text:line-break/>silenciosa a expirar;<text:line-break/>allí donde el sepulcro que se cierra<text:line-break/>abre una eternidad,<text:line-break/>todo cuanto los dos hemos callado<text:line-break/>allí lo hemos de hablar.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XIII</text:h>
+   <text:p text:style-name="lg">Tu pupila es azul, y cuando ríes,<text:line-break/>su claridad suave me recuerda<text:line-break/>el trémulo fulgor de la mañana,<text:line-break/><text:soft-page-break/>que en el mar se refleja.<text:line-break/>Tu pupila es azul, y cuando lloras,<text:line-break/>las trasparentes lágrimas en ella<text:line-break/>se me figuran gotas de rocío<text:line-break/>sobre una violeta.<text:line-break/>Tu pupila es azul, y si en su fondo<text:line-break/>como un punto de luz radia una idea,<text:line-break/>me parece en el cielo de la tarde<text:line-break/>una perdida estrella.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXI</text:h>
+   <text:p text:style-name="lg">Nuestra pasión fue un trágico sainete<text:line-break/>en cuya absurda fábula<text:line-break/>lo cómico y lo grave confundidos<text:line-break/>risas y llanto arrancan.<text:line-break/>Pero fue lo peor de aquella historia<text:line-break/>que al fin de la jornada<text:line-break/>a ella tocaron lágrimas y risas<text:line-break/>y a mí, sólo las lágrimas.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXV</text:h>
+   <text:p text:style-name="lg">Cuando en la noche te envuelven<text:line-break/>las alas de tul del sueño<text:line-break/>y tus tendidas pestañas<text:line-break/>semejan arcos de ébano,<text:line-break/>por escuchar los latidos<text:line-break/>de tu corazón inquieto<text:line-break/>y reclinar tu dormida<text:line-break/><text:soft-page-break/>cabeza sobre mi pecho,<text:line-break/>diera, alma mía,<text:line-break/>cuanto poseo,<text:line-break/>¡la luz, el aire<text:line-break/>y el pensamiento!<text:line-break/>Cuando se clavan tus ojos<text:line-break/>en un invisible objeto<text:line-break/>y tus labios ilumina<text:line-break/>de una sonrisa el reflejo,<text:line-break/>por leer sobre tu frente<text:line-break/>el callado pensamiento<text:line-break/>que pasa como la nube<text:line-break/>del mar sobre el ancho espejo,<text:line-break/>diera, alma mía,<text:line-break/>cuanto deseo,<text:line-break/>¡la fama, el oro,<text:line-break/>la gloria, el genio!<text:line-break/>Cuando enmudece tu lengua<text:line-break/>y se apresura tu aliento<text:line-break/>y tus mejillas se encienden<text:line-break/>y entornas tus ojos negros,<text:line-break/>por ver entre sus pestañas<text:line-break/>brillar con húmedo fuego<text:line-break/>la ardiente chispa que brota<text:line-break/>del volcán de los deseos,<text:line-break/>diera, alma mía,<text:line-break/>por cuanto espero,<text:line-break/>la fe, el espíritu,<text:line-break/>la tierra, el cielo.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LVII</text:h>
+   <text:p text:style-name="lg">Este armazón de huesos y pellejo<text:line-break/><text:soft-page-break/>de pasear una cabeza loca<text:line-break/>se halla cansado al fin, y no lo extraño,<text:line-break/>pues aunque es la verdad que no soy viejo,<text:line-break/>de la parte de vida que me toca<text:line-break/>en la vida del mundo, por mi daño<text:line-break/>he hecho un uso tal, que juraría<text:line-break/>que he condensado un siglo en cada día.<text:line-break/>Así, aunque ahora muriera,<text:line-break/>no podría decir que no he vivido;<text:line-break/>que el sayo, al parecer nuevo por fuera,<text:line-break/>conozco que por dentro ha envejecido.<text:line-break/>Ha envejecido, sí; ¡pese a mi estrella!<text:line-break/>Harto lo dice ya mi afán doliente;<text:line-break/>que hay dolor que al pasar su horrible huella<text:line-break/>graba en el corazón, si no en la frente.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXIV</text:h>
+   <text:p text:style-name="lg">Dos rojas lenguas de fuego<text:line-break/>que, a un mismo tronco enlazadas,<text:line-break/>se aproximan, y al besarse<text:line-break/>forman una sola llama;<text:line-break/>dos notas que del laúd<text:line-break/>a un tiempo la mano arranca,<text:line-break/>y en el espacio se encuentran<text:line-break/>y armoniosas se abrazan;<text:line-break/>dos olas que vienen juntas<text:line-break/>a morir sobre una playa<text:line-break/>y que al romper se coronan<text:line-break/>con un penacho de plata;<text:line-break/>dos jirones de vapor<text:line-break/>que del lago se levantan<text:line-break/>y al juntarse allá en el cielo<text:line-break/><text:soft-page-break/>forman una nube blanca;<text:line-break/>dos ideas que al par brotan,<text:line-break/>dos besos que a un tiempo estallan,<text:line-break/>dos ecos que se confunden,<text:line-break/>eso son nuestras dos almas.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XLIII</text:h>
+   <text:p text:style-name="lg">Dejé la luz a un lado, y en el borde<text:line-break/>de la revuelta cama me senté,<text:line-break/>mudo, sombrío, la pupila inmóvil<text:line-break/>clavada en la pared.<text:line-break/>¿Qué tiempo estuve así? No sé; al dejarme<text:line-break/>la embriaguez horrible de dolor,<text:line-break/>expiraba la luz y en mis balcones<text:line-break/>reía el sol.<text:line-break/>Ni sé tampoco en tan terribles horas<text:line-break/>en qué pensaba o qué pasó por mí;<text:line-break/>sólo recuerdo que lloré y maldije<text:line-break/>y que en aquella noche envejecí.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LII</text:h>
+   <text:p text:style-name="lg">Olas gigantes que os rompéis bramando<text:line-break/>en las playas desiertas y remotas,<text:line-break/>envuelto entre la sábana de espumas,<text:line-break/>¡llevadme con vosotras!<text:line-break/>Ráfagas de huracán que arrebatáis<text:line-break/>del alto bosque las marchitas hojas,<text:line-break/>arrastrado en el ciego torbellino,<text:line-break/><text:soft-page-break/>¡llevadme con vosotras!<text:line-break/>Nubes de tempestad que rompe el rayo<text:line-break/>y en fuego ornáis las desprendidas orlas,<text:line-break/>arrebatado entre la niebla oscura,<text:line-break/>¡llevadme con vosotras!<text:line-break/>Llevadme por piedad a donde el vértigo<text:line-break/>con la razón me arranque la memoria.<text:line-break/>¡Por piedad! ¡Tengo miedo de quedarme<text:line-break/>con mi dolor a solas!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LIV</text:h>
+   <text:p text:style-name="lg">Cuando volvemos las fugaces horas<text:line-break/>del pasado a evocar,<text:line-break/>temblando brilla en sus pestañas negras<text:line-break/>una lágrima pronta a resbalar.<text:line-break/>Y al fin resbala y cae como gota<text:line-break/>del rocío al pensar<text:line-break/>que cual hoy por ayer, por hoy mañana<text:line-break/>volveremos los dos a suspirar.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XX</text:h>
+   <text:p text:style-name="lg">Sabe si alguna vez tus labios rojos<text:line-break/>quema invisible atmósfera abrasada,<text:line-break/>que el alma que hablar puede con los ojos<text:line-break/>también puede besar con la mirada.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LIII</text:h>
+   <text:p text:style-name="lg">Volverán las oscuras golondrinas<text:line-break/>en tu balcón sus nidos a colgar,<text:line-break/>y otra vez con el ala a sus cristales<text:line-break/>jugando llamarán.<text:line-break/>Pero aquellas que el vuelo refrenaban<text:line-break/>tu hermosura y mi dicha a contemplar,<text:line-break/>aquellas que aprendieron nuestros nombres...<text:line-break/>ésas... ¡no volverán!<text:line-break/>Volverán las tupidas madreselvas<text:line-break/>de tu jardín las tapias a escalar,<text:line-break/>y otra vez a la tarde aún más hermosas<text:line-break/>sus flores se abrirán.<text:line-break/>Pero aquellas cuajadas de rocío<text:line-break/>cuyas gotas mirábamos temblar<text:line-break/>y caer como lágrimas del día...<text:line-break/>ésas... ¡no volverán!<text:line-break/>Volverán del amor en tus oídos<text:line-break/>las palabras ardientes a sonar;<text:line-break/>tu corazón de su profundo sueño<text:line-break/>tal vez despertará.<text:line-break/>Pero mudo y absorto y de rodillas,<text:line-break/>como se adora a Dios ante su altar,<text:line-break/>como yo te he querido..., desengáñate,<text:line-break/>nadie así te amará.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">IV</text:h>
+   <text:p text:style-name="lg">No digáis que agotado su tesoro,<text:line-break/>de asuntos falta, enmudeció la lira.<text:line-break/>Podrá no haber poetas, pero siempre<text:line-break/><text:soft-page-break/>habrá poesía.<text:line-break/>Mientras las ondas de la luz al beso<text:line-break/>palpiten encendidas,<text:line-break/>mientras el sol las desgarradas nubes<text:line-break/>de fuego y oro vista,<text:line-break/>mientras el aire en su regazo lleve<text:line-break/>perfumes y armonías,<text:line-break/>mientras haya en el mundo primavera,<text:line-break/>¡habrá poesía!<text:line-break/>Mientras la ciencia a descubrir no alcance<text:line-break/>las fuentes de la vida,<text:line-break/>y en el mar o en el cielo haya un abismo<text:line-break/>que al cálculo resista,<text:line-break/>mientras la humanidad siempre avanzando<text:line-break/>no sepa a do camina,<text:line-break/>mientras haya un misterio para el hombre,<text:line-break/>¡habrá poesía!<text:line-break/>Mientras se sienta que se ríe el alma,<text:line-break/>sin que los labios rían,<text:line-break/>mientras se llore, sin que el llanto acuda<text:line-break/>a nublar la pupila,<text:line-break/>mientras el corazón y la cabeza<text:line-break/>batallando prosigan,<text:line-break/>mientras haya esperanzas y recuerdos,<text:line-break/>¡habrá poesía!<text:line-break/>Mientras haya unos ojos que reflejen<text:line-break/>los ojos que los miran,<text:line-break/>mientras responda el labio suspirando<text:line-break/>al labio que suspira,<text:line-break/>mientras sentirse puedan en un beso<text:line-break/>dos almas confundidas,<text:line-break/>mientras exista una mujer hermosa,<text:line-break/>¡habrá poesía!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XXX</text:h>
+   <text:p text:style-name="lg">Asomaba a sus ojos una lágrima,<text:line-break/>y a mi labio una frase de perdón;<text:line-break/>habló el orgullo y se enjugó su llanto,<text:line-break/>y la frase en mis labios expiró.<text:line-break/>Yo voy por un camino, ella por otro;<text:line-break/>pero al pensar en nuestro mutuo amor,<text:line-break/>yo digo aún: ¿por qué callé aquél día?<text:line-break/>Y ella dirá: ¿por qué no lloré yo?</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LX</text:h>
+   <text:p text:style-name="lg">Mi vida es un erial,<text:line-break/>flor que toco se deshoja;<text:line-break/>que en mi camino fatal<text:line-break/>alguien va sembrando el mal<text:line-break/>para que yo lo recoja.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">III</text:h>
+   <text:p text:style-name="lg">Sacudimiento extraño<text:line-break/>que agita las ideas<text:line-break/>como huracán que empuja<text:line-break/>las olas en tropel.<text:line-break/>Murmullo que en el alma<text:line-break/>se eleva y va creciendo<text:line-break/>como volcán que sordo<text:line-break/><text:soft-page-break/>anuncia que va a arder.<text:line-break/>Deformes siluetas<text:line-break/>de seres imposibles,<text:line-break/>paisajes que aparecen<text:line-break/>como al través de un tul.<text:line-break/>Colores que fundiéndose<text:line-break/>remedan en el aire<text:line-break/>los átomos del iris<text:line-break/>que nadan en la luz.<text:line-break/>Ideas sin palabras,<text:line-break/>palabras sin sentido,<text:line-break/>cadencias que no tienen<text:line-break/>ni ritmo ni compás.<text:line-break/>Memorias y deseos<text:line-break/>de cosas que no existen,<text:line-break/>accesos de alegría,<text:line-break/>impulsos de llorar.<text:line-break/>Actividad nerviosa<text:line-break/>que no halla en qué emplearse,<text:line-break/>sin riendas que le guíen<text:line-break/>caballo volador.<text:line-break/>Locura que el espíritu<text:line-break/>exalta y desfallece,<text:line-break/>embriaguez divina<text:line-break/>del genio creador.<text:line-break/>             Tal es la inspiración.<text:line-break/>Gigante voz que el caos<text:line-break/>ordena en el cerebro<text:line-break/>y entre las sombras hace<text:line-break/>la luz aparecer.<text:line-break/>Brillante rienda de oro<text:line-break/>que poderosa enfrena<text:line-break/>de la exaltada mente<text:line-break/>el volador corcel.<text:line-break/>Hilo de luz que en haces<text:line-break/>los pensamientos ata,<text:line-break/>sol que las nubes rompe<text:line-break/><text:soft-page-break/>y toca en el cenit.<text:line-break/>Inteligente mano<text:line-break/>que en un collar de perlas<text:line-break/>consigue las indóciles<text:line-break/>palabras reunir.<text:line-break/>Armonioso ritmo<text:line-break/>que con cadencia y número<text:line-break/>las fugitivas notas<text:line-break/>encierra en el compás.<text:line-break/>Cincel que el bloque muerde<text:line-break/>la estatua modelando,<text:line-break/>y la belleza plástica<text:line-break/>añade a la ideal.<text:line-break/>Atmósfera en que giran<text:line-break/>con orden las ideas,<text:line-break/>cual átomos que agrupa<text:line-break/>recóndita atracción.<text:line-break/>Raudal en cuyas ondas<text:line-break/>su sed la fiebre apaga,<text:line-break/>oasis que al espíritu<text:line-break/>devuelve con vigor.<text:line-break/>             Tal es nuestra razón.<text:line-break/>Con ambas siempre en lucha,<text:line-break/>y de ambas vencedor,<text:line-break/>tan sólo el genio es dado<text:line-break/>a un yugo atar las dos.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XVI</text:h>
+   <text:p text:style-name="lg">Si al mecer las azules campanillas<text:line-break/>de tu balcón,<text:line-break/>crees que suspirando pasa el viento<text:line-break/>murmurador,<text:line-break/><text:soft-page-break/>sabe que oculto entre las verdes hojas<text:line-break/>suspiro yo.<text:line-break/>Si al resonar confuso a tus espaldas<text:line-break/>vago rumor,<text:line-break/>crees que por tu nombre te ha llamado<text:line-break/>lejana voz,<text:line-break/>sabe que entre las sombras que te cercan<text:line-break/>te llamo yo.<text:line-break/>Si se turba medroso en la alta noche<text:line-break/>tu corazón,<text:line-break/>al sentir en tus labios un aliento<text:line-break/>abrasador,<text:line-break/>sabe que aunque invisible al lado tuyo<text:line-break/>respiro yo.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXXVII</text:h>
+   <text:p text:style-name="lg">Dices que tienes corazón, y sólo<text:line-break/>lo dices porque sientes sus latidos;<text:line-break/>eso no es corazón..., es una máquina<text:line-break/>que al compás que se mueve hace ruido.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXI</text:h>
+   <text:p text:style-name="lg">Al ver mis horas de fiebre<text:line-break/>e insomnio lentas pasar,<text:line-break/>a la orilla de mi lecho,<text:line-break/>¿quién se sentará?<text:line-break/>Cuando la trémula mano<text:line-break/>tienda próximo a expirar,<text:line-break/><text:soft-page-break/>buscando una mano amiga,<text:line-break/>¿quién la estrechará?<text:line-break/>Cuando la muerte vidríe<text:line-break/>de mis ojos el cristal,<text:line-break/>mis párpados aún abiertos,<text:line-break/>¿quién los cerrará?<text:line-break/>Cuando la campana suene<text:line-break/>(si suena en mi funeral),<text:line-break/>una oración al oírla,<text:line-break/>¿quién murmurará?<text:line-break/>Cuando mis pálidos restos<text:line-break/>oprima la tierra ya,<text:line-break/>sobre la olvidada fosa<text:line-break/>¿quién vendrá a llorar?<text:line-break/>¿Quién, en fin, al otro día,<text:line-break/>cuando el sol vuelva a brillar,<text:line-break/>de que pasé por el mundo,<text:line-break/>quién se acordará?</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">X</text:h>
+   <text:p text:style-name="lg">Los invisibles átomos del aire<text:line-break/>en derredor palpitan y se inflaman,<text:line-break/>el cielo se deshace en rayos de oro,<text:line-break/>la tierra se estremece alborozada,<text:line-break/>oigo flotando en olas de armonías<text:line-break/>rumor de besos y batir de alas,<text:line-break/>mis párpados se cierran... ¿Qué sucede?<text:line-break/>—¡Es el amor que pasa!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LXV</text:h>
+   <text:p text:style-name="lg">Llegó la noche, y no encontré un asilo,<text:line-break/>¡y tuve sed!... mis lágrimas bebí,<text:line-break/>¡y tuve hambre! ¡Los hinchados ojos<text:line-break/>cerré para morir!<text:line-break/>¿Estaba en un desierto? Aunque a mi oído<text:line-break/>de las turbas llegaba el ronco hervir,<text:line-break/>yo era huérfano y pobre... ¡El mundo estaba<text:line-break/>desierto... para mí!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXIX</text:h>
+   <text:p text:style-name="lg">Al brillar un relámpago nacemos<text:line-break/>y aún dura su fulgor cuando morimos;<text:line-break/>¡tan corto es el vivir!<text:line-break/>La Gloria y el Amor tras que corremos<text:line-break/>sombras de un sueño son que perseguimos;<text:line-break/>¡despertar es morir!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XVII</text:h>
+   <text:p text:style-name="lg">Hoy la tierra y los cielos me sonríen,<text:line-break/>hoy llega al fondo de mi alma el sol,<text:line-break/>hoy la he visto..., la he visto y me ha mirado...,<text:line-break/>¡hoy creo en Dios!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XI</text:h>
+   <text:p text:style-name="lg">—Yo soy ardiente, yo soy morena,<text:line-break/>yo soy el símbolo de la pasión,<text:line-break/>de ansia de goces mi alma está llena.<text:line-break/>¿A mí me buscas?<text:line-break/>                                        —No es a ti, no.<text:line-break/>—Mi frente es pálida, mis trenzas de oro,<text:line-break/>puedo brindarte dichas sin fin.<text:line-break/>Yo de ternura guardo un tesoro.<text:line-break/>¿A mí me llamas?<text:line-break/>                                        —No, no es a ti.<text:line-break/>—Yo soy un sueño, un imposible,<text:line-break/>vano fantasma de niebla y luz.<text:line-break/>Soy incorpórea, soy intangible,<text:line-break/>no puedo amarte.<text:line-break/>                                      —¡Oh ven, ven tú!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XIX</text:h>
+   <text:p text:style-name="lg">Cuando sobre el pecho inclinas<text:line-break/>la melancólica frente,<text:line-break/>una azucena tronchada<text:line-break/>me pareces.<text:line-break/>Porque al darte la pureza,<text:line-break/>de que es símbolo celeste,<text:line-break/>como a ella te hizo Dios<text:line-break/>de oro y nieve.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XXIX</text:h>
+   <text:p text:style-name="lg">La bocca mi bacciò tutto tremante<text:line-break/>Sobre la falda tenía<text:line-break/>el libro abierto;<text:line-break/>en mi mejilla tocaban<text:line-break/>sus rizos negros.<text:line-break/>No veíamos las letras<text:line-break/>ninguno creo;<text:line-break/>mas guardábamos ambos<text:line-break/>hondo silencio.<text:line-break/>¿Cuánto duró? Ni aun entonces<text:line-break/>pude saberlo.<text:line-break/>Sólo sé que no se oía<text:line-break/>más que el aliento,<text:line-break/>que apresurado escapaba<text:line-break/>del labio seco.<text:line-break/>Sólo sé que nos volvimos<text:line-break/>los dos a un tiempo,<text:line-break/>y nuestros ojos se hallaron<text:line-break/>y sonó un beso.<text:line-break/>. . . . . . . . . . . . . . . . . . . . . . . . .<text:line-break/>. . . . . . . . . . . . . . . . . . . . . . . . .<text:line-break/>Creación de Dante era el libro,<text:line-break/>era su <text:span text:style-name="T1">Infierno</text:span>.<text:line-break/>Cuando a él bajamos los ojos,<text:line-break/>yo dije trémulo:<text:line-break/>—¿Comprendes ya que un poema<text:line-break/>cabe en un verso?<text:line-break/>Y ella respondió encendida:<text:line-break/>—¡Ya lo comprendo!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>XXXVI</text:h>
+   <text:p text:style-name="lg">Si de nuestros agravios en un libro<text:line-break/>se escribiese la historia,<text:line-break/>y se borrase en nuestras almas cuanto<text:line-break/>se borrase en sus hojas;<text:line-break/>te quiero tanto aún; dejó en mi pecho<text:line-break/>tu amor huellas tan hondas,<text:line-break/>que sólo con que tú borrases una,<text:line-break/>¡las borraba yo todas!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXII</text:h>
+   <text:p text:style-name="lg">Primero es un albor trémulo y vago,<text:line-break/>raya de inquieta luz que corta el mar;<text:line-break/>luego chispea y crece y se dilata<text:line-break/>en ardiente explosión de claridad.<text:line-break/>La brilladora lumbre es la alegría,<text:line-break/>la temerosa sombra es el pesar.<text:line-break/>¡Ay! en la oscura noche de mi alma,<text:line-break/>¿cuándo amanecerá?</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">VI</text:h>
+   <text:p text:style-name="lg">Como la brisa que la sangre orea<text:line-break/>sobre el oscuro campo de batalla,<text:line-break/>cargada de perfumes y armonías<text:line-break/>en el silencio de la noche vaga;<text:line-break/><text:soft-page-break/>símbolo del dolor y la ternura,<text:line-break/>del bardo inglés en el horrible drama,<text:line-break/>la dulce Ofelia, la razón perdida,<text:line-break/>cogiendo flores y cantando pasa.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXVIII</text:h>
+   <text:p text:style-name="lg">Cuando entre la sombra oscura<text:line-break/>perdida una voz murmura<text:line-break/>turbando su triste calma,<text:line-break/>si en el fondo de mi alma<text:line-break/>la oigo dulce resonar,<text:line-break/>dime: ¿es que el viento en sus giros<text:line-break/>se queja, o que tus suspiros<text:line-break/>me hablan de amor al pasar?<text:line-break/>Cuando el sol en mi ventana<text:line-break/>rojo brilla a la mañana<text:line-break/>y mi amor tu sombra evoca,<text:line-break/>si en mi boca de otra boca<text:line-break/>sentir creo la impresión,<text:line-break/>dime: ¿es que ciego deliro,<text:line-break/>o que un beso en un suspiro<text:line-break/>me envía tu corazón?<text:line-break/>Y en el luminoso día,<text:line-break/>y en la alta noche sombría,<text:line-break/>si en todo cuanto rodea<text:line-break/>al alma que te desea<text:line-break/>te creo sentir y ver,<text:line-break/>dime: ¿es que toco y respiro<text:line-break/>soñando, o que en un suspiro<text:line-break/>me das tu aliento a beber?</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LXX</text:h>
+   <text:p text:style-name="lg">¡Cuántas veces al pie de las musgosas<text:line-break/>paredes que la guardan,<text:line-break/>oí la esquila que al mediar la noche<text:line-break/>a los maitines llama!<text:line-break/>¡Cuántas veces trazó mi triste sombra<text:line-break/>la luna plateada<text:line-break/>junto a la del ciprés que de su huerto<text:line-break/>se asoma por las tapias!<text:line-break/>Cuando en sombras la iglesia se envolvía,<text:line-break/>de su ojiva calada<text:line-break/>¡cuántas veces temblar sobre los vidrios<text:line-break/>vi el fulgor de la lámpara!<text:line-break/>Aunque el viento en los ángulos oscuros<text:line-break/>de la torre silbara,<text:line-break/>del coro entre las voces percibía<text:line-break/>su voz vibrante y clara.<text:line-break/>En las noches de invierno si un medroso<text:line-break/>por la desierta plaza<text:line-break/>se atrevía a cruzar, al divisarme<text:line-break/>el paso aceleraba.<text:line-break/>Y no faltó una vieja que en el torno<text:line-break/>dijese a la mañana<text:line-break/>que de algún sacristán muerto en pecado<text:line-break/>acaso era yo el alma.<text:line-break/>A oscuras conocía los rincones<text:line-break/>del atrio y la portada;<text:line-break/>de mis pies las ortigas que allí crecen<text:line-break/>las huellas tal vez guardan.<text:line-break/>Los búhos que espantados me seguían<text:line-break/>con sus ojos de llamas,<text:line-break/>llegaron a mirarme con el tiempo<text:line-break/>como a un buen camarada.<text:line-break/>A mi lado sin miedo los reptiles<text:line-break/>se movían a rastras,<text:line-break/><text:soft-page-break/>¡hasta los mudos santos de granito<text:line-break/>creo que me saludaban!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XV</text:h>
+   <text:p text:style-name="lg">Cendal flotante de leve bruma,<text:line-break/>rizada cinta de blanca espuma,<text:line-break/>rumor sonoro<text:line-break/>de arpa de oro,<text:line-break/>beso del aura, onda de luz,<text:line-break/>                                 eso eres tú.<text:line-break/>¡Tú, sombra aérea que cuantas veces<text:line-break/>voy a tocarte te desvaneces<text:line-break/>como la llama, como el sonido,<text:line-break/>como la niebla, como un gemido<text:line-break/>                               del lago azul!<text:line-break/>En mar sin playas onda sonante,<text:line-break/>en el vacío cometa errante,<text:line-break/>largo lamento<text:line-break/>del ronco viento,<text:line-break/>ansia perpetua de algo mejor,<text:line-break/>                                 eso soy yo.<text:line-break/>¡Yo, que a tus ojos en mi agonía<text:line-break/>los ojos vuelvo de noche y día;<text:line-break/>yo, que incansable corro y demente<text:line-break/>tras una sombra, tras la hija ardiente<text:line-break/>de una visión!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LXVIII</text:h>
+   <text:p text:style-name="lg">No sé lo que he soñado<text:line-break/>en la noche pasada.<text:line-break/>Triste, muy triste debió ser el sueño,<text:line-break/>pues despierto la angustia me duraba.<text:line-break/>Noté al incorporarme<text:line-break/>húmeda la almohada,<text:line-break/>y por primera vez sentí al notarlo<text:line-break/>de un amargo placer henchirse el alma.<text:line-break/>Triste cosa es el sueño<text:line-break/>que llanto nos arranca,<text:line-break/>mas tengo en mi tristeza una alegría...<text:line-break/>¡Sé que aún me quedan lágrimas!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">V</text:h>
+   <text:p text:style-name="lg">Espíritu sin nombre,<text:line-break/>indefinible esencia,<text:line-break/>yo vivo con la vida<text:line-break/>sin formas de la idea.<text:line-break/>Yo nado en el vacío,<text:line-break/>del sol tiemblo en la hoguera,<text:line-break/>palpito entre las sombras<text:line-break/>y floto con las nieblas.<text:line-break/>Yo soy el fleco de oro<text:line-break/>de la lejana estrella,<text:line-break/>yo soy de la alta luna<text:line-break/>la luz tibia y serena.<text:line-break/>Yo soy la ardiente nube<text:line-break/>que en el ocaso ondea,<text:line-break/>yo soy del astro errante<text:line-break/><text:soft-page-break/>la luminosa estela.<text:line-break/>Yo soy nieve en las cumbres,<text:line-break/>soy fuego en las arenas,<text:line-break/>azul onda en los mares,<text:line-break/>y espuma en las riberas.<text:line-break/>En el laúd soy nota,<text:line-break/>perfume en la violeta,<text:line-break/>fugaz llama en las tumbas<text:line-break/>y en las ruinas yedra.<text:line-break/>Yo atrueno en el torrente<text:line-break/>y silbo en la centella,<text:line-break/>y ciego en el relámpago<text:line-break/>y rujo en la tormenta.<text:line-break/>Yo río en los alcores,<text:line-break/>susurro en la alta yerba,<text:line-break/>suspiro en la onda pura<text:line-break/>y lloro en la hoja seca.<text:line-break/>Yo ondulo con los átomos<text:line-break/>del humo que se eleva<text:line-break/>y al cielo lento sube<text:line-break/>en espiral inmensa.<text:line-break/>Yo, en los dorados hilos<text:line-break/>que los insectos cuelgan,<text:line-break/>me mezco entre los árboles<text:line-break/>en la ardorosa siesta.<text:line-break/>Yo corro tras las ninfas<text:line-break/>que en la corriente fresca<text:line-break/>del cristalino arroyo<text:line-break/>desnudas juguetean.<text:line-break/>Yo, en bosque de corales<text:line-break/>que alfombran blancas perlas,<text:line-break/>persigo en el océano<text:line-break/>las náyades ligeras.<text:line-break/>Yo, en las cavernas cóncavas<text:line-break/>do el sol nunca penetra,<text:line-break/>mezclándome a los gnomos,<text:line-break/>contemplo sus riquezas.<text:line-break/><text:soft-page-break/>Yo busco de los siglos<text:line-break/>las ya borradas huellas,<text:line-break/>y sé de esos imperios<text:line-break/>de que ni el nombre queda.<text:line-break/>Yo sigo en raudo vértigo<text:line-break/>los mundos que voltean,<text:line-break/>y mi pupila abarca<text:line-break/>la creación entera.<text:line-break/>Yo sé de esas regiones<text:line-break/>a do un rumor no llega,<text:line-break/>y donde informes astros<text:line-break/>de vida un soplo esperan.<text:line-break/>Yo soy sobre el abismo<text:line-break/>el puente que atraviesa,<text:line-break/>yo soy la ignota escala<text:line-break/>que el cielo une a la tierra.<text:line-break/>Yo soy el invisible<text:line-break/>anillo que sujeta<text:line-break/>el mundo de la forma<text:line-break/>al mundo de la idea.<text:line-break/>Yo en fin soy ese espíritu,<text:line-break/>desconocida esencia,<text:line-break/>perfume misterioso<text:line-break/>de que es vaso el poeta.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXVII</text:h>
+   <text:p text:style-name="lg">Despierta, tiemblo al mirarte;<text:line-break/>dormida, me atrevo a verte.<text:line-break/>Por eso, alma de mi alma,<text:line-break/>yo velo mientras tú duermes.<text:line-break/>Despierta ríes, y al reír tus labios<text:line-break/>inquietos me parecen<text:line-break/><text:soft-page-break/>relámpagos de grana que serpean<text:line-break/>sobre un cielo de nieve.<text:line-break/>Dormida, los extremos de tu boca<text:line-break/>pliega sonrisa leve,<text:line-break/>suave como el rastro luminoso<text:line-break/>que deja un sol que muere.<text:line-break/>                                         —¡Duerme!<text:line-break/>Despierta miras, y al mirar tus ojos<text:line-break/>húmedos resplandecen,<text:line-break/>como la onda azul en cuya cresta<text:line-break/>chispeando el sol hiere.<text:line-break/>Al través de tus párpados, dormida,<text:line-break/>tranquilo fulgor vierten,<text:line-break/>cual derrama de luz templado rayo<text:line-break/>lámpara transparente.<text:line-break/>                                         —¡Duerme!<text:line-break/>Despierta hablas, y al hablar, vibrantes<text:line-break/>tus palabras parecen<text:line-break/>lluvia de perlas que en dorada copa<text:line-break/>se derrama a torrentes.<text:line-break/>Dormida, en el murmullo de tu aliento<text:line-break/>acompasado y tenue,<text:line-break/>escucho yo un poema que mi alma<text:line-break/>enamorada entiende.<text:line-break/>                                         —¡Duerme!<text:line-break/>Sobre el corazón la mano<text:line-break/>me he puesto por que no suene<text:line-break/>su latido y de la noche<text:line-break/>turbe la calma solemne.<text:line-break/>De tu balcón las persianas<text:line-break/>cerré ya por que no entre<text:line-break/>el resplandor enojoso<text:line-break/>de la aurora y te despierte.<text:line-break/>                                         —¡Duerme!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LXIV</text:h>
+   <text:p text:style-name="lg">Como guarda el avaro su tesoro,<text:line-break/>guardaba mi dolor;<text:line-break/>le quería probar que hay algo eterno<text:line-break/>a la que eterno me juró su amor.<text:line-break/>Mas hoy le llamo en vano y oigo al tiempo,<text:line-break/>que le agotó, decir:<text:line-break/>—¡Ah, barro miserable! ¡Eternamente<text:line-break/>no podrás ni aun sufrir!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXIV</text:h>
+   <text:p text:style-name="lg">Cruza callada, y son sus movimientos<text:line-break/>silenciosa armonía:<text:line-break/>suenan sus pasos, y al sonar recuerdan<text:line-break/>del himno alado la cadencia rítmica.<text:line-break/>Los ojos entreabre, aquellos ojos<text:line-break/>tan claros como el día,<text:line-break/>y la tierra y el cielo, cuando abarcan,<text:line-break/>arden con nueva luz en sus pupilas.<text:line-break/>Ríe, y su carcajada tiene notas<text:line-break/>del agua fugitiva;<text:line-break/>llora, y es cada lágrima un poema<text:line-break/>de ternura infinita.<text:line-break/>Ella tiene la luz, tiene el perfume,<text:line-break/>el color y la línea,<text:line-break/>la forma, engendradora de deseos,<text:line-break/>la expresión, fuente eterna de poesía.<text:line-break/>¿Que es estúpida? ¡Bah! Mientras callando<text:line-break/>guarde oscuro el enigma,<text:line-break/>siempre valdrá lo que yo creo que calla<text:line-break/><text:soft-page-break/>más que lo que cualquiera otra me diga.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XL</text:h>
+   <text:p text:style-name="lg">Su mano entre mis manos,<text:line-break/>sus ojos en mis ojos,<text:line-break/>la amorosa cabeza<text:line-break/>apoyada en mi hombro,<text:line-break/>Dios sabe cuántas veces<text:line-break/>con paso perezoso<text:line-break/>hemos vagado juntos<text:line-break/>bajo los altos olmos<text:line-break/>que de su casa prestan<text:line-break/>misterio y sombra al pórtico.<text:line-break/>Y ayer... un año apenas,<text:line-break/>pasado como un soplo,<text:line-break/>con qué exquisita gracia,<text:line-break/>con qué admirable aplomo,<text:line-break/>me dijo al presentarnos<text:line-break/>un amigo oficioso:<text:line-break/>«Creo que en alguna parte<text:line-break/>he visto a usted.» ¡Ah bobos,<text:line-break/>que sois de los salones<text:line-break/>comadres de buen tono<text:line-break/>y andabais allí a caza<text:line-break/>de galantes embrollos,<text:line-break/>qué historía habéis perdido,<text:line-break/>qué manjar tan sabroso<text:line-break/>para ser devorado<text:line-break/><text:span text:style-name="T1">sotto voce</text:span> en un corro,<text:line-break/>detrás del abanico<text:line-break/>de plumas y de oro!...<text:line-break/>. . . . . . . . . . . . . . . . . .<text:line-break/><text:soft-page-break/>¡Discreta y casta luna,<text:line-break/>copudos y altos olmos,<text:line-break/>paredes de su casa,<text:line-break/>umbrales de su pórtico,<text:line-break/>callad, y que en secreto<text:line-break/>no salga con vosotros!<text:line-break/>Callad; que por mi parte<text:line-break/>yo lo he olvidado todo;<text:line-break/>y ella... ella, no hay máscara<text:line-break/>semejante a su rostro.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXVI</text:h>
+   <text:p text:style-name="lg">¿De dónde vengo?... El más horrible y áspero<text:line-break/>de los senderos busca;<text:line-break/>las huellas de unos pies ensangrentados<text:line-break/>sobre la roca dura,<text:line-break/>los despojos de un alma hecha jirones<text:line-break/>en las zarzas agudas,<text:line-break/>te dirán el camino<text:line-break/>que conduce a mi cuna.<text:line-break/>¿Adónde voy? El más sombrío y triste<text:line-break/>de los páramos cruza,<text:line-break/>valle de eternas nieves y de eternas<text:line-break/>melancólicas brumas.<text:line-break/>En donde esté una piedra solitaria<text:line-break/>sin inscripción alguna,<text:line-break/>donde habite el olvido,<text:line-break/>allí estará mi tumba.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>LXIII</text:h>
+   <text:p text:style-name="lg">Como enjambre de abejas irritadas,<text:line-break/>de un obscuro rincón de la memoria<text:line-break/>salen a perseguirme los recuerdos<text:line-break/>de las pasadas horas.<text:line-break/>Yo los quiero ahuyentar. ¡Esfuerzo tan inútil!<text:line-break/>Me rodean, me acosan,<text:line-break/>y unos tras otros a clavarme vienen<text:line-break/>el agudo aguijón que el alma encona.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXIII</text:h>
+   <text:p text:style-name="lg">Es cuestión de palabras, y no obstante<text:line-break/>ni tú ni yo jamás,<text:line-break/>después de lo pasado, convendremos<text:line-break/>en quién la culpa está.<text:line-break/>¡Lástima que el Amor un diccionario<text:line-break/>no tenga donde hallar<text:line-break/>cuándo el orgullo es simplemente orgullo<text:line-break/>y cuándo es dignidad!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LI</text:h>
+   <text:p text:style-name="lg">De lo poco de vida que me resta<text:line-break/>diera con gusto los mejores años,<text:line-break/>por saber lo que a otros<text:line-break/>de mí has hablado.<text:line-break/><text:soft-page-break/>Y esta vida mortal y de la eterna<text:line-break/>lo que me toque, si me toca algo,<text:line-break/>por saber lo que a solas<text:line-break/>de mí has pensado.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXXIII</text:h>
+   <text:p text:style-name="lg">Cerraron sus ojos<text:line-break/>que aún tenía abiertos,<text:line-break/>taparon su cara<text:line-break/>con un blanco lienzo,<text:line-break/>y unos sollozando,<text:line-break/>otros en silencio,<text:line-break/>de la triste alcoba<text:line-break/>todos se salieron.<text:line-break/>La luz, que en un vaso<text:line-break/>ardía en el suelo,<text:line-break/>al muro arrojaba<text:line-break/>la sombra del lecho,<text:line-break/>y entre aquella sombra<text:line-break/>veíase a intérvalos<text:line-break/>dibujarse rígida<text:line-break/>la forma del cuerpo.<text:line-break/>Despertaba el día,<text:line-break/>y a su albor primero<text:line-break/>con sus mil ruidos<text:line-break/>despertaba el pueblo.<text:line-break/>Ante aquel contraste<text:line-break/>de vida y misterio,<text:line-break/>de luz y tinieblas,<text:line-break/>yo pensé un momento:<text:line-break/>¡Dios mío, qué solos<text:line-break/>se quedan los muertos!!</text:p>
+   <text:p text:style-name="Horizontal_20_Line"><text:soft-page-break/></text:p>
+   <text:p text:style-name="lg">De la casa en hombros<text:line-break/>lleváronla al templo,<text:line-break/>y en una capilla<text:line-break/>dejaron el féretro.<text:line-break/>Allí rodearon<text:line-break/>sus pálidos restos<text:line-break/>de amarillas velas<text:line-break/>y de paños negros.<text:line-break/>Al dar de las Ánimas<text:line-break/>el toque postrero,<text:line-break/>acabó una vieja<text:line-break/>sus últimos rezos,<text:line-break/>cruzó la ancha nave,<text:line-break/>las puertas gimieron,<text:line-break/>y el santo recinto<text:line-break/>quedóse desierto.<text:line-break/>De un reloj se oía<text:line-break/>compasado el péndulo<text:line-break/>y de algunos cirios<text:line-break/>el chisporroteo.<text:line-break/>Tan medroso y triste,<text:line-break/>tan oscuro y yerto<text:line-break/>todo se encontraba,<text:line-break/>que pensé un momento:<text:line-break/>¡Dios mío, qué solos<text:line-break/>se quedan los muertos!!</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="lg">De la alta campana<text:line-break/>la lengua de hierro<text:line-break/>le dio volteando<text:line-break/>su adiós lastimero.<text:line-break/>El luto en las ropas,<text:line-break/>amigos y deudos<text:line-break/><text:soft-page-break/>cruzaron en fila<text:line-break/>formando el cortejo.<text:line-break/>Del último asilo,<text:line-break/>oscuro y estrecho,<text:line-break/>abrió la piqueta<text:line-break/>el nicho a un extremo:<text:line-break/>allí la acostaron,<text:line-break/>tapiáronle luego<text:line-break/>y con un saludo<text:line-break/>despidióse el duelo.<text:line-break/>La piqueta al hombro<text:line-break/>el sepulturero,<text:line-break/>cantando entre dientes,<text:line-break/>se perdió a lo lejos.<text:line-break/>La noche se entraba,<text:line-break/>el sol se había puesto.<text:line-break/>Perdido en las sombras<text:line-break/>yo pensé un momento:<text:line-break/>¡Dios mío, qué solos<text:line-break/>se quedan los muertos!!</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="lg"><text:line-break/></text:p>
+   <text:p text:style-name="lg">En las largas noches<text:line-break/>del helado invierno,<text:line-break/>cuando las maderas<text:line-break/>crujir hace el viento<text:line-break/>y azota los vidrios<text:line-break/>el fuerte aguacero,<text:line-break/>de la pobre niña<text:line-break/>a veces me acuerdo.<text:line-break/>Allí cae la lluvia<text:line-break/>con un son eterno;<text:line-break/>allí la combate<text:line-break/><text:soft-page-break/>el soplo del cierzo.<text:line-break/>Del húmedo muro<text:line-break/>tendida en el hueco,<text:line-break/>¡acaso de frío<text:line-break/>se hielan sus huesos!...</text:p>
+   <text:p text:style-name="lg">. . . . . . . . . . . . . . . . . . . . . .</text:p>
+   <text:p text:style-name="lg">¿Vuelve el polvo al polvo?<text:line-break/>¿Vuela el alma al cielo?<text:line-break/>¿Todo es sin espíritu<text:line-break/>podredumbre y cieno?<text:line-break/>No sé; pero hay algo<text:line-break/>que explicar no puedo,<text:line-break/>algo que repugna,<text:line-break/>aunque es fuerza hacerlo,<text:line-break/>¡a dejar tan tristes,<text:line-break/>tan solos los muertos!</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XIV</text:h>
+   <text:p text:style-name="lg">Te vi un punto, y flotando ante mis ojos<text:line-break/>la imagen de tus ojos se quedó,<text:line-break/>como la mancha oscura orlada en fuego<text:line-break/>que flota y ciega si se mira al sol.<text:line-break/>Adondequiera que la vista clavo,<text:line-break/>torno a ver sus pupilas llamear;<text:line-break/>mas no te encuentro a ti, que es tu mirada,<text:line-break/>unos ojos, los tuyos, nada más.<text:line-break/><text:soft-page-break/>De mi alcoba en el ángulo los miro<text:line-break/>desasidos fantásticos lucir.<text:line-break/>Cuando duermo los siento que se ciernen<text:line-break/>de par en par abiertos sobre mí.<text:line-break/>Yo sé que hay fuegos fatuos que en la noche<text:line-break/>llevan al caminante a perecer;<text:line-break/>yo me siento arrastrado por tus ojos,<text:line-break/>pero adónde me arrastran no lo sé.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXII</text:h>
+   <text:p text:style-name="lg">Pasaba arrolladora en su hermosura,<text:line-break/>y el paso le dejé,<text:line-break/>ni aun mirarla me volví, y no obstante<text:line-break/>algo en mi oído murmuró: «ésa es».<text:line-break/>¿Quién reunió la tarde a la mañana?<text:line-break/>Lo ignoro; sólo sé<text:line-break/>que en una breve noche de verano<text:line-break/>se unieron los crepúsculos, y «fue».</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXXVI</text:h>
+   <text:p text:style-name="lg">En la imponente nave<text:line-break/>del templo bizantino,<text:line-break/>vi la gótica tumba a la indecisa<text:line-break/>luz que temblaba en los pintados vidrios.<text:line-break/>Las manos sobre el pecho,<text:line-break/>y en las manos un libro,<text:line-break/>una mujer hermosa reposaba<text:line-break/>sobre la urna, del cincel prodigio.<text:line-break/><text:soft-page-break/>Del cuerpo abandonado<text:line-break/>al dulce peso hundido,<text:line-break/>cual si de blanda pluma y raso fuera,<text:line-break/>se plegaba su lecho de granito.<text:line-break/>De la sonrisa última<text:line-break/>el resplandor divino<text:line-break/>guardaba el rostro, como el cielo guarda<text:line-break/>del sol que muere el rayo fugitivo.<text:line-break/>Del cabezal de piedra<text:line-break/>sentados en el filo,<text:line-break/>dos ángeles, el dedo sobre el labio,<text:line-break/>imponían silencio en el recinto.<text:line-break/>No parecía muerta;<text:line-break/>de los arcos macizos<text:line-break/>parecía dormir en la penumbra<text:line-break/>y que en sueños veía el paraíso.<text:line-break/>Me acerqué de la nave<text:line-break/>al ángulo sombrío,<text:line-break/>con el callado paso que llegamos<text:line-break/>junto a la cuna donde duerme un niño.<text:line-break/>La contemplé un momento,<text:line-break/>y aquel resplandor tibio,<text:line-break/>aquel lecho de piedra que ofrecía<text:line-break/>próximo al muro otro lugar vacío,<text:line-break/>en el alma avivaron<text:line-break/>la sed de lo infinito,<text:line-break/>el ansia de esa vida de la muerte,<text:line-break/>para la que un instante son los siglos...</text:p>
+   <text:p text:style-name="lg">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</text:p>
+   <text:p text:style-name="lg">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</text:p>
+   <text:p text:style-name="lg">Cansado del combate<text:line-break/>en que luchando vivo,<text:line-break/><text:soft-page-break/>alguna vez me acuerdo con envidia<text:line-break/>de aquel rincón oscuro y escondido.<text:line-break/>De aquella muda y pálida<text:line-break/>mujer me acuerdo y digo:<text:line-break/>—¡Oh, qué amor tan callado, el de la muerte!<text:line-break/>¡Qué sueño el del sepulcro, tan tranquilo!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXIX</text:h>
+   <text:p text:style-name="lg">¿A qué me lo decís? Lo sé: es mudable,<text:line-break/>es altanera y vana y caprichosa.<text:line-break/>Antes que el sentimiento de su alma<text:line-break/>brotará el agua de la estéril roca.<text:line-break/>Sé que en su corazón, nido de sierpes,<text:line-break/>no hay una fibra que al amor responda;<text:line-break/>que es una estatua inanimada... pero...<text:line-break/>¡es tan hermosa!!</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">LXXI</text:h>
+   <text:p text:style-name="lg">No dormía; vagaba en ese limbo<text:line-break/>en que cambian de forma los objetos,<text:line-break/>misteriosos espacios que separan<text:line-break/>la vigilia del sueño.<text:line-break/>Las ideas que en ronda silenciosa<text:line-break/>daban vueltas en torno a mi cerebro,<text:line-break/>poco a poco en su danza se movían<text:line-break/>con un compás más lento.<text:line-break/>De la luz que entra al alma por los ojos<text:line-break/>los párpados velaban el reflejo;<text:line-break/><text:soft-page-break/>mas otra luz el mundo de visiones<text:line-break/>alumbraba por dentro.<text:line-break/>En este punto resonó en mi oído<text:line-break/>un rumor semejante al que en el templo<text:line-break/>vaga confuso al terminar los fieles<text:line-break/>con un <text:span text:style-name="T1">Amén</text:span> sus rezos.<text:line-break/>Y oí como una voz delgada y triste<text:line-break/>que por mi nombre me llamó a lo lejos,<text:line-break/>¡y sentí olor de cirios apagados,<text:line-break/>de humedad y de incienso!</text:p>
+   <text:p text:style-name="lg">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</text:p>
+   <text:p text:style-name="lg">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</text:p>
+   <text:p text:style-name="lg">Entró la noche y del olvido en brazos<text:line-break/>caí cual piedra en su profundo seno.<text:line-break/>Dormí y al despertar exclamé: «¡Alguno<text:line-break/>que yo quería ha muerto!».</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XLVI</text:h>
+   <text:p text:style-name="lg">Me ha herido recatándose en las sombras,<text:line-break/>sellando con un beso su traición.<text:line-break/>Los brazos me echó al cuello y por la espalda<text:line-break/>partióme a sangre fría el corazón.<text:line-break/>Y ella prosigue alegre su camino,<text:line-break/>feliz, risueña, impávida. ¿Y por qué?<text:line-break/>Porque no brota sangre de la herida,<text:line-break/><text:soft-page-break/>porque el muerto está en pie.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XXXV</text:h>
+   <text:p text:style-name="lg">¡No me admiró tu olvido! Aunque de un día<text:line-break/>me admiró tu cariño mucho más,<text:line-break/>porque lo que hay en mí que vale algo,<text:line-break/>eso... ni lo pudiste sospechar.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">XII</text:h>
+   <text:p text:style-name="lg">Porque son, niña, tus ojos<text:line-break/>verdes como el mar, te quejas;<text:line-break/>verdes los tienen las náyades,<text:line-break/>verdes los tuvo Minerva,<text:line-break/>y verdes son las pupilas<text:line-break/>de las hurís del Profeta.<text:line-break/>El verde es gala y ornato<text:line-break/>del bosque en la primavera.<text:line-break/>Entre sus siete colores<text:line-break/>brillante el Iris lo ostenta.<text:line-break/>Las esmeraldas son verdes,<text:line-break/>verde el color del que espera,<text:line-break/>y las ondas del océano,<text:line-break/><text:soft-page-break/>y el laurel de los poetas.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="lg"><text:line-break/></text:p>
+   <text:p text:style-name="lg">Es tu mejilla temprana<text:line-break/>rosa de escarcha cubierta,<text:line-break/>en que el carmín de los pétalos<text:line-break/>se ve a través de las perlas.<text:line-break/>              Y sin embargo,<text:line-break/>              sé que te quejas,<text:line-break/>              porque tus ojos<text:line-break/>              crees que la afean.<text:line-break/>              Pues no lo creas.<text:line-break/>Que parecen sus pupilas<text:line-break/>húmedas, verdes e inquietas,<text:line-break/>tempranas hojas de almendro<text:line-break/>que al soplo del aire tiemblan.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="lg"><text:line-break/></text:p>
+   <text:p text:style-name="lg">Es tu boca de rubíes<text:line-break/>purpúrea granada abierta,<text:line-break/>que en el estío convida<text:line-break/>a apagar la sed en ella.<text:line-break/>              Y sin embargo,<text:line-break/>              sé que te quejas<text:line-break/>              porque tus ojos<text:line-break/>              crees que la afean.<text:line-break/>              Pues no lo creas.<text:line-break/>Que parecen, si enojada<text:line-break/><text:soft-page-break/>tus pupilas centellean,<text:line-break/>las olas del mar que rompen<text:line-break/>en las cantábricas peñas.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="lg">Es tu frente que corona<text:line-break/>crespo el oro en ancha trenza,<text:line-break/>nevada cumbre en que el día<text:line-break/>su postrera luz refleja.<text:line-break/>              Y sin embargo,<text:line-break/>              sé que te quejas<text:line-break/>              porque tus ojos<text:line-break/>              crees que la afean.<text:line-break/>              Pues no lo creas.<text:line-break/>Que entre las rubias pestañas,<text:line-break/>junto a las sienes, semejan<text:line-break/>broches de esmeralda y oro<text:line-break/>que un blanco armiño sujetan.<text:line-break/>Porque son, niña, tus ojos<text:line-break/>verdes como el mar, te quejas;<text:line-break/>quizás si negros o azules<text:line-break/>se tornasen, lo sintieras.</text:p>
+  </office:text>
+ </office:body>
+</office:document>

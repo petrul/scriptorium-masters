@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Addenda</title>
+        <author>
+          <name>Ion Barbu</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <p>- ATENŢIE, CONSERVAŢI ACEASTĂ LICENŢĂ DACĂ REDISTRIBUIŢI ACEST FIŞIER - 
+
+
+	Licenţă Biblioteca Electronică
+	======================
+
+	Versiunea 1, August 1998 
+
+	Copyright ? Radu Iliescu - Biblioteca Electronică
+
+http://www.lme.ro/~byblos/
+radu.iliescu@lme.ro
+
+	Baza de texte a Bibliotecii Electronice poate fi copiată, difuzată şi modificată în condiţiile următoare:
+
+	01) Orice copie în scopuri private, în scopuri de ilustrare a învăţămîntului şi în scopuri de cercetare este autorizată.
+
+	02) Introducerea oricărui text sau fragment într-un material de largă circulaţie trebuie să se facă însoţită de prezenta licenţă. Prezenţa oricărui text într-un material comercial fără prezenta licenţă este interzisă.
+
+	03) Antetul care însoţeste prezentul document trebuie integral păstrat.
+
+	04) Menţiunea producătorului original trebuie să existe, precum şi cea a contribuţiilor ulterioare.
+
+	05) Orice modificare ulterioară în sensul corectării erorilor sau punerii într-un alt format trebuie neîntîrziat adusă la cunoştinţa administratorului acestei biblioteci. Indicarea diferitelor modificări trebuie explicit precizată, precum şi datată. Acestea conferă autorului statutul de colaborator la Biblioteca Electronică.
+
+	06) Acestă licenţă se aplică inclusiv versiunilor ulterioare provenind de la colaboratorii Bibliotecii Electronice.
+
+	Copist: Radu Iliescu (radu.iliescu@lme.ro)
+
+	Acest fişier reproduce poeziile din ediţia Joc Secund, Editura pentru literatură, 1966.
+
+----------------------------------------Sfîrşitul licenţei Bibliotecii Electronice------------------------------------------</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        http://www.lme.ro/~byblos/
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Iacob Steiner</head>
+        <lg>
+          <l>Un ins, rămas, cu dinadinsul,</l>
+          <l>Din Schwitzera, cantonul Uri.</l>
+          <l>Dar geniul îi fuma ca ninsul</l>
+          <l>Jungfrau, sub gheaţa învestiturii.</l>
+        </lg>
+        <lg>
+          <l>Amar, ciudat, certat cu norma</l>
+          <l>Răzbind tîrziu, pîn' la Berlin</l>
+          <l>Vrăji în slujbe negre Forma,</l>
+          <l>În săli drapate-n doliu plin.</l>
+        </lg>
+        <lg>
+          <l>Un ins, la fel : încins în bură,</l>
+          <l>Dar deşertat de orice geniu,</l>
+          <l>Citesc la alba ta făptură</l>
+          <l>În firea aceasta de mileniu</l>
+        </lg>
+        <lg>
+          <l>Şi - strict - bătut în teoreme,</l>
+          <l>Acel inel perenial</l>
+          <l>Ţi-l trec : gătită de cu vreme</l>
+          <l>Pentru Sabatul cel mai pal.</l>
+        </lg>
+        <closer>
+          <dateline>21 februarie 1954</dateline>
+        </closer>
+      </div>
+      <div>
+        <head>Portret</head>
+        <lg>
+          <l>Deci versul meu legat în largi turbane</l>
+          <l>De lănci zbîrlit, ca ţeasta unei cegi,</l>
+          <l>Cu albele-i prăpăstii şi capcane</l>
+          <l>De munte-opioman, nu-l înţelegi !</l>
+        </lg>
+        <lg>
+          <l>L-am scris, e drept, cînd ochii mei văzură</l>
+          <l>Rusalca unui iezer scandinav,</l>
+          <l>Eşti însă : ritm, vigoare şi măsură,</l>
+          <l>Suavii Francii duhul tău e sclav.</l>
+        </lg>
+        <lg>
+          <l>Încît, înadunate, calme linii</l>
+          <l>Încerc să prind filonul scump, nativ,</l>
+          <l>Privirea grea ce delegai grădinii</l>
+          <l>Şi chipul tău în noapte, sub masiv.</l>
+        </lg>
+        <lg>
+          <l>Era leirea sutei optsprezece</l>
+          <l>Cu-abia gînditul arc al buzei tors,</l>
+          <l>Cu genele străvechi în care zace</l>
+          <l>Un codru-adînc de farmec dureros.</l>
+        </lg>
+        <lg>
+          <l>Din goarne palide, tîrzii, cocoşul</l>
+          <l>Herald al lepădării a sunat ;</l>
+          <l>Frunzişul desei nopţi căzu sub roşul</l>
+          <l>De suliţi? chipul tău e desenat.</l>
+        </lg>
+      </div>
+      <trailer>SFÂRŞIT</trailer>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Seven Poems and a Fragment</dc:title>
+    <dc:description/>
+    <dc:subject>English poetry -- Irish authors</dc:subject>
+    <meta:keyword/>
+    <meta:initial-creator>W. B. Yeats</meta:initial-creator>
+    
+    <meta:creation-date>2022-11-08T08:07:53Z</meta:creation-date>
+    <dc:date>2023-01-11T17:56:46.494599304</dc:date>
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT4M51S</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:image-count="1" meta:object-count="0" meta:page-count="41" meta:paragraph-count="236" meta:word-count="6367" meta:character-count="36764" meta:non-whitespace-character-count="30621"/><meta:user-defined meta:name="date">2010-04-12</meta:user-defined><meta:user-defined meta:name="identifier">http://www.gutenberg.org/31959</meta:user-defined><meta:user-defined meta:name="language">en</meta:user-defined><meta:user-defined meta:name="rights">Public domain in the USA.</meta:user-defined><meta:user-defined meta:name="source" meta:value-type="string">https://www.gutenberg.org/files/31959/31959-h/31959-h.htm</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">129</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">26254</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">19757</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8451</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">7230</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">129</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">26252</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">19884</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">90</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2442999</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="Table10" style:family="table">
+   <style:table-properties style:width="16.51cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table10.A" style:family="table-column">
+   <style:table-column-properties style:column-width="16.51cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Table10.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="Table12" style:family="table">
+   <style:table-properties style:width="16.51cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table12.A" style:family="table-column">
+   <style:table-column-properties style:column-width="16.51cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Table12.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="Table13" style:family="table">
+   <style:table-properties style:width="16.51cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table13.A" style:family="table-column">
+   <style:table-column-properties style:column-width="16.51cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Table13.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Author">
+   <style:text-properties officeooo:paragraph-rsid="00174f89"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties officeooo:paragraph-rsid="001788e2"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none" officeooo:paragraph-rsid="001788e2"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="001788e2"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="001a5686"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="001c856b"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="001f25bf"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00174f89"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="001788e2"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">41</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P3">Yeats<text:span text:style-name="T3">, </text:span>W. B. </text:p>
+   <text:p text:style-name="Title">Seven Poems and a Fragment</text:p>
+   <text:p text:style-name="Date">2010-04-12</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Seven Poems And A Fragment</text:h>
+   <text:p text:style-name="Subtitle">BY WILLIAM BUTLER YEATS.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"> </text:p>
+   <text:p text:style-name="P9"><draw:frame draw:style-name="fr1" draw:name="img3" text:anchor-type="as-char" svg:width="12.347cm" svg:height="11.889cm" draw:z-index="0"><draw:image draw:mime-type="image/jpeg">
+      <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8l
+       JCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIo
+       Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAAR
+       CAFRAV4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+       AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+       FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+       h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+       5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+       AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+       NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+       hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+       5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0snHApKXqaMVwHQNBOM07nFN6fjSnPagB
+       RxR7UdBSd6AHZxR170d6Q+lACnpSUfzoFACjkUUYoHHUUwDPFGDjikZgqs7EIg5ZmOAB7msm
+       +8U6VZkDzvtLsCwW3G8fiw4FS5Jblxpzm7RVzWHWnYON2MKOp7VyUmt69qzFNMt1tYSeHUb5
+       CPZjwPypB4U1C+YnUtReVc8LLK0uP+Anj9az9pf4Vc6vqnLrUmo/i/wNqfxLo1vMYmv1aRTg
+       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
+       tNoooAB0pe5oopgHeiiigA70UUUAFIaKKAP/2Q==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P9">THE CUALA PRESS<text:line-break/><text:soft-page-break/>DUNDRUM<text:line-break/>MCMXXII</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">TABLE OF CONTENTS<text:span text:style-name="T4"> /x/</text:span></text:h>
+   <text:p text:style-name="First_20_paragraph"> </text:p>
+   <text:p text:style-name="Text_20_body">PAGE</text:p>
+   <text:p text:style-name="Text_20_body">All Souls’ Night</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page1" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">1</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">Suggested by a Picture of a Black Centaur</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page6" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">6</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">Thoughts upon the Present State of the World</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page7" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">7</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">The New Faces</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page14" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">14</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">A Prayer for My Son</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page14" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">14</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">Cuchulain the Girl and the Fool</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page16" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">16</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">The Wheel</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page18" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">18</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">A New End for ‘The King’s Threshold’</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page18" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">18</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">NOTES</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Note on ‘Thoughts Upon the Present State of the World’ Section Six</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page23" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">23</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">Note on The New End to ‘The King’s Threshold’</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-0.htm.xhtml#page24" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">24</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"> </text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Subtitle">SEVEN POEMS AND A FRAGMENT: BY WILLIAM BUTLER YEATS.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">All Souls’ Night</text:h>
+   <text:p text:style-name="P10">’Tis All Souls’ Night and the great Christ Church bell,<text:line-break/>And many a lesser bell, sound through the room,<text:line-break/>For it is now midnight;<text:line-break/>And two long glasses brimmed with muscatel<text:line-break/>Bubble upon the table. A ghost may come,<text:line-break/>For it is a ghost’s right,<text:line-break/>His element is so fine<text:line-break/>Being sharpened by his death,<text:line-break/>To drink from the wine-breath<text:line-break/>While our gross palates drink from the whole wine.<text:line-break/>I need some mind that, if the cannon sound<text:line-break/>From every quarter of the world, can stay<text:line-break/>Wound in mind’s pondering,<text:line-break/>As mummies in the mummy-cloth are wound;<text:line-break/>Because I have a marvellous thing to say,<text:line-break/>A certain marvellous thing<text:line-break/>None but the living mock,<text:line-break/>Though not for sober ear;<text:line-break/>It may be all that hear<text:line-break/>Should laugh and weep an hour upon the clock.</text:p>
+   <text:p text:style-name="P10">H—’s the first I call. He loved strange thought<text:line-break/>And knew that sweet extremity of pride<text:line-break/>That’s called platonic love,<text:line-break/>And that to such a pitch of passion wrought<text:line-break/>Nothing could bring him, when his lady died,<text:line-break/><text:soft-page-break/>Anodyne for his love.<text:line-break/>Words were but wasted breath;<text:line-break/>One dear hope had he:<text:line-break/>The inclemency<text:line-break/>Of that or the next winter would be death.<text:line-break/>Two thoughts were so mixed up I could not tell<text:line-break/>Whether of her or God he thought the most,<text:line-break/>But think that his mind’s eye,<text:line-break/>When upward turned, on one sole image fell,<text:line-break/>And that a slight companionable ghost,<text:line-break/>Wild with divinity,<text:line-break/>Had so lit up the whole<text:line-break/>Immense miraculous house,<text:line-break/>The Bible promised us,<text:line-break/>It seemed a gold-fish swimming in a bowl.<text:line-break/><text:line-break/>On Florence Emery I call the next,<text:line-break/>Who finding the first wrinkles on a face<text:line-break/>Admired and beautiful,<text:line-break/>And knowing that the future would be vexed<text:line-break/>With ’minished beauty, multiplied commonplace,<text:line-break/>Preferred to teach a school,<text:line-break/>Away from neighbour or friend<text:line-break/>Among dark skins, and there<text:line-break/>Permit foul years to wear<text:line-break/>Hidden from eyesight to the unnoticed end.<text:line-break/>Before that end much had she ravelled out<text:line-break/>From a discourse in figurative speech<text:line-break/>By some learned Indian<text:line-break/>On the soul’s journey. How it is whirled about,<text:line-break/><text:soft-page-break/>Wherever the orbit of the moon can reach,<text:line-break/>Until it plunged into the sun;<text:line-break/>And there free and yet fast,<text:line-break/>Being both Chance and Choice,<text:line-break/>Forget its broken toys<text:line-break/>And sink into its own delight at last.<text:line-break/><text:line-break/>And I call up MacGregor from the grave,<text:line-break/>For in my first hard springtime we were friends,<text:line-break/>Although of late estranged.<text:line-break/>I thought him half a lunatic, half knave,<text:line-break/>And told him so, but friendship never ends;<text:line-break/>And what if mind seem changed,<text:line-break/>And it seem changed with the mind,<text:line-break/>When thoughts rise up unbid<text:line-break/>On generous things that he did<text:line-break/>And I grow half contented to be blind.<text:line-break/>He had much industry at setting out,<text:line-break/>Much boisterous courage, before loneliness<text:line-break/>Had driven him crazed;<text:line-break/>For meditations upon unknown thought<text:line-break/>Make human intercourse grow less and less;<text:line-break/>They are neither paid nor praised.<text:line-break/>But he’d object to the host,<text:line-break/>The glass because my glass;<text:line-break/>A ghost-lover he was<text:line-break/>And may have grown more arrogant being a ghost.<text:line-break/><text:line-break/>But names are nothing. What matter who it be,<text:line-break/>So that his elements have grown so fine<text:line-break/><text:soft-page-break/>The fume of muscatel<text:line-break/>Can give his sharpened palate ecstasy<text:line-break/>No living man can drink from the whole wine.<text:line-break/>I have mummy truths to tell<text:line-break/>Whereat the living mock,<text:line-break/>Though not for sober ear,<text:line-break/>For maybe all that hear<text:line-break/>Should laugh and weep an hour upon the clock.<text:line-break/>Such thought—such thought have I that hold it tight<text:line-break/>Till meditation master all its parts,<text:line-break/>Nothing can stay my glance<text:line-break/>Until that glance run in the world’s despite<text:line-break/>To where the damned have howled away their hearts,<text:line-break/>And where the blessed dance;<text:line-break/>Such thought, that in it bound<text:line-break/>I need no other thing<text:line-break/>Wound in mind’s wandering,<text:line-break/>As mummies in the mummy-cloth are wound.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Suggested By A Picture Of A Black Centaur</text:h>
+   <text:p text:style-name="lg">Your hooves have stamped at the black margin of the wood,<text:line-break/>Even where the horrible green parrots call and swing.<text:line-break/>My works are all stamped down into the sultry mud.<text:line-break/>I knew that horse play, knew it for a murderous thing.<text:line-break/>What wholesome sun has ripened is wholesome food to eat<text:line-break/>And that alone, yet I being driven half insane<text:line-break/>Because of some green wing, gathered old mummy wheat<text:line-break/>In the mad abstract dark and ground it grain by grain<text:line-break/>And after baked it slowly in an oven; but now<text:line-break/>I bring full flavoured wine out of a barrel found<text:line-break/>Where seven Ephesian topers slept and never knew<text:line-break/>When Alexander’s empire past, they slept so sound.<text:line-break/>Stretch out your limbs and sleep a long Saturnian sleep;<text:line-break/>I have loved you better than my soul for all my words,<text:line-break/>And there is none so fit to keep a watch and keep<text:line-break/>Unwearied eyes upon those horrible green birds.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Thoughts Upon The Present State Of The World.</text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4">I</text:h>
+   <text:p text:style-name="P11">Many ingenious lovely things are gone<text:line-break/>That seemed sheer miracle to the multitude;<text:line-break/>Above the murderous treachery of the moon<text:line-break/>Or all that wayward ebb and flow. There stood<text:line-break/>Amid the ornamental bronze and stone<text:line-break/>An ancient image made of olive wood;<text:line-break/>And gone are Phidias’ carven ivories<text:line-break/>And all his golden grasshoppers and bees.<text:line-break/>We too had many pretty toys when young;<text:line-break/>A law indifferent to blame or praise<text:line-break/>To bribe or threat; habits that made old wrong<text:line-break/>Melt down, as it were wax in the sun’s rays;<text:line-break/>Public opinion ripening for so long<text:line-break/>We thought it would outlive all future days.<text:line-break/>O what fine thought we had because we thought<text:line-break/>That the worst rogues and rascals had died out.</text:p>
+   <text:p text:style-name="P11">All teeth were drawn, all ancient tricks unlearned,<text:line-break/>And a great army but a showy thing;<text:line-break/>What matter that no cannon had been turned<text:line-break/>Into a ploughshare; parliament and king<text:line-break/>Thought that unless a little powder burned<text:line-break/><text:soft-page-break/>The trumpeters might burst with trumpeting<text:line-break/>And yet it lack all glory; and perchance<text:line-break/>The guardsmen’s drowsy chargers would not prance.<text:line-break/>Now days are dragon-ridden, the nightmare<text:line-break/>Rides upon sleep: a drunken soldiery<text:line-break/>Can leave the mother, murdered at her door,<text:line-break/>To crawl in her own blood, and go scot-free;<text:line-break/>The night can sweat with terror as before<text:line-break/>We pieced our thoughts into philosophy,<text:line-break/>And planned to bring the world under a rule<text:line-break/>Who are but weasels fighting in a hole.<text:line-break/>He who can read the signs nor sink unmanned<text:line-break/>Into the half-deceit of some intoxicant<text:line-break/>From shallow wits, who knows no work can stand,<text:line-break/>Whether health, wealth or peace of mind were spent<text:line-break/>On master work of intellect or hand,<text:line-break/><text:line-break/>No honour leave its mighty monument,<text:line-break/>Has but one comfort left: all triumph would<text:line-break/>But break upon his ghostly solitude.<text:line-break/>And other comfort were a bitter wound:<text:line-break/>To be in love and love what vanishes.<text:line-break/>Greeks were but lovers; all that country round<text:line-break/>None dared admit, if such a thought were his,<text:line-break/>Incendiary or bigot could be found<text:line-break/>To burn that stump on the Acropolis,<text:line-break/>Or break in bits the famous ivories<text:line-break/>Or traffic in the grasshoppers or bees?</text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:soft-page-break/>II</text:h>
+   <text:p text:style-name="lg">When Loie Fuller’s Chinese dancers enwound<text:line-break/>A shining web, a floating ribbon of cloth,<text:line-break/>It seemed that a dragon of air<text:line-break/>Had fallen among dancers, had whirled them round<text:line-break/>Or hurried them off on its own furious path;<text:line-break/>So the platonic year<text:line-break/>Whirls out new right and wrong<text:line-break/><text:line-break/>Whirls in the old instead;<text:line-break/>All men are dancers and their tread<text:line-break/>Goes to the barbarous clangour of gong.</text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4">III</text:h>
+   <text:p text:style-name="lg">Some moralist or mythological poet<text:line-break/>Compares the solitary soul to a swan;<text:line-break/>I am content with that,<text:line-break/>Contented that a troubled mirror show it<text:line-break/>Before that brief gleam of its life be gone,<text:line-break/>An image of its state;<text:line-break/>The wings half spread for flight,<text:line-break/>The breast thrust out in pride<text:line-break/>Whether to play or to ride<text:line-break/>Those winds that clamour of approaching night.<text:line-break/>A man in his own secret meditation<text:line-break/><text:soft-page-break/>Is lost amid the labyrinth that he has made<text:line-break/>In art or politics;<text:line-break/>Some platonist affirms that in the station<text:line-break/>Where we should cast off body and trade<text:line-break/><text:line-break/>The ancient habit sticks,<text:line-break/>And that if our works could<text:line-break/>But vanish with our breath<text:line-break/>That were a lucky death,<text:line-break/>For triumph can but mar our solitude.<text:line-break/>The swan has leaped into the desolate heaven:<text:line-break/>That image can bring wildness, bring a rage<text:line-break/>To end all things, to end<text:line-break/>What my laborious life imagined, even<text:line-break/>The half imagined, the half written page;<text:line-break/>O but we dreamed to mend<text:line-break/>Whatever mischief seemed<text:line-break/>To afflict mankind, but now<text:line-break/>That winds of winter blow<text:line-break/>Learn that we were crack-pated when we dreamed.</text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4">IV</text:h>
+   <text:p text:style-name="lg">We, who seven years ago<text:line-break/>Talked of honour and of truth,<text:line-break/>Shriek with pleasure if we show<text:line-break/>The weasel’s twist, the weasel’s tooth.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/></text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4">V</text:h>
+   <text:p text:style-name="lg">Come let us mock at the great<text:line-break/>That had such burdens on the mind<text:line-break/>And toiled so hard and late<text:line-break/>To leave some monument behind,<text:line-break/>Nor thought of the levelling wind.<text:line-break/>Come let us mock at the wise;<text:line-break/>With all those calendars whereon<text:line-break/>They fixed old aching eyes,<text:line-break/>They never saw how seasons run,<text:line-break/>And now but gape at the sun.<text:line-break/>Come let us mock at the good<text:line-break/>That fancied goodness might be gay,<text:line-break/>Grown tired of their solitude,<text:line-break/>Upon some brand-new happy day:<text:line-break/>Wind shrieked—and where are they?<text:line-break/>Mock mockers after that<text:line-break/>That would not lift a hand maybe<text:line-break/>To help good, wise or great<text:line-break/>To bar that foul storm out, for we<text:line-break/>Traffic in mockery.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:soft-page-break/>VI</text:h>
+   <text:p text:style-name="lg">Violence upon the roads: violence of horses;<text:line-break/>Some few have handsome riders, are garlanded<text:line-break/>On delicate sensitive ear or tossing mane,<text:line-break/>But wearied running round and round in their courses<text:line-break/>All break and vanish, and evil gathers head:<text:line-break/>Herodias’ daughters have returned again<text:line-break/>A sudden blast of dusty wind and after<text:line-break/>Thunder of feet, tumult of images,<text:line-break/>Their purpose in the labyrinth of the wind;<text:line-break/>And should some crazy hand dare touch a daughter<text:line-break/>All turn with amorous cries, or angry cries,<text:line-break/>According to the wind, for all are blind.<text:line-break/>But now wind drops, dust settles; thereupon<text:line-break/>There lurches past, his great eyes without thought<text:line-break/>Under the shadow of stupid straw-pale locks,<text:line-break/>That insolent fiend Robert Artisson<text:line-break/>To whom the love-lorn Lady Kyteler brought<text:line-break/>Bronzed peacock feathers, red combs of her cocks.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">The New Faces</text:h>
+   <text:p text:style-name="lg">If you, that have grown old were the first dead<text:line-break/>Neither Caltapa tree nor scented lime<text:line-break/>Should hear my living feet, nor would I tread<text:line-break/>Where we wrought that shall break the teeth of time.<text:line-break/>Let the new faces play what tricks they will<text:line-break/>In the old rooms; night can outbalance day,<text:line-break/>Our shadows rove the garden gravel still,<text:line-break/>The living seem more shadowy than they.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">A Prayer For My Son</text:h>
+   <table:table table:name="Table10" table:style-name="Table10">
+    <table:table-column table:style-name="Table10.A"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table10.A1" office:value-type="string">
+      <text:p text:style-name="P12">Bid a strong ghost stand at the head<text:line-break/>That my Michael may sleep sound,<text:line-break/>Nor cry, nor turn in the bed<text:line-break/>Till his morning meal come round;<text:line-break/>And may departing twilight keep<text:line-break/>All dread afar till morning’s back<text:line-break/>That his mother may not lack<text:line-break/>Her fill of sleep.</text:p>
+      <text:p text:style-name="P12">Bid the ghost have sword in hand:<text:line-break/>There are malicious things, although<text:line-break/>Few dream that they exist,<text:line-break/>Who have planned his murder, for they know<text:line-break/>Of some most haughty deed or thought<text:line-break/>That waits upon his future days,<text:line-break/>And would through hatred of the bays<text:line-break/>Bring that to nought.<text:line-break/>Though You can fashion everything<text:line-break/>From nothing every day, and teach<text:line-break/>The morning stars to sing,<text:line-break/>You have lacked articulate speech<text:line-break/>To tell Your simplest want, and known,<text:line-break/>Wailing upon a woman’s knee,<text:line-break/>All of that worst ignominy<text:line-break/>Of flesh and bone;<text:line-break/>And when through all the town there ran<text:line-break/><text:soft-page-break/>The servants of Your enemy<text:line-break/>A woman and a man,<text:line-break/>Unless the Holy Writings lie,<text:line-break/>Have borne You through the smooth and rough</text:p>
+      <text:p text:style-name="P12">And through the fertile and waste,<text:line-break/>Protecting till the danger past<text:line-break/>With human love.</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Cuchulain The Girl And The Fool</text:h>
+   <text:p text:style-name="lg">THE GIRL.<text:line-break/>I am jealous of the looks men turn on you<text:line-break/>For all men love your worth; and I must rage<text:line-break/>At my own image in the looking-glass<text:line-break/>That’s so unlike myself that when you praise it<text:line-break/>It is as though you praise another, or even<text:line-break/>Mock me with praise of my mere opposite;<text:line-break/>And when I wake towards morn I dread myself<text:line-break/>For the heart cries that what deception wins<text:line-break/>My cruelty must keep; and so begone<text:line-break/>If you have seen that image and not my worth.<text:line-break/>CUCHULAIN.<text:line-break/>All men have praised my strength but not my worth.<text:line-break/>THE GIRL.<text:line-break/>If you are no more strength than I am beauty<text:line-break/>I will find out some cavern in the hills<text:line-break/>And live among the ancient holy men,<text:line-break/>For they at least have all men’s reverence<text:line-break/><text:line-break/>And have no need of cruelty to keep<text:line-break/>What no deception won.<text:line-break/>CUCHULAIN.<text:line-break/>I have heard them say<text:line-break/>That men have reverence for their holiness<text:line-break/>And not their worth.<text:line-break/>THE GIRL.<text:line-break/><text:soft-page-break/>God loves us for our worth;<text:line-break/>But what care I that long for a man’s love.<text:line-break/>THE FOOL BY THE ROADSIDE.<text:line-break/>When my days that have<text:line-break/>From cradle run to grave<text:line-break/>From grave to cradle run instead;<text:line-break/>When thoughts that a fool<text:line-break/>Has wound upon a spool<text:line-break/>Are but loose thread, are but loose thread;<text:line-break/>When cradle and spool are past<text:line-break/>And I mere shade at last<text:line-break/>Coagulate of stuff<text:line-break/>Transparent like the wind,<text:line-break/>I think that I may find<text:line-break/>A faithful love, a faithful love.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">The Wheel</text:h>
+   <table:table table:name="Table12" table:style-name="Table12">
+    <table:table-column table:style-name="Table12.A"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table12.A1" office:value-type="string">
+      <text:p text:style-name="First_20_paragraph">Through winter-time we call on spring,</text:p>
+      <text:p text:style-name="Text_20_body">And through the spring on summer call,</text:p>
+      <text:p text:style-name="Text_20_body">And when abounding hedges sing</text:p>
+      <text:p text:style-name="Text_20_body">Declare that winter’s best of all;</text:p>
+      <text:p text:style-name="Text_20_body">And after that there’s nothing good</text:p>
+      <text:p text:style-name="Text_20_body">Because the spring-time has not come—</text:p>
+      <text:p text:style-name="Text_20_body">Nor know that what disturbs our blood</text:p>
+      <text:p text:style-name="Text_20_body">Is but its longing for the tomb.</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">A New End For ‘The King’s Threshold’</text:h>
+   <table:table table:name="Table13" table:style-name="Table13">
+    <table:table-column table:style-name="Table13.A"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table13.A1" office:value-type="string">
+      <text:p text:style-name="First_20_paragraph">YOUNGEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">Die Seanchan and proclaim the right of the poets.</text:p>
+      <text:p text:style-name="Text_20_body">SEANCHAN.</text:p>
+      <text:p text:style-name="Text_20_body">Come nearer me, that I may know how face</text:p>
+      <text:p text:style-name="Text_20_body">Differs from face, and touch you with my hands.</text:p>
+      <text:p text:style-name="Text_20_body">O more than kin, O more than children could be,</text:p>
+      <text:p text:style-name="Text_20_body">For children are but born out of our blood</text:p>
+      <text:p text:style-name="Text_20_body">And share our frailty. O my chicks, my chicks,</text:p>
+      <text:p text:style-name="Text_20_body">That I have nourished underneath my wings</text:p>
+      <text:p text:style-name="Text_20_body">And fed upon my soul. (He stands up and begins to walk</text:p>
+      <text:p text:style-name="Text_20_body"/>
+      <text:p text:style-name="Text_20_body">down steps) I need no help.</text:p>
+      <text:p text:style-name="Text_20_body">He needs no help that joy has lifted up</text:p>
+      <text:p text:style-name="Text_20_body">Like some miraculous beast out of Ezekiel.</text:p>
+      <text:p text:style-name="Text_20_body">The man that dies has the chief part in the story,</text:p>
+      <text:p text:style-name="Text_20_body">And I will mock and mock and mock that image yonder</text:p>
+      <text:p text:style-name="Text_20_body">That evil picture in the sky—no, no—</text:p>
+      <text:p text:style-name="Text_20_body">I have all my strength again, I will outface it.</text:p>
+      <text:p text:style-name="Text_20_body">O look upon the moon that’s standing there</text:p>
+      <text:p text:style-name="Text_20_body">In the blue daylight—notice her complexion</text:p>
+      <text:p text:style-name="Text_20_body">Because it is the white of leprosy</text:p>
+      <text:p text:style-name="Text_20_body"><text:soft-page-break/>And the contagion that afflicts mankind</text:p>
+      <text:p text:style-name="Text_20_body">Falls from the moon. When I and these are dead</text:p>
+      <text:p text:style-name="Text_20_body">We should be carried to some windy hill</text:p>
+      <text:p text:style-name="Text_20_body">To lie there with uncovered face awhile</text:p>
+      <text:p text:style-name="Text_20_body">That mankind and that leper there may know</text:p>
+      <text:p text:style-name="Text_20_body">Dead faces laugh.</text:p>
+      <text:p text:style-name="Text_20_body">(He falls and then half rises.)</text:p>
+      <text:p text:style-name="Text_20_body">King, king, dead faces laugh.</text:p>
+      <text:p text:style-name="Text_20_body">(He dies)</text:p>
+      <text:p text:style-name="Text_20_body">OLDEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">King, king, he is dead; some strange triumphant thought</text:p>
+      <text:p text:style-name="Text_20_body">So filled his heart with joy that it has burst</text:p>
+      <text:p text:style-name="Text_20_body">Being grown too mighty for our frailty,</text:p>
+      <text:p text:style-name="Text_20_body"/>
+      <text:p text:style-name="Text_20_body">And we who gaze grow like him and abhor</text:p>
+      <text:p text:style-name="Text_20_body">The moments that come between us and that death</text:p>
+      <text:p text:style-name="Text_20_body">You promised us.</text:p>
+      <text:p text:style-name="Text_20_body">KING.</text:p>
+      <text:p text:style-name="Text_20_body">Take up his body.</text:p>
+      <text:p text:style-name="Text_20_body">Go where you please and lay it where you please,</text:p>
+      <text:p text:style-name="Text_20_body">So that I cannot see his face or any</text:p>
+      <text:p text:style-name="Text_20_body"><text:soft-page-break/>That cried him towards his death.</text:p>
+      <text:p text:style-name="Text_20_body">YOUNGEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">Dead faces laugh!</text:p>
+      <text:p text:style-name="Text_20_body">The ancient right is gone, the new remains</text:p>
+      <text:p text:style-name="Text_20_body">And that is death.</text:p>
+      <text:p text:style-name="Text_20_body">(They go towards the king holding out their halters)</text:p>
+      <text:p text:style-name="Text_20_body">We are impatient men,</text:p>
+      <text:p text:style-name="Text_20_body">So gather up the halters in your hands.</text:p>
+      <text:p text:style-name="Text_20_body">KING.</text:p>
+      <text:p text:style-name="Text_20_body">Drive them away.</text:p>
+      <text:p text:style-name="Text_20_body">(He goes into the palace. The soldiers block the way before</text:p>
+      <text:p text:style-name="Text_20_body">the pupils.)</text:p>
+      <text:p text:style-name="Text_20_body">SOLDIER.</text:p>
+      <text:p text:style-name="Text_20_body">Here is no place for you,</text:p>
+      <text:p text:style-name="Text_20_body">For he and his pretensions now are finished.</text:p>
+      <text:p text:style-name="Text_20_body">Begone before the men at arms are bidden</text:p>
+      <text:p text:style-name="Text_20_body"/>
+      <text:p text:style-name="Text_20_body">To hurl you from the door.</text:p>
+      <text:p text:style-name="Text_20_body">OLDEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">Take up his body</text:p>
+      <text:p text:style-name="Text_20_body">And cry that driven from the populous door</text:p>
+      <text:p text:style-name="Text_20_body"><text:soft-page-break/>He seeks high waters and the mountain birds</text:p>
+      <text:p text:style-name="Text_20_body">To claim a portion of their solitude.</text:p>
+      <text:p text:style-name="Text_20_body">(They make a litter with cloak and staffs and lay Seanchan</text:p>
+      <text:p text:style-name="Text_20_body">on it.)</text:p>
+      <text:p text:style-name="Text_20_body">YOUNGEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">And cry that when they took his ancient right</text:p>
+      <text:p text:style-name="Text_20_body">They took all common sleep; therefore he claims</text:p>
+      <text:p text:style-name="Text_20_body">The mountain for his mattress and his pillow.</text:p>
+      <text:p text:style-name="Text_20_body">OLDEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">And there he can sleep on, not noticing</text:p>
+      <text:p text:style-name="Text_20_body">Although the world be changed from worse to worse,</text:p>
+      <text:p text:style-name="Text_20_body">Amid the changeless clamour of the curlew.</text:p>
+      <text:p text:style-name="Text_20_body">(They raise the litter on their shoulders and move a few steps)</text:p>
+      <text:p text:style-name="Text_20_body">YOUNGEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">(motioning to them to stop)</text:p>
+      <text:p text:style-name="Text_20_body">Yet make triumphant music; sing aloud</text:p>
+      <text:p text:style-name="Text_20_body">For coming times will bless what he has blessed</text:p>
+      <text:p text:style-name="Text_20_body">And curse what he has cursed.</text:p>
+      <text:p text:style-name="Text_20_body"/>
+      <text:p text:style-name="Text_20_body">OLDEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">No, no, be still;</text:p>
+      <text:p text:style-name="Text_20_body"><text:soft-page-break/>Or pluck a solemn music from the strings.</text:p>
+      <text:p text:style-name="Text_20_body">You wrong his greatness speaking so of triumph.</text:p>
+      <text:p text:style-name="Text_20_body">YOUNGEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">O silver trumpets, be you lifted up</text:p>
+      <text:p text:style-name="Text_20_body">And cry to the great race that is to come.</text:p>
+      <text:p text:style-name="Text_20_body">Long-throated swans upon the waves of time</text:p>
+      <text:p text:style-name="Text_20_body">Sing loudly, for beyond the wall of the world</text:p>
+      <text:p text:style-name="Text_20_body">That race may hear our music and awake.</text:p>
+      <text:p text:style-name="Text_20_body">OLDEST PUPIL.</text:p>
+      <text:p text:style-name="Text_20_body">(motioning the musicians to lower their trumpets)</text:p>
+      <text:p text:style-name="Text_20_body">Not what it leaves behind it in the light</text:p>
+      <text:p text:style-name="Text_20_body">But what it carries with it to the dark</text:p>
+      <text:p text:style-name="Text_20_body">Exalts the soul; nor song nor trumpet-blast</text:p>
+      <text:p text:style-name="Text_20_body">Can call up races from the worsening world</text:p>
+      <text:p text:style-name="Text_20_body">To mend the wrong and mar the solitude</text:p>
+      <text:p text:style-name="Text_20_body">Of the great shade we follow to the tomb.</text:p>
+      <text:p text:style-name="Text_20_body">(Fedelm and the pupils go out carrying the litter. Some play</text:p>
+      <text:p text:style-name="Text_20_body">a mournful music.)</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Note On ‘Thoughts Upon The Present State Of The World’ Section Six.</text:h>
+   <text:p text:style-name="First_20_paragraph">The country people see at times certain apparitions whom they name now ‘fallen angels’ now ‘ancient inhabitants of the country,’ and describe as riding at whiles ‘with flowers upon the heads of the horses.’ I have assumed in the sixth poem that these horsemen, now that the times worsen, give way to worse. My last symbol Robert Artisson was an evil spirit much run after in Kilkenny at the start of the fourteenth century. Are not those who travel in the whirling dust also in the Platonic Year?—W. B. Y.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Note On The New End To ‘The King’s Threshold’</text:h>
+   <text:p text:style-name="First_20_paragraph">Upon the revival of this play at the Abbey Theatre a few weeks ago it was played with this new end. There were a few other changes. I had originally intended to end the play tragically and would have done so but for a friend who used to say ‘O do write comedy &amp; have a few happy moments in the Theatre.’ My unhappy moments were because a tragic effect is very fragile and a wrong intonation, or even a wrong light or costume will spoil it all. However the play remained always of the nature of tragedy and so subject to vicissitude.</text:p>
+   <text:p text:style-name="Text_20_body">Here ends, ‘Seven Poems and a Fragment:’ by William Butler Yeats: with a decoration by T. Sturge Moore. Five hundred copies of this book have been printed and published by Elizabeth Corbet Yeats on paper made in Ireland, at the Cuala Press, Churchtown, Dundrum, in the County of Dublin, Ireland. Finished in the third week of April in the year nineteen hundred and twenty-two.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"> </text:p>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="P6">*** END OF THIS PROJECT GUTENBERG EBOOK ***</text:p>
+   <text:p text:style-name="P6">Updated editions will replace the previous one—the old editions will be renamed.</text:p>
+   <text:p text:style-name="P6">Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and <text:soft-page-break/>distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</text:p>
+   <text:p text:style-name="P6">START: FULL LICENSE</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">The Full Project Gutenberg License</text:h>
+   <text:p text:style-name="P4">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</text:p>
+   <text:p text:style-name="P6">To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</text:p>
+   <text:p text:style-name="P6">Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P6">1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</text:p>
+   <text:p text:style-name="P6">1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</text:p>
+   <text:p text:style-name="P6">1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</text:p>
+   <text:p text:style-name="P6">1.E. Unless you have removed all references to Project Gutenberg:</text:p>
+   <text:p text:style-name="P6">1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:soft-page-break/><text:span text:style-name="T1">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P6">1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P6">1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</text:p>
+   <text:p text:style-name="P6">1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</text:p>
+   <text:p text:style-name="P6">1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to <text:soft-page-break/>the full terms of the Project Gutenberg™ License.</text:p>
+   <text:p text:style-name="P6">1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</text:p>
+   <text:p text:style-name="P6">1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P6">1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</text:p>
+   <text:p text:style-name="P6">• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</text:p>
+   <text:p text:style-name="P6">• You provide a full refund of any money paid by a user who notifies you in <text:soft-page-break/>writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P6">• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</text:p>
+   <text:p text:style-name="P6">• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P6">1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</text:p>
+   <text:p text:style-name="P6">1.F.</text:p>
+   <text:p text:style-name="P6">1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</text:p>
+   <text:p text:style-name="P6">1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the <text:soft-page-break/>“Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</text:p>
+   <text:p text:style-name="P6">1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</text:p>
+   <text:p text:style-name="P6">1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</text:p>
+   <text:p text:style-name="P6">1.F.5. Some states do not allow disclaimers of certain implied warranties or <text:soft-page-break/>the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</text:p>
+   <text:p text:style-name="P6">1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</text:p>
+   <text:p text:style-name="P6">Section 2. Information about the Mission of Project Gutenberg™</text:p>
+   <text:p text:style-name="P6">Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</text:p>
+   <text:p text:style-name="P6">Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project <text:soft-page-break/>Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</text:p>
+   <text:p text:style-name="P6">Section 3. Information about the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P6">The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</text:p>
+   <text:p text:style-name="P6">The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</text:p>
+   <text:p text:style-name="P6">Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P6">Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much </text:span><text:soft-page-break/><text:span text:style-name="T1">paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/donate/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org/donate</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P6">While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</text:p>
+   <text:p text:style-name="P6">International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</text:p>
+   <text:p text:style-name="P6">Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</text:p>
+   <text:p text:style-name="P6">Section 5. General Information About Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P6">Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</text:p>
+   <text:p text:style-name="P6">Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Most people start at our website which has the main PG search facility: </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</text:p>
+   <text:p text:style-name="Subtitle">The Project Gutenberg eBook of Seven Poems and a Fragment, by W. B. Yeats</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T1">This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the </text:span><text:a xlink:type="simple" xlink:href="#538886287649856570_31959-h-1.htm.xhtml#project-gutenberg-license" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">Project Gutenberg License</text:span></text:span></text:a><text:span text:style-name="T1"> included with this ebook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/license" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">https://www.gutenberg.org/license</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2">Title</text:span><text:span text:style-name="T1">: Seven Poems and a Fragment</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2">Author</text:span><text:span text:style-name="T1">: W. B. Yeats</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2">Release Date</text:span><text:span text:style-name="T1">: April 12, 2010 [EBook #31959]</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2">Language</text:span><text:span text:style-name="T1">: English</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T2">Credits</text:span><text:span text:style-name="T1">: Produced by Marius Masi, Meredith Bach and the Online Distributed Proofreading Team at http://www.pgdp.net</text:span></text:p>
+   <text:p text:style-name="P8"><text:line-break/></text:p>
+   <text:p text:style-name="P7">*** START OF THIS PROJECT GUTENBERG EBOOK ***</text:p>
+  </office:text>
+ </office:body>
+</office:document>

@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Germaine Berton, die rote Jungfrau</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>Yvan Goll</meta:initial-creator>
+    
+    <meta:creation-date>2022-11-06T14:53:38Z</meta:creation-date>
+    <dc:date>2022-11-08T16:05:20.019112606</dc:date>
+    
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT2M50S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="37" meta:paragraph-count="218" meta:word-count="11956" meta:character-count="77676" meta:non-whitespace-character-count="65911"/><meta:user-defined meta:name="contributor"/><meta:user-defined meta:name="date"/><meta:user-defined meta:name="identifier">http://www.gutenberg.org/65644</meta:user-defined><meta:user-defined meta:name="language">de</meta:user-defined><meta:user-defined meta:name="rights" meta:value-type="string">Public domain in the USA.</meta:user-defined><meta:user-defined meta:name="source" meta:value-type="string">https://www.gutenberg.org/files/65644/65644-h/65644-h.htm</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">25931</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17782</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13996</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">7534</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">25929</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17780</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1493122</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0016c882" officeooo:paragraph-rsid="0016c882"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">37</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">Germaine Berton, die rote Jungfrau</text:p>
+   <text:p text:style-name="Author">Yvan Goll</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Germaine Berton, die rote Jungfrau</text:h>
+   <text:p text:style-name="Date">2022-07-29T12:46:37.926090+00:002021-06-19</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P5">AUSSENSEITER DER GESELLSCHAFT<text:line-break/>– DIE VERBRECHEN DER GEGENWART –</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">AUSSENSEITER<text:line-break/>DER GESELLSCHAFT<text:line-break/>– DIE VERBRECHEN DER GEGENWART –</text:p>
+   <text:p text:style-name="P5">HERAUSGEGEBEN VON<text:line-break/>RUDOLF LEONHARD</text:p>
+   <text:p text:style-name="P5">BAND 5</text:p>
+   <text:p text:style-name="P5">VERLAG DIE SCHMIEDE<text:line-break/>BERLIN</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">VON<text:line-break/>IWAN GOLL</text:p>
+   <text:p text:style-name="P5"><text:soft-page-break/>VERLAG DIE SCHMIEDE<text:line-break/>BERLIN</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">EINBANDENTWURF<text:line-break/>GEORG SALTER<text:line-break/>BERLIN</text:p>
+   <text:p text:style-name="P5">EIN SELBSTPORTRÄT<text:line-break/>VON GERMAINE BERTON<text:line-break/>UND FÜNF ZEICHNUNGEN</text:p>
+   <text:p text:style-name="P5">Copyright 1925 by Verlag Die Schmiede Berlin</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">Selbstbildnis</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P3" text:outline-level="2"><text:bookmark text:name="7770129933670837057_65644-h-6.htm.html#part-1"/>*</text:h>
+   <text:p text:style-name="First_20_paragraph">Nach dem Krieg. Nach dem Frieden. Frankreich fiebert. Fieber ist der Kampf zwischen heiß und kalt. Geht es nach rechts? Geht es nach links? Eine bestimmte Krankheit ist nicht zu konstatieren, aber um so gefährlicher ist jeder Millimeter der Kurve. Das Tamtam des Sieges ist groß, aber das Schweigen der Massen ist imposant. 1920 wirft ein Streik einen roten Schein in die Nacht. Paris ist die Stätte der ehrfurchtgebietenden Patina, die ererbten Ideologien leben im Volke weiter, wie Bart und Nägel an den Kadavern weiter wachsen. In Wirklichkeit hat die russische Revolution die Weltgeschichte mit einem Ruck um Jahrhunderte weiter gebracht: aber Frankreich lebt noch nach alten Kalendern, mit den entwerteten dreiprozentigen Renten und einer Ideologie, die aus feinem Weißbrot ist, aber schon acht Tage altem, ungenießbar gewordenem Weißbrot, an dem man sich die Zähne zerbricht. Die sozialistischen Köpfe selbst leben von ererbtem Gut, von Jules Guesde und Vaillant, und glauben an die Namen von vor 1914. Aber von der Front stürmen junge Männer zurück, die riechen nach Blut, die haben einen Wind vom weiten Europa herüberwehen hören, und schütten ihn jetzt auf den öffentlichen Plätzen aus, in den Wahlversammlungen, in den Meetings. Sie sind die Abgeordneten der Kriegsbetrogenen im Ballsaal der Geretteten. Sie gründen Clarté, mit Barbusse zusammen. Es ist eine wirre, neblige Zeit. Das Gespenst der Revolution wird auf den Boulevards herumgetragen: eine freche, rotbärtige Fratze, mit einem Messer zwischen den Zähnen, das ist das Wahlplakat der Reaktion gegen den Kommunismus. Der Bürger hat aber genug Blut gehabt, er braucht Ruhe. Die Amerikaner haben Montmartre besetzt gehalten, und die Hotels Meublés, die Bäckereien, die Dancings verzehnfachen ihre Einnahmen. Das Volk wählt für die berühmte Ordnung der Kassa.</text:p>
+   <text:p text:style-name="Text_20_body">Der Zorn des Parti Socialiste schlägt nach innen. Das Geschwür ist nicht gereift, die Blutzirkulation ist zerstört und vergiftet. Nun kommen Handel und Händel mit Moskau. Auf dem berühmten Kongreß von Tours tritt der Parti in die III. Internationale ein. Aber nur die Partei: dem individualistischen Franzosen behagt kein Papsttum, er versucht die eisigen Dekrete Rußlands auf seine Körper- und Seelenmaße umzumildern. Die Diktatur meint es anders. Und langsam krachen die Fugen des Hauses. Die linke Minorität hat einen Augenblick noch die Oberhand und erobert definitiv im nächsten Pariser Kongreß die Humanité mit allem Drum und Dran, und die tatsächliche Erbfolge Jaurès. Der Parti Socialiste, mit Blum und Renaudel, glitscht langsam in den Parlamentarismus zurück.</text:p>
+   <text:p text:style-name="Text_20_body">Viele Arbeiter, angeekelt von den politischen Umtrieben der Führer, sehen sich nach was anderem um. Da ist die Anarchie. Sie ist eine lockende Illusion, sie negiert Staat, jegliche <text:soft-page-break/>Autorität und proklamiert die Freiheit des Individuums. Ziel: die arbeitenden Massen sollen Arbeitsgemeinschaften bilden und alle Produktionsmöglichkeiten an sich reißen. Keine Politik, direkte Tat. Es ist nur eine Illusion. Aber sie tröstet. Viele kommen zu ihr.</text:p>
+   <text:p text:style-name="Text_20_body">In den Pariser Faubourgs gedeiht eine eigentümliche Fauna. Nirgends, wie sonst in Vorstädten, der Geruch von Armut oder Elend. Fast ein behäbiges Leben. Die proletarischen Allüren immer menschlich und zivilisiert. Irgendwo ist der kleine Mann immer ein Monsieur. Äußerlich fast ein Bürger: auch die Casquette, auch der rote Gürtel sind elegant. Sonntags nimmt man den Amer Picon auf der Terrasse der Cafés und bringt ein Dutzend Austern zu 1 Franken heim. „Ich will, daß jeder am Sonntag seine frischen Austern habe,“ könnte Herriot ausrufen. Aber dazu liest man die „Humanité“. Und das Frondeurherz ist leicht in Schwingung zu bringen. Die Luft von Paris erinnert immer an Frühling. In den Faubourgs wächst viel Flieder. Die Seine ist ein grüner Sirenenleib. Der Mont Valérien und hinter ihm die wilden Hügel von Saint Cloud besänftigen jedes Auge. Es gibt kein Whitechapel, kein Moabit. Es gibt zwar die Fortifikationen, hinter denen in einem unentwirrbaren Dschungel von seltsamen, aus Latten, Flanken, Papier und Wellblechstückchen zusammengesetzten Hütten eine bis zum heutigen Tage (so geht die Sage) von der Polizei noch nicht durchforschte Menschheit lebt. Aber ich glaube, daß diese Apachenwelt mehr der Romantik angehört als der Wirklichkeit.</text:p>
+   <text:p text:style-name="Text_20_body">In diesen Faubourgs wurde Germaine Berton groß. Sie ist am 7. Juni 1902 in Puteaux geboren. Ihr Vater besaß ein kleines Atelier für mechanische Reparaturen. Er hatte einen solchen Drang zur Unabhängigkeit, daß er es in einer großen Fabrik nicht aushielt und lieber so sein Leben fristete. Auch blieb er nicht lange an einem Ort. Er zog später nach Nanterre, und dann immer etwas weiter von der Stadt, immer etwas tiefer ins Provinzielle. Vater und Tochter liebten die pittoreske Halbnatur der Vororte und machten gemeinsam große Spaziergänge mit ihrem kleinen Hündchen Kiki. Germaine war äußerst sentimental: sie liebte die Blumen, die Landschaften, die Tiere und die armen Leute. Ihr später sich immer mehr entwickelndes Freiheitsgefühl kommt bestimmt aus einer gewissen verdrängten lyrischen Sehnsucht heraus. Weil ihr zur Dichterin die Tiefe fehlte, wurde sie zur Mörderin. Zum Morde gehört ebensoviel Inspiration wie zur Erschaffung eines „Bateau Ivre“. Beide entspringen einem Überschwang des Lebenstempos. Beide sind Siedepunkte eines seelischen Überschwelgens.</text:p>
+   <text:p text:style-name="Text_20_body">Die ganze Atmosphäre der Banlieue verdichtete sich in dem kleinen Herzen dieses Mädchens. Wenn der Vater einen Trupp blitzblanker Soldaten vorbeiziehen sah, machte er seine Witze und verzog spöttisch die Lippen. Der Franzose ist ein guter Patriot, aber er haßt die Armee, weil sie ein Institut gegen die persönliche Freiheit ist. Er ist ein guter Soldat, aber er verachtet seine Vorgesetzten. Er hat den akutesten Instinkt für Freiheit. Jeder ist Individuum, jeder ein Ganzes. Jeder denkt, kritisiert, urteilt, schimpft. Nirgends wird soviel geflucht. Aber nirgends hat man auch soviel Geduld, mit sich und den anderen. Es geht so lange gut, als die Menschenwürde <text:soft-page-break/>nicht angetastet wird, nirgends ist die Freiheit des Lebens vollkommener. Der Kommunismus ist eine schöne Sache. Aber bringt er dem Individuum größere Freiheit? Hier liegt der Grund, warum er in Frankreich so langsam fortschreitet.</text:p>
+   <text:p text:style-name="Text_20_body">Endlich siedelt der Vater nach Tours über und eröffnet dort eine Werkstatt mit zehn Arbeitern. Er hat sich emporgeschwungen. Germaine huscht zwischen den Motoren, beschmutzt sich die Finger mit Öl und mit Pech, ist ein schäkernder Kobold unter den Arbeitern. Sie lernt schnell eine Dynamomaschine auseinandernehmen. Sie hat die Gelenkigkeit eines Knaben. Ein andermal schleicht sie auf den Speicher hinauf, macht sich über einen verbotenen Bücherkorb und verschlingt dort tagelang die Werke von Voltaire, Victor Hugo, France, Zola, Kant, Sammlungen von Witzblättern und Schriften über die Freimaurerei. Dann gibt es Tage, da läuft sie an die Ufer der seidenen Loire, streift durch die Wiesen, verliebt sich in die Bäume, in die Vögel, in die Sonne.</text:p>
+   <text:p text:style-name="Text_20_body">Der Vater will sie bürgerlich erziehen. Sie kommt in eine Zeichenschule und glaubt eine Künstlerin zu werden. Ihre Wildheit erfaßt ihre Kameraden. Auf dem Heimweg von der Schule skandalisiert sie die Bürger der kleinen tugendhaften Stadt. Im Sturmschritt durchläuft sie die Stationen einer Jugend. Einige Wochen lang Fanatikerin des Sports, lernt sie die Namen aller Radfahrer und Boxer auswendig. Sie schillert wie Quecksilber. Wohin sie kommt, ist Bewegung, Aufruhr.</text:p>
+   <text:p text:style-name="Text_20_body">Mit dreizehn Jahren liebt sie. Es gehört in ihr Schicksal, daß der Krieg den Auserwählten abruft. Vierzehn Tage lang irrt sie in ihrem Schmerz herum, verkriecht sich in der St. Martinskirche und kehrt nicht mehr heim. Zum erstenmal denkt sie an Selbstmord. Derselbe mystische Hang durchzieht ihr ganzes Leben. Wir werden sie später noch einmal in einer Kirche mit Selbstmordgedanken antreffen. Der Hang zum Opfer und zum Leide treibt sie in die Felder hinaus, und mitten in einem sentimental purpurnen Sonnenuntergang läßt sie sich in die Wellen der rauschenden Loire gleiten. Aber ein Mann hat sie beobachtet. Die Trambahn von Vouvray nach Tours fährt gerade vorbei, und sie läßt sich retten.</text:p>
+   <text:p text:style-name="Text_20_body">Kurze Zeit darauf stirbt ihr Vater. Die Hoffnungen eines bürgerlichen Mädchendaseins zerschellen. Die Mutter bleibt arm zurück. Germaine wird arbeiten müssen. Sie flieht nach Paris. Gibt es ein anderes Ideal für ein junges Gemüt in der Provinz, als eine Flucht nach Paris? Diese gehört fast in jede Biographie. Täglich berichten die Zeitungen von der Ankunft kleiner Schüler in der Gare de l’Est oder Gare de Lyon: sie haben etwas gestohlenes Geld in der Tasche, einige Bücher unter dem Arm, sie finden nicht heraus aus dem Trubel der Automobile und Menschenjäger, sie wagen sich nicht in ein Hotel und werden meistens kraftlos auf einer Bank auf den Boulevards von einem gutmütigen Schutzmann aufgefunden.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P3" text:outline-level="2"><text:bookmark text:name="7770129933670837057_65644-h-7.htm.html#part-2"/>*</text:h>
+   <text:p text:style-name="First_20_paragraph">Die verschiedenen Quartiere und Straßen von Paris sind von verschiedenen Atmosphären getragen. Wie Provinzen scheiden sie sich streng voneinander ab. Die Rue Montmartre zwischen den Boulevards und den Hallen ist die Lunge von Paris. Auf der Börse wird jede Minute der Pulsschlag von Europa ausgerufen. Die Schreie erschüttern den Platz davor wie Meeresrauschen. In den Hallen werden die vergänglichen Werte der Erde ausgeschrien und in der Rue Montmartre mitten zwischen diesen entstehen die Zeitungen, die den ganzen Lärm, die Predigten und die Flüche der Welt weiter verbreiten. Hier wird Ruhm und Dekadenz eines jeden Tages geschaffen und vernichtet. In einem einzigen Haus dieser Straße, der Nummer 142, befinden sich die Redaktionen sämtlicher Gesinnungen Frankreichs. Im Erdgeschoß ist es „La Presse“, das populäre Bürgerblatt des Nachmittags, das mit feisten Titeln das Geschehen der Welt umlügt. Ein Stockwerk darüber „Le Jockey“, in welchem täglich für die Müßiggänger von Auteuil und Longchamps die Chancen der Pferde mit den mythologischen Namen ausgerechnet und verzinst werden. Auf derselben Treppe links „La Victoire“, in der der einstige Anarchist Gustave Hervé die Aussprüche Millerands zu biblischen Gesetzen stempelt. Im zweiten Stockwerk rechts „l’Humanité“, wo die Türen fliegen, die Winde ein- und auspoltern und die jungen Revolutionäre Frankreichs unter der väterlichen Führung Marcel Cachins und dem übersprudelnden Temperament Vaillant-Couturiers russische Ukase diktieren. Gegenüber „Bonsoir“, das frivole Abendblättchen der Flaneure, in dem die letzte Indiskretion über die Tänzerin Mistinguett, das letzte Telegramm und die letzten Börsenkurse verraten werden. Wenn man in dem Hause gut suchte, fände man bestimmt noch ganz andere Unternehmungen und Gesinnungen. Es ist die Pandorabüchse von Paris. Es ist die elektrische Zentrale, von der aus die Kräfte und die Leidenschaften in Strömen übers ganze Land ausgesandt werden. Vom Keller bis zu den Dachziegeln müssen da Bomben aus den verschiedensten internationalen Explosivstoffen versteckt sein. Vielleicht verbindet sie alle ein- und dieselbe Zündschnur? Wenn es einmal in Frankreich zum Bürgerkrieg kommen sollte (es ist noch weit bis dahin), dann müßte eine kluge Regierung statt aller Maßnahmen den Befehl geben, dies Haus einzuschießen. Die Ruhe im Lande wäre automatisch wiederhergestellt: Eine moderne Lösung des Horatier- und Kuriatierproblems.</text:p>
+   <text:p text:style-name="Text_20_body">Gerade gegenüber, die andere Ecke der Rue du Croissant bildend, steht das Café, in welchem Jaurès am 31. Juli 1914 abends von Raoul Villain hinterrücks erschossen wurde: eine Kugel durch die Fensterscheibe in den Nacken. Jaurès kam gerade von der Humanité, erschöpft von diesem schweren Tag, an dem er zum letztenmal den europäischen Krieg hatte verhindern wollen. Er hatte sich mit der ganzen Wucht seines Körpers und seines Geistes gegen die Lawine gestemmt: <text:soft-page-break/>und er war ihr erstes Opfer. Heute trägt das Etablissement neben verschiedenen Malereien, die französische Kolonialsoldaten darstellen, eine Inschrift: „Ici Jean Jaurès fut assassiné.“ Aber auch die Nummer 123 der Rue Montmartre, gerade gegenüber, wird einmal eine historische Bedeutung haben. Das Haus, das einmal stattlich war, ist schwarz angelaufen, vermorscht, verpilzt: Ein dunkler mit dereinst dorischen Säulen bestandener Torweg führt auf einen kleinen Lichthof von kaum mehr als drei Quadratmeter Umfang. Es riecht nach Fusel, nach Fett, nach Kloaken, nach Druckerschwärze. Den ganzen Tag brennt die Petroleumlampe in der Conciergenloge, in der es eine bronzene Uhr, chinesische Vasen mit naiven, echten Feldblumen, Photographien, Kalender und ein strahlendes kleines Mädchen gibt: seltsame Insel der bürgerlichen moralischen Reinheit und Ruhe, der familiären und gnadenreichen Gelassenheit. „Le Libertaire, eine Treppe links,“ ruft das Mädchen. Man tappt in einen Höhlenschlund hinein, eine Stiege quält sich aufwärts bis zu zwei engen Türen, die einander ganz gleich sind. An der ersten steht ein Schild: „Cupidon“, ein leckerer, rosiger Amor macht Miene, sich mit einem Pfeil zu durchbohren. Hier wird die satirische amouröse Zeitschrift gemacht, in der alle Laster und Naivitäten einer vergehenden Welt für einen Franken erhältlich sind. Aber die nächste Tür steht weit offen: Grelles Licht, grelle Affichen in einem kleinen Raum, in dem zwei Tische und zwölf junge Menschen herumstehen (zum Sitzen wäre kein Platz), rauchen, lachen und diskutieren. Da ist André Colomer, mit langen schwarzen Locken wie die Bohémiens von 1860, still, leutselig, immer eine Hoffnung im Auge. Da ist mit seiner zarten, fast mädchenhaften Stimme Georges Vidal, der maskierte Poet. Zehn andere sind da, junge Leute, ganz elegant, mit Regenmänteln und modernen Krawatten, und einige Mädchen, rot und schwarz geschminkt und voll starker Gesinnung. Und da ist Germaine Berton, von allen umringt, die Augen dunkelblau gewitternd, den Mund scharf geschnitten und verschlossen wie ein Siegel, das man aufbrechen müßte (um erst in die Geheimkammer der Frau zu gelangen), die Nasenflügel in Stolz und Leidenschaft wie die eines Rennpferdes vibrierend. Sie spricht leise, aber sie befiehlt, sie will. Alle hören ihr interessiert zu, die Jungen machen keine schlechten Witze, es geht um hohe Fragen.</text:p>
+   <text:p text:style-name="Text_20_body">Da ist Germaine Berton, und keiner weiß um ihr Geheimnis. Sie arbeitet nicht, drei Wochen lang lebt sie mit Lecoin, dann wieder irrt sie durch Paris, zwei Wochen ist sie die Freundin Goharys und wieder verschwindet sie wie eine Schwalbe. Keiner weiß von ihr: daß sie eine Erleuchtete ist, eine Art Jungfrau von Domrémy wäre, wenn die Zeit sie brauchte. Aber die Zeit ist daran schuld, ob sich ein Mensch groß oder klein auf sie projiziert. Dies Mädchen mit dem reinen, fast angelischen Aussehen birgt in sich den klarsten Verstand und die dunkelsten Abgründe. Sie ist Hure und Heilige zugleich. Sie ist echt und unecht, kompliziert und naiv, Weibchen und Königin. Sie ist das schillernde, ewige Weibliche. Sie ist Lilie und Nessel.</text:p>
+   <text:p text:style-name="Text_20_body">Bei ihrer Ankunft in Paris war sie zuerst zu einem Onkel gegangen, der ihr eine bürokratische Arbeit in der Compagnie Electro-Chimique verschaffte. Aber Germaines unruhiges Blut läßt sie <text:soft-page-break/>nirgends verharren. Sie kann nicht arbeiten. Arbeit erscheint ihr immer als Eingriff in die Persönlichkeit, als Erniedrigung. Das Gegenteil von Arbeitsliebe ist aber keineswegs Faulheit. Das allgemeine sklavische Arbeiten für einen gewissen Lohn, der gerade den Lebensunterhalt ermöglicht, ist keine edle Betätigung: aber die Massen fragen auch kaum nach dem Edlen. Ein außergewöhnlicher Mensch wie sie treibt hinaus und weiter. An der Arbeit interessieren sie die sozialen Fragen. Das ist eine große Entdeckung für sie. Mit Heißhunger verschlingt sie die ersten Elemente sozialer Literatur. Inzwischen verläßt sie ihre erste Stelle, tritt bei einem Malermeister ein. Die syndikalistische Bewegung interessiert sie, sie fängt an zu schreiben und wird regelmäßige Mitarbeiterin des „Réveil d’Indre et Loire“. Vom revolutionären Syndikalismus zum Kommunismus ist zu jener Zeit, 1920, nur ein Schritt. Ein Mensch wie die Berton geht aber aus Instinkt, nicht aus technischen Gründen, immer zum Extrem. Immer weiter links, was war da? Der Anarchismus, die völlige Verleugnung des Staates, die Thronerhebung des Individuums, des Ich. Das Milieu der Anarchisten behagt ihr: es geht dort still und einfach zu. Aber eine Art Passivität liegt in ihrem Wesen und in ihrer Doktrin, gegen die sie sich sträubt. Sie lebt mehrere Monate ihr freies Leben mit, in gänzlicher Ungebundenheit. Die Bürger mögen ihr den ersten Stein werfen. Sie ist die Geliebte eines Compagnons und lebt einige Tage mit ihm. Dann verschwindet sie plötzlich, taucht in einem Meeting in der Provinz auf. Wiederum läßt sie sich in einem Hotel Meublé in Montmartre nieder oder wohnt bei einem neuen Freund. Aber das ist kein müßiges Dasein. Allabendlich trifft man sich im Kabarett „Le Grenier de Gringoire“, wo der chansonnier d’Avray seine sentimentalen Lieder singt. Aber zwischen den Liedern ist von strammen Doktrinen die Rede, und Germaine fühlt sich von dieser Philosophie des Wartens bedrückt. Sie will handeln. Sie verfaßt eine kleine Broschüre: „De l’acte individuel à l’acte collectif“, und schlägt langsam einen abseitigen Weg ein von den compagnons. Sie treibt den Anarchismus auf die Spitze: sie zimmert sich selbst eine eigene Theorie zusammen.</text:p>
+   <text:p text:style-name="Text_20_body"> </text:p>
+   <text:p text:style-name="Text_20_body">Eine fixe Idee wird sie nicht los. Sie hat einen Feind. Den allgemeinen Feind der Nation. Sie haßt, wie eine Frau nur hassen kann: sie haßt ganz unlogisch, ganz indirekt, ganz intensiv, sie haßt, daß sie davon krank wird. Später erklärt sie, wie sich das Gefühl langsam in ihr kristallisiert hat. Sie nimmt Haß zu sich wie Kokain. Eines schönen Tages, Mitte Januar 1923, macht sie sich auf, wie auf ein Kommando gehorchend.</text:p>
+   <text:p text:style-name="Text_20_body">Ihr Haß gilt der „Action Française“, dem royalistischen Blatt, das seit Jahr und Tag die größten Zwiste in Frankreich verursacht. Es ist das Organ des Faschismus und der gehässigste Feind des Proletariats. Es wird von den alten vergessenen Adelsgeschlechtern unterhalten, hat aber den unflätigsten und schmutzigsten Stil in der Presse eingeführt. Jeden Tag erfinden seine Redakteure neue Hetz-, Schimpf- und Verleumdungsworte, so daß man, um das Blatt zu lesen, geradezu einen Diktionär herstellen müßte wie einstmals für die Schützengrabensprache. An <text:soft-page-break/>seiner Spitze stehen Literaten von hohem Rang. Léon Daudet, ein Mitglied der ehrwürdigen Académie Goncourt und als ausgezeichneter Stilist sehr bekannt. Aber er hat eine Reihe Romane geschrieben, deren er sich teilweise schämt und unter diesen „L’Entremetteuse“, den er, nachdem die Kirche den Bann gegen das Buch ausgesprochen hatte, wenige Tage nach Erscheinen wieder einstampfen lassen mußte. Das ist der parlamentarische Herold der Orléans und aller Katholiken Frankreichs. Neben ihm schreibt Charles Maurras täglich die Kritik der politischen Ereignisse mit einer Schärfe, die wie Salmiak wirkt. Dem Leser steigt seine Prosa in die Nase. Dieser Mann begann als der klarste und schwingendste Besinger griechischer Form. Er ging vom Prinzip der intellektuellen Anarchie aus den Weg bis zur Idee, daß das Individuum sich einer höheren Gemeinschaft unterzuordnen habe, aber es ist leider kein geistiges Königtum mehr, dem er sich verschrieben hat!</text:p>
+   <text:p text:style-name="Text_20_body">DAUDET</text:p>
+   <text:p text:style-name="Text_20_body">Zwei angesehene Literaten von hohem Range sind es also, die in der Action Française den Terror der Verleumdung und der Hetzerei verbreiten. Zwei Männer von modernem Geist und Gewissen verfechten diesen Satz, der in der ersten Nummer ihrer Zeitung proklamiert wurde: „Unsere einzige Zukunft ist die Monarchie, die durch Monseigneur le Duc d’Orléans personifiziert wird, den Erben von vierzig Königen, die in tausend Jahren Frankreich schufen. Die Monarchie allein kann das Volkswohl erhalten, die Ordnung einführen und jene Leiden tilgen, die der Antisemitismus und der Nationalismus an den Pranger stellen.“</text:p>
+   <text:p text:style-name="Text_20_body">Die Action Française geht gegen alle vor: Demokraten, Republikaner, Sozialisten, Kommunisten, Anarchisten, sie attackiert jegliche Regierung, sie hat auf Clemenceau geschimpft, sie hat den Kopf Briands gefordert, sie hat zur Ermordung Léon Bourgeois, des stillsten und ehrwürdigsten aller Politiker gehetzt, und ihr wird die Schuld an der ruchlosen Erschießung Jean Jaurès von der ganzen öffentlichen Meinung zugeschoben. Mehr: eine Liga der Action Française vereinigt junge Leute der besten Familien zu einem royalistischen Korps, das im richtigen Moment, Italiens Beispiel zufolge, eingreifen soll. Die faschistischen Manöver haben bereits begonnen und die Injektionen von Rizinusöl und Terpentin wurden an namhaften Persönlichkeiten der Linksparteien vorgenommen. Die Liga besitzt ein vollkommenes Waffenmagazin. Sie besitzt auch tagtäglich reingehaltene schwarze Listen, in denen die höchsten Persönlichkeiten der Republik und Offiziere der Armee ihre Rubrik haben. Die Liga der Action Française ist also eine nationale Gefahr. Und hier und da zittert bereits Marianne wirklich vor ihr.</text:p>
+   <text:p text:style-name="Text_20_body">Der Haß der Germaine Berton gilt ihrem Führer Léon Daudet. Sie studiert sein Leben, seine Bücher, seine Familiengeschichte. Er gibt sich für den Sohn des bekannten und zarten Dichters Alphonse Daudet, des Schöpfers von Tartarin de Tarascon, aus, ist aber in Wirklichkeit nur sein <text:soft-page-break/>Stiefsohn und der uneheliche Sproß eines levantinischen Juden. Er ist bigott. Er hat in der Kammer das frechste Maul, er ist die größte Gefahr für Frankreichs Freiheit.</text:p>
+   <text:p text:style-name="Text_20_body">Germaine Berton wird ihn töten.</text:p>
+   <text:p text:style-name="Text_20_body">Sie hat den individuellen Akt zur Hauptformel ihrer Anarchisten-Philosophie erhoben. Ihre Religion ist in dieser Zeit der Nihilismus im russischen Sinne. Eine Reihe von einzelnen Gewaltakten gegen die Gewaltherrscher ist nach ihrer Meinung nützlicher als jede Massenaktion.</text:p>
+   <text:p text:style-name="Text_20_body">So wird der Mord langsam für sie eine Aufgabe, ein Lebensinhalt. Sie lebt schon mit ihm. Er ist ihr vertraut, sie sieht schon die Grimasse des Dicken, wie er noch einmal arrogant mit seinen kleinen fetten Fingern zum Himmel, in die Leere greifen wird. Oder sich ans Herz greifen wird. Hat er einen Diamantring, der aufblitzen wird? Sie irrt durch die regnerischen Straßen, und überall erscheint er ihr als Phantom. Sie lebt intim mit diesem heranreifenden Kadaver.</text:p>
+   <text:p text:style-name="Text_20_body">Seltsam, daß die Mörder so schwere Umwege machen, wo das Leben doch so einfach läuft. Daudet ist so leicht zu treffen: in der Salle des pasperdus in der Kammer, auf dem Wege zur Redaktion oder beim Déjeuner der Goncourt, wo man sich so leicht unter die Journalisten mischen könnte! Aber das fiebrige Mädchen macht es sich schwer. Sie meldet sich eines Morgens in der Privatwohnung Daudets und läßt ihm einen Brief überreichen: sie habe ihm eine äußerst wichtige Mitteilung über die Anarchisten, zu denen sie gehört habe, zu machen. Daudet studiert Schrift und Stil und spürt heraus, es könne sich nur um einen Überläufer oder um einen Mörder handeln. In beiden Fällen Gefahr. Er empfängt sie nicht, sondern weist sie an die Redaktion der Action Française, an seine beiden Leutnants, Roger Allard und Marius Plateau. Am Nachmittag empfangen diese sie voller Hochmut und Spott. „Man werde übrigens sehen, sie solle ein paar Tage später wiederkommen.“</text:p>
+   <text:p text:style-name="Text_20_body">In Germaine rauscht die Tat und berauscht sie. Sie schwebt wie ein Medium durch die Straßen, in einer Art Trancezustand. Sie muß handeln. Sie hat eine Pflicht, in die sie eingeschlossen ist wie die Nuß in ihre Schale. Sie darf nicht, sie kann nicht mehr warten. Der Revolver wird von selber losgehen. Die Kugeln sind locker im Lauf.</text:p>
+   <text:p text:style-name="Text_20_body">Am nächsten Morgen wird in der Kirche St. Germain l’Auxerrois eine Totenmesse für die wackere Seele Louis XVI. gefeiert. Alljährlich wohnt ihr Daudet mit seinem Gefolge bei. Es ist die bedeutsamste Zeremonie der Royalisten. St. Germain l’Auxerrois: Das letzte Refugium der Könige. Manchmal schauen die Amerikaner im Louvre, von klassischer Kunst mürbe, durch eines der hohen spinnewebenen Fenster sehnsüchtig hinab und erblicken plötzlich die tiefblaue Uhr mit den goldenen Ziffern der Zeit, die wie ein ziselierter Türkis im grauen räudigen Gestein der anmutigen Kirche eingefaßt ist. Eine der Glocken dieser Kirche läutete zur <text:soft-page-break/>Bartholomäusnacht. Hinter dem Altar befindet sich ein klösterlicher Privatsalon, in dem Marie Antoinette ungesehen dem Gottesdienst beiwohnte. Die Kirchen sind immer der Lieblingsort Germaines gewesen. Schauernd tritt sie in die gotischen Schatten. Doppelt verlockender Ort der Tat: mit einer Kugel zwei Herzen, das des Pilatus und das des Strebers Christus, so sagt sie. Aber sie ist noch ein Kind und kniet an der steinernen Säule. So kniete die Königin, als draußen die Schritte des Volks die Carmagnole skandierten. Hier wird noch einmal über Frankreichs Geschick Gericht gehalten.</text:p>
+   <text:p text:style-name="Text_20_body">Aber Daudet kommt nicht. (Hatte er Furcht?) Die Orgel peitscht umsonst ihr Blut. Umsonst klopft eine harte Stimme in ihrem Herzen. Daudet meldet sich nicht. Voll Verzweiflung weint das Mädchen: Die umstehenden Royalisten stoßen sich an, sie glauben, ein Heißgeliebter werde beklagt. Ein Heißgehaßter! Aber die Tat, die Tat. Gut, wenn es Daudet nicht sein soll – dann ein anderer: Maurras vielleicht? Meinetwegen, da kommt er, von seiner Liga umgeben. Fünf Männer, kompakt, jetzt zehn. Die Türen öffnen ihre Flügel. Der Menschenschwall treibt hinaus. Die Quais entlang hüpfen die grünweißen Elektrischen. Unter dem Pont des Arts fließt die grünschwarze Seine hinaus. Kinder spielen. Alte Fiakergäule reiben die Steine ab. Hier wird sie schießen. Der Trupp geht vorbei. Sie hat nicht geschossen!</text:p>
+   <text:p text:style-name="Text_20_body">Nun brandet das Fieber. Nun tobt es dunkel hinter der Stirn, hinter dem zurückgestrichenen Haar. Ein so nutzloser Mensch zu sein! Paris lebt weiter. Weiter schlagen die Stunden. Das Geschick Frankreichs reift. Dort drüben, über dem Fluß, liegt der dunkle patinierte Justizpalast. Die Bäume rosten. Der Alltag kriecht eklig vorbei.</text:p>
+   <text:p text:style-name="Text_20_body">Sie tritt in ein kleines Café, bestellt eine Menthe à l’eau. Ein erfrischendes Feuer. Sie schreibt schnell einen Brief. Wirft sich ins Tempo der Tat wie ein Schwimmer in reißende Strudel. Der Strom geht aufwärts, abwärts, sie pendelt die Straßen entlang. Zwischen Mittag und eins: das Leben ist ralentiert, das Leben ist trostlos, die Menschen essen alle und der Heroismus ist aus der Welt verschwunden. Plötzlich, wie kommt es, steht sie wieder vor der Redaktion in der Rue de Rome. Es ist noch nicht Zeit. Es kann noch niemand da sein. Aber es treibt sie hinein. Sie soll warten. Sie demütigt sich, sie wartet. Sie fiebert. Kein Ort auf Erden ist öder und erniedrigender als ein Büro zwischen den Arbeitsstunden. Der schale Menschengeruch, das leere Lallen der tauben Telephone, die hoffnungslosen Wände erzeugen die fürchterlichste Langeweile des Lebens. Dies muß die Stunde derer sein, die sich in den Speichern aufhängen. Und die der Mörder.</text:p>
+   <text:p text:style-name="Text_20_body">Endlich wird sie in Plateaus Privatbüro vorgelassen, zu dem ein enger Gang führt wie bei den Mausefallen. Plateau ist der Polizeichef der Royalisten-Liga. Er hat gut zu Mittag gegessen. Er ist gut aufgelegt. Er horcht das Mädchen aus. Warum kommt sie? Sie will Geheimnisse enthüllen? Mit solchen Individuen geht man aufs Ganze. In dem Augenblick, in dem sie <text:soft-page-break/>gesprochen haben, sind sie ja bereits verloren. Er lacht roh. Was wollen Sie? Aber warum verraten Sie Ihre Freunde? Ach so? Und wieviel Geld wollen Sie haben?</text:p>
+   <text:p text:style-name="Text_20_body">Das ist die Herausforderung zur Tat. Des Mädchens Seele ist ein glühendes Eisen. Die Kugeln kollern in ihrer Tasche in einer wahnwitzigen Karambolage. Dieser Rohling, dieser gesunde Schlächter, dieses logische Schwein ... Germaine steht auf, er will ihr die Türe öffnen ... da geschah es. Mein Gott, es ist so einfach. Eine Masse, eine Mauer fällt um.</text:p>
+   <text:p text:style-name="Text_20_body">Und nun ist es aus. Sie hat eine Mission erfüllt, sie ward erleuchtet und begnadet. Was noch kommt ist Kompromiß. Was interessiert sie die Welt noch. Die Erde ist eine Kugel. Sie dreht sich. Einmal kommen die grünen Frühlingshügel, einmal die grauen Schlackenhügel. Sie hat genug in ihrem Leben Blumen gepflückt. Es gibt doch keinen Gott. Die Menschen sind so roh und feige. Was soll sie noch? Eine zweite Kugel brennt ihr in die Brust hinein ...</text:p>
+   <text:p text:style-name="Text_20_body"> </text:p>
+   <text:p text:style-name="Text_20_body">Einige Tage hat sie im Hospital Beaujon Ruhe. Dann wird sie, da die Wunde schnell ausheilt, ins Gefängnis von Saint-Lazare überführt. Das ist die letzte Bastille französischer Verlotterung, mit den berühmten Bagnos von Cayenne. In den Bas-fonds der französischen Republik, in den verholzten Verwaltungsämtern, in den verschimmelten Räumen vererbter Apparate empfindet man, wieviel Barbarisches, Naives noch in der verfeinertsten aller modernen Zivilisationen steckt. Beinahe etwas Kindisches an Unmenschlichkeit. Etwas Romantisches haftet an allem Dreck. Romantisch ist das Gefängnis Saint-Lazare, nicht nur weil es von den Chansonniers von Montmartre rührselig besungen wird.</text:p>
+   <text:p text:style-name="Text_20_body">Germaine Berton erhält eine Zelle neben jenen, die eine Caillaux, eine Bernain de Ravisi beherbergt haben. Man kann nicht leugnen, daß sie ein ganz klein wenig stolz darauf ist. Sie ist doch oft unangenehm unartig, übermütig, hoffärtig. Aber das ist das Vorrecht aller, die etwas Besonderes leisten, sowohl großer Musiker wie berühmter Heerführer. Wir dürfen keine bürgerliche Elle an sie legen. Man möchte erwarten, daß sie in der Einsamkeit zur Frau wird. Aber sie bleibt nur heroisch. Die außergewöhnlichen Menschen brauchen nicht zu reifen. Sie sind von Anfang an das, was sie sind.</text:p>
+   <text:p text:style-name="Text_20_body">Germaine spielt wie ein Schulmädchen Streiche. Sie amüsiert sich, die Wärterinnen, die Schwestern, den Gefängnisdirektor zu ärgern. Dieser beklagt sich oft bei ihrem Advokaten, umsonst. Es geht so weit, daß die Nonnen sich vor Neugier nicht halten können und unter allerlei Ausreden ihre Zelle öfter besuchen als nötig wäre. Ein stolzes Auftreten intrigiert die Demütigen immer, und erst recht in diesem Gebäude, wo die Menschen schleichen, knirschen und immer kleiner werden. Germaine hingegen wird nur stärker in dieser grauenhaften Einsamkeit. Sie hört und sieht rings um sich den Schmerz der verlorenen Frauen. Die modrige <text:soft-page-break/>Feuchtigkeit des Gefängnisses ätzt ihre Revolte. Sie vernimmt in der Nacht über sich die Schreie der gebärenden Frauen und sieht am Morgen über den Hof die engen Särgchen hinaustragen. Arme, immer mehr verarmende Menschheit. Aber hat sie je etwas anderes gewollt als diesen helfen? Jetzt vielleicht zum erstenmal wird sie sich bewußt, was sie getan und was zu tun noch bleibt!</text:p>
+   <text:p text:style-name="Text_20_body">In den Gesichtern der Schwestern liest sie nicht Gott, sondern Neid, Geiz, mit dem Grabtuch des Lächelns versteckte Gemeinheit. Was zieht sie an? Eine ist dabei, sie heißt Claudia. Sie hat schwalbenblaue Augen, sie hat eine Stille in ihren Händen, sie hat Sommer in der Stimme. Sie ist jung und scheint doch so müde. Sie sieht nicht aus, als könne man sich an ihre Schulter lehnen, aber im Gegenteil, als hätte sie so das Bedürfnis, hinzuschluchzen! Ihre Pflicht ist’s, der Mörderin den Heiland nahezubringen, und mit allen Kräften versucht es Claudia: sie scheint die Bekehrung Germaines zum Guten wie ein Gelübde erfüllen zu wollen. Aber in Wirklichkeit bedarf sie selber des heiligenden Worts, in Wirklichkeit erscheint Germaine ihr als Botin eines besseren Lebens. Eines Abends setzt sich Schwester Claudia hin und schreibt an Germaine einen Brief erschütternden Leids: sie zweifelt an ihrem Gott! Und ein Wunder geschah in dieser Nacht von Saint-Lazare: Wunder dieser neuen Zeit: eine Braut Christi wird zur Rebellion bekehrt, die Dienerin des egoistischen Gottestums will hinaus, zum Volke reden, ihre Schwestern befreien, Germaine nacheifern! Sie beschließt, ihre Nonnenkleider abzuwerfen und mitten ins heißere Leben der Straße zu fliehen.</text:p>
+   <text:p text:style-name="Text_20_body"> </text:p>
+   <text:p text:style-name="Text_20_body">Brief Schwester Claudias an Germaine Berton:</text:p>
+   <text:p text:style-name="Text_20_body">15. 10. 23, 10 Uhr Abends.</text:p>
+   <text:p text:style-name="Text_20_body">Liebe Germaine,</text:p>
+   <text:p text:style-name="Text_20_body">Sie fragten mich heute Abend, ob ich meinen Geisteszustand in aller Kaltblütigkeit überblickt hätte? Nun: Ja! Und nichts mehr wird mich schwanken machen, verstehen Sie: nichts! ... Im vorigen Jahre kämpfte ich, wie ich es Ihnen schon sagte, aber ich hatte keinen Stützpunkt ... Zuweilen lehnte ich mich erbost auf, wenn ich meine Machtlosigkeit empfand. Wie hätte ich auch in Versammlungen gehen wollen, und reden! Und dann fühlte ich mich wie vernichtet ... Ärmste, sagte ich mir, was kannst denn Du? In diesem Zustand befand ich mich, als ich Sie zum ersten Male sah. Da aber mußten unsere beiden Seelen sich treffen, unsere Herzen einander verstehen, ohne daß es eines Wortes bedurfte! Deuten Sie jetzt meinen Ausruf von neulich: „Nun verstehe ich das Warum meines Lebens!“ Unsere Seelen sollten nicht mehr getrennt werden ... Wie kam es, daß Sie, als Sie keine einzige Schwester in Ihre Zelle hereinließen, mich gerade empfingen? Warum mich eher als jede andere? Und als Sie mir vor einigen Monaten <text:soft-page-break/>sagen ließen, nicht mehr zu kommen, hätte mein Stolz eine solche Behandlung von keiner anderen ertragen, ich hätte sie mit keinem Blick mehr gewürdigt. Aber zu Ihnen eilte ich im Gegenteil, erinnern Sie sich? Nun, was war das anderes als die Ahnung, daß eines Tages unser Leben und unsere Gedanken sich vereinen würden?</text:p>
+   <text:p text:style-name="Text_20_body">O, Sie werden sehen, ob ich einen „Willen“ habe, und wessen ich fähig bin! Noch wenige Tage, dann auf in den Kampf! Man sagt, daß Vertrauen Vertrauen erwecke: ich fühle, daß ich das Ihre besitze, und das meine wird Ihnen niemals abgehen. Als Kind hatte ich einen stürmischen Charakter. Mit 14 Jahren war ich schon zweimal meinen Eltern entlaufen, da sich mein Wille dem ihrigen nicht beugen konnte. Ermessen Sie also die übermenschliche Kraft, die ich brauchte, um meine rebellische Natur einzuschläfern. Jetzt aber ist meine Kraft verbraucht, ich kann nicht mehr ... Sehr jung trat ich ins Kloster ein, zu jung, und doch war mein Herz nicht mehr ganz frei. Es war zu wild, um gefühllos zu bleiben. Oh, es war kein schuldhaftes Verhältnis! Nie habe ich gesündigt, aber ich habe etwas zerbrechen müssen! ... Und damals schwor ich mir: „Gut, dann will ich mich für eine größere Sache verschwenden und opfern!“ Indes, ich wählte einen falschen Weg; wie oft habe ich es bereut!</text:p>
+   <text:p text:style-name="Text_20_body">Glauben Sie aber, daß die Klosterjahre mir in dem neuen Leben Hindernisse und Schwierigkeiten in den Weg legen werden? Werde ich sie nie verschweigen können? Wenn es nur von mir abhinge, würde es niemand in der Welt außer Ihnen wissen. Alle diese hier niedergelegten Geheimnisse meines Lebens kennen nur Sie (und mein Beichtvater vor neun Jahren). Vor Ihnen habe ich nichts mehr zu verbergen. Haben Sie nicht bemerkt, daß oft unsere Gedanken und Ideen sich trafen, ohne daß wir es wußten? Bitte, reden Sie mich nicht mehr „Schwester“ an. Ich bin’s nicht mehr, weder vor Gott noch vor den meinigen. Ich bin es äußerlich, in Kleid und Bewegung, für wenige Tage noch, aber Herz, Seele und Gefühl sind nicht mehr dabei. Mein Herz schlägt nur noch für das Volk, für das niedergedrückte, das niedre.</text:p>
+   <text:p text:style-name="Text_20_body">Ich wiederhole meinen Anfangssatz: „Ich habe kaltblütig, allein vor mir selber, die Verantwortung und die Leiden des neuen Lebens erwogen, dem ich mich ergeben will, und bin fest dazu entschlossen, nichts kann mich mehr davon abbringen!“</text:p>
+   <text:p text:style-name="Text_20_body">Wie denken Sie darüber? Ich möchte warten, bis Ihr Prozeß beendigt ist, und ich möchte ihm auch so gerne beiwohnen! Aber, wenn es noch lange dauert, möchte ich Sie auch nicht gern im Gefängnis allein lassen ...</text:p>
+   <text:p text:style-name="Text_20_body">Gute Nacht, meine liebe Germaine, auf morgen!</text:p>
+   <text:p text:style-name="Text_20_body">Claudia.</text:p>
+   <text:p text:style-name="Text_20_body">Eine Woche später entfloh die Schwester Claudia aus dem doppelten Gefängnis, das ihr Gott und die Menschen auferlegt. Aber ihr ans Halbdunkel gewöhntes Herz ging irr im grellen Lärm <text:soft-page-break/>des Lebens. Die Geräusche, die Worte der Menschen taten ihr weh. Die Kameraden, zu denen Germaine sie geschickt, waren kalt, ja ablehnend zu ihr. Wie, wovon sollte sie leben? Claudia fand keinen anderen Weg als zu ihrem Schwager, der sie aus Angst vor einem Skandal in die Gefangenschaft zurückschickte. Bald darauf wurde sie wieder in einem strengen Kloster in der Provinz eingesperrt.</text:p>
+   <text:p text:style-name="Text_20_body">Aber es war ein großer Triumph für Germaine, und ihrer Tat kann man nur den Fanatismus mittelalterlicher Christen an die Seite stellen. Seinen Gefängniswärter bekehren, das gelang einem Thomas Münzer. Das gelang Germaine Berton. Und wie sie das Schicksal der Irrgegangenen erfährt, ruft sie dies wunderbare Blasphem aus:</text:p>
+   <text:p text:style-name="Text_20_body">„Nun will ich mit dir um sie kämpfen, Jesus!“</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P3" text:outline-level="2"><text:bookmark text:name="7770129933670837057_65644-h-8.htm.html#part-3"/>*</text:h>
+   <text:p text:style-name="First_20_paragraph">Vor die Geschworenen tritt eine zarte kleine Midinette und setzt sich so einfach in die Anklagebank, als wär’s ein Autobus, der sie bald, und auf dem raschesten Wege, zu den Compagnons zurückfahren wird. So einfach die Geste, mit der sie das herbstüberschüttete Mäntelchen ablegt, das kurz geschnittene schwarze Haar unter dem unscheinbaren Hut befreit, als schüttle ein Vogel seine Federn, und endlich aus dem Handsäckchen Spiegel, Puderquaste und Rotstift hervorzaubert, mit deren Hilfe sie das angelische Porträt einer modernen Revolutionärin zum letztenmal nachtuscht. Die Arkaden der Augenbrauen werden um einen Millimeter erhöht, die Blässe des Gesichts um einen Purpurschatten unterstrichen und die Erdbeere des Mundes julireif. Und nun sitzt sie da, artig, wie ein Pensionsmädchen, mit einem weißen runden Kragen und einem breiten Lavallièreschlips über dem grauen, eng anliegenden Kleidchen.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">GERMAINE BERTON<text:line-break/>während des Plaidoyers ihres Verteidigers</text:p>
+   <text:p text:style-name="Text_20_body">Sie sitzt da, ruhig, mit dem Glauben an sich, und der stürmische Schwurgerichtssaal brandet zu ihren Füßen. Dies kleine Mädchen hat eine Stirn, die man mit Elfenbein vergleicht, nicht weil sie weiß ist, sondern so hart. Aus diesen roten leidenschaftlichen Lippen brechen kalte, metallene Worte. Sie spricht gemessen und überzeugt. Jede Aussage ist in eine feste Form gegossen. Sie schwindelt nicht mit Gefühlen. Sie schindet nie Mitleid. Sie hat nichts aus ihrem Leben zurückzunehmen. Sie steht für ihre Fehler ein und vertuscht keine Linie der Zeichnung.</text:p>
+   <text:p text:style-name="Text_20_body">Ja, sie hat schon mehrmals mit der Polizei zu tun gehabt. Im November 1921 bekam sie drei Monate Gefängnis, weil sie auf dem Kommissariat einem Sekretär, der ihr ihre Papiere nicht zurückgeben wollte, eine Ohrfeige gab. Einige Monate später wird sie mit einer Einbrecherbande festgenommen, aber nicht für ein Delikt, sondern nur wegen verbotenen Waffentragens bestraft. Sie hat an aufrührerischen Meetings teilgenommen und einmal bei einer Manifestation der kommunistischen Jugend in Pré St. Gervais eine regelrechte Schlacht mit der Polizei ausgefochten, wobei sie einen Säbelhieb am Kopf davontrug. Sie nimmt nichts zurück.</text:p>
+   <text:p text:style-name="Text_20_body">Ja, sie hat gearbeitet und sie hat auch gehungert, sie hat Geld und Brot verdient und erpreßt, denn sie verachtet das alles im Hinblick auf das letzte Ideal: „Freiheit“. Sie nimmt nichts zurück.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Ja, sie hat im Namen der Petites Sœurs des Pauvres Armengelder erbettelt und unterschlagen.</text:p>
+   <text:p text:style-name="Text_20_body">Der Präsident gibt in einer einzigen Frage drei passionierte Romane:</text:p>
+   <text:p text:style-name="Text_20_body">„Am 13. Dezember wohnten Sie in der Rue Lécuyer, bei Gohary, genannt Harmant. Sie verließen ihn und verbrachten einige Tage bei Charles d’Aoray. Dann lebten Sie zwei Tage mit Boucher zusammen, der sich Rondel nennt. Aber wir wissen nicht, wo Sie die Nächte vom 31. Dezember bis zum 22. Januar gewohnt haben!“</text:p>
+   <text:p text:style-name="Text_20_body">Germaine leugnet nichts: „Auch wenn Sie es wüßten, das würde niemand kompromittieren.“</text:p>
+   <text:p text:style-name="Text_20_body">Ja, sie hat viele revolutionäre Hetzartikel im „Réveil de Tours“ geschrieben. Und einmal die Republik „als eine Hure mit blutbesudeltem Maul“ und Frankreich „als eine Rabenmutter, die ihre Kinder auf die Schlachtfelder krepieren schickte“ beschimpft. Sie nimmt es nicht zurück. Jedesmal, wenn sich die Gelegenheit bietet, bekundet sie ihren Haß gegen den Krieg.</text:p>
+   <text:p text:style-name="Text_20_body">„Krieg! ... welch verhaltenen Schmerz erweckte dieses Wort in mir! Furchtbare Erinnerung! 1914, noch ein Kind, sah ich das 66. Infanterie-Regiment mit blumengeschmücktem Bajonett ausziehen! Wenige Wochen drauf blieb nichts davon übrig ... Ich sah dann die Helden in den Bahnhöfen am Boden siechen, ich sah sie stumpf, irrsinnig, von Kot und Läusen bedeckt, auf den Bänken des Rathausplatzes in Tours herumlungern, während zehn Schritte weiter die geschniegelten Offiziere in blitzenden Uniformen gemeinsam mit Weibern den Sekt vergossen! Ich sah in den Spitälern die Vergasten, die ihre Lungen herausspuckten, die Erblindeten, die umsonst noch die Augen aufsperrten, die mit den zerschossenen Schädeln, und auf den Promenaden weinte ich, wenn man die Tapferen wie Greise in kleinen Wägelchen vorbeischob ... Wer das erlebt hat und befürchten muß, daß es noch einmal möglich werden könnte, durch die Schuld der Hetzer, der müßte von allen Gefühlen verlassen oder ein Feigling sein, um sich nicht dagegen zu revoltieren!</text:p>
+   <text:p text:style-name="Text_20_body">Und ich habe mich revoltiert! Da kam mir, angesichts der fünfzehnhunderttausend Toten Frankreichs, der Gedanke, den aus der Welt zu schaffen, der den Militarismus noch immer zu preisen wagte, den schlimmsten Feind des Volkes und der Republik, den Abenteurer Léon Daudet ...“</text:p>
+   <text:p text:style-name="Text_20_body">Ja, sie hat einen Royalisten ermordet, weil die Führer der Action Française nicht nur zum Bürgerkrieg hetzten, sondern auch von einem äußeren Krieg, und vor allem von einer Niederlage Frankreichs, einen nützlichen Ausgangspunkt zur Einsetzung eines neuen Königtums erwarteten. – Sie nimmt es nicht zurück.</text:p>
+   <text:p text:style-name="Text_20_body">Sie antwortet mit den Argumenten einer festen Gesinnung. Sie scheut nicht einen Augenblick den Kampf. Sie verteidigt sich nicht, sie klagt an. Sie hat nach erfolgter Tat sterben wollen. Sie <text:soft-page-break/>fürchtet nicht den Tod. Sie hat im Gegenteil einen krankhaften Hang zum Tod. Aber nun steht sie da, um die vollbrachte Tat mit den nötigen Beweisen zu unterstützen. Sie geht selbst zum Angriff vor. Sie erhebt sich zur Anklägerin und zur Rächerin. Und hier erhöht sich der Prozeß zum Symbol. Der ganze Konflikt eines Volkes und einer Epoche wird hier ausgefochten. Es handelt sich nicht nur um eine Mörderin und eine Leiche: es handelt sich um den Kampf der eingeborenen Freiheitsliebe der Franzosen gegen den Diktaturwillen einer kleinen übermütigen Faschistenbande.</text:p>
+   <text:p text:style-name="Text_20_body">Auf die Frage des Präsidenten Pressard: „Was hatte Ihnen Marius Plateau getan?“ springt sie in der Anklagebank auf: „Mir persönlich nichts! Aber all denen, die heute im Bagno siechen, weil sie sich gegen den Krieg auflehnten! All denen, die als Opfer seiner schmählichen Verleumdungen standrechtlich erschossen wurden! All denen, die sich gegen die aufbrechende Reaktion stemmen wollten! Mein Gewissen befahl mir die Tat!“</text:p>
+   <text:p text:style-name="Text_20_body">„Immerhin, Sie haben einen Menschen ermordet. Bedauern Sie es?“ fragt der Präsident.</text:p>
+   <text:p text:style-name="Text_20_body">„Es fiel mir nicht leicht, ein menschliches, denkendes Wesen aus der Welt zu schaffen. Und doch bereue ich nichts, weil ich mich am 22. Januar für etwas mehr als eine gewöhnliche Mörderin fühlte, nämlich als die Rächerin aller Opfer der Action Française. Mein Gewissen hat es mir diktiert. Und da ich mir bewußt war, für das Wohl des Volkes zu handeln, wie sollte ich jetzt bereuen? Es wäre widersinnig ...“</text:p>
+   <text:p text:style-name="Text_20_body">„Ein Murmeln ging durch den Saal“, berichtet die Presse. Die Zeitungen nennen sie gefühllos. Doch konnte man von einer Anarchistin eine schönere Antwort verlangen? Die Silhouette einer großen, in unserem Zeitalter ungewöhnlichen Figur begann sich abzuheben. Die Atmosphäre wurde gespannter. Langsam glitt der ganze Prozeß, wie alles in Frankreich, ins Politische hinüber. Und sofort, wo das Volk eingreift, spielt eine gewisse Sentimentalität mit, die das kalte Gesetz, die kalte Logik abschwächt. Das französische Volk liebt das Pathos, das Theater, die Tränen. Die Frauen werden von den Schwurgerichten freigesprochen, weil die Liebe immer ein Melodram ist.</text:p>
+   <text:p text:style-name="Text_20_body">TORRÈS</text:p>
+   <text:p text:style-name="Text_20_body">Der Verteidiger, Henry Torrès, wußte was er tat, als er als Entlastungszeugen die namhaftesten Vertreter der Linksparteien, des Pazifismus, der Liga für Menschenrechte, der literarischen Fronde vor die Schranken rief, alle, die den hundertpulsigen Herzschlag des Pariser Volkes kennen und fühlen. Und so wurden in diesem Prozeß nicht die Anklageschrift, nicht die Aussagen während der Untersuchungshaft, nicht die Plaidoyers, nicht einmal die Stimme des Präsidenten maßgebend, sondern die flammenden Reden der Zeugen, die alle mit der Wärme des Herzens für ein mutiges Mädchen eintraten. Es ward ein Défilé sämtlicher <text:soft-page-break/>Persönlichkeiten, die das politische und demagogische Frankreich darstellen, und da auch die gesammelten Mannschaften der Action Française die Ankläger spielten, trafen sich zum erstenmal Rechts und Links, die Reaktion und die Revolution vor diesem Tribunal, als ob nicht mehr über den Mord eines Menschen, sondern über ihre Ideen gerichtet werden würde. Und tatsächlich wurde auch das Urteil als Sieg für die eine oder die andere Partei bewertet.</text:p>
+   <text:p text:style-name="Text_20_body"> </text:p>
+   <text:p text:style-name="Text_20_body">Die Rechtspartei:</text:p>
+   <text:p text:style-name="Text_20_body">Léon Daudet, der Zuhälter der Republik: er läßt die anderen mit ihr schlafen und sie ist ihm gerade gut genug, um sich später von ihrem Bett aus auf die Stiegen eines morschen Thrones zu hissen. Er ist das, was alle Karikaturisten immer wieder aus ihm gemacht haben: ein Clown: aber ein böser und gefährlicher. Er spielt die erste Rolle in diesem Prozeß. Er ist der lebende Leichnam. Auf seiner Person baut sich die ganze Verteidigung auf. Wenn Germaine Berton gefragt wird, ob sie bereut, antwortet sie: „Ich bereue nicht, Plateau erschossen zu haben, aber ich bereue, nicht Daudet ermordet zu haben.“</text:p>
+   <text:p text:style-name="Text_20_body">Es handelt sich um ein Komma, das sie den Kopf kosten wird oder nicht. Aber sie ist mutig. Sie tanzt auf diesem Komma Seil.</text:p>
+   <text:p text:style-name="Text_20_body">Ihre Defensivstellung besteht darin, daß sie sagt:</text:p>
+   <text:p text:style-name="Text_20_body">„Ich wollte Daudet töten (aber ich habe es ja nicht getan). Ich habe die Opfer der Action Française gerächt (aber ich wollte platonisch töten).“</text:p>
+   <text:p text:style-name="Text_20_body">Herr Daudet trägt als Zeuge eine ganz andere Maske denn als Deputierter oder Zeitungsdirektor. Er benimmt sich still und bescheiden, wie ihn noch nie ein Pariser gesehen und gehört hat. Kein einziger Fluch, kein einziges Giftwort kommt über seine Lippen. Er enttäuscht. Und Germaine Berton ist es, die ihrerseits offensiv gegen ihn vorgehen muß. Schon hat er seine Aussage beendet und will sich unter dem Schutz seiner Truppen zurückziehen, da hält ihn die Angeklagte zurück und schreit ihm zu:</text:p>
+   <text:p text:style-name="Text_20_body">„<text:span text:style-name="T1">Herr Léon Daudet, ich habe Sie töten wollen, weil Sie für den Mord an Jaurès verantwortlich sind!</text:span> Sie haben ihn umgebracht. Wir haben Jaurès geliebt, selbst wir Anarchisten. Jaurès bedeutete für uns ein Symbol, die Seele des edlen Frankreichs. Ich erinnere mich, ihn einmal in Tours gehört zu haben. Damals war ich noch sehr jung, aber unsere Verehrung für diesen Mann war so tief, daß wir in seinen Vortrag gingen wie zur Kirche. Sie haben ihn uns getötet. Und deshalb will ich heute auf die doppelte Frage, die mir gestern gestellt wurde, antworten: Herr Daudet, ich bereue bitter, nicht Sie statt Marius Plateau niedergeschossen zu haben!“</text:p>
+   <text:p text:style-name="Text_20_body">Und nun hat plötzlich ein neuer Verteidiger im Saal Platz genommen, ein unsichtbarer, aber <text:soft-page-break/>noch mächtigerer und gewaltigerer als Torrès: er schwebt neben dem Christusbild hinter dem Präsidenten. Es ist ein dicker genereuser Mann, er hat die eine Hand erhoben, sein Bart ist versilbert, seine leuchtenden Blicke reißen das Licht der fahlen Fenster an sich, und durch das schwarze bürgerliche Jackett leuchtet ein rotes Herz: das ist der Tribun, der aus dem Kosmos herniederschwebt und seine Rächerin in seinen heiligen Schutz nimmt.</text:p>
+   <text:p text:style-name="Text_20_body">„Im Namen Jaurès!“ werden jetzt alle Zeugen schwören.</text:p>
+   <text:p text:style-name="Text_20_body">Und in diesem Augenblick erfährt Léon Daudet die zweitgrößte Sühne seines Lebens. Er wird von einem kleinen Mädchen vor versammeltem Volke von Paris mit den Worten der Wahrheit und der Freiheit einfach hingerichtet. Er rührt sich nicht. Er duckt sich hinter seinem feisten Leib. Er geht unsicher ab.</text:p>
+   <text:p text:style-name="Text_20_body">Zweitgrößte Sühne: die größte nicht! Die hat er schon gebüßt. Die Gerechtigkeit des Schicksals ist weit größer und erstaunlicher als die menschliche. Hier spielen antike Kräfte, die Götter selbst, mit.</text:p>
+   <text:p text:style-name="Text_20_body">Denn es ist kaum einen Monat her, daß sein fünfzehnjähriger Sohn Philipp sich erschoß, daß das Verblüffendste sich ereignen konnte, was ein Shakespeare zum Aufbau eines Dramas nicht zu erfinden gewagt hätte. Es ereignete sich das, was wie ein Film der Erinnerung hinter den augenblicklichen Begebnissen durchschimmert, und hier als solcher eingefügt sein möge.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#part-4"/>Film vom Selbstmord eines Knaben<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#part-4"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-1"/>1.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-1"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Ein Junge flieht an einem Novembermorgen, zur Schulstunde, aus dem Elternhause und fährt nach Le Havre. Dort mietet er ein Zimmer im Hotel Bellevue und legt auf den Nachttisch seine einzige Bagage: die Werke von Boileau und André Chénier. Den ganzen Tag verbringt er am Hafen und sucht ein Schiff nach Kanada. „Land des Nordens, Land in Schnee und Reinheit,“ schreibt er in einem Gedicht. Aber die Fahrt kostet 1200 Francs, er hat nur 700. Er schlägt der Schiffahrtsgesellschaft vor, ihn als Elektromechaniker zu dingen: aber diese nimmt nur englisches Personal auf. Der Traum der Realität zerrinnt. Kanada oder nichts. Die Erde schrumpft zu einer Marmel zusammen. Wohin? Schon sind alle Land- und Meerstraßen verschüttet. Das letzte Schlupfloch ist Paris. Am nächsten Morgen landet er wieder im Bahnhof St. Lazare.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-2"/>2.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Am 27. November bringen sämtliche Zeitungen diese Notiz:</text:p>
+   <text:p text:style-name="Text_20_body">Gestern trug Herr Léon Daudet, der Abgeordnete und Chefredakteur der „Action Française“, seinen fünfzehnjährigen Sohn zu Grabe, der nach kurzer Krankheit verschied. Der Zeremonie wohnten mehrere Minister, Generäle, Akademiker und sämtliche Camelots du roi von Paris bei ...</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-3"/>3.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-3"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Am Sonntag darauf veröffentlicht „Le Libertaire“ einen Hymnus auf den unglückseligen „Compagnon“ Philipp Daudet, der ein glühender Anarchist gewesen sei, bringt Briefe desselben <text:soft-page-break/>an den Herausgeber und erzählt folgende Geschehnisse: In der Woche zuvor war ein junger Mensch, der seine Identität verschwieg, auf die Redaktion gekommen und hatte gebeten, man möge ihm eine Mission geben. Er müsse etwas für die anarchistische Sache tun! Solle er in ein Polizeibüro treten und dort einige Kerle niederknallen oder in einem Dancing einigen Tänzern Todessprünge beibringen. Was wäre besser? Oder solle er Léon Daudet ermorden?</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-4"/>4.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-4"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Dieser junge Mensch war Philippe Daudet.</text:p>
+   <text:p text:style-name="Text_20_body">Später übergab er dort einen Abschiedsbrief an seine Mutter, den die „Compagnons“ absenden sollten, wenn etwas „passierte“.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-5"/>5.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-5"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Am gleichen Nachmittage passierte es, daß ein junger unbekannter Mann in einem Taxi, dem er als Adresse den Zirkus Médrano zugerufen hatte, sich eine Kugel ins Hirn schoß und starb.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-6"/>6.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-6"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Der Vater vertuscht die „Schande“ und trägt unter Blumen den verlorenen Sohn durch ganz Paris.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-7"/>7.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-7"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Der „Libertaire“ sprengt die Königsbastion.</text:p>
+   <text:p text:style-name="Text_20_body">Die Frage allein enthält die unzweideutige Antwort.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Philippe hat in seinem Fleisch den Vater ermordet.</text:span> Ein junger sensibler Knabe hält es in der <text:soft-page-break/>politischen Lügenatmosphäre des Vaters nicht aus, will in Neuland fliehen, und, da der Ozean ihn zurückweist, wirft er sich aus Opposition dem Feind in die Arme. Denn der „Libertaire“ ist der Feind seiner Rasse.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-8"/>8.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-8"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Daudet, statt vor dem mächtigeren Feind: dem Tod zu kapitulieren, reißt das Grab seines Kindes auf und zeiht die Anarchisten mörderischen Anschlags. Die Justiz wird in Bewegung gesetzt. Die Söldner Poincarés und Daudets finden absolut nichts in den Gewissen und Gesten der Anarchisten. Umsonst schreien die Camelots du roi, drohen, rasen.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-9"/>9.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-9"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Als Antwort druckt der „Libertaire“ neun Gedichte in Prosa des jungen Philippe, der sich als genialer Weltsucher offenbart. Ein Kind von fünfzehn Jahren nahm sein Schicksal in die Hand und floh aus seiner Familie. Nur dies! Es brauchten nicht einmal die Daudets zu sein. Unwillkürlich denkt man an das andere Dichterkind Rimbaud, das seine Lebensqual nach Belgien trug, nach Afrika, in eine Wildnis, abseits von Mensch und Literatur. Diese mit Gottheit Geladenen explodieren irgend einmal. Den bourbonischen Vater überspringend fand der unglückselige Enkel zu Alphonse Daudet zurück, dem gütigen Großvater der „Petit Chose“ und „Tartarin“ ...</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-10"/>10.<text:bookmark-end text:name="7770129933670837057_65644-h-9.htm.html#chapter-4-10"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Philippes Tod bleibt dennoch ein Geheimnis für alle. Später beschuldigt der Vater die Pariser Polizei, den Mord angezettelt zu haben. Monate, Jahre lang wird hin- und hergeredet. Diese Morde sind ein schlimmes Zeichen für ein Regime! Die phrygische Mütze der Republik schleift im Kot. Die Wahrheit kennt niemand ...</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P3" text:outline-level="2"><text:bookmark text:name="7770129933670837057_65644-h-10.htm.html#part-5"/>*</text:h>
+   <text:p text:style-name="First_20_paragraph">Doch heute wird Philippe, knapp einen Monat vor Germaines Prozeß, zum Märtyrer der Anarchie, der er fehlte. Einer aus dem Hause Daudet! (Shakespeare.) Schleier der Melancholie weben um die Wirklichkeit, die sich in wenigen Jahren zum zartesten Märchen verdichten wird. Unser Jahrhundert, wie einst die große Antike, schafft sich ihre eigne Mythologie. Für den blutigen Verleumder der Guten zahlt ein bis zur Verzweiflung niedergeduckter Vater.</text:p>
+   <text:p text:style-name="Text_20_body">Germaine liebt diesen Philippe. Er ist ihr Bruder im Leid geworden. Sie zeichnet im Gefängnis sein Bild. Er ist der Bräutigam ihrer Einsamkeit, der fünfzehnjährige Gast ihrer Gesinnung. Und: er wird keiner menschlichen Schwäche mehr anheimfallen, er ist heilig, weil er tot ist. Am letzten Tage vor ihrem Urteilsspruch, der ein schrecklicher, langer Sonntag ist, hält sie Philippes Photographie wie ihren einzigen Talisman in Händen, drückt sie an die Lippen und murmelt: „Schütze du mich gegen deinen Vater, frühgefallener Märtyrer du!“</text:p>
+   <text:p text:style-name="Text_20_body">Ein Jahr später, wenn sie der neuerlangten Freiheit unter den billigen Menschen schon wieder müde ist, sie, die nur im Kampf und im Schmerz Selige, wird sie zur Nonne seines Gedächtnisses. Sie trägt das Bild des Knaben mit sich. Sie herzt ihn im Traum. Und sie bildet es sich so fest ein, daß sie es nun glaubt, seine Braut gewesen zu sein. Es gibt wieder Nonnen und Heilige, oh, ihr tauben Schieber dieser Zeit! Am 1. November 1924 wird Germaine Berton bewußtlos in der kleinen Kirche Notre Dame de Lourdes aufgefunden. Es ist Allerseelen: der graue Tag, an dem die Bürger in den Friedhöfen ihrer Dummheit spazieren laufen. Der Tag ohne Musik, an dem der Selbstmord einzige Freiheit. Von Kirche zu Kirche, von Kapelle zu Kapelle ist Germaine den ganzen Nebeltag geirrt, um einen Gott, Trost und Ruhe zu suchen, sie ist hingekniet vor vielen lächelnden und wurmstichigen Marien, sie hat ihre Kleider mit dem faden Parfüm des Weihrauchs durchtränkt und gebetet. Und im grauen Friedhof Père-Lachaise, in dem die Toten hart auf Stein liegen, nicht weich an der Erde Brust, unter den Nebelbäumen hat sie gestanden an Philippes Grab und hat gemeint sterben zu müssen vor Leid und Ekstase.</text:p>
+   <text:p text:style-name="Text_20_body">Und dies alles war kein Irrwandel: der Glaube war wirklicher als die Realität. Sie schrieb einen Brief an Philippes Mutter, an die Mutter, in dem sie ihr mitteilte, sie sterbe aus Gram an Philippes Tode ... Sie empfinde keine Schuld dafür, daß sie den Jungen in ihren Armen gehalten und geliebt habe ... „Verzeihen Sie mir, Madame, denn wenn Philippe für mich gestorben ist, gebe ich mir heute den Tod für ihn.“</text:p>
+   <text:p text:style-name="Text_20_body">Man fand sie bewußtlos auf den Dielen der Kirche. Unweit von ihr lag ein korsisches Messer. Aber sie hatte sich nichts angetan. Man führte sie ins Krankenhaus, ohne zu entdecken, um wen <text:soft-page-break/>es sich handelte ... Sie hatte ihren Tod tief erlebt. Aber sie starb nicht daran.</text:p>
+   <text:p text:style-name="Text_20_body"> </text:p>
+   <text:p text:style-name="Text_20_body">Dann die Linkspartei: Nun kommen die wahren Männer der Republik, und ihr einziges Ziel ist, aus dieser Affäre Berton eine Revision des Jaurès-Prozesses zu machen. Jaurès ist das Stichwort. Jaurès ist die Klage, mittels deren die ganze Anklage immun wird.</text:p>
+   <text:p text:style-name="Text_20_body">Publizisten, Advokaten, Schriftsteller, Abgeordnete, Generäle, Minister treten mit erhobener Hand vor und nehmen die Angeklagte vor der Justiz, vor der Weltgeschichte und vor ihr selber in Schutz. Die bekanntesten Gesichter des echten, des ewigen Paris treten auf und geben der Welt eine voltairische Lektion. Es quellen die pathetischen Worte aus ihrem Munde, wie man sie aus der Zeit Victor Hugos und Zolas kennt, aber mit dem Klang des vollen Herzens. Kommt es ihnen auf die Wahrheit oder auf den Geist an? Ein Mädchen sitzt da, eine Vision Frankreichs, das gilt es zu retten.</text:p>
+   <text:p text:style-name="Text_20_body">Jaurès! Jaurès! klingt es durch den Saal, öfter wie Berton! Berton! Der Nationalheld ist erschossen worden und sein Mörder Villain freigesprochen. Das ist die These. Und da stehen sie, die Freunde, die Mitarbeiter, die Jünger Jaurès, und fordern ein republikanisches Urteil. Es ist nur noch ein politischer Prozeß. Die Daudet-Leute werden mit ihren eigenen Explosivstoffen gesprengt. Sie haben den Gewaltakt gepredigt und haben den Gewaltakt in ihrem eigenen Blut erfahren. Sie haben sich nicht zu beklagen: „Wer durch das Schwert gesündigt hat, wird durch das Schwert umkommen ...“</text:p>
+   <text:p text:style-name="Text_20_body">Jaurès! ruft der Sozialistenführer Léon Blum, dessen zugetanster Freund, und erinnert, daß die Witwe und die Freunde des Tribunen die Gnade seines Mörders verlangt haben, denn Rache heische nur Rache, und Jaurès selber hätte nie zugegeben, daß sein Leben mit einem anderen bezahlt würde. „Unsere einzige Rache an Villain sollte sein, daß er seine Tollheit einsähe und daß sein Gewissen ihn zerfräße.“ Und in der Tat hat sich dieser nach seiner Freisprechung nicht selber das Leben genommen?</text:p>
+   <text:p text:style-name="Text_20_body">„Jaurès!“ ruft Jean Longuet, tränenerstickt: „mit ihm unternahm ich die letzte Brüsseler Fahrt, wo der letzte Versuch gemacht wurde, den europäischen Frieden zu retten. Ich warnte Jaurès davor, sich in dasselbe Restaurant zu setzen, in dem Daudet und Maurras verkehrten. Hatte nicht letzterer acht Tage zuvor in der „Action Française“ öffentlich den Tod des Tribunen provoziert, indem er schrieb: ‚Gegen diese moralische Fäulnis kann nur das Eisen noch helfen!‘ Und wirklich, unser Freund erlag.“</text:p>
+   <text:p text:style-name="Text_20_body">„Jaurès!“ ruft Marcel Cachin, der Chef der Kommunisten und erinnert, wie oft den edlen „Camelots du roi“ seine eigene Ermordung aufgetragen wurde, unter denen sich aber kein Charakter fand wie die Germaine Berton.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>„Jaurès!“ ruft der sanfte Georges Pioch, der dicke Mann, der die Güte selbst personifiziert, der auf allen Meetings, allen Gedenkfeiern und allen Faubourgs und Vorstädten eine lächelnde Revolution predigt.</text:p>
+   <text:p text:style-name="Text_20_body">Und da kommen die altgedienten Republikaner alle, die im Dienst für Frieden und Menschenrecht graugewordenen Intellektuellen, die alle seit mehr als zwanzig Jahren den blutheischenden Zorn Daudets und seiner Königsclique ertragen.</text:p>
+   <text:p text:style-name="Text_20_body">Da ist der zweiundachtzigjährige Ferdinand Buisson, der Präsident der Liga für Menschenrechte, und sein zweites Wort ist „Jaurès!“</text:p>
+   <text:p text:style-name="Text_20_body">Da ist der Theoretiker der anarchistischen Lehre und Shaw-Übersetzer Augustin Hamon, da ist Urbain Gohier, den seit dem Dreyfus-Prozeß die Royalisten aus tiefstem antisemitischem Haß durch Verleumdung und Lüge aus dem Weg zu räumen suchten: „Hätte ich zwei Pistolen in der Tasche gehabt und die „Action Française“ gesäubert, ich wäre bestimmt freigesprochen worden,“ sagt er. Da ist Ernest Judet, der frühere Herausgeber des „Eclair“, soeben erst aus sechsjähriger Verbannung in der Schweiz heimgekehrt – lauter alte Männer, und alle bedauern nur, den Mut der Germaine Berton nicht aufgebracht zu haben.</text:p>
+   <text:p text:style-name="Text_20_body">Da sind der Exminister Violette, der Caillaux-Verteidiger Marius Moutet, der bekannte Pazifist Marc Sangnier, die ersten Opfer der faschistischen Gewaltakte der Action Française, die eines Abends, als sie sich in eine Versammlung der Salle des Sociétés Savantes begeben wollten, mit Knüppeln von der Daudetbande traktiert wurden.</text:p>
+   <text:p text:style-name="Text_20_body">Da ist der Hauptmann Fontanie und beichtet: „Als ich von der Tat der Berton hörte, war ich tief geknickt, weil ich mich oftmals während des Krieges selber gefragt hatte, ob ich Léon Daudet nicht erschießen müßte. Wir sollten republikanische Propagandaschriften in die deutschen Schützengräben schmuggeln, aber währenddessen bereiteten andere in Paris die Monarchie vor. Ich habe Daudet nicht getötet, weil ich aus ihm keinen Märtyrer machen wollte, aber daß die Berton es getan, verstehe ich vollkommen.“</text:p>
+   <text:p text:style-name="Text_20_body">Da ist sogar der Kriegsminister Lefèvre, dessen Objektivität einer Verteidigung Germaines gleichkommt (denn alle hielten ihn für einen Helfershelfer Daudets). Da ist der General Sarrail, der Verteidiger von Saloniki, und ruft seinerseits „Jaurès!“</text:p>
+   <text:p text:style-name="Text_20_body">Und da ist Pierre Hamp, der sozial-lyrische Dichter der Arbeit, der in einer großen Fuge „La Peine des hommes“ die Schönheit und die Schrecklichkeit der alltäglichen Fron schildert, einem Werk, das den Naturalismus Zolas auf statistischer Basis ausbaut und die Technik des Jahrhunderts mit Menschlichkeit anfüllt. Hamp entrückt das Bild Germaines in die Geschichte und vergleicht sie mit Charlotte Corday, der sie über hundertdreißig Jahre Distanz die schwesterliche Hand reichen darf. Die passionierte Corday hatte Plutarch und Rousseau gelesen <text:soft-page-break/>und handelte für das republikanische Ideal. Germaine Berton hatte Zola und Tolstoi gelesen und tötete im Namen des Proletariats. Zwei parallele Taten: beide erschlagen das Monstrum, das ihnen als Symbol für die Qualen ihrer Zeit erscheint: Marat und Léon Daudet. Marat war zu seiner Zeit sehr beliebt und doch ereignete es sich, daß sich sein Gesicht im Abstand der Zeit in eine Fratze verwandelte, während sich die Gestalt der Charlotte Corday vergeistigte. Dichter wie André Chénier besangen sie und Lamartine nannte sie „L’ange de l’assassinat“. Welche Hymnen werden noch auf Germaine Berton geschrieben werden?</text:p>
+   <text:p text:style-name="Text_20_body">Und von diesem Dichter Pierre Hamp liest dann der Verteidiger einen blendenden Essay über Germaine vor, in welchem die Kategorien der Mörder mit neuen und klaren Ideen belichtet werden. Hamp dreht den Spieß um, und gibt der „Action Française“ die moralische Schuld an Plateaus Tode:</text:p>
+   <text:p text:style-name="Text_20_body">„Der Anschlag auf ein Menschenleben ist unverzeihlich. Schlagen ist dumm. Nichts widerspricht dem adligen Denken mehr als die Theorie der Action Française: ‚Denkst du nicht so wie ich, so erschlage ich dich!‘ Der Unterschied zwischen der Action Française und der Anarchie ist der, daß letztere kein Gesetz anerkennt, sich außerhalb ihrer Grenzen befindet und nur nach ihrer eigenen Moral und Rechtsanschauung lebt; hingegen geht das dogmatische Institut der Action Française darauf aus, uns mit Gewalt ihre Moral und ihre Gesetze aufzuzwingen. Sie besitzt eine Gendarmerie, ein Tribunal, Spitzel und Teeranstreicher für sich.</text:p>
+   <text:p text:style-name="Text_20_body">Die Tat der Germaine Berton entspricht nur den Forderungen der Action Française; aber für ein solches Attentat sind alle Indifferenten verantwortlich; sie ist der Ausfluß der öffentlichen Empörung, bei diesem Kind eine Geste des Edelmuts und des leidenschaftlichen Interesses am Gemeinwohl.</text:p>
+   <text:p text:style-name="Text_20_body">Unter den Verbrechern, die nach dem Leben anderer trachten, gibt es erstens diejenigen, die vor allem sich deren Güter aneignen wollen. Dann die aus Leidenschaft, Eifersucht oder Liebe handeln. Auch hier ein materieller Beweggrund. Endlich aber gibt es Opfer-Verbrecher, die keinen Vorteil für sich selbst suchen, sondern ihr Leben für das Allgemeinwohl aufs Spiel setzen. Zu diesen gehören die politischen Attentäter. Die politische Tat entspringt immer einem Kollektivwillen: einer Majorität wie bei Wilhelm Tell, einer Minorität, wie bei Ravaillac, aber nie dem Individuum allein, das es vollbringt. Dafür gibt es kein Beispiel. Hinter Ravaillac stand die katholische Kirche; hinter Charlotte Corday die Gironde; hinter Raoul Villain die Action Française; und hinter Germaine Berton? Sie zwar sagte: ‚Ich habe allein den Willen zum Mord gehabt!‘ aber sie hat nicht allein den Gedanken daran gehabt. Die Republik ist für das Treiben der Action Française zu nachsichtig gewesen. Léon Daudet ist zwar ein großer Literat, aber auch ein großer Halunke, und wir <text:span text:style-name="T1">alle</text:span> sind für Germaine Bertons Tat verantwortlich. Sie hat uns endlich ein Beispiel bürgerlichen Mutes gegeben! Eine Waise aus den Reihen der Anarchie hat <text:soft-page-break/>sich für das Proletariat geopfert ...“</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="7770129933670837057_65644-h-10.htm.html#chapter-5-1"/>Epilog.<text:bookmark-end text:name="7770129933670837057_65644-h-10.htm.html#chapter-5-1"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Weltgeschichte: lächelnde Sphinx. Ein Lächeln von Stein! Die Vergangenheit allein hat Bestand. Die Legenden sind wahr.</text:p>
+   <text:p text:style-name="Text_20_body">Die Tat der Germaine Berton ist bereits Legende. Aber sie selber lebt noch: und das Leben ist gestaltlos wie das fließende Wasser.</text:p>
+   <text:p text:style-name="Text_20_body">Die Tat ist geschehen: die Welt aber nicht besser geworden, Frankreich nicht glücklicher, die Freiheit nicht wirklicher. Wozu dann?</text:p>
+   <text:p text:style-name="Text_20_body">Freiheit? Nur die Toten sind frei! Deshalb verlockte sie das Los der Toten. Ist sie denn am Allerseelentag nicht gestorben? Sie hat ihren Tod so stark erlebt! Wohl stärker als den wirklichen!</text:p>
+   <text:p text:style-name="Text_20_body">Nun ist sie beinahe beruhigt. Und plötzlich akzeptiert sie die wissende, die unvermeidliche Erde. Ihre politische Laufbahn ist irgendwie abgeschlossen. Die Vergangenheit ist zwar da: aber wie eine Statue gewordene Form des Lebens. Nun entdeckte Germaine ein neues Reich: das des Geistes und der Liebe. Hier vielleicht ist eine höhere Freiheit zu finden, als in der brutalen, unnützlichen, irdischen Tat?</text:p>
+   <text:p text:style-name="Text_20_body">Sie schreibt am 10. November 1924 diesen Brief:</text:p>
+   <text:p text:style-name="Text_20_body">„Ihren lieben Brief<text:a xlink:type="simple" xlink:href="#7770129933670837057_65644-h-10.htm.html#footnote-1" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">[1]</text:span></text:a> erhalte ich jetzt erst ... Wie gütig von Ihnen, Madame, Ihre Anteilnahme rührt mich. Aber ... trotz allem bleibt meine Seele voll von jener Vergangenheit, die mit meinem ganzen Wesen Eins ist und die ich nicht mehr aus mir zu reißen vermöchte; zuweilen dachte ich, es zu können, indem ich einige Fetzen lebenden Fleisches mit herunterriß ... aber wie ein Krebs kam es wieder.</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#7770129933670837057_65644-h-10.htm.html#fnote-1" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">[1]</text:span></text:a> Dieser Brief ist im Original als Anhang faksimiliert wiedergegeben.</text:p>
+   <text:p text:style-name="Text_20_body">Dennoch habe ich unrecht gehabt, ich gebe es Ihnen gern zu, eine Zuflucht im Grabe zu suchen. Ich hätte wissen sollen, daß das Leben ewig triumphiert, und daß der Sarg keineswegs das letzte Lager ist, in welchem man – ‚auf ewig‘ – seine müden Glieder und sein priesterliches Herz ausstrecken darf!</text:p>
+   <text:p text:style-name="Text_20_body">Dies alles erscheint mir ach! sehr grausam und unerbittlich. Es ist so süß, zuweilen von einer vollständigen Auflösung zu träumen, und Sie werden mich nach folgenden Zeilen besser verstehen.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Ich glaube an Gott, obwohl ich keine Christin bin ... Ich habe mich immer danach gesehnt, Schmerzen lindern und so heiß lieben zu können, daß meiner Liebe Glut andere erfreuen und den Haß schmelzen würde – Das aber habe ich hienieden nicht fertiggebracht, und im Gegenteil Samen ins Feld des Hasses gestreut ...</text:p>
+   <text:p text:style-name="Text_20_body">Ich träumte auch davon, über den Tod hinaus lieben zu können; aber ich sah ein, daß ich selbst als der Engel des Lichtes bei dem großen ‚Irdischen Lamento‘ erbeben würde, und ihm selbst da noch nicht Halt gebieten könnte ...</text:p>
+   <text:p text:style-name="Text_20_body">Wenn Sie wüßten, wie schrecklich diese Einsicht ist: ‚Ich bin ohnmächtig!‘ Wenn Sie wüßten, wie dieser Gedanke mich auf den Tod unglücklich macht! Und ist das nicht übrigens auch Jesus’ furchtbarste Qual gewesen, als er am Kreuz aus dem Herzen und den vier Gliedmaßen blutete? ...</text:p>
+   <text:p text:style-name="Text_20_body">Wie soll man noch glücklich leben, wenn man weiß, daß selbst ein Gott unfähig ist, seine Liebe auf alle zu übertragen, daß es am Ende der Jahrhunderte doch noch eine Hölle und Verdammte geben wird!</text:p>
+   <text:p text:style-name="Text_20_body">Wie soll man noch einfach dahinleben, wenn man weiß, daß es trotz des Opfers immer noch verlorene Seelen geben wird? – Und daß die Erlösung keine vollständige sein wird!</text:p>
+   <text:p text:style-name="Text_20_body">Wie sollen wir am Erlösungsdurst nicht untergehen, der ewig unstillbar ist, wo doch ein Gott selber daran verdarb! Wie kann auch dieser Gott mich in meiner Schwäche stützen? Lieben kann ich ihn, in Wahrheit, aber aus meiner Liebe kann nur eine tiefe Melancholie und ein großes Mitleid mit diesem Ohnmächtigen erwachsen, der in 20 Jahrhunderten das angefangene Werk von Gethsemane nicht vollenden konnte – es nie vollenden wird!</text:p>
+   <text:p text:style-name="Text_20_body">So sind wir Menschen die ewig Betrübten, wir weinen über unseren Gott und unser irdisches Ideal! Ach! –</text:p>
+   <text:p text:style-name="Text_20_body">Schreiben Sie mir.“</text:p>
+   <text:p text:style-name="Text_20_body">Was geht in Germaine vor? Eine neue Krise, ein neues Verlangen nach Läuterung. Aber diesmal von innen heraus. Was mit politischem Skandal, was mit allen modernen Trompeten der Welt, was mit Blut, Tod, Gericht nicht erreichbar war (ein Mädchen von 20 Jahren konnte diesem irdischen Tumult gewiß eine Bedeutung zuschreiben, wo die Millionen der Lebenden bis zu ihrem Tod den Zustand als wertgültig hinnehmen!), das versucht nun die durch die Flamme heil Emporgegangene mit dem Gegenteil, mit der Liebe, mit der Einkehr, mit einem neuen <text:span text:style-name="T1">Glauben</text:span> zu erreichen. Auf diesen Glauben kommt es an! Nur in diesem Glauben liegt die wahre Freiheit geborgen.</text:p>
+   <text:p text:style-name="Text_20_body">Germaine Berton hat alle politischen Formen verbraucht. Sie wirft die menschlich-irdischen <text:soft-page-break/>Möglichkeiten zum alten Eisen. Sie richtet jetzt die Frage an die Religionen, an alle Götter. Alle interessieren sie. Sie tastet und sucht. Wo liegt das Unfindbare? Christentum, Buddhismus, Rosenkreuz, Spiritismus: das zweiundzwanzigjährige Mädchen richtet die eine naive, immer dieselbe Frage an die Galerie der Götter. –</text:p>
+   <text:p text:style-name="Text_20_body">Wird eine Antwort ihr entgegenschallen? Vielleicht hört sie Stimmen? In dieser selben Geistesverfassung befand sich die heilige Jungfrau von Arc. Germaine Berton ist gewappnet. Sie hat einen Glauben. Sie bereitet sich vor. Sie weiß von sich. Sie fühlt sich getragen. Sie ist das vollkommenste Abbild der „Freiheit“. Sie hat Geduld und Ehrgeiz, diese Attribute des Genius. Sie erwartet die wahre Revolution.</text:p>
+   <text:p text:style-name="Text_20_body">Wie groß sie noch wird, hängt von der Zeit ab, deren Form der Einzelne spiegelt.</text:p>
+   <text:p text:style-name="Text_20_body">Germaine glaubt.</text:p>
+   <text:p text:style-name="Text_20_body">Wir glauben an sie.</text:p>
+   <text:p text:style-name="Text_20_body">Dezember 1924.</text:p>
+   <text:p text:style-name="Text_20_body">Gesegnet sei Frankreich, daß es neben den Opferfreudigen auch die milden, die geduldigen Frauen besitzt! Séverine ist das Symbol der allseits mütterlichen Güte. Eine Heilige der Republik. Eine Frau, die seit fünfzig Jahren mitten in den sozialistischen Reihen steht und ihre ganze Existenz dem Volk gewidmet hat. Heute trägt sie einen Silberkopf, zwei unverwelkte Veilchen in den Augen und das unsagbare Lächeln, geheimnisvoll und rein, wie die Entsagenden. Sie tritt vor die Schranke und lächelt, und schon ist Germaine gerettet. Sie faltet die Hände, wie die stillen Damen es zu tun pflegen, und ein Wunder geschieht. Der Saal, eben noch ein stürmisch aufgeworfenes Meer, ruht wie von Öl begossen. Sie spricht nicht, sie singt. Sie singt von einem Kinde, das nie eine Mutter gehabt hat und arm und kalt in die Großstadt hineinwehte. Man hat ihr vieles vorgeworfen und vorzuwerfen, aber ... „Sehen Sie, Ihr Herren Geschworenen, es ist ein Kind, das nicht ausgebrütet wurde unter den Küssen einer Mama. Man hat ihr das Herz nicht entwickelt, diesem Mädel. Sie weiß ja nichts. Und sie ist erst zwanzig ... Wenn Sie wüßten, was ich schon alles in diesem Saal erlebt habe, den Freispruch der Frau Clovis Hugues, der Frau Steinheil, der Frau Caillaux, und diese alle hatten nur aus egoistischen Gründen, aus Ehrgeiz, aus Habsucht oder aus Liebe gehandelt. Diese hier aber hat weder an Geld, noch an sich gedacht. Sie hat sich für die anderen geopfert! „Es ist ein armes Kleines. Man muß es lieb haben!“</text:p>
+   <text:p text:style-name="Text_20_body">SÉVERINE</text:p>
+   <text:p text:style-name="Text_20_body">So sprach Séverine, und das Volk Frankreichs widersteht der Kraft des Herzens nicht. Eine Frau sprach leise und ward besser erhört als alle die acht Tage hindurch schreienden zornigen <text:soft-page-break/>Männer.</text:p>
+   <text:p text:style-name="Text_20_body">Und endlich kam der Tag des Urteils, ein Montag, der 24. Dezember, der Weihtag, vor der Weihnacht. Alles in diesem Prozeß hat eine schicksalhafte Bedeutung. Dieses Datum wird in den Annalen des nachkriegerischen Paris bleiben. Es regnet, es nebelt, es schneit. Die Stadt wird nimmer hell, der Abend greift schon lange vor. Aber seit vier Uhr früh warten vor dem Gerichtsgebäude die blassen Freunde Germaines in langen Reihen. In den Gängen hört man Schreie, Schritte und dumpfe Laute wie im Maschinenraum eines Ozeandampfers. Der Schwurgerichtssaal ist ein pochender Dampfkessel. Noch einmal steigern sich die Passionen bis zur Siedehitze.</text:p>
+   <text:p text:style-name="Text_20_body">Schon am vergangenen Samstag hatte der Fürsprecher der Action Française, Marie de Roux, ein Südländer, mit einem genereusen Renaissancebart, wie man sie von der Bühne her gewohnt ist, der Anarchie den Prozeß gemacht. Er liest aus einem Artikel vor, der von Germaine Berton geschrieben ist, und beweist, daß Germaine wissentlich und willentlich diesen anarchistischen Akt beging:</text:p>
+   <text:p text:style-name="Text_20_body">„Ich habe die absolute Überzeugung,“ so schreibt sie, „daß allein die individuelle Tat wirksam sein kann. Ich meine nicht die isolierte, aber mehrere in kurzen Abständen, trotz Verhaftung und Verurteilung unermüdlich wiederholte Taten, die wie der höhlende Tropfen im Felsen wirken. Wir brauchen furchterzeugende Beispiele. Mein Mitleid mit jenen, die sich opfern: sie sind es, die Mitleid haben mit Euch!“ Die angebliche „Theorie der Gewalt“ aber, die man der Action Française unterschiebt, sei nur eine „Theorie zur Eindämmung der Gewalt ...“</text:p>
+   <text:p text:style-name="Text_20_body">CAMPINCHI</text:p>
+   <text:p text:style-name="Text_20_body">An diesem Montag folgen die Anklagereden des heftigen metallenen Campinchi, dessen Worte und Stimme wie Rasierklingen sirren, aber dessen Argumente aus schlechtem Material sind. Der Staatsanwalt Sens-Olive ist kühl, objektiv, logisch, behauptet, daß ein Mord eben ein Mord sei und läßt sogar gutväterliche mildernde Umstände zu.</text:p>
+   <text:p text:style-name="Text_20_body">Aber am Nachmittag erhebt sich der donnernde Verteidiger Torrès, der wie eine Lawine wüten und wie ein Südwind seiner Heimat schmeicheln kann. Er tobt wie ein Löwe in einem Käfig. Aber bald zerbricht er die eisernen Stangen der Geschehnisse und jagt empor ins Freie, ins Geistige, der Löwe verwandelt sich in eine Gazelle, und die Vision Jaurès wächst langsam bei hereinbrechender Nacht im Hintergrunde des Saales empor. Wie in einem Film sehen wir noch einmal die Silhouetten auftauchen: den trivialen und tragischen Scylla Daudet, eine enge geizige Mutter, die blonde heroische Madame Caillaux, den hingerichteten Almereyda, Cottin, der auf Clemenceau schoß, Madame Paulmier, die 1898 auf Millerand schießen will und, da sie ihn nicht trifft, sich mit Herrn Ollivier begnügt, Plateau, der schon davon träumte, sich als <text:soft-page-break/>königlicher Polizeichef im Ministerium des Innern zu installieren, und endlich Séverine, deren Name so zart ist, daß jedes Adjektivum überflüssig wird, und Germaine, Germaine, Germaine.</text:p>
+   <text:p text:style-name="Text_20_body">„Friede auf Erden! werden die Glocken zu Mitternacht läuten. Daß es ein echter Friede sei, werdet ihr Herren Geschworenen nicht Blut vergießen, sondern den Schnee des Vergessens darüberbreiten ...“</text:p>
+   <text:p text:style-name="Text_20_body">Eine halbe Stunde darauf ist Germaine freigesprochen. Zwei Fragen: „Ist G. B. des Mordes an Plateau schuldig? Hat sie ihn vorbedacht?“ Zwei Nein. Das bedeutet ein millionenfaches Ja. Die dunkle Menge, das ewige, das unfaßbare Paris wartet in strömendem Regen auf den Boulevards. Die Nachricht verbreitet sich von Mund zu Mund, schneller als von Radiostation zu Radiostation. Menschen umarmen sich. Die Extraausgaben überfliegen zehn Minuten später die Stadt wie ein Rudel weißer Tauben. Die kleinen Taxi-Autos, mit den schönen Frauen drin, eilen die Rue des Martyrs hinan. Auf der Place de la Madeleine wird diese neue Madeleine angebetet. Réveillon! Réveillon! Diese Nacht ist die größte, die tollste, die hellste des Jahres. In allen Restaurants sind die Tische seit Monaten vorbestellt. Christus ist frisch rasiert und begibt sich ins Moulin Rouge. Die Gänseleberpasteten aus Straßburg sind ausverkauft. Die Midinetten sind alle in Marquisen verwandelt. Die Läden sind offen bis fünf Uhr früh. Aus den Auslagen der Juweliere verschwinden die Perlenkolliers wie tauender Schnee. Auf den Straßen verteilen Familien unter sich die Austern, die Hummern, die Hühner und die Fasane. An jeder Straßenecke wird getanzt. Réveillon! Oben neben dem Sacré-Cœur, in der kleinen Kirche St. Pierre lassen fromme Bürgerinnen die tiefen Klänge der Orgel über ihr ehebrecherisches Herz ergehen und sind wieder treu, wieder fromm, wieder Mütter. Die Waisenkinder erwarten das neue Brüderchen Christus ... Aber auf der Place Pigalle ist es ein Feuerwerk von roten, violetten, goldenen Monden, Reklamen, Fanfaren, und die ganze Welt, die Perser mit ihren falschen Teppichen, die Russen mit ihren falschen Patronentaschen, die Bettler mit ihren falschen Brillen, die armen Blumenverkäuferinnen mit ihren falschen Kindern loben und singen die Größe dieser Nacht ...</text:p>
+   <text:p text:style-name="Text_20_body">Aber ein kleines, einfaches, unscheinbares Taxi rollt aus einem abseitigen Tor des Justizpalastes auf den schweigenden Quai, über schwebende Seinebrücken, durch stille, ganz verkrochene Straßen: Germaine Berton, die befreite Befreierin, fährt, ohne etwas zu denken, ohne sich zu freuen, ohne zu wissen, in die kleine bürgerliche Wohnung des armen Lecoin und verplaudert dort mit ihm und dessen Frau diese geheimnisvolle, diese stille heilige Nacht.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">DIE FÜNF IM TEXT STEHENDEN<text:line-break/><text:soft-page-break/>ZEICHNUNGEN SIND ARBEITEN<text:line-break/>VON L. BERINGS</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">In der Sammlung<text:line-break/>AUSSENSEITER DER GESELLSCHAFT<text:line-break/>– DIE VERBRECHEN DER GEGENWART. –<text:line-break/>ERSCHIENEN BISHER:</text:p>
+   <text:p text:style-name="Text_20_body">Band 1:</text:p>
+   <text:p text:style-name="Text_20_body">ALFRED DÖBLIN<text:line-break/>DIE BEIDEN FREUNDINNEN UND IHR GIFTMORD</text:p>
+   <text:p text:style-name="Text_20_body">Band 2:</text:p>
+   <text:p text:style-name="Text_20_body">EGON ERWIN KISCH<text:line-break/>DER FALL DES GENERALSTABSCHEFS REDL</text:p>
+   <text:p text:style-name="Text_20_body">Band 3:</text:p>
+   <text:p text:style-name="Text_20_body">EDUARD TRAUTNER<text:line-break/>DER MORD AM<text:line-break/>POLIZEIAGENTEN BLAU</text:p>
+   <text:p text:style-name="Text_20_body">Band 4:</text:p>
+   <text:p text:style-name="Text_20_body">ERNST WEISS<text:line-break/>DER FALL VUKOBRANKOVICS</text:p>
+   <text:p text:style-name="Text_20_body">Band 5:</text:p>
+   <text:p text:style-name="Text_20_body">IWAN GOLL<text:line-break/>DIE ROTE JUNGFRAU<text:line-break/>GERMAINE BERTON</text:p>
+   <text:p text:style-name="Text_20_body">Band 6:</text:p>
+   <text:p text:style-name="Text_20_body">THEODOR LESSING<text:line-break/>HAARMANN, DIE GESCHICHTE<text:line-break/><text:soft-page-break/>EINES WERWOLFS</text:p>
+   <text:p text:style-name="Text_20_body">Band 7:</text:p>
+   <text:p text:style-name="Text_20_body">KARL OTTEN<text:line-break/>DER FALL STRAUSS</text:p>
+   <text:p text:style-name="Text_20_body">Band 8:</text:p>
+   <text:p text:style-name="Text_20_body">ARTHUR HOLITSCHER<text:line-break/>DER FALL RAVACHOL</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">Die Sammlung<text:line-break/>AUSSENSEITER DER<text:line-break/>GESELLSCHAFT<text:line-break/>Die Verbrechen der Gegenwart</text:p>
+   <text:p text:style-name="Text_20_body">wird ständig fortgesetzt. Aus der großen Zahl der Mitarbeiter nennen wir an dieser Stelle nur: Henri Barbusse / Martin Beradt / Max Brod / F. Th. Csokor / Karl Federn / Max Freyhan / E. I. Gumbel / Walter Hasenclever / Walter von Hollander / Georg Kaiser / Otto Kaus / Kurt Kersten / Thomas Mann / Leo Matthias / Eugen Ortner / Walter Petry / Joseph Roth / René Schickele / Hermann Ungar / Jacob Wassermann / Alfred Wolfenstein / Über die Erscheinungstermine und weitere Einzelheiten werden wir genaue Daten jeweils durch Sonderprospekte bekannt geben.</text:p>
+   <text:p text:style-name="Text_20_body">VERLAG DIE SCHMIEDE<text:line-break/>BERLIN</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">OHLENROTH’SCHE BUCHDRUCKEREI ERFURT</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">Anmerkungen zur Transkription</text:p>
+   <text:p text:style-name="Text_20_body">Das Cover wurde vom Bearbeiter den ursprünglichen Bucheinbänden der Serie nachempfunden und der <text:span text:style-name="T1">public domain</text:span> zur Verfügung gestellt.</text:p>
+   <text:p text:style-name="Text_20_body">Offensichtliche Fehler wurden stillschweigend korrigiert. Weitere Änderungen sind hier aufgeführt (vorher/nachher):</text:p>
+   <text:list xml:id="list216624656" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P4">(mehrfache Fälle)<text:line-break/>... schreien die Camelots du Roy, drohen, ...<text:line-break/><text:soft-page-break/>... schreien die Camelots du <text:a xlink:type="simple" xlink:href="#7770129933670837057_65644-h-9.htm.html#corr-3" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">roi</text:span></text:a>, drohen, ...<text:line-break/></text:p>
+    </text:list-item>
+   </text:list>
+  </office:text>
+ </office:body>
+</office:document>

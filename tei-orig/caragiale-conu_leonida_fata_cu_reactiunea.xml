@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI lang="ro">
+  <teiHeader type="text" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title>Conu Leonida faţă cu reacţiunea farsă într-un act (1880)</title>
+        <author>Ion-Luca Caragiale</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2004-06-06T14:22:06</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority/>
+        <address></address>
+      </publicationStmt>
+      <sourceDesc default="NO">
+        <p>Written by OpenOffice</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage default="ro">
+        <language id="ro">ro</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2004-06-06T22:08:50</date>
+        <respStmt>
+          <name>Adrian Petru Dimulescu</name>
+        </respStmt>
+        <item>revision</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Conu Leonida faţă cu reacţiunea</titlePart>
+          <titlePart type="sub">farsă într-un act</titlePart>
+        </docTitle>
+        <docAuthor>Ion-Luca Caragiale</docAuthor>
+      </titlePage>
+      <castList>
+        <head>PERSOANELE</head>
+        <castItem type="role">CONUL LEONIDA, pensionar - 60 de ani</castItem>
+        <castItem type="role">COANA EFIMIŢA, consoarta lui - 56 de ani</castItem>
+        <castItem type="role">SAFTA, slujnica lor</castItem>
+      </castList>
+      <set>
+        <p>În Bucureşti, la Leonida</p>
+      </set>
+    </front>
+    <body>
+      <div type="act" org="uniform" sample="complete" part="N">
+        <head>Actul I</head>
+        <stage>(O odaie modestă de mahala. În fund, la dreapta, o uşă; la stânga o fereastră. De-o parte şi de alta a scenii câte un pat de culcare. În mijlocul odăii o masă împrejurul căreia sunt aşezate scaune de paie. Pe masă, o lampă cu gaz; pe globul lămpii un abat-jour cusut pe canava. În planul întâi, la stânga, o sobă cu uşa deschisă şi cu câţiva tăciuni pâlpâind. - Leonida e în halat, în papuci şi cu scufia de noapte; Efimiţa în camizol, fustă de flanelă roşie şi legată la cap cu tulpan alb. Amândoi de vorbă la masă.)</stage>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA I</head>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Aşa, cum îţi spusei, mă scol într-o diminează, şi, ştii obiceiul meu, pui mâna întâi şi-ntâi pe 'Aurora Democratică', să văz cum mai merge ţara. O deschiz... şi ce citesc? Uite, ţiu minte ca acuma: '11/23 Făurar... a căzut tirania! Vivat Republica!'</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Auzi colo!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Răposata dumneaei - nevastă-mea a d-întâi - nu se sculase încă. Sar jos din pat şi-i strig: 'Scoală, cocoană, şi te bucură, că eşti şi dumneata mumă din popor; scoală, c-a venit libertatea la putere!'</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(afirmativ)</p>
+            </stage>
+            <p>Ei!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Când aude de libertate, sale şi dumneei răposata din pat... că era republicană! Zic: găteşte-te degrab', Miţule, şi... hai şi noi pe la revuluţie. Ne îmbrăcăm, domnule, frumos, şi o luăm repede pe jos pân' la teatru...<emph>(Cu gravitate:)</emph>Ei, când am văzut... ştii că eu nu intru la idee cu una cu două...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ţi-ai găsit!... dumneata nu eşti d-ăia. Ehei! Ca dumneata, bobocule, mai rar cineva.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ori să zici nu ştiu ce şi nu ştiu cum, că adicătele 'acu, unde eşti tu republican, ţii parte naţiunii...'</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Aş!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Dar, când am văzut, am zis şi eu: să te ferească Dumnezeu de furia poporului!... Ce să vezi, domnule? Steaguri, muzici, chiote, tămbălău, lucru mare, şi lume, lume,... de-ţi venea ameţeală nu altceva.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Bine că n-am fost în Bucureşti pe vremea aia! Cum sunt eu nevricoasă, Doamne fereşte! Păţeam alte alea...</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ba nu zi asta; puteai trage un ce profit.<emph>(Schimbând tonul:)</emph>Ei, cât gândeşti c-a ţinut toiul revuluţiei?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Până seara.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(zâmbind de aşa naivitate, apoi cu seriozitate)</p>
+            </stage>
+            <p>Trei săptămâni de zile, domnule.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(minunându-se)</p>
+            </stage>
+            <p>Nu mă-nnebuni, soro!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ce te gândeşti dumneata, că a fost aşa un bagadel lucru? Fă-ţi idee: dacă chiar Galibardi, de-acolo, de unde este el, a scris atunci o scrisoare cătră naţiunea română.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(cu interes)</p>
+            </stage>
+            <p>Zău?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Mai e vorbă!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Adică cum?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Vezi dumneata, i-a plăcut şi lui cum am adus noi lucrul cu un sul subţire ca să dăm exemplu Evropii, şi s-a crezut omul dator, ca un ce de politică, pentru ca să ne firitisească...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(curioasă)</p>
+            </stage>
+            <p>Da'... ce spunea în scrisoare?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(cu importanţă)</p>
+            </stage>
+            <p>Patru vorbe, numai patru, da' vorbe, ce-i drept! Uite, ţiu minte ca acuma: 'Bravos naţiune! Halal să-ţi fie! Să trăiască Republica! Vivat Prinţipatele Unite!' Şi jos iscălit în original 'Galibardi'.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(satisfăcută)</p>
+            </stage>
+            <p>Apoi, atunci dacă-i aşa, a vorbit destul de frumos omul!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Hehei! Unul e Galibardi: om, o dată şi jumătate!<emph>(Cu mândrie şi siguranţă:)</emph>Ei! Giantă latină, domnule, n-ai ce-i mai zice. De ce a băgat el în răcori, gândeşti, pe toţi împăraţii şi pe Papa de la Roma?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(mirată)</p>
+            </stage>
+            <p>Şi pe Papa de la Roma? Auzi, soro?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ba încă ce! I-a tras un tighel, de i-a plăcut şi lui. Ce-a zis Papa - iezuit, aminteri nu-i prost! - când a văzut că n-o scoate la căpătâi cu el?... 'Mă, nene, ăsta nu-i glumă; cu ăsta, cum văz eu, nu merge ca de cu fitecine; ia mai bine să mă iau eu cu politică pe lângă el, să mi-l fac cumătru.' Şi de colea până colea, tura vura, c-o fi tunsă, c-o fi rasă, l-a pus pe Galibardi de i-a botezat un copil.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(cu ironie)</p>
+            </stage>
+            <p>Şi-a cunoscut omul naşul!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Vezi bine!... Acu ia spune, cam câţi oameni te bate gândul că să aibă Galibardi?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Sumedenie!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>O mie, domnule, numa' o mie.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ei! Fugi că mor! Şi adică numa' cu o mie să...</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(întrerupând-o)</p>
+            </stage>
+            <p>Da, da' întreabă-mă să-ţi spun ce fel de oameni sunt.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ceva tot unul şi unul.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ăi mai prima, domnule, aleşi pe sprinceană, care mai de care, dă cu puşca-n Dumnezeu; volintiri, mă rog: azi aici, mâine-n Focşani, ce-am avut şi ce-am pierdut!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ei! Aşa da.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Şi toţi se-nchină la el ca la Christos; de hatârul lui, sunt în stare, trei zile d-a rândul, să nu mănânce şi să nu bea, dacă n-or avea ce.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ce spui, soro?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ce-ţi spui eu, şi câte şi mai câte altele şi mai şi.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Bravos!</p>
+            <stage>
+              <p>(O mică pauză şi căscături de amândouă părţile.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Trebuie să fie târziu, Miţule; ne culcăm?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(se scoală şi se uită la ceas)</p>
+            </stage>
+            <p>Douăspce trecute, bobocule.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(sculându-se şi el şi mergând spre patul din stânga)</p>
+            </stage>
+            <p>Vezi dumneata cum trece vremea cu vorba...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(dregându-şi patul)</p>
+            </stage>
+            <p>Ei! Cum le spui dumneata, să tot stai s-asculţi; ca dumneata, bobocule, mai rar cineva.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(la pat şi intrând sub plapumă)</p>
+            </stage>
+            <p>Miţo, ai zis matale fetii să vie mâine mai de dimineaţă ca să facă focul?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(stingând lampa)</p>
+            </stage>
+            <p>Da.<emph>(Se-nchină şi se aşază în pat la dreapta.)</emph></p>
+            <stage>
+              <p>(Odaia rămâne luminată numai de flacăra tăciunilor din sobă.) </p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(după ce s-a învârtit în pat până să-şi facă culcuşul, cu satisfacţie)</p>
+            </stage>
+            <p>A! Aaşa!</p>
+            <stage>
+              <p>(Un moment pauză, în timp ce fiecare se aşază bine în aşternutul său.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(din aşternut)</p>
+            </stage>
+            <p>Şi zi aşa cu Galibardi, 'ai?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(asemenea)</p>
+            </stage>
+            <p>Aşa zău!... Ei! mai dă-mi încă unul ca el, şi până mâine seara, - nu-mi trebuie mai mult, - să-ţi fac republică...<emph>(Cu regret:)</emph>Da' nu e! Da' o să-mi zici că cu încetul se face oţetul, ori că mai rabdă, că n-a intrat zilele-n sac.<emph>(Cu tărie:)</emph>D-apoi bine, frate, până când tot rabdă azi, rabdă mâine? Că nu mai merge, domnule, s-a săturat poporul de tiranie, trebuie republică!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Adică, zău, bobocule, de! Eu, cu mintea ca de femeie, pardon să te-ntreb şi eu un lucru: ce procopseală ar fi şi cu republica?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(minunat de-aşa întrebare)</p>
+            </stage>
+            <p>Ei! Bravos! Ş-asta-i bună! Cum, ce procopseală? Vezi asta-i vorba: cap ei, minte ce-ţi mai trebuie? Apoi, închipuieşte-ţi dumneata numai un condei, stăi să-ţi spui: mai întâi şi-ntâi că dacă e republică, nu mai plăteşte niminea bir...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Zău?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Zău... Al doilea că fieştecare cetăţean ia câte o leafă bună pe lună, toţi într-o egalitate.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Parol?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Parol... Par egzamplu, eu...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Pe lângă pensie?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Vezi bine; pensia e başca, o am după legea a veche, e dreptul meu; mai ales când e republică, dreptul e sfânt: republica este garanţiunea tuturor drepturilor.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(cu toată aprobarea)</p>
+            </stage>
+            <p>Aşa da.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Şi al treilea, că se face şi lege de murături.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Cum lege de murături?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Adicătele că nimini să nu mai aibă drept să-şi plătească datoriile.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(crucindu-se de mirare)</p>
+            </stage>
+            <p>Maică Precistă, Doamne! Apoi dacă-i aşa, de ce nu se face mai curând republică, soro?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Hei! Te lasă reacţionarii, domnule? Fireşte, nu le vine lor la socotează să nu mai plătească niminea bir! E aproape de mintea omului: de unde ar mai mânca ei lefurile cu lingura?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Aşa e... da'...<emph>(Reflectând mai adânc:)</emph>un lucru nu-nţeleg eu.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ce lucru?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Dacă n-o mai plăti niminea bir, soro, de unde or să aibă cetăţenii leafă?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(în luptă cu somnul)</p>
+            </stage>
+            <p>Treaba statului, domnule, el ce grije are? Pentru ce-l avem pe el? E datoria lui să-ngrijească să aibă oamenii lefurile la vreme...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Aşa da... vezi, mie nu-mi dădea-n gând.<emph>(După o pauză de reflecţie:)</emph>Ce bine ar fi! Unde dă Dumnezeu odată să o mai vedem ş-asta, republică!<emph>(Leonida începe să sforăie:)</emph>Dormi, soro?...<emph>(Leonida sforăie-nainte.)</emph>A adormit.</p>
+            <stage>
+              <p>(Coana Efimiţa se aşază pe o ureche şi adoarme şi ea. - Unul după miezul nopţii sună rar în vecinătate: patru bătăi pentru sferturi, apoi o bătaie mai gravă pentru ceas. În orchestră melodramă 'misterioso'. Câteva momente pauză, după care s-aud în depărtare două-trei detunături de puşcă şi chiote surde; apoi, altele mai multe şi strigăte mai distincte, şi încă o dată.)</p>
+            </stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA II</head>
+          <stage>
+            <p>(Coana Efimiţa se aşază pe o ureche şi adoarme şi ea. - Unul după miezul nopţii sună rar în vecinătate: patru bătăi pentru sferturi, apoi o bătaie mai gravă pentru ceas. În orchestră melodramă 'misterioso'. Câteva momente pauză, după care s-aud în depărtare două-trei detunături de puşcă şi chiote surde; apoi, altele mai multe şi strigăte mai distincte, şi încă o dată.)</p>
+          </stage>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(Se deşteaptă şi se ridică-n pat, privind cu nedomirire către uşe şi întrebând cu neastâmpăr.)</p>
+            </stage>
+            <p>Cine e?<emph>(Pauză.)</emph>Cine e?<emph>(Pauză; sare din pat, aleargă repede la uşă şi o încearcă dacă e bine încuiată, asemenea la fereastră, şi se-ntoarce mai puţin îngrijată să se aşeze iar la loc, făcându-şi o cruce.)</emph>Cine ştie ce-oi fi visat!...<emph>(Se culcă şi aţipeşte iar; în orchestră melodramă; pauză; o salvă de detunături şi strigăte înmulţite; cocoana sare din pat cât colo.)...</emph>Cine e?...<emph>(O pauză; merge tremurând la masă, caută p-întunerec chibriturile şi aprinde lampa; foarte emoţionată, încearcă încă o dată uşa, merge în vârful degetelor la dulapul de haine, îl încuie repede, ca şi cum ar fi prins pe cineva în el, şi ascultă cu palpitaţie ce se petrece înăuntru; se uită apoi pe sub paturi şi prin toate colţurile, stinge lampa, se-nchină şi se urcă iar în pat.)</emph>Ce-o fi ş-asta?<emph>(Deodată, s-aud o nouă salvă şi chiote prelungite; coana Efimiţa sare jos şi rămâne înmărmurită în picioare ascultând; o altă salvă şi strigăte.)</emph>Leonido!<emph>(Zgomotul se repetă.)</emph>Leonido!<emph>(Pauză; zgomotul se repetă cu putere; cocoana se repede peste un scaun cu exasperare, se împiedecă şi cade peste patul lui Leonida.)</emph>Leonido!!!</p>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA III</head>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(sculându-se din somn spăimântat)</p>
+            </stage>
+            <p>Ai! Ce e?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Leonido! Scoal' că-i foc, Leonido!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(speriat)</p>
+            </stage>
+            <p>Unde-i foc?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Scoal' că-i revuluţie, bătălie mare afară!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Aş! Vorbă să fie! Ce te pomeneşti vorbind, domnule?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Bătălie la poartă, soro: pistoale, puşti, tunuri, Leonido, ţipete, chiote, lucru mare, de am sărit din somn!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(luând-o cu binişorul)</p>
+            </stage>
+            <p>Miţule, nu-i nimica; ştii cum este dumneata nevricoasă, unde am vorbit toată seara de politică, t-ei fi culcat şi cu faţa-n sus şi ai visat cine ştie ce.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(impacientată)</p>
+            </stage>
+            <p>Leonido, deşteaptă sunt eu acuma?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Apoi de! Miţule, asta dumneata ştii.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(atinsă)</p>
+            </stage>
+            <p>Bravos, bobocule! Nu m-aşteptam ca tocmai dumneata să te pronunţi cu aşa iluzii în contra mea; te credeam mai altfel... îmi pare rău!... Cocoane Leonido, sunt deşteaptă; am auzit cum te-auz şi m-auzi... revuluţie, bătălie mare!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Bine, Miţule, stăi, nu te importa degeaba. De când m-ai deşteptat pe mine, ai mai auzit ceva?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Nu.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Apoi de! Cum vine treaba asta. Spune matale...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(cam în nedomirire)</p>
+            </stage>
+            <p>De, soro, ştiu şi eu?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Apoi, vezi? Dar... s-o mai luăm şi pe partea ailaltă, să vedem ce-ai să mai zici. Bine, chiar revuluţie să fi fost, să zicem;... nu ştii dumneata că n-are nimini voie să descarce focuri în oraş? E ordin de la poliţie...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(aproape răsconvinsă)</p>
+            </stage>
+            <p>De! Bobocule, să zic şi eu cum zici, că după cum le spui dumneata, una şi cu una fac două, n-are de unde să te mai apuce omul...<emph>(Stând la gânduri şi iar îndoindu-se:)</emph>Da' bine, soro, am auzit, am a-u-zit; cum s-auz ce nu era? Ce-am auzit dacă nu era nimica?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ei! Domnule, câte d-astea n-am citit eu, n-am păr în cap! Glumeşti cu omul! Se-ntâmplă...<emph>(cu tonul unei teorii sigure:)</emph>că fiincă de ce? O să mă-ntrebi... Omul, bunioară, de par egzamplu, dintr-un nu-ştiu-ce ori ceva, cum e nevricos, de curiozitate, intră la o idee; a intrat la o idee? Fandacsia gata; ei! şi după aia, din fandacsie cade în ipohondrie. Pe urmă, fireşte, şi nimica mişcă.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Comedie, soro!<emph>(Minunându-se:)</emph>Aşa o fi!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Bunioară şi la dumneata acuma, o ipohondrie trecătoare; nu-i nimica... Hai să ne culcăm: noapte bună, Miţule.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Noapte bună.<emph>(Încă nedomirită oarecum, stinge lampa şi se vâră în pat.)</emph></p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(după o pauză)</p>
+            </stage>
+            <p>Nu te mai culca cu faţa-n sus, Miţule, că iar visezi.</p>
+            <stage>
+              <p>(Cocoana s-aşază p-o ureche; în odaie întunerec, în orchestră melodramă; o pauză, după care d-odată se aud în depărtare chiote, strigăte şi detunături.)</p>
+            </stage>
+            <p> </p>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IV</head>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ai auzit?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Ai auzit?</p>
+            <stage>
+              <p>(Amândoi, d-odată, se ridică înfioraţi. Zgomotul s-apropie.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(sărind din pat)</p>
+            </stage>
+            <p>E idee, Leonido?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(cu spaimă)</p>
+            </stage>
+            <p>Aprinde lampa...<emph>(Sare şi el din pat.)</emph></p>
+            <stage>
+              <p>(Zgomotul mai aproape.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(aprinzând lampa)</p>
+            </stage>
+            <p>E fandacsie, bobocule?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(tremurând)</p>
+            </stage>
+            <p>Nu-i lucru curat, Miţule!</p>
+            <stage>
+              <p>(Zgomotul tot mai tare.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>E ipohondrie, soro?</p>
+            <stage>
+              <p>(Zgomotul creşte mereu.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>E primejdie mare, domnule! Ce să fie?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ce să fie? Dumneata nu vezi, ce să fie? Revuluţie, bătălie mare, Leonido!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Bine, frate, revuluţie ca revuluţie, da' nu-ţi spusei că nu-i voie de la poliţie să dai focuri în oraş?</p>
+            <stage>
+              <p>(Zgomotul creşte înainte.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(tremurând)</p>
+            </stage>
+            <p>Voie, ne-voie, auzi?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(asemenea)</p>
+            </stage>
+            <p>Auz; da' nu e, nu se poate să fie revuluţie... Câtă vreme sunt ai noştri la putere, cine să stea să facă revuluţie?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>De! Întreabă-mă să te-ntreb...<emph>(Zgomot mare.)</emph>Auzi?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Unde mi-este gazeta?<emph>(nervos:)</emph>că dacă o fi să fie revuluţie, trebuie să spuie la 'Ultime ştiri'. Unde mi-e gazeta?<emph>(Merge la masă, ia gazeta, îşi aruncă ochii pe pagina a treia şi dă un ţipăt.)</emph>A!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ei!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(pierdut)</p>
+            </stage>
+            <p>Nu e revuluţie, domnule, e reacţiune; ascultă:<emph>(citeşte tremurând:)</emph>'Reacţiunea a prins iar la limbă. Ca un strigoi în întunere, ea stă la pândă ascuţindu-şi ghearele şi aşteptând momentul oportun pentru poftele ei antinaţionale... Naţiune, fii deşteaptă!'<emph>(cu dezolare:)</emph>Şi noi dormim, domnule!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(asemenea)</p>
+            </stage>
+            <p>Cine strică, soro, dacă nu mi-ai citit gazeta de cu seara!</p>
+            <stage>
+              <p>(Zgomot tare.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(prăpădit)</p>
+            </stage>
+            <p>Şi pe mine mă ştiu toţi reacţionarii că sunt republican, că sunt pentru naţiune.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(tremurând şi începând să plângă)</p>
+            </stage>
+            <p>Ce-i de făcut, soro?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(stăpânindu-se ca să-i facă curaj)</p>
+            </stage>
+            <p>Nu te speria, Miţule, nu te speria...</p>
+            <stage>
+              <p>(Salve şi chiote foarte apropiate.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Iute, soro, pune mâna.</p>
+            <stage>
+              <p>(Amândoi trag cearşafurile din paturi în mijlocul casii, golesc dulapul, scrinul, şi fac două legături mari; apoi baricadează uşa cu paturile şi cu mobilele.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(lucrând)</p>
+            </stage>
+            <p>Mergem la gară prin dosul Cişmegiului, şi plecăm până-n ziuă cu trenul la Ploieşti... Acolo nu mai mi-e frică: sunt între ai mei! Republicani toţi, săracii!</p>
+            <stage>
+              <p>(Zgomot şi mai aproape.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(îngrozită, oprindu-se din lucru şi ascultând)</p>
+            </stage>
+            <p>Soro! Soro! Auzi dumneata? Zavragiii vin încoace!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(asemenea)</p>
+            </stage>
+            <p>Auz...<emph>(Tremură.)</emph>Şi cum sunt eu deochiat, drept aicea vin, să ne dărâme casa.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(îndoindu-se de genunchi şi înecându-se)</p>
+            </stage>
+            <p>Nu-mi spune, soro, că mor!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Fă iute, iute!</p>
+            <stage>
+              <p>(Zgomotul şi mai aproape; Leonida cade-n genunchi.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Soro, mor! A intrat în uliţa noastră...</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Stinge lampa!</p>
+            <stage>
+              <p>(Cocoana suflă iute în lampă; zgomotul este sub ferestre. Amândoi sunt trăsniţi. O pauză, zgomot şi apoi câteva bătăi în uşa d-afară.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(şoptind)</p>
+            </stage>
+            <p>Sunt la uşă.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Atât mi-a fost!... Nu te mişca.<emph>(Bătăile se repetă mai tare; zgomotul s-a cam depărtat.)</emph>Să ne ascundem în dulap...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Să lăsăm calabalâcul şi să sărim pe fereastră...</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>Dar dacă or fi intrat în curte?</p>
+            <stage>
+              <p>(Bătăile în uşă se îndesesc cu nerăbdare; zgomotul se depărtează mereu.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>UN GLAS DE FEMEIE</speaker>
+            <stage>
+              <p>(d-afară)</p>
+            </stage>
+            <p>Dar asta, comedie!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(cu uimire, plecându-se spre uşă s-asculte)</p>
+            </stage>
+            <p>'Ai?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(oprind-o)</p>
+            </stage>
+            <p>St! Nu te mişca!</p>
+            <stage>
+              <p>(Pumni tari în uşă; zgomotul şi mai departe.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>GLASUL</speaker>
+            <stage>
+              <p>(d-afară)</p>
+            </stage>
+            <p>Ei! Doamne!<emph>(Strigând:)</emph>Coniţă!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(uimită)</p>
+            </stage>
+            <p>E slujnica, Leonido, Safta.</p>
+            <stage>
+              <p>(Chiotele şi împuşcăturile d-abia se mai aud foarte departe.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <p>St! Parcă s-a mai depărtat zavera!</p>
+            <stage>
+              <p>(Bătăi desperate în uşă.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>GLASUL</speaker>
+            <stage>
+              <p>(d-afară)</p>
+            </stage>
+            <p>Deschide, cocoană, să fac focul.<emph>(O pauză. Leonida şi Efimiţa ascultă uimiţi, neştiind ce să crează.)</emph>Vai de mine! Nu-i bună asta! A păţit boierii ceva!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>E Safta...<emph>(Vrea să meargă la uşă.)</emph></p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(oprind-o)</p>
+            </stage>
+            <p>St! Nu deschide o dată cu capul!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(nemaiputând răbda şi zmucindu-se)</p>
+            </stage>
+            <p>Trebuie să deschiz, soro, că-ncepe dobitoaca să ţipe şi-i mai rău: ne dă de gol la zavragii!</p>
+            <stage>
+              <p>(Bătăi din toate puterile în uşă.)</p>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(comprimându-şi inima şi cu un ton de supremă resignare)</p>
+            </stage>
+            <p>Deschide!</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(mergând în vârful degetelor la uşă, întreabă cu gura jumătate)</p>
+            </stage>
+            <p>Cine e?</p>
+          </sp>
+          <sp>
+            <speaker>GLASUL</speaker>
+            <stage>
+              <p>(d-afară)</p>
+            </stage>
+            <p>Eu, cocoană; am venit să fac focul.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(stă un minut la îndoială, apoi se hotărăşte şi, dând în lături baricada, deschide, şi cu glasul alterat)</p>
+            </stage>
+            <p>Haide, intră.</p>
+            <stage>
+              <p>(În odaie e întunerec. Coana Efimiţa ţine piept Saftii la uşă.)</p>
+            </stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA V</head>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(mişcată, cu tonul misterios)</p>
+            </stage>
+            <p>Ce-i afară, Safto?</p>
+          </sp>
+          <sp>
+            <speaker>SAFTA</speaker>
+            <stage>
+              <p>(care a intrat cu un braţ de lemne)</p>
+            </stage>
+            <p>Bine, cocoană, ce să fie! Da' pân-acuma n-am putut închide ochii: toată noaptea a fost masă mare la băcanul din colţ; acu d-abia s-a spart cheful. Adineaori a trecut p-aici vreo câţiva, se duceau acasă pe două cărări; era şi Nae Ipingescu, ipistatul, beat frânt; chiuia şi trăgea la pistoale... obicei mitocănesc.</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(nedomirit)</p>
+            </stage>
+            <p>Ce obicei?</p>
+          </sp>
+          <sp>
+            <speaker>SAFTA</speaker>
+            <p>Ştii, a făcut oamenii chef, c-aseară a fost lăsata secului.</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(înseninându-se şi prinzând limbă, cătră Leonida cu umor)</p>
+            </stage>
+            <p>A fost lăsata, secule!</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(îmbărbătat)</p>
+            </stage>
+            <p>Ei vezi?<emph>(Plin de triumful teoriei:)</emph>Tot vorba mea, domnule! Omul, bunioară, de par egzamplu, dintr-un nu-ştiu-ce ori ceva, cum e nevricos, de curiozitate, intră la o idee; a intrat la o idee? Fandacsia e gata; ei! Şi după aia, din fandacsie cade în ipohondrie.<emph>(Către cocoana:)</emph>Văzuşi?</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <stage>
+              <p>(cu chef)</p>
+            </stage>
+            <p>Ei! Soro! Parcă ziceai că nu e voie de la poliţie să se dea cu pistoale în oraş?</p>
+          </sp>
+          <sp>
+            <speaker>LEONIDA</speaker>
+            <stage>
+              <p>(sigur)</p>
+            </stage>
+            <p>Apoi bine, nu vezi dumneata că aici a fost chiar poliţia în persoană...</p>
+          </sp>
+          <sp>
+            <speaker>EFIMIŢA</speaker>
+            <p>Ei, bobocule, apăi cum le ştii dumneata toate, mai rar cineva!<emph>(Aprinde lampa.)</emph></p>
+            <stage>
+              <p>(Amândoi sunt foarte veseli. Safta rămâne încremenită văzând răsturnarea odăii.)</p>
+            </stage>
+            <stage>
+              <p>(Cortina)</p>
+            </stage>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

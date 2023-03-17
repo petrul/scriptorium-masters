@@ -1,0 +1,36 @@
+README
+
+Editing TEI with LibreOffice.
+Source files are .fodt under fodt/
+
+
+Use styles
+---------
+'Title' : for the document title || meta dc:title
+'Author' : $META/office:meta/meta:initial-creator
+'Language' : $META/office:meta/dc:language
+
+
+Publishing to Apple IBooks
+=======
+Using itunes producer.
+The epub filename must not contain underscores.
+The cover image must be > 1400px smallest
+dc:date from package.opf must be non empty.
+
+
+Replace CR with line breaks:
+find: </text:p>\s*\n\s*<text:p text:style-name="[\w\d]+">
+replace with: <text:line-break/>\n
+
+
+Surse carti frantuzesti:
+
+- biblitoeca aia din Quebec, canadiana, avea multe carti in doc
+- ebooks libres et gratuits
+- book feed, aparuse ceva
+- universitatea suisse cu Jean Calvin
+
+Surse carti english:
+- Gutenberg
+- adelaide

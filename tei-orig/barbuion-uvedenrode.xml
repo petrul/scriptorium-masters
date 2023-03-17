@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uvedenrode</title>
+        <author>Ion Barbu</author>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <p>- ATENŢIE, CONSERVAŢI ACEASTĂ LICENŢĂ DACĂ REDISTRIBUIŢI ACEST FIŞIER - 
+
+
+	Licenţă Biblioteca Electronică
+	======================
+
+	Versiunea 1, August 1998 
+
+	Copyright ? Radu Iliescu - Biblioteca Electronică
+
+http://www.lme.ro/~byblos/
+radu.iliescu@lme.ro
+
+	Baza de texte a Bibliotecii Electronice poate fi copiată, difuzată şi modificată în condiţiile următoare:
+
+	01) Orice copie în scopuri private, în scopuri de ilustrare a învăţămîntului şi în scopuri de cercetare este autorizată.
+
+	02) Introducerea oricărui text sau fragment într-un material de largă circulaţie trebuie să se facă însoţită de prezenta licenţă. Prezenţa oricărui text într-un material comercial fără prezenta licenţă este interzisă.
+
+	03) Antetul care însoţeste prezentul document trebuie integral păstrat.
+
+	04) Menţiunea producătorului original trebuie să existe, precum şi cea a contribuţiilor ulterioare.
+
+	05) Orice modificare ulterioară în sensul corectării erorilor sau punerii într-un alt format trebuie neîntîrziat adusă la cunoştinţa administratorului acestei biblioteci. Indicarea diferitelor modificări trebuie explicit precizată, precum şi datată. Acestea conferă autorului statutul de colaborator la Biblioteca Electronică.
+
+	06) Acestă licenţă se aplică inclusiv versiunilor ulterioare provenind de la colaboratorii Bibliotecii Electronice.
+
+	Copist: Radu Iliescu (radu.iliescu@lme.ro)
+
+	Acest fişier reproduce poeziile din ediţia Joc Secund, Editura pentru literatură, 1966.
+
+----------------------------------------Sfîrşitul licenţei Bibliotecii Electronice------------------------------------------</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Uvedenrode</titlePart>
+        </docTitle>
+        <byline>Ion Barbu</byline>
+        <lb/>
+        <lb/>
+        <lb/>
+        <lb/>
+        <epigraph>
+          <cit>
+            <quote>
+              <lg>
+                <l>For its tones by turns were glad</l>
+                <l>Sweatly solemn, wildly sad.</l>
+              </lg>
+            </quote>
+            <bibl>Longfellow (The slave singing at midnight)</bibl>
+          </cit>
+        </epigraph>
+      </titlePage>
+    </front>
+    <body>
+      <div>
+        <head>Păunul</head>
+        <lg>
+          <l>Se ploconea, răsăritean şi moale,</l>
+          <l>Mălai din mîna ta să ciugulească.</l>
+          <l>Albastru pîlpîia şi cald, în poale,</l>
+          <l>Ca pînzele alcoolului din ceaşcă.</l>
+        </lg>
+        <lg>
+          <l>Pe butură, nebunul tău cu scufă</l>
+          <l>Ochi inegali grozav de trişti rotea,</l>
+          <l>Şi mîna ţi-a sucit, cum storci o rufă,</l>
+          <l>Şi-a rupt şi gîtul păsării, care bătea.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Paralel romantic</head>
+        <lg>
+          <l>Numisem nunţii noastre-un burg,</l>
+          <l>Slăvit cu ape-abia de curg,</l>
+          <l>Ca un dulău trîntit pe-o labă -</l>
+          <l>Vechi burg de-amurg, în ţara şvabă.</l>
+        </lg>
+        <lg>
+          <l>Scări, unghiuri, porţi! În prag de uşe,</l>
+          <l>O, troli domoli, o, troli cu guşe,</l>
+          <l>La ce vărsări, ca de venin,</l>
+          <l>Vis crud striviţi şi gînd cretin!</l>
+        </lg>
+        <lg>
+          <l>Stîngi cuburi şubrede, intrate,</l>
+          <l>De case roşii, zaharate;</l>
+          <l>Verzi investiri, prin cîte-un gang,</l>
+          <l>Sub ceasuri largi - balang, balang!</l>
+        </lg>
+      </div>
+      <div>
+        <head>Riga Crypto şi lapona Enigel</head>
+        <head type="subtitle">Baladă</head>
+        <lg>
+          <l>- Menestrel trist, mai aburit</l>
+          <l>Ca vinul vechi ciocnit la nuntă,</l>
+          <l>De cuscrul-mare dăruit</l>
+          <l>Cu pungi, panglici, beteli cu funtă,</l>
+        </lg>
+        <lg>
+          <l>Multîndărătnic menestrel,</l>
+          <l>Un cîntec larg tot mai încearcă,</l>
+          <l>Zi-mi de lapona Enigel</l>
+          <l>Şi Crypto, regele-ciupearcă!</l>
+        </lg>
+        <lg>
+          <l>- Nuntaş fruntaş!</l>
+          <l>Ospăţul tău limba mi-a fript-o,</l>
+          <l>Dar cîntecul tot zice-l-aş,</l>
+          <l>Cu Enigel şi riga Crypto.</l>
+        </lg>
+        <lg>
+          <l>- Zi-l, menestrel!</l>
+          <l>Cu foc l-ai zis acum o vară;</l>
+          <l>Azi zi-mi-l stins, încetinel,</l>
+          <l>La spartul nunţii, în cămară.</l>
+        </lg>
+        <lg>
+          <l>*</l>
+        </lg>
+        <lg>
+          <l>Des cercetat de pădureţi</l>
+          <l>În pat de rîu şi-n humă unsă,</l>
+          <l>Împărăţea peste bureţi</l>
+          <l>Crai Crypto, inimă ascunsă,</l>
+        </lg>
+        <lg>
+          <l>La vecinic tron, de rouă parcă!</l>
+          <l>Dar printre ei bîrfeau bureţii</l>
+          <l>De-o vrăjitoare mînătarcă,</l>
+          <l>De la fîntîna tinereţii.</l>
+        </lg>
+        <lg>
+          <l>Şi răi ghioci şi toporaşi</l>
+          <l>Din gropi ieşeau, să-l ocărască,</l>
+          <l>Sterp îl făceau, şi nărăvaş,</l>
+          <l>Că nu voia să înflorească.</l>
+        </lg>
+        <lg>
+          <l>În ţări de gheaţă urgisită,</l>
+          <l>Pe-acelaşi timp trăia cu el,</l>
+          <l>Laponă mică, liniştită,</l>
+          <l>Cu piei, pre nume Enigel.</l>
+        </lg>
+        <lg>
+          <l>De la iernat, la păşunat,</l>
+          <l>În noul an, să-şi ducă renii</l>
+          <l>Prin aer ud, tot mai la sud,</l>
+          <l>Ea poposi pe muşchiul crud</l>
+          <l>La Crypto, mirele poienii.</l>
+        </lg>
+        <lg>
+          <l>Pe trei covoare de răcoare</l>
+          <l>Lin adormi, torcînd verdeaţă,</l>
+          <l>Cînd lîngă sîn un rigă spîn</l>
+          <l>Cu eunucul lui bătrîn</l>
+          <l>Veni s-o-îmbie cu dulceaţă:</l>
+        </lg>
+        <lg>
+          <l>- Enigel, Enigel,</l>
+          <l>Ţi-am adus dulceaţă, iacă.</l>
+          <l>Uite fragi, ţie dragi;</l>
+          <l>Ia-i şi toarnă-i în puiacă.</l>
+        </lg>
+        <lg>
+          <l>Rigă spîn, de la sîn,</l>
+          <l>Mulţumesc dumitale.</l>
+          <l>Eu mă duc să culeg</l>
+          <l>Fragii fragezi, mai la vale.</l>
+        </lg>
+        <lg>
+          <l>- Enigel, Enigel,</l>
+          <l>Scade noaptea, ies lumine,</l>
+          <l>Dacă pleci să culegi,</l>
+          <l>Începi, rogu-te, cu mine.</l>
+        </lg>
+        <lg>
+          <l>- Te-aş culege, rigă blînd?</l>
+          <l>Zorile încep să joace,</l>
+          <l>Şi eşti umed şi plăpînd,</l>
+          <l>Teamă mi-e, te frîng curînd,</l>
+          <l>Lasă. - Aşteaptă de te coace.</l>
+        </lg>
+        <lg>
+          <l>- Să mă coc, Enigel,</l>
+          <l>Mult aş vrea, dar, vezi, de soare,</l>
+          <l>Visuri sute, de măcel,</l>
+          <l>Mă despart. E roşu, mare,</l>
+          <l>Pete are fel de fel;</l>
+          <l>Lasă-l, uită-l, Enigel,</l>
+          <l>În somn fraged şi răcoare.</l>
+        </lg>
+        <lg>
+          <l>- Rigă Crypto, rigă Crypto,</l>
+          <l>Ca o lamă de blestem</l>
+          <l>Vorba-n inimă-ai înfipt-o!</l>
+          <l>Eu de umbră mult mă tem,</l>
+        </lg>
+        <lg>
+          <l>Că dacă-n iarnă sunt făcută,</l>
+          <l>Şi ursul alb mi-e vărul drept,</l>
+          <l>Din umbra deasă, desfăcută,</l>
+          <l>Mă-nchin la soarele-nţelept.</l>
+        </lg>
+        <lg>
+          <l>La lămpi de gheaţă, supt zăpezi,</l>
+          <l>Tot polul meu un vis visează.</l>
+          <l>Greu taler scump, cu margini verzi,</l>
+          <l>De aur, visu-i cercetează.</l>
+        </lg>
+        <lg>
+          <l>Mă-nchin la soarele-nţelept,</l>
+          <l>Că sufletu-i fîntînă-n piept,</l>
+          <l>Şi roata albă mi-e stăpînă,</l>
+          <l>Ce zace-n sufletul-fîntînă.</l>
+        </lg>
+        <lg>
+          <l>La soare, roata se măreşte;</l>
+          <l>La umbră, numai carnea creşte</l>
+          <l>Şi somn e carnea, se dezumflă,</l>
+          <l>Dar vînt şi umbră iar o umflă?</l>
+        </lg>
+        <lg>
+          <l>Frumos vorbi şi subţirel</l>
+          <l>Lapona dreaptă, Enigel,</l>
+          <l>Dar timpul vezi, nu adăsta,</l>
+          <l>Iar soarele acuma sta</l>
+          <l>Zvîrlit în sus, ca un inel.</l>
+        </lg>
+        <lg>
+          <l>- Plîngi, preacuminte Enigel!</l>
+          <l>Lui Crypto, regele-ciupearcă,</l>
+          <l>Lumina iute cum să-i placă?</l>
+          <l>El se desface uşurel</l>
+          <l>De Enigel,</l>
+          <l>De partea umbrei moi să treacă?</l>
+        </lg>
+        <lg>
+          <l>Dar soarele, aprins inel,</l>
+          <l>Se oglindi adînc în el;</l>
+          <l>De zece ori, fără sfială,</l>
+          <l>Se oglindi în pielea-i cheală.</l>
+        </lg>
+        <lg>
+          <l>Şi sucul dulce înăcreşte,</l>
+          <l>Ascunsa-i inimă plesneşte;</l>
+          <l>Spre zece vii peceţi de semn,</l>
+          <l>Venin şi roşu untdelemn</l>
+          <l>Mustesc din funduri de blestem;</l>
+        </lg>
+        <lg>
+          <l>Că-i greu mult soare să îndure</l>
+          <l>Ciupearcă crudă de pădure,</l>
+          <l>Că sufletul nu e fîntînă</l>
+          <l>Decît la om, fiară bătrînă,</l>
+          <l>Iar la făptură mai firavă</l>
+          <l>Pahar e gîndul, cu otravă -</l>
+        </lg>
+        <lg>
+          <l>Ca la nebunul rigă Crypto,</l>
+          <l>Cu focul inima i-a fript-o,</l>
+          <l>De a rămas să rătăcească</l>
+          <l>Cu altă faţă, mai crăiască;</l>
+        </lg>
+        <lg>
+          <l>Cu Laurul-Balaurul,</l>
+          <l>Să toarne-n lume aurul,</l>
+          <l>Să-l toace, gol la drum să iasă</l>
+          <l>Cu măsălariţa-mireasă,</l>
+          <l>Să-i ţie de împărăteasă.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Oul dogmatic</head>
+        <epigraph>
+          <cit>
+            <quote>Dogma: Şi Duhul Sfînt se purta deasupra apelor</quote>
+          </cit>
+        </epigraph>
+        <lg>
+          <l>E dat acestui trist norod</l>
+          <l>Şi oul sterp, ca de mîncare,</l>
+          <l>Dar viul ou, la vîrf cu plod,</l>
+          <l>Făcut e să-l privim la soare!</l>
+        </lg>
+        <lg>
+          <l>Cum lumea veche în cleştar,</l>
+          <l>Înoată în subţire var</l>
+          <l>Nevinovatul, noul ou,</l>
+          <l>Palat de nuntă şi cavou.</l>
+        </lg>
+        <lg>
+          <l>Din trei atlazuri e culcuşul</l>
+          <l>În care doarme nins albuşul</l>
+          <l>Atît de galeş, de închis,</l>
+          <l>Ca trupul drag surpat în vis.</l>
+        </lg>
+        <lg>
+          <l>Dar plodul?</l>
+          <l>De foarte sus</l>
+          <l>Din polul plus</l>
+          <l>De unde glodul</l>
+          <l>Pămînturilor n-a ajuns,</l>
+          <l>Acordă lin</l>
+          <l>Şi masculin</l>
+          <l>Albuşului în hialin:</l>
+          <l>Sărutul plin.</l>
+        </lg>
+        <lg>
+          <l>*</l>
+        </lg>
+        <lg>
+          <l>Om uitător, ireversibil,</l>
+          <l>Vezi Duhul Sfînt făcut sensibil?</l>
+          <l>Precum atunci, şi azi întocma:</l>
+          <l>Mărunte lumi păstrează dogma.</l>
+        </lg>
+        <lg>
+          <l>Să vezi la bolţi pe Sfîntul Duh</l>
+          <l>Veghind vii ape fără stuh,</l>
+          <l>Acest ou-simbol ţi-l aduc,</l>
+          <l>Om şters, uituc.</l>
+        </lg>
+        <lg>
+          <l>Nu oul roşu.</l>
+          <l>Om fără saţ şi om nerod,</l>
+          <l>Un ou cu plod</l>
+          <l>Îţi vreau, plocon, acum de Paşte;</l>
+          <l>Îl urcă-n soare şi cunoaşte!</l>
+        </lg>
+        <lg>
+          <l>*</l>
+        </lg>
+        <lg>
+          <l>Şi mai ales te înfioară</l>
+          <l>De acel galben icusar,</l>
+          <l>Ceasornic fără minutar,</l>
+          <l>Ce singur scrie cînd să moară</l>
+          <l>Şi ou, şi lume. Te-nfioară</l>
+          <l>De ceasul galben, necesar?</l>
+        </lg>
+        <lg>
+          <l>A morţii frunte-acolo-i toată.</l>
+        </lg>
+        <lg>
+          <l>În gălbenuş,</l>
+          <l>Să roadă spornicul albuş,</l>
+          <l>Durata-înscrie-în noi o roată.</l>
+          <l>Întocma-dogma.</l>
+        </lg>
+        <lg>
+          <l>*</l>
+        </lg>
+        <lg>
+          <l>Încă o dată:</l>
+          <l>E Oul celui sterp la fel,</l>
+          <l>Dar nu-l sorbi. Curmi nuntă-n el.</l>
+          <l>Şi nici la cloşcă să nu-l pui!</l>
+          <l>Îl lasă-n pacea întîie-a lui,</l>
+        </lg>
+        <lg>
+          <l>Că vinovat e tot făcutul,</l>
+          <l>Şi sfînt - doar nunta, începutul.</l>
+        </lg>
+        <closer>
+          <dateline>Ajunul Paştilor, 1925</dateline>
+        </closer>
+      </div>
+      <div>
+        <head>Ritmuri pentru nunţile necesare</head>
+        <epigraph>
+          <lg>
+            <l>Cînd planuri sună a cădere</l>
+            <l>Şi găzduieşti la rea putere</l>
+            <l>La neagra Damă Miriam</l>
+            <l>În bande încinsă, de dinam.</l>
+          </lg>
+        </epigraph>
+        <lg>
+          <l>Capăt al osiei lumii!</l>
+          <l>Ceas alb, concis al minunii,</l>
+          <l>Sună-mi trei</l>
+          <l>Clare chei</l>
+          <l>Certe, sub lucid eter</l>
+          <l>Pentru cercuri de mister!</l>
+        </lg>
+        <lg>
+          <l>An al Geei, închisoare,</l>
+          <l>Ocoleşte roatele interioare:</l>
+          <l>Roata Venerii</l>
+          <l>Inimii</l>
+        </lg>
+        <lg>
+          <l>Roata capului</l>
+          <l>Mercur</l>
+          <l>În topire, de azur,</l>
+          <l>Roata Soarelui</l>
+          <l>Marelui.</l>
+        </lg>
+        <lg>
+          <l>I</l>
+        </lg>
+        <lg>
+          <l>Înspre tronul moalei Vineri</l>
+          <l>Brusc, ca toţi amanţii tineri,</l>
+          <l>Am vibrat</l>
+          <l>Înflăcărat:</l>
+        </lg>
+        <lg>
+          <l>Vaporoasă</l>
+          <l>Rituală</l>
+          <l>O frumoasă</l>
+          <l>Masă</l>
+          <l>Scoală!</l>
+          <l>În brăţară tu fă-mi loc</l>
+          <l>Ca să joc, ca să joc,</l>
+          <l>Danţul buf</l>
+          <l>Cu reverenţe</l>
+          <l>Ori mecanice cadenţe.</l>
+        </lg>
+        <lg>
+          <l>Ah, ingrată,</l>
+          <l>Energie degradată,</l>
+          <l>Brută ce desfaci pripită</l>
+          <l>Grupul simplu din orbită,</l>
+          <l>Veneră,</l>
+          <l>Inimă</l>
+          <l>În undire minimă:</l>
+        </lg>
+        <lg>
+          <l>Aphelic (a)</l>
+          <l>Perihelic (b)</l>
+          <l>Conjunctiv (dodo)</l>
+          <l>Oponent (adio!)</l>
+        </lg>
+        <lg>
+          <l>II</l>
+        </lg>
+        <lg>
+          <l>Paj al Venerii,</l>
+          <l>Oral</l>
+          <l>Papagal!</l>
+          <l>În cristalul tău negat</l>
+          <l>Spre acel fumegat</l>
+          <l>Fra Mercur</l>
+          <l>De pur augur,</l>
+          <l>Peste îngeri, şerpi şi rai</l>
+          <l>Sună vechi:</l>
+          <l>I-ro-la-hai,</l>
+        </lg>
+        <lg>
+          <l>Mercur, astră aurită,</l>
+          <l>Ce peri doi împodobită</l>
+          <l>Lungi</l>
+          <l>Cu pungi</l>
+          <l>Pe boamba mare,</l>
+          <l>Oarbă, de cercetătoare,</l>
+        </lg>
+        <lg>
+          <l>O, Mercur,</l>
+          <l>Frate pur</l>
+          <l>Conceput din viu mister</l>
+          <l>Şi Fecioara Lucifer,</l>
+        </lg>
+        <lg>
+          <l>Înclinat pe ape caste</l>
+          <l>În sfruntări iconoclaste,</l>
+          <l>Cap clădit</l>
+          <l>Din val oprit</l>
+          <l>Sus, pe Veacul împietrit,</l>
+        </lg>
+        <lg>
+          <l>O, select</l>
+          <l>Intelect</l>
+          <l>Nunta n-am sărbătorit?</l>
+        </lg>
+        <lg>
+          <l>III</l>
+        </lg>
+        <lg>
+          <l>Uite, ia a treia cheie,</l>
+          <l>Vîr-o în broasca - Astartee! -</l>
+          <l>Şi întoarce-o de un grad</l>
+          <l>Unui timp retrograd,</l>
+          <l>Trage porţile ce ard,</l>
+        </lg>
+        <lg>
+          <l>Că intrăm</l>
+          <l>Să ospătăm</l>
+          <l>În cămara Soarelui</l>
+          <l>Marelui</l>
+          <l>Nun şi stea,</l>
+        </lg>
+        <lg>
+          <l>Abur verde să ne dea,</l>
+          <l>Din căldări de mări lactee,</l>
+          <l>La surpări de curcubee,</l>
+          <l>- În Firida ce scînteie</l>
+          <l>eteree.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Paznicii</head>
+        <lg>
+          <l>Înaltă conexiune,</l>
+          <l>Gardă eficace nunţilor,</l>
+          <l>Drum şi Carte:</l>
+          <l>Pentru sumbrul rac al lui Marte,</l>
+          <l>Pentru Jup</l>
+          <l>- Acel Trup -</l>
+          <l>Saturn centurat în aparte,</l>
+          <l>Uran ca un tiv,</l>
+          <l>Neptun aditiv;</l>
+        </lg>
+        <lg>
+          <l>Cădelniţare în cor a nunţilor,</l>
+          <l>Din zece Lune, în rampă,</l>
+          <l>O foarte cerească şi amplă</l>
+          <l>Mătanie a Frunţilor!</l>
+        </lg>
+        <lg>
+          <l>Salut de pe scară de noapte,</l>
+          <l>La sceptrul seral,</l>
+          <l>De trei ori spiral:</l>
+          <l>Al lumii rîu static de lapte;</l>
+        </lg>
+        <lg>
+          <l>Plecăciune joasă,</l>
+          <l>La faţa păroasă,</l>
+          <l>Suptă, care ajună</l>
+          <l>Apusă-n cărbunii din lună;</l>
+        </lg>
+        <lg>
+          <l>Mătanie adîncă,</l>
+          <l>Îndoită încă</l>
+          <l>Norului violaceu,</l>
+        </lg>
+        <lg>
+          <l>Fumat lung, de soare,</l>
+          <l>La ziua-n revărsare,</l>
+          <l>Cînd pipăie sufletul meu.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Înfăţişare</head>
+        <epigraph>
+          <cit>
+            <quote>"Lol 'tis a gala night."</quote>
+            <bibl>Edgar Poe</bibl>
+          </cit>
+        </epigraph>
+        <lg>
+          <l>Pudrează rîul tragic în oglindă,</l>
+          <l>Cu de-amăruntul, cristalin, de bal;</l>
+          <l>Săltate-n coc, volutele să prindă</l>
+          <l>Perucii de argint - un encefal.</l>
+        </lg>
+        <lg>
+          <l>La balul liniştit, de mare gală,</l>
+          <l>De vrei să placi frumosului tău Domn:</l>
+          <l>Treaz, poleieşte-ţi masca facială</l>
+          <l>Şi dinţii înverziţi de duh de somn;</l>
+        </lg>
+        <lg>
+          <l>Luminile odăilor le stinge!</l>
+          <l>Să-nceapă marea pară de opal,</l>
+          <l>Cînd îngheţat, din iarna care ninge</l>
+          <l>În creştet, ca-ntr-un parc, pe encefal.</l>
+        </lg>
+        <lg>
+          <l>- Fii Domnului statură luminoasă,</l>
+          <l>Cu gîndul - sprinten fulger viitor!</l>
+          <l>Să-ţi fie braţul spadă bătăioasă</l>
+          <l>Şi ochiul: disc lunar lunecător.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Falduri</head>
+        <epigraph>
+          <note>Pentru William Wilson</note>
+        </epigraph>
+        <lg>
+          <l>Somn mult, din pluşuri. Vid în stal.</l>
+          <l>Vegherea sticlei, drept cortină.</l>
+          <l>Îndepărtat, ca-ntr-o odihnă</l>
+          <l>Din membre limpezi, o, cristal!</l>
+        </lg>
+        <lg>
+          <l>Sub mături, fluturi şi urîturi</l>
+          <l>Mort - chipul meu, pe crengi de gîturi.</l>
+          <l>Un glas din ceruri, cere: - Dacă</l>
+          <l>Ai face-oglinzile să tacă?</l>
+        </lg>
+        <lg>
+          <l>Din somn, din stofă sar deştept,</l>
+          <l>Smulg fierul scurt, îl duc la piept.</l>
+          <l>La ţărmul apelor de gală</l>
+          <l>Strig hidra mea, chilocefală:</l>
+        </lg>
+        <lg>
+          <l>- Întemniţate William,</l>
+          <l>Cast hidrofil, te aşteptam</l>
+          <l>Să treci maree, din oglindă</l>
+          <l>În luna frunţii, să te-aprindă;</l>
+        </lg>
+        <lg>
+          <l>Student stufos, Bostonian,</l>
+          <l>Ceţoase Wilson William,</l>
+          <l>Îţi jur, ar face-o bună mină</l>
+          <l>Spini şase-n pielea ta marină!</l>
+        </lg>
+        <lg>
+          <l>(De şase ori, în ape grele</l>
+          <l>Sting fier aprins, pînă-n prăsele;</l>
+          <l>Fulger cedat, just unghi normal,</l>
+          <l>Cad reflectat, croiesc cristal.)</l>
+        </lg>
+        <lg>
+          <l>Piei chip! Rămîi, cortină spartă,</l>
+          <l>Pătrată Spanie pe-o hartă,</l>
+          <l>Răpus, în mîini, pumnalul tras,</l>
+          <l>În fund ursuz, de zahăr ars:</l>
+        </lg>
+        <lg>
+          <l>Valuri frînte, gemene,</l>
+          <l>Ruptură de cremene.</l>
+        </lg>
+        <lg>
+          <l>Ce gînd tîrziu mă suflă-acu?</l>
+          <l>Să vîntur nopţi "Bu-hu-hu"</l>
+          <l>Ca la cîntec, altădată?</l>
+        </lg>
+        <lg>
+          <l>Se toarce vorba, închegată,</l>
+          <l>Cutia încet se-ncuie-n piept</l>
+          <l>În scrisul apei caut drept.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Uvedenrode</head>
+        <lg>
+          <l>La rîpa Uvedenrode</l>
+          <l>Ce multe gasteropode !</l>
+          <l>Suprasexuale</l>
+          <l>Supramuzicale ;</l>
+        </lg>
+        <lg>
+          <l>Gasteropozi !</l>
+          <l>Mult limpezi rapsozi,</l>
+          <l>Moduri de ode</l>
+          <l>Ceruri eşarfă</l>
+          <l>Antene în harfă :</l>
+        </lg>
+        <lg>
+          <l>Uvedenrode</l>
+          <l>Peste mode şi timp</l>
+          <l>Olimp !</l>
+        </lg>
+        <lg>
+          <l>Ceas în cristalin</l>
+          <l>Lîngă fecioara Geraldine !</l>
+        </lg>
+        <lg>
+          <l>Dantelele sale</l>
+          <l>Ca floarea de zale,</l>
+        </lg>
+        <lg>
+          <l>Prin braţele ei</l>
+          <l>Gheţari de idei,</l>
+        </lg>
+        <lg>
+          <l>La soarele sfînt,</l>
+          <l>Egal - acest cînt :</l>
+        </lg>
+        <lg>
+          <l>Ordonată spiră,</l>
+          <l>Sunet</l>
+          <l>Fruct de liră,</l>
+          <l>Capăt paralogic,</l>
+          <l>Leagăn mitologic,</l>
+        </lg>
+        <lg>
+          <l>Din şetrele mari</l>
+          <l>Apari :</l>
+          <l>O cal de val</l>
+          <l>Peste cavală</l>
+          <l>Ca varul deasupra-n spirală !</l>
+        </lg>
+        <lg>
+          <l>Încorporată poftă,</l>
+          <l>Uite o fată :</l>
+          <l>Lunecă o dată,</l>
+          <l>Lunecă de două</l>
+          <l>Ori, pînă la nouă,</l>
+          <l>Pînă o-nfăşori</l>
+          <l>În fiori uşori,</l>
+          <l>Pînă-o torci în zale</l>
+          <l>Gasteropodale ;</l>
+        </lg>
+        <lg>
+          <l>Pînă cînd, în lente</l>
+          <l>Antene atente</l>
+          <l>O cobori :</l>
+        </lg>
+        <lg>
+          <l>Pendular de-ncet,</l>
+          <l>Inutil pachet,</l>
+          <l>Sub timp,</l>
+          <l>Sub mode</l>
+          <l>În Uvedenrode.</l>
+        </lg>
+      </div>
+      <trailer>SFÎRŞIT</trailer>
+    </body>
+  </text>
+</TEI>

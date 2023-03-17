@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Ion</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>Plato</meta:initial-creator>
+    
+    <meta:creation-date>2022-11-08T08:05:22Z</meta:creation-date>
+    <dc:date>2022-11-19T21:24:17.806824284</dc:date>
+    
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT2M28S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="26" meta:paragraph-count="263" meta:word-count="9576" meta:character-count="53810" meta:non-whitespace-character-count="44494"/><meta:user-defined meta:name="contributor">Benjamin Jowett</meta:user-defined><meta:user-defined meta:name="date">1999-02-01</meta:user-defined><meta:user-defined meta:name="identifier">http://www.gutenberg.org/1635</meta:user-defined><meta:user-defined meta:name="language">en</meta:user-defined><meta:user-defined meta:name="rights" meta:value-type="string">Public domain in the USA.</meta:user-defined><meta:user-defined meta:name="source" meta:value-type="string">https://www.gutenberg.org/files/1635/1635-h/1635-h.htm</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">58208</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">29344</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15824</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13767</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">63922</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">58208</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">29342</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">74030</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1540151</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties officeooo:paragraph-rsid="0016edf5"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0016edf5"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none" officeooo:paragraph-rsid="0016edf5"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0016edf5"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">26</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">Ion</text:p>
+   <text:p text:style-name="Author">Plato</text:p>
+   <text:p text:style-name="Date">1999-02-01</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Ion</text:h>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/></text:p>
+   <text:p text:style-name="P10">By Plato</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/></text:p>
+   <text:p text:style-name="Subtitle">Translated by Benjamin Jowett</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Introduction.</text:h>
+   <text:p text:style-name="First_20_paragraph">The Ion is the shortest, or nearly the shortest, of all the writings which bear the name of Plato, and is not authenticated by any early external testimony. The grace and beauty of this little work supply the only, and perhaps a sufficient, proof of its genuineness. The plan is simple; the dramatic interest consists entirely in the contrast between the irony of Socrates and the transparent vanity and childlike enthusiasm of the rhapsode Ion. The theme of the Dialogue may possibly have been suggested by the passage of Xenophon&apos;s Memorabilia in which the rhapsodists are described by Euthydemus as &apos;very precise about the exact words of Homer, but very idiotic themselves.&apos; (Compare Aristotle, Met.)</text:p>
+   <text:p text:style-name="Text_20_body">Ion the rhapsode has just come to Athens; he has been exhibiting in Epidaurus at the festival of Asclepius, and is intending to exhibit at the festival of the Panathenaea. Socrates admires and envies the rhapsode&apos;s art; for he is always well dressed and in good company—in the company of good poets and of Homer, who is the prince of them. In the course of conversation the admission is elicited from Ion that his skill is restricted to Homer, and that he knows nothing of inferior poets, such as Hesiod and Archilochus;—he brightens up and is wide awake when Homer is being recited, but is apt to go to sleep at the recitations of any other poet. &apos;And yet, surely, he who knows the superior ought to know the inferior also;—he who can judge of the good speaker is able to judge of the bad. And poetry is a whole; and he who judges of poetry by rules of art ought to be able to judge of all poetry.&apos; This is confirmed by the analogy of sculpture, painting, flute-playing, and the other arts. The argument is at last brought home to the mind of Ion, who asks how this contradiction is to be solved. The solution given by Socrates is as follows:—</text:p>
+   <text:p text:style-name="Text_20_body">The rhapsode is not guided by rules of art, but is an inspired person who derives a mysterious power from the poet; and the poet, in like manner, is inspired by the God. The poets and their interpreters may be compared to a chain of magnetic rings suspended from one another, and from a magnet. The magnet is the Muse, and the ring which immediately follows is the poet himself; from him are suspended other poets; there is also a chain of rhapsodes and actors, who also hang from the Muses, but are let down at the side; and the last ring of all is the spectator. The poet is the inspired interpreter of the God, and this is the reason why some poets, like Homer, are restricted to a single theme, or, like Tynnichus, are famous for a single poem; and the rhapsode is the inspired interpreter of the poet, and for a similar reason some rhapsodes, like Ion, are the interpreters of single poets.</text:p>
+   <text:p text:style-name="Text_20_body">Ion is delighted at the notion of being inspired, and acknowledges that he is beside himself <text:soft-page-break/>when he is performing;—his eyes rain tears and his hair stands on end. Socrates is of opinion that a man must be mad who behaves in this way at a festival when he is surrounded by his friends and there is nothing to trouble him. Ion is confident that Socrates would never think him mad if he could only hear his embellishments of Homer. Socrates asks whether he can speak well about everything in Homer. &apos;Yes, indeed he can.&apos; &apos;What about things of which he has no knowledge?&apos; Ion answers that he can interpret anything in Homer. But, rejoins Socrates, when Homer speaks of the arts, as for example, of chariot-driving, or of medicine, or of prophecy, or of navigation—will he, or will the charioteer or physician or prophet or pilot be the better judge? Ion is compelled to admit that every man will judge of his own particular art better than the rhapsode. He still maintains, however, that he understands the art of the general as well as any one. &apos;Then why in this city of Athens, in which men of merit are always being sought after, is he not at once appointed a general?&apos; Ion replies that he is a foreigner, and the Athenians and Spartans will not appoint a foreigner to be their general. &apos;No, that is not the real reason; there are many examples to the contrary. But Ion has long been playing tricks with the argument; like Proteus, he transforms himself into a variety of shapes, and is at last about to run away in the disguise of a general. Would he rather be regarded as inspired or dishonest?&apos; Ion, who has no suspicion of the irony of Socrates, eagerly embraces the alternative of inspiration.</text:p>
+   <text:p text:style-name="Text_20_body">The Ion, like the other earlier Platonic Dialogues, is a mixture of jest and earnest, in which no definite result is obtained, but some Socratic or Platonic truths are allowed dimly to appear.</text:p>
+   <text:p text:style-name="Text_20_body">The elements of a true theory of poetry are contained in the notion that the poet is inspired. Genius is often said to be unconscious, or spontaneous, or a gift of nature: that &apos;genius is akin to madness&apos; is a popular aphorism of modern times. The greatest strength is observed to have an element of limitation. Sense or passion are too much for the &apos;dry light&apos; of intelligence which mingles with them and becomes discoloured by them. Imagination is often at war with reason and fact. The concentration of the mind on a single object, or on a single aspect of human nature, overpowers the orderly perception of the whole. Yet the feelings too bring truths home to the minds of many who in the way of reason would be incapable of understanding them. Reflections of this kind may have been passing before Plato&apos;s mind when he describes the poet as inspired, or when, as in the Apology, he speaks of poets as the worst critics of their own writings—anybody taken at random from the crowd is a better interpreter of them than they are of themselves. They are sacred persons, &apos;winged and holy things&apos; who have a touch of madness in their composition (Phaedr.), and should be treated with every sort of respect (Republic), but not allowed to live in a well-ordered state. Like the Statesmen in the Meno, they have a divine instinct, but they are narrow and confused; they do not attain to the clearness of ideas, or to the knowledge of poetry or of any other art as a whole.</text:p>
+   <text:p text:style-name="Text_20_body">In the Protagoras the ancient poets are recognized by Protagoras himself as the original <text:soft-page-break/>sophists; and this family resemblance may be traced in the Ion. The rhapsode belongs to the realm of imitation and of opinion: he professes to have all knowledge, which is derived by him from Homer, just as the sophist professes to have all wisdom, which is contained in his art of rhetoric. Even more than the sophist he is incapable of appreciating the commonest logical distinctions; he cannot explain the nature of his own art; his great memory contrasts with his inability to follow the steps of the argument. And in his highest moments of inspiration he has an eye to his own gains.</text:p>
+   <text:p text:style-name="Text_20_body">The old quarrel between philosophy and poetry, which in the Republic leads to their final separation, is already working in the mind of Plato, and is embodied by him in the contrast between Socrates and Ion. Yet here, as in the Republic, Socrates shows a sympathy with the poetic nature. Also, the manner in which Ion is affected by his own recitations affords a lively illustration of the power which, in the Republic, Socrates attributes to dramatic performances over the mind of the performer. His allusion to his embellishments of Homer, in which he declares himself to have surpassed Metrodorus of Lampsacus and Stesimbrotus of Thasos, seems to show that, like them, he belonged to the allegorical school of interpreters. The circumstance that nothing more is known of him may be adduced in confirmation of the argument that this truly Platonic little work is not a forgery of later times.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Ion</text:h>
+   <text:p text:style-name="First_20_paragraph">PERSONS OF THE DIALOGUE: Socrates, Ion.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Welcome, Ion. Are you from your native city of Ephesus?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No, Socrates; but from Epidaurus, where I attended the festival of Asclepius.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And do the Epidaurians have contests of rhapsodes at the festival?</text:p>
+   <text:p text:style-name="Text_20_body">ION: O yes; and of all sorts of musical performers.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And were you one of the competitors—and did you succeed?</text:p>
+   <text:p text:style-name="Text_20_body">ION: I obtained the first prize of all, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Well done; and I hope that you will do the same for us at the Panathenaea.</text:p>
+   <text:p text:style-name="Text_20_body">ION: And I will, please heaven.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: I often envy the profession of a rhapsode, Ion; for you have always to wear fine clothes, and to look as beautiful as you can is a part of your art. Then, again, you are obliged to be continually in the company of many good poets; and especially of Homer, who is the best and most divine of them; and to understand him, and not merely learn his words by rote, is a thing greatly to be envied. And no man can be a rhapsode who does not understand the meaning of the poet. For the rhapsode ought to interpret the mind of the poet to his hearers, but how can he interpret him well unless he knows what he means? All this is greatly to be envied.</text:p>
+   <text:p text:style-name="Text_20_body">ION: Very true, Socrates; interpretation has certainly been the most laborious part of my art; and I believe myself able to speak about Homer better than any man; and that neither Metrodorus of Lampsacus, nor Stesimbrotus of Thasos, nor Glaucon, nor any one else who ever was, had as good ideas about Homer as I have, or as many.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: I am glad to hear you say so, Ion; I see that you will not refuse to acquaint me with them.</text:p>
+   <text:p text:style-name="Text_20_body">ION: Certainly, Socrates; and you really ought to hear how exquisitely I render Homer. I think that the Homeridae should give me a golden crown.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: I shall take an opportunity of hearing your embellishments of him at some other time. But just now I should like to ask you a question: Does your art extend to Hesiod and Archilochus, or to Homer only?</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>ION: To Homer only; he is in himself quite enough.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Are there any things about which Homer and Hesiod agree?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes; in my opinion there are a good many.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And can you interpret better what Homer says, or what Hesiod says, about these matters in which they agree?</text:p>
+   <text:p text:style-name="Text_20_body">ION: I can interpret them equally well, Socrates, where they agree.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: But what about matters in which they do not agree?—for example, about divination, of which both Homer and Hesiod have something to say,—</text:p>
+   <text:p text:style-name="Text_20_body">ION: Very true:</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Would you or a good prophet be a better interpreter of what these two poets say about divination, not only when they agree, but when they disagree?</text:p>
+   <text:p text:style-name="Text_20_body">ION: A prophet.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And if you were a prophet, would you not be able to interpret them when they disagree as well as when they agree?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Clearly.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: But how did you come to have this skill about Homer only, and not about Hesiod or the other poets? Does not Homer speak of the same themes which all other poets handle? Is not war his great argument? and does he not speak of human society and of intercourse of men, good and bad, skilled and unskilled, and of the gods conversing with one another and with mankind, and about what happens in heaven and in the world below, and the generations of gods and heroes? Are not these the themes of which Homer sings?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Very true, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And do not the other poets sing of the same?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, Socrates; but not in the same way as Homer.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: What, in a worse way?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, in a far worse.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And Homer in a better way?</text:p>
+   <text:p text:style-name="Text_20_body">ION: He is incomparably better.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>SOCRATES: And yet surely, my dear friend Ion, in a discussion about arithmetic, where many people are speaking, and one speaks better than the rest, there is somebody who can judge which of them is the good speaker?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And he who judges of the good will be the same as he who judges of the bad speakers?</text:p>
+   <text:p text:style-name="Text_20_body">ION: The same.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And he will be the arithmetician?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Well, and in discussions about the wholesomeness of food, when many persons are speaking, and one speaks better than the rest, will he who recognizes the better speaker be a different person from him who recognizes the worse, or the same?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Clearly the same.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And who is he, and what is his name?</text:p>
+   <text:p text:style-name="Text_20_body">ION: The physician.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And speaking generally, in all discussions in which the subject is the same and many men are speaking, will not he who knows the good know the bad speaker also? For if he does not know the bad, neither will he know the good when the same topic is being discussed.</text:p>
+   <text:p text:style-name="Text_20_body">ION: True.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Is not the same person skilful in both?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And you say that Homer and the other poets, such as Hesiod and Archilochus, speak of the same things, although not in the same way; but the one speaks well and the other not so well?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes; and I am right in saying so.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And if you knew the good speaker, you would also know the inferior speakers to be inferior?</text:p>
+   <text:p text:style-name="Text_20_body">ION: That is true.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>SOCRATES: Then, my dear friend, can I be mistaken in saying that Ion is equally skilled in Homer and in other poets, since he himself acknowledges that the same person will be a good judge of all those who speak of the same things; and that almost all poets do speak of the same things?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Why then, Socrates, do I lose attention and go to sleep and have absolutely no ideas of the least value, when any one speaks of any other poet; but when Homer is mentioned, I wake up at once and am all attention and have plenty to say?</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: The reason, my friend, is obvious. No one can fail to see that you speak of Homer without any art or knowledge. If you were able to speak of him by rules of art, you would have been able to speak of all other poets; for poetry is a whole.</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And when any one acquires any other art as a whole, the same may be said of them. Would you like me to explain my meaning, Ion?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, indeed, Socrates; I very much wish that you would: for I love to hear you wise men talk.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: O that we were wise, Ion, and that you could truly call us so; but you rhapsodes and actors, and the poets whose verses you sing, are wise; whereas I am a common man, who only speak the truth. For consider what a very commonplace and trivial thing is this which I have said—a thing which any man might say: that when a man has acquired a knowledge of a whole art, the enquiry into good and bad is one and the same. Let us consider this matter; is not the art of painting a whole?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And there are and have been many painters good and bad?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And did you ever know any one who was skilful in pointing out the excellences and defects of Polygnotus the son of Aglaophon, but incapable of criticizing other painters; and when the work of any other painter was produced, went to sleep and was at a loss, and had no ideas; but when he had to give his opinion about Polygnotus, or whoever the painter might be, and about him only, woke up and was attentive and had plenty to say?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No indeed, I have never known such a person.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Or did you ever know of any one in sculpture, who was skilful in expounding the <text:soft-page-break/>merits of Daedalus the son of Metion, or of Epeius the son of Panopeus, or of Theodorus the Samian, or of any individual sculptor; but when the works of sculptors in general were produced, was at a loss and went to sleep and had nothing to say?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No indeed; no more than the other.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And if I am not mistaken, you never met with any one among flute-players or harp-players or singers to the harp or rhapsodes who was able to discourse of Olympus or Thamyras or Orpheus, or Phemius the rhapsode of Ithaca, but was at a loss when he came to speak of Ion of Ephesus, and had no notion of his merits or defects?</text:p>
+   <text:p text:style-name="Text_20_body">ION: I cannot deny what you say, Socrates. Nevertheless I am conscious in my own self, and the world agrees with me in thinking that I do speak better and have more to say about Homer than any other man. But I do not speak equally well about others—tell me the reason of this.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: I perceive, Ion; and I will proceed to explain to you what I imagine to be the reason of this. The gift which you possess of speaking excellently about Homer is not an art, but, as I was just saying, an inspiration; there is a divinity moving you, like that contained in the stone which Euripides calls a magnet, but which is commonly known as the stone of Heraclea. This stone not only attracts iron rings, but also imparts to them a similar power of attracting other rings; and sometimes you may see a number of pieces of iron and rings suspended from one another so as to form quite a long chain: and all of them derive their power of suspension from the original stone. In like manner the Muse first of all inspires men herself; and from these inspired persons a chain of other persons is suspended, who take the inspiration. For all good poets, epic as well as lyric, compose their beautiful poems not by art, but because they are inspired and possessed. And as the Corybantian revellers when they dance are not in their right mind, so the lyric poets are not in their right mind when they are composing their beautiful strains: but when falling under the power of music and metre they are inspired and possessed; like Bacchic maidens who draw milk and honey from the rivers when they are under the influence of Dionysus but not when they are in their right mind. And the soul of the lyric poet does the same, as they themselves say; for they tell us that they bring songs from honeyed fountains, culling them out of the gardens and dells of the Muses; they, like the bees, winging their way from flower to flower. And this is true. For the poet is a light and winged and holy thing, and there is no invention in him until he has been inspired and is out of his senses, and the mind is no longer in him: when he has not attained to this state, he is powerless and is unable to utter his oracles. Many are the noble words in which poets speak concerning the actions of men; but like yourself when speaking about Homer, they do not speak of them by any rules of art: they are simply inspired to utter that to which the Muse impels them, and that only; and when inspired, one of them will make dithyrambs, another hymns of praise, another choral <text:soft-page-break/>strains, another epic or iambic verses—and he who is good at one is not good at any other kind of verse: for not by art does the poet sing, but by power divine. Had he learned by rules of art, he would have known how to speak not of one theme only, but of all; and therefore God takes away the minds of poets, and uses them as his ministers, as he also uses diviners and holy prophets, in order that we who hear them may know them to be speaking not of themselves who utter these priceless words in a state of unconsciousness, but that God himself is the speaker, and that through them he is conversing with us. And Tynnichus the Chalcidian affords a striking instance of what I am saying: he wrote nothing that any one would care to remember but the famous paean which is in every one&apos;s mouth, one of the finest poems ever written, simply an invention of the Muses, as he himself says. For in this way the God would seem to indicate to us and not allow us to doubt that these beautiful poems are not human, or the work of man, but divine and the work of God; and that the poets are only the interpreters of the Gods by whom they are severally possessed. Was not this the lesson which the God intended to teach when by the mouth of the worst of poets he sang the best of songs? Am I not right, Ion?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, indeed, Socrates, I feel that you are; for your words touch my soul, and I am persuaded that good poets by a divine inspiration interpret the things of the Gods to us.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And you rhapsodists are the interpreters of the poets?</text:p>
+   <text:p text:style-name="Text_20_body">ION: There again you are right.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Then you are the interpreters of interpreters?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Precisely.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: I wish you would frankly tell me, Ion, what I am going to ask of you: When you produce the greatest effect upon the audience in the recitation of some striking passage, such as the apparition of Odysseus leaping forth on the floor, recognized by the suitors and casting his arrows at his feet, or the description of Achilles rushing at Hector, or the sorrows of Andromache, Hecuba, or Priam,—are you in your right mind? Are you not carried out of yourself, and does not your soul in an ecstasy seem to be among the persons or places of which you are speaking, whether they are in Ithaca or in Troy or whatever may be the scene of the poem?</text:p>
+   <text:p text:style-name="Text_20_body">ION: That proof strikes home to me, Socrates. For I must frankly confess that at the tale of pity my eyes are filled with tears, and when I speak of horrors, my hair stands on end and my heart throbs.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Well, Ion, and what are we to say of a man who at a sacrifice or festival, when he is dressed in holiday attire, and has golden crowns upon his head, of which nobody has robbed <text:soft-page-break/>him, appears weeping or panic-stricken in the presence of more than twenty thousand friendly faces, when there is no one despoiling or wronging him;—is he in his right mind or is he not?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No indeed, Socrates, I must say that, strictly speaking, he is not in his right mind.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And are you aware that you produce similar effects on most of the spectators?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Only too well; for I look down upon them from the stage, and behold the various emotions of pity, wonder, sternness, stamped upon their countenances when I am speaking: and I am obliged to give my very best attention to them; for if I make them cry I myself shall laugh, and if I make them laugh I myself shall cry when the time of payment arrives.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Do you know that the spectator is the last of the rings which, as I am saying, receive the power of the original magnet from one another? The rhapsode like yourself and the actor are intermediate links, and the poet himself is the first of them. Through all these the God sways the souls of men in any direction which he pleases, and makes one man hang down from another. Thus there is a vast chain of dancers and masters and under-masters of choruses, who are suspended, as if from the stone, at the side of the rings which hang down from the Muse. And every poet has some Muse from whom he is suspended, and by whom he is said to be possessed, which is nearly the same thing; for he is taken hold of. And from these first rings, which are the poets, depend others, some deriving their inspiration from Orpheus, others from Musaeus; but the greater number are possessed and held by Homer. Of whom, Ion, you are one, and are possessed by Homer; and when any one repeats the words of another poet you go to sleep, and know not what to say; but when any one recites a strain of Homer you wake up in a moment, and your soul leaps within you, and you have plenty to say; for not by art or knowledge about Homer do you say what you say, but by divine inspiration and by possession; just as the Corybantian revellers too have a quick perception of that strain only which is appropriated to the God by whom they are possessed, and have plenty of dances and words for that, but take no heed of any other. And you, Ion, when the name of Homer is mentioned have plenty to say, and have nothing to say of others. You ask, &apos;Why is this?&apos; The answer is that you praise Homer not by art but by divine inspiration.</text:p>
+   <text:p text:style-name="Text_20_body">ION: That is good, Socrates; and yet I doubt whether you will ever have eloquence enough to persuade me that I praise Homer only when I am mad and possessed; and if you could hear me speak of him I am sure you would never think this to be the case.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: I should like very much to hear you, but not until you have answered a question which I have to ask. On what part of Homer do you speak well?—not surely about every part.</text:p>
+   <text:p text:style-name="Text_20_body">ION: There is no part, Socrates, about which I do not speak well: of that I can assure you.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>SOCRATES: Surely not about things in Homer of which you have no knowledge?</text:p>
+   <text:p text:style-name="Text_20_body">ION: And what is there in Homer of which I have no knowledge?</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Why, does not Homer speak in many passages about arts? For example, about driving; if I can only remember the lines I will repeat them.</text:p>
+   <text:p text:style-name="Text_20_body">ION: I remember, and will repeat them.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Tell me then, what Nestor says to Antilochus, his son, where he bids him be careful of the turn at the horserace in honour of Patroclus.</text:p>
+   <text:p text:style-name="Text_20_body">ION: &apos;Bend gently,&apos; he says, &apos;in the polished chariot to the left of them, and urge the horse on the right hand with whip and voice; and slacken the rein. And when you are at the goal, let the left horse draw near, yet so that the nave of the well-wrought wheel may not even seem to touch the extremity; and avoid catching the stone (Il.).&apos;</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Enough. Now, Ion, will the charioteer or the physician be the better judge of the propriety of these lines?</text:p>
+   <text:p text:style-name="Text_20_body">ION: The charioteer, clearly.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And will the reason be that this is his art, or will there be any other reason?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No, that will be the reason.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And every art is appointed by God to have knowledge of a certain work; for that which we know by the art of the pilot we do not know by the art of medicine?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Certainly not.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Nor do we know by the art of the carpenter that which we know by the art of medicine?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Certainly not.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And this is true of all the arts;—that which we know with one art we do not know with the other? But let me ask a prior question: You admit that there are differences of arts?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: You would argue, as I should, that when one art is of one kind of knowledge and another of another, they are different?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>SOCRATES: Yes, surely; for if the subject of knowledge were the same, there would be no meaning in saying that the arts were different,—if they both gave the same knowledge. For example, I know that here are five fingers, and you know the same. And if I were to ask whether I and you became acquainted with this fact by the help of the same art of arithmetic, you would acknowledge that we did?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Tell me, then, what I was intending to ask you,—whether this holds universally? Must the same art have the same subject of knowledge, and different arts other subjects of knowledge?</text:p>
+   <text:p text:style-name="Text_20_body">ION: That is my opinion, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Then he who has no knowledge of a particular art will have no right judgment of the sayings and doings of that art?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Very true.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Then which will be a better judge of the lines which you were reciting from Homer, you or the charioteer?</text:p>
+   <text:p text:style-name="Text_20_body">ION: The charioteer.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Why, yes, because you are a rhapsode and not a charioteer.</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And the art of the rhapsode is different from that of the charioteer?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And if a different knowledge, then a knowledge of different matters?</text:p>
+   <text:p text:style-name="Text_20_body">ION: True.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: You know the passage in which Hecamede, the concubine of Nestor, is described as giving to the wounded Machaon a posset, as he says,</text:p>
+   <text:p text:style-name="Text_20_body">&apos;Made with Pramnian wine; and she grated cheese of goat&apos;s milk with a grater of bronze, and at his side placed an onion which gives a relish to drink (Il.).&apos;</text:p>
+   <text:p text:style-name="Text_20_body">Now would you say that the art of the rhapsode or the art of medicine was better able to judge of the propriety of these lines?</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>ION: The art of medicine.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And when Homer says,</text:p>
+   <text:p text:style-name="Text_20_body">&apos;And she descended into the deep like a leaden plummet, which, set in the horn of ox that ranges in the fields, rushes along carrying death among the ravenous fishes (Il.),&apos;—</text:p>
+   <text:p text:style-name="Text_20_body">will the art of the fisherman or of the rhapsode be better able to judge whether these lines are rightly expressed or not?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Clearly, Socrates, the art of the fisherman.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Come now, suppose that you were to say to me: &apos;Since you, Socrates, are able to assign different passages in Homer to their corresponding arts, I wish that you would tell me what are the passages of which the excellence ought to be judged by the prophet and prophetic art&apos;; and you will see how readily and truly I shall answer you. For there are many such passages, particularly in the Odyssee; as, for example, the passage in which Theoclymenus the prophet of the house of Melampus says to the suitors:—</text:p>
+   <text:p text:style-name="Text_20_body">&apos;Wretched men! what is happening to you? Your heads and your faces and your limbs underneath are shrouded in night; and the voice of lamentation bursts forth, and your cheeks are wet with tears. And the vestibule is full, and the court is full, of ghosts descending into the darkness of Erebus, and the sun has perished out of heaven, and an evil mist is spread abroad (Od.).&apos;</text:p>
+   <text:p text:style-name="Text_20_body">And there are many such passages in the Iliad also; as for example in the description of the battle near the rampart, where he says:—</text:p>
+   <text:p text:style-name="Text_20_body">&apos;As they were eager to pass the ditch, there came to them an omen: a soaring eagle, holding back the people on the left, bore a huge bloody dragon in his talons, still living and panting; nor had he yet resigned the strife, for he bent back and smote the bird which carried him on the breast by the neck, and he in pain let him fall from him to the ground into the midst of the multitude. And the eagle, with a cry, was borne afar on the wings of the wind (Il.).&apos;</text:p>
+   <text:p text:style-name="Text_20_body">These are the sort of things which I should say that the prophet ought to consider and determine.</text:p>
+   <text:p text:style-name="Text_20_body">ION: And you are quite right, Socrates, in saying so.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Yes, Ion, and you are right also. And as I have selected from the Iliad and Odyssee for you passages which describe the office of the prophet and the physician and the fisherman, do you, who know Homer so much better than I do, Ion, select for me passages which relate to the rhapsode and the rhapsode&apos;s art, and which the rhapsode ought to examine and judge of <text:soft-page-break/>better than other men.</text:p>
+   <text:p text:style-name="Text_20_body">ION: All passages, I should say, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Not all, Ion, surely. Have you already forgotten what you were saying? A rhapsode ought to have a better memory.</text:p>
+   <text:p text:style-name="Text_20_body">ION: Why, what am I forgetting?</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Do you not remember that you declared the art of the rhapsode to be different from the art of the charioteer?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, I remember.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And you admitted that being different they would have different subjects of knowledge?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Then upon your own showing the rhapsode, and the art of the rhapsode, will not know everything?</text:p>
+   <text:p text:style-name="Text_20_body">ION: I should exclude certain things, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: You mean to say that you would exclude pretty much the subjects of the other arts. As he does not know all of them, which of them will he know?</text:p>
+   <text:p text:style-name="Text_20_body">ION: He will know what a man and what a woman ought to say, and what a freeman and what a slave ought to say, and what a ruler and what a subject.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Do you mean that a rhapsode will know better than the pilot what the ruler of a sea-tossed vessel ought to say?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No; the pilot will know best.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Or will the rhapsode know better than the physician what the ruler of a sick man ought to say?</text:p>
+   <text:p text:style-name="Text_20_body">ION: He will not.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: But he will know what a slave ought to say?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Suppose the slave to be a cowherd; the rhapsode will know better than the cowherd what he ought to say in order to soothe the infuriated cows?</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>ION: No, he will not.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: But he will know what a spinning-woman ought to say about the working of wool?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: At any rate he will know what a general ought to say when exhorting his soldiers?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, that is the sort of thing which the rhapsode will be sure to know.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Well, but is the art of the rhapsode the art of the general?</text:p>
+   <text:p text:style-name="Text_20_body">ION: I am sure that I should know what a general ought to say.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Why, yes, Ion, because you may possibly have a knowledge of the art of the general as well as of the rhapsode; and you may also have a knowledge of horsemanship as well as of the lyre: and then you would know when horses were well or ill managed. But suppose I were to ask you: By the help of which art, Ion, do you know whether horses are well managed, by your skill as a horseman or as a performer on the lyre—what would you answer?</text:p>
+   <text:p text:style-name="Text_20_body">ION: I should reply, by my skill as a horseman.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And if you judged of performers on the lyre, you would admit that you judged of them as a performer on the lyre, and not as a horseman?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And in judging of the general&apos;s art, do you judge of it as a general or a rhapsode?</text:p>
+   <text:p text:style-name="Text_20_body">ION: To me there appears to be no difference between them.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: What do you mean? Do you mean to say that the art of the rhapsode and of the general is the same?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Yes, one and the same.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: Then he who is a good rhapsode is also a good general?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Certainly, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And he who is a good general is also a good rhapsode?</text:p>
+   <text:p text:style-name="Text_20_body">ION: No; I do not say that.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: But you do say that he who is a good rhapsode is also a good general.</text:p>
+   <text:p text:style-name="Text_20_body">ION: Certainly.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>SOCRATES: And you are the best of Hellenic rhapsodes?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Far the best, Socrates.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: And are you the best general, Ion?</text:p>
+   <text:p text:style-name="Text_20_body">ION: To be sure, Socrates; and Homer was my master.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: But then, Ion, what in the name of goodness can be the reason why you, who are the best of generals as well as the best of rhapsodes in all Hellas, go about as a rhapsode when you might be a general? Do you think that the Hellenes want a rhapsode with his golden crown, and do not want a general?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Why, Socrates, the reason is, that my countrymen, the Ephesians, are the servants and soldiers of Athens, and do not need a general; and you and Sparta are not likely to have me, for you think that you have enough generals of your own.</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: My good Ion, did you never hear of Apollodorus of Cyzicus?</text:p>
+   <text:p text:style-name="Text_20_body">ION: Who may he be?</text:p>
+   <text:p text:style-name="Text_20_body">SOCRATES: One who, though a foreigner, has often been chosen their general by the Athenians: and there is Phanosthenes of Andros, and Heraclides of Clazomenae, whom they have also appointed to the command of their armies and to other offices, although aliens, after they had shown their merit. And will they not choose Ion the Ephesian to be their general, and honour him, if he prove himself worthy? Were not the Ephesians originally Athenians, and Ephesus is no mean city? But, indeed, Ion, if you are correct in saying that by art and knowledge you are able to praise Homer, you do not deal fairly with me, and after all your professions of knowing many glorious things about Homer, and promises that you would exhibit them, you are only a deceiver, and so far from exhibiting the art of which you are a master, will not, even after my repeated entreaties, explain to me the nature of it. You have literally as many forms as Proteus; and now you go all manner of ways, twisting and turning, and, like Proteus, become all manner of people at once, and at last slip away from me in the disguise of a general, in order that you may escape exhibiting your Homeric lore. And if you have art, then, as I was saying, in falsifying your promise that you would exhibit Homer, you are not dealing fairly with me. But if, as I believe, you have no art, but speak all these beautiful words about Homer unconsciously under his inspiring influence, then I acquit you of dishonesty, and shall only say that you are inspired. Which do you prefer to be thought, dishonest or inspired?</text:p>
+   <text:p text:style-name="Text_20_body">ION: There is a great difference, Socrates, between the two alternatives; and inspiration is by far the nobler.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>SOCRATES: Then, Ion, I shall assume the nobler alternative; and attribute to you in your praises of Homer inspiration, and not art.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="P7">*** END OF THE PROJECT GUTENBERG EBOOK ION ***</text:p>
+   <text:p text:style-name="P7">Updated editions will replace the previous one—the old editions will be renamed.</text:p>
+   <text:p text:style-name="P7">Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</text:p>
+   <text:p text:style-name="P7">START: FULL LICENSE</text:p>
+   <text:h text:style-name="P5" text:outline-level="2">The Full Project Gutenberg License</text:h>
+   <text:p text:style-name="P3">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</text:p>
+   <text:p text:style-name="P7">To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</text:p>
+   <text:p text:style-name="P7">Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P7">1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</text:p>
+   <text:p text:style-name="P7">1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</text:p>
+   <text:p text:style-name="P7">1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping <text:soft-page-break/>this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</text:p>
+   <text:p text:style-name="P7">1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</text:p>
+   <text:p text:style-name="P7">1.E. Unless you have removed all references to Project Gutenberg:</text:p>
+   <text:p text:style-name="P7">1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:span text:style-name="T1">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P7">1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P7">1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</text:p>
+   <text:p text:style-name="P7">1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</text:p>
+   <text:p text:style-name="P7">1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part <text:soft-page-break/>of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.</text:p>
+   <text:p text:style-name="P7">1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</text:p>
+   <text:p text:style-name="P7">1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P7">1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</text:p>
+   <text:p text:style-name="P7">• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</text:p>
+   <text:p text:style-name="P7">• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P7">• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</text:p>
+   <text:p text:style-name="P7">• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P7">1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of <text:soft-page-break/>works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</text:p>
+   <text:p text:style-name="P7">1.F.</text:p>
+   <text:p text:style-name="P7">1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</text:p>
+   <text:p text:style-name="P7">1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</text:p>
+   <text:p text:style-name="P7">1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</text:p>
+   <text:p text:style-name="P7">1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/>1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</text:p>
+   <text:p text:style-name="P7">1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</text:p>
+   <text:p text:style-name="P7">Section 2. Information about the Mission of Project Gutenberg™</text:p>
+   <text:p text:style-name="P7">Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</text:p>
+   <text:p text:style-name="P7">Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</text:p>
+   <text:p text:style-name="P7">Section 3. Information about the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P7">The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</text:p>
+   <text:p text:style-name="P7">The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the <text:soft-page-break/>Foundation’s website and official page at www.gutenberg.org/contact</text:p>
+   <text:p text:style-name="P7">Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P7">Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/donate/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org/donate</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7">While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</text:p>
+   <text:p text:style-name="P7">International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</text:p>
+   <text:p text:style-name="P7">Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</text:p>
+   <text:p text:style-name="P7">Section 5. General Information About Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P7">Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</text:p>
+   <text:p text:style-name="P7">Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Most people start at our website which has the main PG search facility: </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7">This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and <text:soft-page-break/>how to subscribe to our email newsletter to hear about new eBooks.</text:p>
+   <text:h text:style-name="P6" text:outline-level="3"><text:span text:style-name="T1">The Project Gutenberg eBook of Ion, by Plato</text:span></text:h>
+   <text:p text:style-name="P4"><text:span text:style-name="T1">This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Title</text:span><text:span text:style-name="T1">: Ion</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Author</text:span><text:span text:style-name="T1">: Plato</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Release Date</text:span><text:span text:style-name="T1">: February 1, 1999 [EBook #1635]</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Language</text:span><text:span text:style-name="T1">: English</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Credits</text:span><text:span text:style-name="T1">: Produced by Sue Asscher, and David Widger</text:span></text:p>
+   <text:p text:style-name="P9"><text:line-break/></text:p>
+   <text:p text:style-name="P8">*** START OF THE PROJECT GUTENBERG EBOOK ION ***</text:p>
+  </office:text>
+ </office:body>
+</office:document>

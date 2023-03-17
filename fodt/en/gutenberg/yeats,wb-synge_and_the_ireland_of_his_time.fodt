@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Synge and the Ireland of His Time</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>W. B. Yeats</meta:initial-creator>
+    
+    <meta:creation-date>2022-11-08T08:12:02Z</meta:creation-date>
+    <dc:date>2023-01-19T03:05:52.152785102</dc:date>
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT1M29S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="54" meta:paragraph-count="169" meta:word-count="13880" meta:character-count="78385" meta:non-whitespace-character-count="64600"/><meta:user-defined meta:name="date">2005-07-01</meta:user-defined><meta:user-defined meta:name="identifier">http://www.gutenberg.org/8557</meta:user-defined><meta:user-defined meta:name="language">en</meta:user-defined><meta:user-defined meta:name="rights">Public domain in the USA.</meta:user-defined><meta:user-defined meta:name="source" meta:value-type="string">https://www.gutenberg.org/files/8557/8557-h/8557-h.htm</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">25772</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16036</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14199</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">5997</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">25770</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">16034</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2099421</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Author">
+   <style:text-properties officeooo:paragraph-rsid="001b3bb7"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties officeooo:paragraph-rsid="001d2751"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none" officeooo:paragraph-rsid="001d2751"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="001d2751"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="001b3bb7"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">54</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">Synge and the Ireland of His Time</text:p>
+   <text:p text:style-name="P3">Yeats<text:span text:style-name="T3">, </text:span>W. B. </text:p>
+   <text:p text:style-name="Date">2005-07-01</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Synge And The Ireland Of His Time</text:h>
+   <text:p text:style-name="P6">BY WILLIAM BUTLER YEATS</text:p>
+   <text:p text:style-name="P10">WITH A NOTE CONCERNING A WALK THROUGH CONNEMARA<text:line-break/>WITH HIM BY JACK BUTLER YEATS</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="P10">CHURCHTOWN DUNDRUM MCMXI</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Preface</text:h>
+   <text:p text:style-name="First_20_paragraph">At times during Synge&apos;s last illness, Lady Gregory and I would speak of his work and always find some pleasure in the thought that unlike ourselves, who had made our experiments in public, he would leave to the world nothing to be wished away--nothing that was not beautiful or powerful in itself, or necessary as an expression of his life and thought. When he died we were in much anxiety, for a letter written before his last illness, and printed in the selection of his poems published at the Cuala Press, had shown that he was anxious about the fate of his manuscripts and scattered writings. On the evening of the night he died he had asked that I might come to him the next day; and my diary of the days following his death shows how great was our anxiety. Presently however, all seemed to have come right, for the Executors sent me the following letter that had been found among his papers, and promised to carry out his wishes.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body">&apos;May 4th, 1908</text:p>
+   <text:p text:style-name="Text_20_body">&apos;Dear Yeats,</text:p>
+   <text:p text:style-name="Text_20_body">&apos;This is only to go to you if anything should go wrong with me under the operation or after it. I am a little bothered about my &apos;papers.&apos; I have a certain amount of verse that I think would be worth preserving, possibly also the 1st and 3rd acts of &apos;Deirdre,&apos; and then I have a lot of Kerry and Wicklow articles that would go together into a book. The other early stuff I wrote I have kept as a sort of curiosity, but I am anxious that it should not get into print. I wonder could you get someone--say ... who is now in Dublin to go through them for you and do whatever you and Lady Gregory think desirable. It is <text:soft-page-break/>rather a hard thing to ask you but I do not want my good things destroyed or my bad things printed rashly--especially a morbid thing about a mad fiddler in Paris which I hate. Do what you can--Good luck.</text:p>
+   <text:p text:style-name="Text_20_body">&apos;J.M. Synge&apos;</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body">In the summer of 1909, the Executors sent me a large bundle of papers, cuttings from newspapers and magazines, manuscript and typewritten prose and verse, put together and annotated by Synge himself before his last illness. I spent a portion of each day for weeks reading and re-reading early dramatic writing, poems, essays, and so forth, and with the exception of ninety pages which have been published without my consent, made consulting Lady Gregory from time to time the Selection of his work published by Messrs. Maunsel. It is because of these ninety pages, that neither Lady Gregory&apos;s name nor mine appears in any of the books, and that the Introduction which I now publish, was withdrawn by me after it had been advertised by the publishers. Before the publication of the books the Executors discovered a scrap of paper with a sentence by J.M. Synge saying that Selections might be taken from his Essays on the Congested Districts. I do not know if this was written before his letter to me, which made no mention of them, or contained his final directions. The matter is unimportant, for the publishers decided to ignore my offer to select as well as my original decision to reject, and for this act of theirs they have given me no reasons except reasons of convenience, which neither Lady Gregory nor I could accept.</text:p>
+   <text:p text:style-name="Text_20_body">W.B. Yeats.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body">* * * * *<text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">J.M. Synge And The Ireland Of His Time</text:h>
+   <text:p text:style-name="First_20_paragraph">On Saturday, January 26th, 1907, I was lecturing in Aberdeen, and when my lecture was over I was given a telegram which said, &apos;Play great success.&apos; It had been sent from Dublin after the second Act of &apos;The Playboy of the Western World,&apos; then being performed for the first time. After one in the morning, my host brought to my bedroom this second telegram, &apos;Audience broke up in disorder at the word shift.&apos; I knew no more until I got the Dublin papers on my way from Belfast to Dublin on Tuesday morning. On the Monday night no word of the play had been heard. About forty young men had sat on the front seats of the pit, and stamped and shouted and blown trumpets from the rise to the fall of the curtain. On the Tuesday night also the forty young men were there. They wished to silence what they considered a slander upon Ireland&apos;s womanhood. Irish women would never sleep under the same roof with a young man without a chaperon, nor admire a murderer, nor use a word like &apos;shift;&apos; nor could anyone recognise the country men and women of Davis and Kickham in these poetical, violent, grotesque persons, who used the name of God so freely, and spoke of all things that hit their fancy.</text:p>
+   <text:p text:style-name="Text_20_body">A patriotic journalism which had seen in Synge&apos;s capricious imagination the enemy of all it would have young men believe, had for years prepared for this hour, by that which is at once the greatest and most ignoble power of journalism, the art of repeating a name again and again with some ridiculous or evil association. The preparation had begun after the first performance of &apos;The Shadow of the Glen,&apos; Synge&apos;s first play, with an assertion made in ignorance but repeated in dishonesty, that he had taken his fable and his characters, not from his own mind nor that profound knowledge of cot and curragh he was admitted to possess, but &apos;from a writer of the Roman decadence.&apos; Some spontaneous dislike had been but natural, for genius like <text:soft-page-break/>his can but slowly, amid what it has of harsh and strange, set forth the nobility of its beauty, and the depth of its compassion; but the frenzy that would have silenced his master-work was, like most violent things artificial, the defence of virtue by those that have but little, which is the pomp and gallantry of journalism and its right to govern the world.</text:p>
+   <text:p text:style-name="Text_20_body">As I stood there watching, knowing well that I saw the dissolution of a school of patriotism that held sway over my youth, Synge came and stood beside me, and said, &apos;A young doctor has just told me that he can hardly keep himself from jumping on to a seat, and pointing out in that howling mob those whom he is treating for venereal disease.&apos;</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">II</text:h>
+   <text:p text:style-name="First_20_paragraph">Thomas Davis, whose life had the moral simplicity which can give to actions the lasting influence that style alone can give to words, had understood that a country which has no national institutions must show its young men images for the affections, although they be but diagrams of what it should be or may be. He and his school imagined the Soldier, the Orator, the Patriot, the Poet, the Chieftain, and above all the Peasant; and these, as celebrated in essay and songs and stories, possessed so many virtues that no matter how England, who as Mitchell said &apos;had the ear of the world,&apos; might slander us, Ireland, even though she could not come at the world&apos;s other ear, might go her way unabashed. But ideas and images which have to be understood and loved by large numbers of people, must appeal to no rich personal experience, no patience of study, no delicacy of sense; and if at rare moments some &apos;Memory of the Dead&apos; can take its strength from one; at all other moments manner and matter will be rhetorical, conventional, sentimental; and language, because it is carried beyond life perpetually, will be as wasted as the thought, with unmeaning pedantries and silences, and a dread of all that has salt and savour. After a while, in a land that has given itself to agitation over-much, abstract thoughts are raised up between men&apos;s minds and Nature, who never does the same thing twice, or makes one man like another, till minds, whose patriotism is perhaps great enough to carry them to the scaffold, cry down natural impulse with the morbid persistence of minds unsettled by some fixed idea. They are preoccupied with the nation&apos;s future, with heroes, poets, soldiers, painters, armies, fleets, but only as these things are understood by a child in a national school, while a secret feeling that what is so unreal needs continual defence makes them bitter and restless. They are like some state which has only paper money, and seeks by punishments to make it buy whatever gold can buy. They no longer love, for <text:soft-page-break/>only life is loved, and at last, a generation is like an hysterical woman who will make unmeasured accusations and believe impossible things, because of some logical deduction from a solitary thought which has turned a portion of her mind to stone.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">III</text:h>
+   <text:p text:style-name="First_20_paragraph">Even if what one defends be true, an attitude of defence, a continual apology, whatever the cause, makes the mind barren because it kills intellectual innocence; that delight in what is unforeseen, and in the mere spectacle of the world, the mere drifting hither and thither that must come before all true thought and emotion. A zealous Irishman, especially if he lives much out of Ireland, spends his time in a never-ending argument about Oliver Cromwell, the Danes, the penal laws, the rebellion of 1798, the famine, the Irish peasant, and ends by substituting a traditional casuistry for a country; and if he be a Catholic, yet another casuistry that has professors, schoolmasters, letter-writing priests, and the authors of manuals to make the meshes fine, comes between him and English literature, substituting arguments and hesitations for the excitement at the first reading of the great poets which should be a sort of violent imaginative puberty. His hesitations and arguments may have been right, the Catholic philosophy may be more profound than Milton&apos;s morality, or Shelley&apos;s vehement vision; but none the less do we lose life by losing that recklessness Castiglione thought necessary even in good manners, and offend our Lady Truth, who would never, had she desired an anxious courtship, have digged a well to be her parlour.</text:p>
+   <text:p text:style-name="Text_20_body">I admired though we were always quarrelling on some matter, J.F. Taylor, the orator, who died just before the first controversy over these plays. It often seemed to me that when he spoke Ireland herself had spoken, one got that sense of surprise that comes when a man has said what is unforeseen because it is far from the common thought, and yet obvious because when it has been spoken, the gate of the mind seems suddenly to roll back and reveal forgotten sights and let loose lost passions. I have never heard him speak except in some Irish literary or political society, but there at any rate, as in <text:soft-page-break/>conversation, I found a man whose life was a ceaseless reverie over the religious and political history of Ireland. He saw himself pleading for his country before an invisible jury, perhaps of the great dead, against traitors at home and enemies abroad, and a sort of frenzy in his voice and the moral elevation of his thoughts gave him for the moment style and music. One asked oneself again and again, &apos;Why is not this man an artist, a man of genius, a creator of some kind?&apos; The other day under the influence of memory, I read through his one book, a life of Owen Roe O&apos;Neill, and found there no sentence detachable from its context because of wisdom or beauty. Everything was argued from a premise; and wisdom, and style, whether in life or letters come from the presence of what is self-evident, from that which requires but statement, from what Blake called &apos;naked beauty displayed.&apos; The sense of what was unforeseen and obvious, the rolling backward of the gates had gone with the living voice, with the nobility of will that made one understand what he saw and felt in what was now but argument and logic. I found myself in the presence of a mind like some noisy and powerful machine, of thought that was no part of wisdom but the apologetic of a moment, a woven thing, no intricacy of leaf and twig, of words with no more of salt and of savour than those of a Jesuit professor of literature, or of any other who does not know that there is no lasting writing which does not define the quality, or carry the substance of some pleasure. How can one, if one&apos;s mind be full of abstractions and images created not for their own sake but for the sake of party, even if there were still the need, find words that delight the ear, make pictures to the mind&apos;s eye, discover thoughts that tighten the muscles, or quiver and tingle in the flesh, and stand like St. Michael with the trumpet that calls the body to resurrection?</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:soft-page-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">IV</text:h>
+   <text:p text:style-name="First_20_paragraph">Young Ireland had taught a study of our history with the glory of Ireland for event, and this for lack, when less than Taylor studied, of comparison with that of other countries wrecked the historical instinct. An old man with an academic appointment, who was a leader in the attack upon Synge, sees in the 11th century romance of Deirdre a re-telling of the first five act tragedy outside the classic languages, and this tragedy from his description of it was certainly written on the Elizabethan model; while an allusion to a copper boat, a marvel of magic like Cinderella&apos;s slipper, persuades him that the ancient Irish had forestalled the modern dockyards in the making of metal ships. The man who doubted, let us say, our fabulous ancient kings running up to Adam, or found but mythology in some old tale, was as hated as if he had doubted the authority of Scripture. Above all no man was so ignorant, that he had not by rote familiar arguments and statistics to drive away amid familiar applause, all those had they but found strange truth in the world or in their mind, whose knowledge has passed out of memory and become an instinct of hand or eye. There was no literature, for literature is a child of experience always, of knowledge never; and the nation itself, instead of being a dumb struggling thought seeking a mouth to utter it or hand to show it, a teeming delight that would re-create the world, had become, at best, a subject of knowledge.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">V</text:h>
+   <text:p text:style-name="First_20_paragraph">Taylor always spoke with confidence though he was no determined man, being easily flattered or jostled from his way; and this, putting as it were his fiery heart into his mouth made him formidable. And I have noticed that all those who speak the thoughts of many, speak confidently, while those who speak their own thoughts are hesitating and timid, as though they spoke out of a mind and body grown sensitive to the edge of bewilderment among many impressions. They speak to us that we may give them certainty, by seeing what they have seen; and so it is, that enlargement of experience does not come from those oratorical thinkers, or from those decisive rhythms that move large numbers of men, but from writers that seem by contrast as feminine as the soul when it explores in Blake&apos;s picture the recesses of the grave, carrying its faint lamp trembling and astonished; or as the Muses who are never pictured as one-breasted amazons, but as women needing protection. Indeed, all art which appeals to individual man and awaits the confirmation of his senses and his reveries, seems when arrayed against the moral zeal, the confident logic, the ordered proof of journalism, a trifling, impertinent, vexatious thing, a tumbler who has unrolled his carpet in the way of a marching army.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">VI</text:h>
+   <text:p text:style-name="First_20_paragraph">I attack things that are as dear to many as some holy image carried hither and thither by some broken clan, and can but say that I have felt in my body the affections I disturb, and believed that if I could raise them into contemplation I would make possible a literature, that finding its subject-matter all ready in men&apos;s minds would be, not as ours is, an interest for scholars, but the possession of a people. I have founded societies with this aim, and was indeed founding one in Paris when I first met with J.M. Synge, and I have known what it is to be changed by that I would have changed, till I became argumentative and unmannerly, hating men even in daily life for their opinions. And though I was never convinced that the anatomies of last year&apos;s leaves are a living forest, or thought a continual apologetic could do other than make the soul a vapour and the body a stone; or believed that literature can be made by anything but by what is still blind and dumb within ourselves, I have had to learn how hard in one who lives where forms of expression and habits of thought have been born, not for the pleasure of begetting but for the public good, is that purification from insincerity, vanity, malignity, arrogance, which is the discovery of style. But it became possible to live when I had learnt all I had not learnt in shaping words, in defending Synge against his enemies, and knew that rich energies, fine, turbulent or gracious thoughts, whether in life or letters, are but love-children.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">VII</text:h>
+   <text:p text:style-name="First_20_paragraph">Synge seemed by nature unfitted to think a political thought, and with the exception of one sentence, spoken when I first met him in Paris, that implied some sort of nationalist conviction, I cannot remember that he spoke of politics or showed any interest in men in the mass, or in any subject that is studied through abstractions and statistics. Often for months together he and I and Lady Gregory would see no one outside the Abbey Theatre, and that life, lived as it were in a ship at sea, suited him, for unlike those whose habit of mind fits them to judge of men in the mass, he was wise in judging individual men, and as wise in dealing with them as the faint energies of ill-health would permit; but of their political thoughts he long understood nothing. One night when we were still producing plays in a little hall, certain members of the Company told him that a play on the Rebellion of &apos;98 would be a great success. After a fortnight he brought them a scenario which read like a chapter out of Rabelais. Two women, a Protestant and a Catholic, take refuge in a cave, and there quarrel about religion, abusing the Pope or Queen Elizabeth and Henry VIII, but in low voices, for the one fears to be ravished by the soldiers, the other by the rebels. At last one woman goes out because she would sooner any fate than such wicked company. Yet, I doubt if he would have written at all if he did not write of Ireland, and for it, and I know that he thought creative art could only come from such preoccupation. Once, when in later years, anxious about the educational effect of our movement, I proposed adding to the Abbey Company a second Company to play international drama, Synge, who had not hitherto opposed me, thought the matter so important that he did so in a formal letter.</text:p>
+   <text:p text:style-name="Text_20_body">I had spoken of a German municipal theatre as my model, and he said that the municipal theatres all over Europe gave fine performances of old classics <text:soft-page-break/>but did not create (he disliked modern drama for its sterility of speech, and perhaps ignored it) and that we would create nothing if we did not give all our thoughts to Ireland. Yet in Ireland he loved only what was wild in its people, and in &apos;the grey and wintry sides of many glens.&apos; All the rest, all that one reasoned over, fought for, read of in leading articles, all that came from education, all that came down from Young Ireland--though for this he had not lacked a little sympathy--first wakened in him perhaps that irony which runs through all he wrote, but once awakened, he made it turn its face upon the whole of life. The women quarrelling in the cave would not have amused him, if something in his nature had not looked out on most disputes, even those wherein he himself took sides, with a mischievous wisdom. He told me once that when he lived in some peasant&apos;s house, he tried to make those about him forget that he was there, and it is certain that he was silent in any crowded room. It is possible that low vitality helped him to be observant and contemplative, and made him dislike, even in solitude, those thoughts which unite us to others, much as we all dislike, when fatigue or illness has sharpened the nerves, hoardings covered with advertisements, the fronts of big theatres, big London hotels, and all architecture which has been made to impress the crowd. What blindness did for Homer, lameness for Hephaestus, asceticism for any saint you will, bad health did for him by making him ask no more of life than that it should keep him living, and above all perhaps by concentrating his imagination upon one thought, health itself. I think that all noble things are the result of warfare; great nations and classes, of warfare in the visible world, great poetry and philosophy, of invisible warfare, the division of a mind within itself, a victory, the sacrifice of a man to himself. I am certain that my friend&apos;s noble art, so full of passion and heroic beauty, is the victory of a man who in poverty and sickness created from the delight of expression, and in the contemplation that is born of the minute and delicate arrangement of images, happiness, and health of mind. Some early poems have a morbid melancholy, and he himself spoke of <text:soft-page-break/>early work he had destroyed as morbid, for as yet the craftmanship was not fine enough to bring the artist&apos;s joy which is of one substance with that of sanctity. In one poem he waits at some street corner for a friend, a woman perhaps, and while he waits and gradually understands that nobody is coming, sees two funerals and shivers at the future; and in another written on his 25th birthday, he wonders if the 25 years to come shall be as evil as those gone by. Later on, he can see himself as but a part of the spectacle of the world and mix into all he sees that flavour of extravagance, or of humour, or of philosophy, that makes one understand that he contemplates even his own death as if it were another&apos;s, and finds in his own destiny but as it were a projection through a burning glass of that general to men. There is in the creative joy an acceptance of what life brings, because we have understood the beauty of what it brings, or a hatred of death for what it takes away, which arouses within us, through some sympathy perhaps with all other men, an energy so noble, so powerful, that we laugh aloud and mock, in the terror or the sweetness of our exaltation, at death and oblivion.</text:p>
+   <text:p text:style-name="Text_20_body">In no modern writer that has written of Irish life before him, except it may be Miss Edgeworth in &apos;Castle Rackrent,&apos; was there anything to change a man&apos;s thought about the world or stir his moral nature, for they but play with pictures, persons, and events, that whether well or ill observed are but an amusement for the mind where it escapes from meditation, a child&apos;s show that makes the fables of his art as significant by contrast as some procession painted on an Egyptian wall; for in these fables, an intelligence, on which the tragedy of the world had been thrust in so few years, that Life had no time to brew her sleepy drug, has spoken of the moods that are the expression of its wisdom. All minds that have a wisdom come of tragic reality seem morbid to those that are accustomed to writers who have not faced reality at all; just as the saints, with that Obscure Night of the Soul, which fell so certainly that they numbered it among spiritual states, one among other ascending steps, <text:soft-page-break/>seem morbid to the rationalist and the old-fashioned Protestant controversialist. The thought of journalists, like that of the Irish novelists, is neither healthy nor unhealthy, for it has not risen to that state where either is possible, nor should we call it happy; for who would have sought happiness, if happiness were not the supreme attainment of man, in heroic toils, in the cell of the ascetic, or imagined it above the cheerful newspapers, above the clouds?</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">VIII</text:h>
+   <text:p text:style-name="First_20_paragraph">Not that Synge brought out of the struggle with himself any definite philosophy, for philosophy in the common meaning of the word is created out of an anxiety for sympathy or obedience, and he was that rare, that distinguished, that most noble thing, which of all things still of the world is nearest to being sufficient to itself, the pure artist. Sir Philip Sidney complains of those who could hear &apos;sweet tunes&apos; (by which he understands could look upon his lady) and not be stirred to &apos;ravishing delight.&apos;</text:p>
+   <text:p text:style-name="Text_20_body">&apos;Or if they do delight therein, yet are so closed with wit,<text:line-break/>As with sententious lips to set a title vain on it;<text:line-break/>Oh let them hear these sacred tunes, and learn in Wonder&apos;s schools<text:line-break/>To be, in things past bonds of wit, fools if they be not fools!&apos;<text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body">Ireland for three generations has been like those churlish logicians. Everything is argued over, everything has to take its trial before the dull sense and the hasty judgment, and the character of the nation has so changed that it hardly keeps but among country people, or where some family tradition is still stubborn, those lineaments that made Borrow cry out as he came from among the Irish monks, his friends and entertainers for all his Spanish Bible scattering, &apos;Oh, Ireland, mother of the bravest soldiers and of the most beautiful women!&apos; It was as I believe, to seek that old Ireland which took its mould from the duellists and scholars of the 18th century and from generations older still, that Synge returned again and again to Aran, to Kerry, and to the wild Blaskets.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:soft-page-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">IX</text:h>
+   <text:p text:style-name="First_20_paragraph">&apos;When I got up this morning&apos; he writes, after he had been a long time in Innismaan, &apos;I found that the people had gone to Mass and latched the kitchen door from the outside, so that I could not open it to give myself light.</text:p>
+   <text:p text:style-name="Text_20_body">&apos;I sat for nearly an hour beside the fire with a curious feeling that I should be quite alone in this little cottage. I am so used to sitting here with the people that I have never felt the room before as a place where any man might live and work by himself. After a while as I waited, with just light enough from the chimney to let me see the rafters and the greyness of the walls, I became indescribably mournful, for I felt that this little corner on the face of the world, and the people who live in it, have a peace and dignity from which we are shut for ever.&apos; This life, which he describes elsewhere as the most primitive left in Europe, satisfied some necessity of his nature. Before I met him in Paris he had wandered over much of Europe, listening to stories in the Black Forest, making friends with servants and with poor people, and this from an aesthetic interest, for he had gathered no statistics, had no money to give, and cared nothing for the wrongs of the poor, being content to pay for the pleasure of eye and ear with a tune upon the fiddle. He did not love them the better because they were poor and miserable, and it was only when he found Innismaan and the Blaskets, where there is neither riches nor poverty, neither what he calls &apos;the nullity of the rich&apos; nor &apos;the squalor of the poor&apos; that his writing lost its old morbid brooding, that he found his genius and his peace. Here were men and women who under the weight of their necessity lived, as the artist lives, in the presence of death and childhood, and the great affections and the orgiastic moment when life outleaps its limits, and who, as it is always with those who have refused or escaped the trivial and the temporary, had dignity and good manners where manners <text:soft-page-break/>mattered. Here above all was silence from all our great orator took delight in, from formidable men, from moral indignation, from the &apos;sciolist&apos; who &apos;is never sad,&apos; from all in modern life that would destroy the arts; and here, to take a thought from another playwright of our school, he could love Time as only women and great artists do and need never sell it.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">X</text:h>
+   <text:p text:style-name="First_20_paragraph">As I read &apos;The Aran Islands&apos; right through for the first time since he showed it me in manuscript, I come to understand how much knowledge of the real life of Ireland went to the creation of a world which is yet as fantastic as the Spain of Cervantes. Here is the story of &apos;The Playboy,&apos; of &apos;The Shadow of the Glen;&apos; here is the &apos;ghost on horseback&apos; and the finding of the young man&apos;s body of &apos;Riders to the Sea,&apos; numberless ways of speech and vehement pictures that had seemed to owe nothing to observation, and all to some overflowing of himself, or to some mere necessity of dramatic construction. I had thought the violent quarrels of &apos;The Well of the Saints&apos; came from his love of bitter condiments, but here is a couple that quarrel all day long amid neighbours who gather as for a play. I had defended the burning of Christy Mahon&apos;s leg on the ground that an artist need but make his characters self-consistent, and yet, that too was observation, for &apos;although these people are kindly towards each other and their children, they have no sympathy for the suffering of animals, and little sympathy for pain when the person who feels it is not in danger.&apos; I had thought it was in the wantonness of fancy Martin Dhoul accused the smith of plucking his living ducks, but a few lines further on, in this book where moral indignation is unknown, I read, &apos;Sometimes when I go into a cottage, I find all the women of the place down on their knees plucking the feathers from live ducks and geese.&apos;</text:p>
+   <text:p text:style-name="Text_20_body">He loves all that has edge, all that is salt in the mouth, all that is rough to the hand, all that heightens the emotions by contest, all that stings into life the sense of tragedy; and in this book, unlike the plays where nearness to his audience moves him to mischief, he shows it without thought of other taste than his. It is so constant, it is all set out so simply, so naturally, that it suggests a correspondence between a lasting mood of the soul and this life <text:soft-page-break/>that shares the harshness of rocks and wind. The food of the spiritual-minded is sweet, an Indian scripture says, but passionate minds love bitter food. Yet he is no indifferent observer, but is certainly kind and sympathetic to all about him. When an old and ailing man, dreading the coming winter, cries at his leaving, not thinking to see him again; and he notices that the old man&apos;s mitten has a hole in it where the palm is accustomed to the stick, one knows that it is with eyes full of interested affection as befits a simple man and not in the curiosity of study. When he had left the Blaskets for the last time, he travelled with a lame pensioner who had drifted there, why heaven knows, and one morning having missed him from the inn where they were staying, he believed he had gone back to the island and searched everywhere and questioned everybody, till he understood of a sudden that he was jealous as though the island were a woman.</text:p>
+   <text:p text:style-name="Text_20_body">The book seems dull if you read much at a time, as the later Kerry essays do not, but nothing that he has written recalls so completely to my senses the man as he was in daily life; and as I read, there are moments when every line of his face, every inflection of his voice, grows so clear in memory that I cannot realize that he is dead. He was no nearer when we walked and talked than now while I read these unarranged, unspeculating pages, wherein the only life he loved with his whole heart reflects itself as in the still water of a pool. Thought comes to him slowly, and only after long seemingly unmeditative watching, and when it comes, (and he had the same character in matters of business) it is spoken without hesitation and never changed. His conversation was not an experimental thing, an instrument of research, and this made him silent; while his essays recall events, on which one feels that he pronounces no judgment even in the depth of his own mind, because the labour of Life itself had not yet brought the philosophic generalization, which was almost as much his object as the emotional generalization of beauty. A mind that generalizes rapidly, continually prevents the experience <text:soft-page-break/>that would have made it feel and see deeply, just as a man whose character is too complete in youth seldom grows into any energy of moral beauty. Synge had indeed no obvious ideals, as these are understood by young men, and even as I think disliked them, for he once complained to me that our modern poetry was but the poetry &apos;of the lyrical boy,&apos; and this lack makes his art have a strange wildness and coldness, as of a man born in some far-off spacious land and time.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XI</text:h>
+   <text:p text:style-name="First_20_paragraph">There are artists like Byron, like Goethe, like Shelley, who have impressive personalities, active wills and all their faculties at the service of the will; but he belonged to those who like Wordsworth, like Coleridge, like Goldsmith, like Keats, have little personality, so far as the casual eye can see, little personal will, but fiery and brooding imagination. I cannot imagine him anxious to impress, or convince in any company, or saying more than was sufficient to keep the talk circling. Such men have the advantage that all they write is a part of knowledge, but they are powerless before events and have often but one visible strength, the strength to reject from life and thought all that would mar their work, or deafen them in the doing of it; and only this so long as it is a passive act. If Synge had married young or taken some profession, I doubt if he would have written books or been greatly interested in a movement like ours; but he refused various opportunities of making money in what must have been an almost unconscious preparation. He had no life outside his imagination, little interest in anything that was not its chosen subject. He hardly seemed aware of the existence of other writers. I never knew if he cared for work of mine, and do not remember that I had from him even a conventional compliment, and yet he had the most perfect modesty and simplicity in daily intercourse, self-assertion was impossible to him. On the other hand, he was useless amidst sudden events. He was much shaken by the Playboy riot; on the first night confused and excited, knowing not what to do, and ill before many days, but it made no difference in his work. He neither exaggerated out of defiance nor softened out of timidity. He wrote on as if nothing had happened, altering &apos;The Tinker&apos;s Wedding&apos; to a more unpopular form, but writing a beautiful serene &apos;Deirdre,&apos; with, for the first time since his &apos;Riders to the Sea,&apos; no touch of sarcasm or defiance. Misfortune shook his physical nature while it left his intellect and his moral <text:soft-page-break/>nature untroubled. The external self, the mask, the persona was a shadow, character was all.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XII</text:h>
+   <text:p text:style-name="First_20_paragraph">He was a drifting silent man full of hidden passion, and loved wild islands, because there, set out in the light of day, he saw what lay hidden in himself. There is passage after passage in which he dwells upon some moment of excitement. He describes the shipping of pigs at Kilronan on the North Island for the English market: &apos;when the steamer was getting near, the whole drove was moved down upon the slip and the curraghs were carried out close to the sea. Then each beast was caught in its turn and thrown on its side, while its legs were hitched together in a single knot, with a tag of rope remaining, by which it could be carried.</text:p>
+   <text:p text:style-name="Text_20_body">Probably the pain inflicted was not great, yet the animals shut their eyes and shrieked with almost human intonations, till the suggestion of the noise became so intense that the men and women who were merely looking on grew wild with excitement, and the pigs waiting their turn foamed at the mouth and tore each other with their teeth.</text:p>
+   <text:p text:style-name="Text_20_body">After a while there was a pause. The whole slip was covered with amass of sobbing animals, with here and there a terrified woman crouching among the bodies and patting some special favourite, to keep it quiet while the curraghs were being launched. Then the screaming began again while the pigs were carried out and laid in their places, with a waistcoat tied round their feet to keep them from damaging the canvas. They seemed to know where they were going, and looked up at me over the gunnel with an ignoble desperation that made me shudder to think that I had eaten this whimpering flesh. When the last curragh went out, I was left on the slip with a band of women and children, and one old boar who sat looking out over the sea.</text:p>
+   <text:p text:style-name="Text_20_body">The women were over-excited, and when I tried to talk to them they crowded <text:soft-page-break/>round me and began jeering and shrieking at me because I am not married. A dozen screamed at a time, and so rapidly that I could not understand all they were saying, yet I was able to make out that they were taking advantage of the absence of their husbands to give me the full volume of their contempt. Some little boys who were listening threw themselves down, writhing with laughter among the sea-weed, and the young girls grew red and embarrassed and stared down in the surf.&apos; The book is full of such scenes. Now it is a crowd going by train to the Parnell celebration, now it is a woman cursing her son who made himself a spy for the police, now it is an old woman keening at a funeral. Kindred to his delight in the harsh grey stones, in the hardship of the life there, in the wind and in the mist, there is always delight in every moment of excitement, whether it is but the hysterical excitement of the women over the pigs, or some primary passion. Once indeed, the hidden passion instead of finding expression by its choice among the passions of others, shows itself in the most direct way of all, that of dream. &apos;Last night,&apos; he writes, at Innismaan, &apos;after walking in a dream among buildings with strangely intense light on them, I heard a faint rhythm of music beginning far away on some stringed instrument.</text:p>
+   <text:p text:style-name="Text_20_body">It came closer to me, gradually increasing in quickness and volume with an irresistibly definite progression. When it was quite near the sound began to move in my nerves and blood, to urge me to dance with them.</text:p>
+   <text:p text:style-name="Text_20_body">I knew that if I yielded I would be carried away into some moment of terrible agony, so I struggled to remain quiet, holding my knees together with my hands.</text:p>
+   <text:p text:style-name="Text_20_body">The music increased continually, sounding like the strings of harps tuned to a forgotten scale, and having a resonance as searching as the strings of the &apos;cello.</text:p>
+   <text:p text:style-name="Text_20_body">Then the luring excitement became more powerful than my will, and my <text:soft-page-break/>limbs moved in spite of me.</text:p>
+   <text:p text:style-name="Text_20_body">In a moment I was swept away in a whirlwind of notes. My breath and my thoughts and every impulse of my body became a form of the dance, till I could not distinguish between the instrument or the rhythm and my own person or consciousness. For a while it seemed an excitement that was filled with joy; then it grew into an ecstasy where all existence was lost in the vortex of movement. I could not think that there had been a life beyond the whirling of the dance.</text:p>
+   <text:p text:style-name="Text_20_body">Then with a shock, the ecstasy turned to agony and rage. I struggled to free myself but seemed only to increase the passion of the steps I moved to. When I shrieked I could only echo the notes of the rhythm. At last, with a movement of uncontrollable frenzy I broke back to consciousness and awoke.</text:p>
+   <text:p text:style-name="Text_20_body">I dragged myself trembling to the window of the cottage and looked out. The moon was glittering across the bay and there was no sound anywhere on the island.&apos;</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XIII</text:h>
+   <text:p text:style-name="First_20_paragraph">In all drama which would give direct expression to reverie, to the speech of the soul with itself, there is some device that checks the rapidity of dialogue. When Oedipus speaks out of the most vehement passions, he is conscious of the presence of the chorus, men before whom he must keep up appearances &apos;children latest born of Cadmus&apos; line&apos; who do not share his passion. Nobody is hurried or breathless. We listen to reports and discuss them, taking part as it were in a council of state. Nothing happens before our eyes. The dignity of Greek drama, and in a lesser degree of that of Corneille and Racine depends, as contrasted with the troubled life of Shakespearean drama, on an almost even speed of dialogue, and on a so continuous exclusion of the animation of common life, that thought remains lofty and language rich. Shakespeare, upon whose stage everything may happen, even the blinding of Gloster, and who has no formal check except what is implied in the slow, elaborate structure of blank verse, obtains time for reverie by an often encumbering Euphuism, and by such a loosening of his plot as will give his characters the leisure to look at life from without. Maeterlinck, to name the first modern of the old way who comes to mind--reaches the same end, by choosing instead of human beings persons who are as faint as a breath upon a looking-glass, symbols who can speak a language slow and heavy with dreams because their own life is but a dream. Modern drama, on the other hand, which accepts the tightness of the classic plot, while expressing life directly, has been driven to make indirect its expression of the mind, which it leaves to be inferred from some common-place sentence or gesture as we infer it in ordinary life; and this is, I believe, the cause of the perpetual disappointment of the hope imagined this hundred years that France or Spain or Germany or Scandinavia will at last produce the master we await.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>The divisions in the arts are almost all in the first instance technical, and the great schools of drama have been divided from one another by the form or the metal of their mirror, by the check chosen for the rapidity of dialogue. Synge found the check that suited his temperament in an elaboration of the dialects of Kerry and Aran. The cadence is long and meditative, as befits the thought of men who are much alone, and who when they meet in one another&apos;s houses--as their way is at the day&apos;s end--listen patiently, each man speaking in turn and for some little time, and taking pleasure in the vaguer meaning of the words and in their sound. Their thought, when not merely practical, is as full of traditional wisdom and extravagant pictures as that of some Aeschylean chorus, and no matter what the topic is, it is as though the present were held at arms length. It is the reverse of rhetoric, for the speaker serves his own delight, though doubtless he would tell you that like Raftery&apos;s whiskey-drinking it was but for the company&apos;s sake. A medicinal manner of speech too, for it could not even express, so little abstract it is and so rammed with life, those worn generalizations of national propaganda. &apos;I&apos;ll be telling you the finest story you&apos;d hear any place from Dundalk to Ballinacree with great queens in it, making themselves matches from the start to the end, and they with shiny silks on them ... I&apos;ve a grand story of the great queens of Ireland, with white necks on them the like of Sarah Casey, and fine arms would hit you a slap.... What good am I this night, God help me? What good are the grand stories I have when it&apos;s few would listen to an old woman, few but a girl maybe would be in great fear the time her hour was come, or a little child wouldn&apos;t be sleeping with the hunger on a cold night.&apos; That has the flavour of Homer, of the Bible, of Villon, while Cervantes would have thought it sweet in the mouth though not his food. This use of Irish dialect for noble purpose by Synge, and by Lady Gregory, who had it already in her Cuchulain of Muirthemne, and by Dr. Hyde in those first translations he has not equalled since, has done much for National dignity. When I was a boy I was often troubled and sorrowful because Scottish dialect was capable of noble <text:soft-page-break/>use, but the Irish of obvious roystering humour only; and this error fixed on my imagination by so many novelists and rhymers made me listen badly. Synge wrote down words and phrases wherever he went, and with that knowledge of Irish which made all our country idioms easy to his hand, found it so rich a thing, that he had begun translating into it fragments of the great literatures of the world, and had planned a complete version of the Imitation of Christ. It gave him imaginative richness and yet left to him the sting and tang of reality. How vivid in his translation from Villon are those &apos;eyes with a big gay look out of them would bring folly from a great scholar.&apos; More vivid surely than anything in Swinburne&apos;s version, and how noble those words which are yet simple country speech, in which his Petrarch mourns that death came upon Laura just as time was making chastity easy, and the day come when &apos;lovers may sit together and say out all things arc in their hearts,&apos; and &apos;my sweet enemy was making a start, little by little, to give over her great wariness, the way she was wringing a sweet thing out of my sharp sorrow.&apos;</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XIV</text:h>
+   <text:p text:style-name="First_20_paragraph">Once when I had been saying that though it seemed to me that a conventional descriptive passage encumbered the action at the moment of crisis. I liked &apos;The Shadow of the Glen&apos; better than &apos;Riders to the Sea&apos; that is, for all the nobility of its end, its mood of Greek tragedy, too passive in suffering; and had quoted from Matthew Arnold&apos;s introduction to &apos;Empedocles on Etna,&apos; Synge answered, &apos;It is a curious thing that &quot;The Riders to the Sea&quot; succeeds with an English but not with an Irish audience, and &quot;The Shadow of the Glen&quot; which is not liked by an English audience is always liked in Ireland, though it is disliked there in theory.&apos; Since then &apos;The Riders to the Sea&apos; has grown into great popularity in Dublin, partly because with the tactical instinct of an Irish mob, the demonstrators against &apos;The Playboy&apos; both in the press and in the theatre, where it began the evening, selected it for applause. It is now what Shelley&apos;s &apos;Cloud&apos; was for many years, a comfort to those who do not like to deny altogether the genius they cannot understand. Yet I am certain that, in the long run, his grotesque plays with their lyric beauty, their violent laughter, &apos;The Playboy of the Western World&apos; most of all, will be loved for holding so much of the mind of Ireland. Synge has written of &apos;The Playboy&apos; &apos;anyone who has lived in real intimacy with the Irish peasantry will know that the wildest sayings in this play are tame indeed compared with the fancies one may hear at any little hillside cottage of Geesala, or Carraroe, or Dingle Bay.&apos; It is the strangest, the most beautiful expression in drama of that Irish fantasy, which overflowing through all Irish Literature that has come out of Ireland itself (compare the fantastic Irish account of the Battle of Clontarf with the sober Norse account) is the unbroken character of Irish genius. In modern days this genius has delighted in mischievous extravagance, like that of the Gaelic poet&apos;s curse upon his children, &apos;There are three things that I hate, the devil that is waiting <text:soft-page-break/>for my soul, the worms that are waiting for my body, my children, who are waiting for my wealth and care neither for my body nor my soul: Oh, Christ hang all in the same noose!&apos; I think those words were spoken with a delight in their vehemence that took out of anger half the bitterness with all the gloom. An old man on the Aran Islands told me the very tale on which &apos;The Playboy&apos; is founded, beginning with the words, &apos;If any gentleman has done a crime we&apos;ll hide him. There was a gentleman that killed his father, &amp; I had him in my own house six months till he got away to America.&apos; Despite the solemnity of his slow speech his eyes shone as the eyes must have shone in that Trinity College branch of the Gaelic League, which began every meeting with prayers for the death of an old Fellow of College who disliked their movement, or as they certainly do when patriots are telling how short a time the prayers took to the killing of him. I have seen a crowd, when certain Dublin papers had wrought themselves into an imaginary loyalty, so possessed by what seemed the very genius of satiric fantasy, that one all but looked to find some feathered heel among the cobble stones. Part of the delight of crowd or individual is always that somebody will be angry, somebody take the sport for gloomy earnest. We are mocking at his solemnity, let us therefore so hide our malice that he may be more solemn still, and the laugh run higher yet. Why should we speak his language and so wake him from a dream of all those emotions which men feel because they should, and not because they must? Our minds, being sufficient to themselves, do not wish for victory but are content to elaborate our extravagance, if fortune aid, into wit or lyric beauty, and as for the rest &apos;There are nights when a king like Conchobar would spit upon his arm-ring and queens will stick out their tongues at the rising moon.&apos; This habit of the mind has made Oscar Wilde and Mr. Bernard Shaw the most celebrated makers of comedy to our time, and if it has sounded plainer still in the conversation of the one, and in some few speeches of the other, that is but because they have not been able to turn out of their plays an alien trick of zeal picked up in <text:soft-page-break/>struggling youth. Yet, in Synge&apos;s plays also, fantasy gives the form and not the thought, for the core is always as in all great art, an over-powering vision of certain virtues, and our capacity for sharing in that vision is the measure of our delight. Great art chills us at first by its coldness or its strangeness, by what seems capricious, and yet it is from these qualities it has authority, as though it had fed on locust and wild honey. The imaginative writer shows us the world as a painter does his picture, reversed in a looking-glass that we may see it, not as it seems to eyes habit has made dull, but as we were Adam and this the first morning; and when the new image becomes as little strange as the old we shall stay with him, because he has, beside the strangeness, not strange to him, that made us share his vision, sincerity that makes us share his feeling.</text:p>
+   <text:p text:style-name="Text_20_body">To speak of one&apos;s emotions without fear or moral ambition, to come out from under the shadow of other men&apos;s minds, to forget their needs, to be utterly oneself, that is all the Muses care for. Villon, pander, thief, and man-slayer, is as immortal in their eyes, and illustrates in the cry of his ruin as great a truth as Dante in abstract ecstasy, and touches our compassion more. All art is the disengaging of a soul from place and history, its suspension in a beautiful or terrible light, to await the Judgement, and yet, because all its days were a Last Day, judged already. It may show the crimes of Italy as Dante did, or Greek mythology like Keats, or Kerry and Galway villages, and so vividly that ever after I shall look at all with like eyes, and yet I know that Cino da Pistoia thought Dante unjust, that Keats knew no Greek, that those country men and women are neither so lovable nor so lawless as &apos;mine author sung it me;&apos; that I have added to my being, not my knowledge.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XV</text:h>
+   <text:p text:style-name="First_20_paragraph">I wrote the most of these thoughts in my diary on the coast of Normandy, and as I finished came upon Mont Saint Michel, and thereupon doubted for a day the foundation of my school. Here I saw the places of assembly, those cloisters on the rock&apos;s summit, the church, the great halls where monks, or knights, or men at arms sat at meals, beautiful from ornament or proportion. I remembered ordinances of the Popes forbidding drinking-cups with stems of gold to these monks who had but a bare dormitory to sleep in. Even when imagining, the individual had taken more from his fellows and his fathers than he gave; one man finishing what another had begun; and all that majestic fantasy, seeming more of Egypt than of Christendom, spoke nothing to the solitary soul, but seemed to announce whether past or yet to come an heroic temper of social men, a bondage of adventure and of wisdom. Then I thought more patiently and I saw that what had made these but as one and given them for a thousand years the miracles of their shrine and temporal rule by land and sea, was not a condescension to knave or dolt, an impoverishment of the common thought to make it serviceable and easy, but a dead language and a communion in whatever, even to the greatest saint, is of incredible difficulty. Only by the substantiation of the soul I thought, whether in literature or in sanctity, can we come upon those agreements, those separations from all else that fasten men together lastingly; for while a popular and picturesque Burns and Scott can but create a province, and our Irish cries and grammars serve some passing need, Homer, Shakespeare, Dante, Goethe and all who travel in their road with however poor a stride, define races and create everlasting loyalties. Synge, like all of the great kin, sought for the race, not through the eyes or in history, or even in the future, but where those monks found God, in the depths of the mind, and in all art like his, although it does not command--<text:soft-page-break/>indeed because it does not--may lie the roots of far-branching events. Only that which does not teach, which does not cry out, which does not persuade, which does not condescend, which does not explain is irresistible. It is made by men who expressed themselves to the full, and it works through the best minds; whereas the external and picturesque and declamatory writers, that they may create kilts and bagpipes and newspapers and guide-books, leave the best minds empty, and in Ireland and Scotland England runs into the hole. It has no array of arguments and maxims, because the great and the simple (and the Muses have never known which of the two most pleases them) need their deliberate thought for the day&apos;s work, and yet will do it worse if they have not grown into or found about them, most perhaps in the minds of women, the nobleness of emotion, associated with the scenery and events of their country, by those great poets, who have dreamed it in solitude, and who to this day in Europe are creating indestructible spiritual races, like those religion has created in the East.</text:p>
+   <text:p text:style-name="Text_20_body">W. B. Yeats.</text:p>
+   <text:p text:style-name="Text_20_body">September 14th. 1910.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body">* * * * *<text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">WITH SYNGE IN CONNEMARA</text:h>
+   <text:p text:style-name="First_20_paragraph">I had often spent a day walking with John Synge, but a year or two ago I travelled for a month alone through the west of Ireland with him. He was the best companion for a roadway any one could have, always ready and always the same; a bold walker, up hill and down dale, in the hot sun and the pelting rain. I remember a deluge on the Erris Peninsula, where we lay among the sand hills and at his suggestion heaped sand upon ourselves to try and keep dry.</text:p>
+   <text:p text:style-name="Text_20_body">When we started on our journey, as the train steamed out of Dublin, Synge said: &apos;Now the elder of us two should be in command on this trip.&apos; So we compared notes and I found that he was two months older than myself. So he was boss and whenever it was a question whether we should take the road to the west or the road to the south, it was Synge who finally decided.</text:p>
+   <text:p text:style-name="Text_20_body">Synge was fond of little children and animals. I remember how glad he was to stop and lean on a wall in Gorumna and watch a woman in afield shearing a sheep. It was an old sheep and must have often been sheared before by the same hand, for the woman hardly held it; she just knelt beside it and snipped away. I remember the sheep raised its lean old head to look at the stranger, and the woman just put her hand on its cheek and gently pressed its head down on the grass again.</text:p>
+   <text:p text:style-name="Text_20_body">Synge was delighted with the narrow paths made of sods of grass alongside the newly-metalled roads, because he thought they had been put there to make soft going for the bare feet of little children. Children knew, I think, that he wished them well. In Bellmullet on Saint John&apos;s eve, when we stood in the market square watching the fire-play, flaming sods of turf soaked in paraffine, hurled to the sky and caught and skied again, and burning snakes of hay-rope, I remember a little girl in the crowd, in an ecstasy of pleasure <text:soft-page-break/>and dread, clutched Synge by the hand and stood close in his shadow until the fiery games were done.</text:p>
+   <text:p text:style-name="Text_20_body">His knowledge of Gaelic was a great assistance to him in talking to the people. I remember him holding a great conversation in Irish and English with an innkeeper&apos;s wife in a Mayo inn. She had lived in America in Lincoln&apos;s day. She told us what living cost in America then, and of her life there; her little old husband sitting by and putting in an odd word. By the way, the husband was a wonderful gentle-mannered man, for we had luncheon in his house of biscuits and porter, and rested there an hour, waiting for a heavy shower to blow away; and when we said good-bye and our feet were actually on the road, Synge said, &apos;Did we pay for what we had?&apos; So I called back to the innkeeper, &apos;Did we pay you?&apos; and he said quietly, &apos;Not yet sir.&apos;</text:p>
+   <text:p text:style-name="Text_20_body">Synge was always delighted to hear and remember any good phrase. I remember his delight at the words of a local politician who told us how he became a Nationalist. &apos;I was,&apos; he said plucking a book from the mantlepiece (I remember the book--it was &apos;Paul and Virginia&apos;) and clasping it to his breast--&apos;I was but a little child with my little book going to school, and by the house there I saw the agent. He took the unfortunate tenant and thrun him in the road, and I saw the man&apos;s wife come out crying and the agent&apos;s wife thrun her in the channel, and when I saw that, though I was but a child, I swore I&apos;d be a Nationalist. I swore by heaven, and I swore by hell and all the rivers that run through them.&apos;</text:p>
+   <text:p text:style-name="Text_20_body">Synge must have read a great deal at one time, but he was not a man you would see often with a book in his hand; he would sooner talk, or rather listen to talk--almost anyone&apos;s talk.</text:p>
+   <text:p text:style-name="Text_20_body">Synge was always ready to go anywhere with one, and when there to enjoy what came. He went with me to see an ordinary melodrama at the Queen&apos;s Theatre, Dublin, and he delighted to see how the members of the company <text:soft-page-break/>could by the vehemence of their movements and the resources of their voices hold your attention on a play where everything was commonplace. He enjoyed seeing the contrite villain of the piece come up from the bottom of the gulch, hurled there by the adventuress, and flash his sweating blood-stained face up against the footlights; and, though he told us he had but a few short moments to live, roar his contrition with the voice of a bull.</text:p>
+   <text:p text:style-name="Text_20_body">Synge had travelled a great deal in Italy in tracks he beat out for himself, and in Germany and in France, but he only occasionally spoke to me about these places. I think the Irish peasant had all his heart. He loved them in the east as well as he loved them in the west, but the western men on the Aran Islands and in the Blaskets fitted in with his humour more than any; the wild things they did and said were a joy to him.</text:p>
+   <text:p text:style-name="Text_20_body">Synge was by spirit well equipped for the roads. Though his health was often bad, he had beating under his ribs a brave heart that carried him over rough tracks. He gathered about him very little gear, and cared nothing for comfort except perhaps that of a good turf fire. He was, though young in years, &apos;an old dog for a hard road and not a young pup for a tow-path.&apos;</text:p>
+   <text:p text:style-name="Text_20_body">He loved mad scenes. He told me how once at the fair of Tralee he saw an old tinker-woman taken by the police, and she was struggling with them in the centre of the fair; when suddenly, as if her garments were held together with one cord, she hurled every shred of clothing from her, ran down the street and screamed, &apos;let this be the barrack yard,&apos; which was perfectly understood by the crowd as suggesting that the police strip and beat their prisoners when they get them shut in, in the barrack yard. The young men laughed, but the old men hurried after the naked fleeting figure trying to throw her clothes on her as she ran.</text:p>
+   <text:p text:style-name="Text_20_body">But all wild sights appealed to Synge, he did not care whether they were typical of anything else or had any symbolical meaning at all. If he had lived <text:soft-page-break/>in the days of piracy he would have been the fiddler in a pirate-schooner, him they called &apos;the music--&apos; &apos;The music&apos; looked on at every thing with dancing eyes but drew no sword, and when the schooner was taken and the pirates hung at Cape Corso Castle or The Island of Saint Christopher&apos;s, &apos;the music&apos; was spared because he _was_ &apos;the music.&apos;</text:p>
+   <text:p text:style-name="Text_20_body">Jack B. Yeats</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="P7">*** END OF THE PROJECT GUTENBERG EBOOK SYNGE AND THE IRELAND OF HIS TIME ***</text:p>
+   <text:p text:style-name="P7">Updated editions will replace the previous one—the old editions will be renamed.</text:p>
+   <text:p text:style-name="P7">Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative <text:soft-page-break/>works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</text:p>
+   <text:p text:style-name="P7">START: FULL LICENSE</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">THE FULL PROJECT GUTENBERG LICENSE</text:h>
+   <text:p text:style-name="P4">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</text:p>
+   <text:p text:style-name="P7">To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</text:p>
+   <text:p text:style-name="P7">Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P7">1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</text:p>
+   <text:p text:style-name="P7">1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</text:p>
+   <text:p text:style-name="P7">1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</text:p>
+   <text:p text:style-name="P7">1.E. Unless you have removed all references to Project Gutenberg:</text:p>
+   <text:p text:style-name="P7">1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:soft-page-break/><text:span text:style-name="T1">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P7">1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P7">1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</text:p>
+   <text:p text:style-name="P7">1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</text:p>
+   <text:p text:style-name="P7">1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to <text:soft-page-break/>the full terms of the Project Gutenberg™ License.</text:p>
+   <text:p text:style-name="P7">1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</text:p>
+   <text:p text:style-name="P7">1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P7">1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</text:p>
+   <text:p text:style-name="P7">• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</text:p>
+   <text:p text:style-name="P7">• You provide a full refund of any money paid by a user who notifies you in <text:soft-page-break/>writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P7">• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</text:p>
+   <text:p text:style-name="P7">• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P7">1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</text:p>
+   <text:p text:style-name="P7">1.F.</text:p>
+   <text:p text:style-name="P7">1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</text:p>
+   <text:p text:style-name="P7">1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the <text:soft-page-break/>“Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</text:p>
+   <text:p text:style-name="P7">1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</text:p>
+   <text:p text:style-name="P7">1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</text:p>
+   <text:p text:style-name="P7">1.F.5. Some states do not allow disclaimers of certain implied warranties or <text:soft-page-break/>the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</text:p>
+   <text:p text:style-name="P7">1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</text:p>
+   <text:p text:style-name="P7">Section 2. Information about the Mission of Project Gutenberg™</text:p>
+   <text:p text:style-name="P7">Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</text:p>
+   <text:p text:style-name="P7">Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project <text:soft-page-break/>Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</text:p>
+   <text:p text:style-name="P7">Section 3. Information about the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P7">The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</text:p>
+   <text:p text:style-name="P7">The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</text:p>
+   <text:p text:style-name="P7">Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P7">Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much </text:span><text:soft-page-break/><text:span text:style-name="T1">paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/donate/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org/donate</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7">While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</text:p>
+   <text:p text:style-name="P7">International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</text:p>
+   <text:p text:style-name="P7">Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</text:p>
+   <text:p text:style-name="P7">Section 5. General Information About Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P7">Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</text:p>
+   <text:p text:style-name="P7">Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Most people start at our website which has the main PG search facility: </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</text:p>
+   <text:p text:style-name="Subtitle">The Project Gutenberg eBook of Synge and the Ireland of His Time, by W. B. Yeats</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T1">This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Title</text:span><text:span text:style-name="T1">: Synge and the Ireland of His Time</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Author</text:span><text:span text:style-name="T1">: W. B. Yeats</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Release Date</text:span><text:span text:style-name="T1">: July 1, 2005 [EBook #8557]</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Language</text:span><text:span text:style-name="T1">: English</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T2">Credits</text:span><text:span text:style-name="T1">: Produced by David Starner, Charles Franks, Juliet Sutherland, and the Online Distributed Proofreading Team. HTML version by Al Haines.</text:span></text:p>
+   <text:p text:style-name="P9"><text:line-break/></text:p>
+   <text:p text:style-name="P8">*** START OF THE PROJECT GUTENBERG EBOOK SYNGE AND THE IRELAND OF HIS TIME ***</text:p>
+  </office:text>
+ </office:body>
+</office:document>

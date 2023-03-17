@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Mein Weg zu Martin Luther</dc:title>
+    <dc:description/>
+    <dc:subject>Ohorn, Anton, 1846-1924</dc:subject>
+    <meta:keyword/>
+    <meta:initial-creator>Anton Ohorn</meta:initial-creator>
+    
+    <meta:creation-date>2022-11-06T15:01:41Z</meta:creation-date>
+    <dc:date>2022-11-08T15:00:12.079775457</dc:date>
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT6M9S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="23" meta:paragraph-count="120" meta:word-count="8471" meta:character-count="56785" meta:non-whitespace-character-count="48399"/><meta:user-defined meta:name="date"/><meta:user-defined meta:name="identifier">http://www.gutenberg.org/64523</meta:user-defined><meta:user-defined meta:name="language">de</meta:user-defined><meta:user-defined meta:name="rights">Public domain in the USA.</meta:user-defined><meta:user-defined meta:name="source" meta:value-type="string">https://www.gutenberg.org/files/64523/64523-h/64523-h.htm</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">28312</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17094</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15536</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">5997</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">28310</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17092</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1916452</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0017c69f"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0017d629" officeooo:paragraph-rsid="0017d629"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">23</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">Mein Weg zu Martin Luther</text:p>
+   <text:p text:style-name="Author">Anton Ohorn</text:p>
+   <text:p text:style-name="Date">2022-07-29T08:13:35.135344+00:002021-02-12</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P5">Warum evangelisch?</text:p>
+   <text:p text:style-name="P5">Herausgegeben von</text:p>
+   <text:p text:style-name="P5">Professor Dr. <text:span text:style-name="T3">Friedrich Ulmer</text:span> in Erlangen</text:p>
+   <text:p text:style-name="P5">Heft 2</text:p>
+   <text:p text:style-name="P5">Hofrat <text:span text:style-name="T1">Dr.</text:span> Anton Ohorn</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Mein Weg zu Martin Luther</text:h>
+   <text:p text:style-name="P3">1924</text:p>
+   <text:p text:style-name="P5">Berlin <text:span text:style-name="T1">W</text:span> 35</text:p>
+   <text:p text:style-name="P5">Verlag des Evangelischen Bundes</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Vorwort.</text:h>
+   <text:p text:style-name="First_20_paragraph">Die Fülle und Kraft evangelischen Bekennertums ist in der Christenheit in Vergessenheit geraten. Das war Undank gegen Tote und Unrecht gegen Lebende. Wie keine andere Kirche der Welt zählt die evangelische Glaubenszeugen. Ihre Kraft des Leidens und Sterbens muß wieder wirksam werden. Gerade in der äußeren und inneren Not der Gegenwart. Wer den letzten Satz des Lutherliedes singt, der muß wieder inne werden, daß unter ihm Ströme evangelischen Blutes geflossen sind, und wieder lernen, daß das Evangelium, wie es die Kirche Luthers und der anderen Reformatoren in den Mittelpunkt des Glaubenslebens stellt, heute noch wert ist solchen Singens und Darnachhandelns. Singe niemand diesen schweren Satz, der ihn nicht wahr machen wollte in seinem Leben!</text:p>
+   <text:p text:style-name="Text_20_body">Unser Volk und unsere Kirche brauchen Männer und Frauen starken, gottgebundenen Gewissens. Möge sich nach Gottes freundlichem Willen Kraft und Treue tiefen Glaubens entzünden und stärken an solchen, deren Gewissen nirgends Ruhe gefunden als am Quell allen Lebens und allen Heils, wie ihn unsere evangelische Kirche als heiligstes Kleinod weiß.</text:p>
+   <text:p text:style-name="Text_20_body">Der Verlag des<text:line-break/>Evangelischen Bundes.</text:p>
+   <text:p text:style-name="Text_20_body">Der Herausgeber:<text:line-break/>Professor <text:span text:style-name="T3">Dr. Friedrich Ulmer</text:span>.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">*</text:h>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="Text_20_body">Im Jahre 1865 trat ich in das Prämonstratenser-Chorherrnstift Tepl bei Marienbad in Böhmen als Novize ein, nicht mit freudigem Herzen einem inneren Drange folgend, sondern unter dem Druck der Verhältnisse und der Wünsche meiner Eltern. Diese waren unbemittelte Leute, die sich außerstande sahen, die Kosten für ein freies Hochschulstudium aufzubringen und zudem in ihrem fromm-katholischen Sinn fest daran glaubten, daß der geistliche Beruf nicht nur der schönste sei, sondern ihrem Sohn und ihnen selbst den Weg zum Himmel zu ebnen vermöge. Im Hause wurde vor und nach jeder Mahlzeit laut gebetet, der tägliche Frühgottesdienst wurde ebenso wie die monatliche Beichte und Kommunion nie versäumt, und ich selbst versah seit meinen Knabentagen bei der Messe den Ministrantendienst und übte denselben ganz ungewöhnlicher Weise bis zu meinem Abgang vom Gymnasium.</text:p>
+   <text:p text:style-name="Text_20_body">Dies war in der Hand von geistlichen Professoren, Mönchen des von Wallenstein gegründeten Klosters, denen aber nachgerühmt werden muß, daß sie frei von jedem Fanatismus waren und ihres Amtes in bester und vorurteilsfreier Weise walteten, und da sie auch wohlgenährt und heiter in die Welt sahen, so lag es nahe, auch in bezug auf leibliches Wohlbefinden und Behagen den Klosterberuf als den besten zu betrachten. Von einer evangelischen Konfession wußte man in der Heimatstadt so gut wie nichts, nur galten ganz allgemein die Protestanten als Ketzer, und ich entsinne mich, daß, als ich, noch Knabe, mit meinem Vater einst durch ein in der Diaspora gelegenes evangelisches Dorf wanderte, ich mich vor den friedlichen Leuten fürchtete im Glauben, daß sie uns überfallen würden.</text:p>
+   <text:p text:style-name="Text_20_body">Ich war im Grunde gedankenlos ins Kloster eingetreten und sollte hier immer wieder manches sehen und erleben, was zum Nachdenken anregte und die idealen Vorstellungen vom Ordensleben immer mehr trübte. Das war wohl zunächst der Fall bei dem Chorgebet. Die Novizen mußten sechsmal des Tages in die Kirche bzw. in das Oratorium gehen und viermal wurden dabei die Horen (Tagzeiten) abgebetet, die in der Hauptsache aus den von sich gegenübersitzenden Ordensleuten alternierend und mit monotoner Schnelligkeit gesprochenen Psalmen bestehen. Der Neuling ist davon wenig angenehm überrascht; es ist kein Beten, dies mechanische Hersagen der lateinischen Worte, bei denen sich wohl keiner etwas denkt, zumal der ganze Vorgang gewohnheitsmäßig wird und beinahe an die Gebetsmühlen des Orients gemahnt. Jede Tageszeit beginnt mit den Worten: »<text:span text:style-name="T1">Domine, ad adjuvandum me festina</text:span>« (Herr, eile mir zu helfen), aber richtiger wäre es, wie auch ein junger Kleriker mir auf mein Befremden scherzweise sagt, zu sprechen: »<text:span text:style-name="T1">Domine, ad festinandum me adjuva!</text:span>« (Herr, hilf mir beim Eilen.) <text:soft-page-break/>Eine weitere Enttäuschung ergab sich, je mehr man die einzelnen »Brüder« kennen lernte. Das war beinahe eine Sammlung menschlicher Spezialitäten in engem Raume. Da war neben dem behaglichen Genußmenschen, dem sein Bauch zum Gott geworden, der in seinem Lebenskampf ernst gewordene Mann, der schweigend und einsam einherging und sein Empfinden in tiefster Brust begrub; da schritt, verbissen und verbittert über sich und andere, mit gelber, galliger Miene einer hin, der seinen Geifer über alles ausgoß, und ein anderer, kindlich und kindisch zugleich, übte Torheiten und Lächerlichkeiten. An der Kanzel im Refektorium standen in lateinischer Sprache die Worte: »Wie schön ist&apos;s, wenn Brüder in Eintracht wohnen«, und sie konnten manchmal wie eine bittere Ironie erscheinen, denn die »Brüder« lebten nicht immer in Eintracht. Abgesehen von kleinlichem Neid, unverhehlter Mißgunst und Strebertum, was die Eintracht nicht zu fördern vermochte, fand sich sogar offene Feindschaft und finsterer Haß. Hier gab es Brüder, die jahrelang kein Wort wechselten, Rücken gegen Rücken bei Tisch saßen, wenn die Reihenfolge sie verurteilte, Nachbarn zu sein, ja selbst Tätlichkeiten sollen nicht ausgeschlossen gewesen sein. Das enge Beisammenwohnen, der tägliche Verkehr, der Zwang der Regel schleift die Charaktere nicht ab, sondern verschärft ihre Gegensätze. Geringfügige Streitursache, die in der Welt leicht verwunden wird wie ein unbedeutender und verheilender Hautritz, wird eigensinnig weitergesponnen und zu unheilbarem Geschwür.</text:p>
+   <text:p text:style-name="Text_20_body">Für den jungen Novizen sind solche Bilder wenig geeignet, das Ordensleben in freundlichem Lichte erscheinen zu lassen, zumal wenn er sieht, wie Priester mit unbrüderlichem Herzen, ja voll Haß vor den Altar treten und in der Messe den Leib des Herrn genießen, und manches wird fast unbewußt in ihm erschüttert, was er im Kloster erhofft und ersehnt und an das er auf dem Boden der Kirche geglaubt hatte.</text:p>
+   <text:p text:style-name="Text_20_body">Auch manches, was der Glaube fordert, wie beispielsweise die Heiligenverehrung, sah man mit anderen Augen an. So befanden sich in der Kirche auf einem Seitenaltar Reliquien zweier Heiligen, und mitunter knieten wohl auch meist Altmütterchen davor und beteten. Da hatte ich eines Tages, wie es mitunter vorkam, die Aufgabe, fremde Besucher aus Marienbad, die sich während des Sommers häufig einfanden, in Bibliothek, Museum und Kirche herumzuführen und sie auf besondere Sehenswürdigkeiten aufmerksam zu machen. Vor den Reliquien blieben sie stehen, und ein würdiger älterer Herr, wohl aus guten Gesellschaftskreisen, fragte mich durchaus ernst: »Glauben Sie denn wirklich an Wunder, die die Heiligen üben und an ihre Fürbitte beim lieben Gott?« Ich geriet bei der Frage unwillkürlich etwas in Verlegenheit und konnte nur sagen: »Ich trage das Ordenskleid des heiligen Norbert« – aber die Frage kam mir nicht aus dem Sinn. Waren die Heiligen wirklich gleich Gott selbst allgegenwärtig und allwissend, um alle die Gebete, die an den verschiedensten Orten der Welt, und an ihren Gedächtnistagen von Tausenden zugleich, an sie gerichtet wurden, kennenzulernen, <text:soft-page-break/>geschweige erfüllen bzw. bei Gott Fürbitte leisten zu können? Und waren die Wunder, die in der zweiten Nokturne des Matutinums von dem jeweiligen Tagesheiligen erzählt wurden, wirkliche Geschehnisse oder oft recht fantastische Märchen?</text:p>
+   <text:p text:style-name="Text_20_body">So folgte eine Beunruhigung der anderen, zumal auch manches Persönliche sich unangenehm aufdrängte. Da lernte ich einen alten Pfarrer kennen, der im Kloster im Ruhestand lebte, den seine vormalige Köchin hier aufsuchte, um, wie ich <text:span text:style-name="T1">sub rosa</text:span> von dem Pförtner erfuhr, eine Unterstützung für den gemeinsamen Sohn zu erbitten, und ein geistesschwacher, ja geradezu hirnschelliger Priester, der wohl nicht in diesem Zustande ins Kloster gekommen war, flüsterte mir wiederholt zu, ich möge rechtzeitig das Kloster verlassen. Auch einen tiefunglücklichen Mitnovizen hatte ich, der gleich mir ohne eigentlichen Beruf in den Orden eingetreten war und in Trübsinn und Schwermut dahinlebte, während ich bereits damals in literarischer Beschäftigung Ablenkung und Trost suchte.</text:p>
+   <text:p text:style-name="Text_20_body">Erregend, aber nicht erhebend und seelisch läuternd wirkte auch eine Jesuitenmission. Drei Priester des Ordens S. J. waren für drei Tage in das Stift gekommen. Der Superior war eine mittelgroße Persönlichkeit mit scharfgeschnittenen Zügen, durchdringenden Augen und kurzgeschorenem ergrauten Haar, der zweite, ein Graf Klinckowström, der vordem Offizier gewesen sein soll, eine stattliche, breitschultrige Erscheinung mit einem beinahe jovialen Gesichtsausdruck, und der Dritte war hager und sehnig und hatte im ganzen Wesen etwas Asketisches. Essen und Trinken ließen sich alle drei wohlschmecken. Jeder predigte täglich einmal, so daß wir, zumal die üblichen Gebetszeiten nicht ausfielen, aus dem Gotteshause nicht herauskamen, aber das Zuviel verfehlte auch hier seinen Zweck und machte müde und verstimmt. Der Superior sprach geistvoll und klar, mit bestimmter Tendenz; der Asket predigte heiß mit einem Anhauch von fanatischer Schärfe, die die Seele in ihrer Tiefe aufwühlte, und doch waren es Steine, die er statt Brotes gab. <text:span text:style-name="T1">P.</text:span> Klinckowström zu hören war ein Genuß. Er bot ein geistvolles Feuilleton, frei von jedem gehässigen Einschlag und mit seinem allgemein religiösen Grundton eventuell auch geeignet und anregend für die Bekenner einer anderen Konfession. Zu den Exerzitien waren zahlreiche Brüder von auswärts gekommen; wer immer in der Seelsorge entbehrt werden konnte, war erschienen. Das Refektorium war gefüllt, die Mahlzeiten aber wurden in jenem tiefen Schweigen eingenommen, das überhaupt für die Dauer der Mission Vorschrift war, doch das Schweigen wirkte nicht erhebend, sondern geradezu drückend, und wir Novizen dispensierten uns auch abends davon.</text:p>
+   <text:p text:style-name="Text_20_body">Da es Schwierigkeiten gemacht hatte, alle Brüder unterzubringen, mußten wir Jüngsten unsere Zimmer räumen und wurden gemeinsam in einem größeren Gemache untergebracht. Da es an Bettstellen mangelte, hatte man uns Strohlager bereitet, was uns nicht störte. Bequem war der Aufenthalt nicht; ein Tisch und einige Stühle waren die ganze Einrichtung. Hier saßen wir abends beisammen, und da gab es ein halblautes Schwätzchen, bei dem der heitere Anklang um <text:soft-page-break/>so weniger fehlte, als die Situation geradezu dazu lockte, denn das Beisammensein mahnte an eine Schneiderwerkstatt, wenn wir flüchtig werdende Knöpfe dingfest machten oder sonstige kleine Reparaturen an Hose und Weste vornahmen; Schlimmes war gewiß nicht dabei, aber der Ernst des Tages wurde abgemildert.</text:p>
+   <text:p text:style-name="Text_20_body">Auch zur Beichte gingen wir bei den Jesuiten. Eine peinliche Gewissensforschung war vorausgegangen, aber auch diese genügte nicht, und der Beichtiger stellte selbst seine Fragen. Er griff in die heimlichsten Winkel der Seele, und manches trieb mir die Schamröte in die Wangen, manches habe ich wohl gar nicht verstanden. Die Buße bestand in Gebetsübungen, die ich mit Eifer erledigte, ohne mich dabei seelisch ruhig zu fühlen. Noch am späten Abend entsann ich mich einer Kleinigkeit, die wohl gar keine Sünde war, mir aber in meiner Stimmung als solche erschien und die ich in der Beichte nicht erwähnt hatte. Da das Gewissen geradezu beängstigt war, ging ich noch abends auf das Zimmer des Superiors und erklärte, daß ich etwas zu beichten vergessen habe. Mit ernstem Gesicht zog er einen Schemel zu seinem Stuhle, hieß mich darauf niederknien, machte das Kreuzzeichen und nahm mein Bekenntnis entgegen, worauf er mir nach Auferlegung der Buße eines Vaterunsers die Absolution erteilte.</text:p>
+   <text:p text:style-name="Text_20_body">In jenen Tagen aber erwachte zuerst mein Bedenken gegen die Beichte überhaupt, zumal mir ein in Paderborn erschienener und wohl zunächst für Kinder bestimmter »Beichtspiegel« zur Hand kam, der mich bei klarer und ruhiger Erwägung geradezu zur Erkenntnis brachte, daß wer dies zusammengestellt, sich an der Jugend schwer versündige. Dieser Fragezettel war ganz dazu angetan, des Kindes Herz und Geist zu verwirren und geradezu unreine Gedanken in ihm zu erwecken. An der Hand der zehn Gebote und der Kirchengebote wird Frage auf Frage gehäuft. So heißt es betr. des sechsten und neunten Gebotes: »Ich habe über Unreines freiwillig nachgedacht. Wievielmal? Ich habe Unreines freiwillig angesehen. Wievielmal? Ich habe schmutzige Reden gern angehört. Wievielmal? Ich habe Unreines getan (allein oder mit anderen). Wievielmal? Ich habe Unreines an mir zugelassen. Wievielmal? Ich habe das Verlangen gehabt, Unschamhaftes zu tun. Wievielmal?« Gegen das siebente Gebot: »Ich habe genascht. Ich habe gestohlen. (Obst? Eßwaren? Schulsachen? Kleidungsstücke?) Wievielmal? Ich habe Geld weggenommen. (Wieviel? Den Eltern, Geschwistern oder anderen?) Ich habe gefunden. (Was?) Ich habe den Willen gehabt, anderen Schaden zuzufügen (an Büchern? An Kleidern? An Bäumen?) Wievielmal? usw.« Daß eine solche Behandlung der Beichte nicht im Sinne und Geiste des Heilands sein könne, wurde mir damals schon klar; ebensowenig aber konnten es Schilderungen des Fegefeuers und der Hölle sein, die etwas später mir zur Hand kamen. So las ich betr. des Fegefeuers in einem Hefte, das in Oberbayern mit bischöflicher Genehmigung veröffentlicht worden war: »Die Glut des Fegefeuers ist so groß und die armen Seelen werden so arg gepeinigt, daß die arme Seele dort in einer Minute mehr leidet, als in vielen, vielen Jahren auf Erden. Seelen der Abgestorbenen, welche den noch auf Erden Lebenden <text:soft-page-break/>erschienen sind (!), haben erklärt, daß eine Stunde ihnen wie hundert Jahre erscheine. – Von der Dauer abgesehen, gibt es keinen Unterschied zwischen den Qualen der Hölle und des Fegefeuers, wie der heilige Thomas von Aquin bezeugt, (der übrigens auch aussagt, daß das Feuer kein unstoffliches, sondern ein wirkliches und materielles sei). Je mehr Brennstoff, d. i. Sünden jemand hinüberbringt, desto länger und mehr wird er gebrannt, wie der heilige Bonaventura versichert. Die Schmerzen des Fegefeuers richten sich nach den begangenen Sünden, weshalb z. B. jener, der durch Fraß und Völlerei gesündigt hat, fasten und Hunger und Durst leiden muß.«</text:p>
+   <text:p text:style-name="Text_20_body">Auch über die Ablässe wurde in dem Hefte gesprochen: »Der Sohn Gottes hat all sein Blut in so reicher Fülle vergossen, daß von der Fußsohle bis zum Scheitel nichts Gesundes an ihm gefunden worden. Durch diese Blutvergießung hat er den unendlichen Schatz der Ablässe gestiftet, die die Päpste nach Gutdünken austeilen. Christus entläßt keinen aus dem Fegefeuer, wenn er nicht seine Schulden bis zum letzten Pfennig bezahlt hat. Ach, würde der liebe Ablaß nicht so reichlich verliehen, so würden wir wahrscheinlich nicht vor dem jüngsten Tage aus dem Fegefeuer erlöst.«</text:p>
+   <text:p text:style-name="Text_20_body">Von selbst drängte sich mir die Frage auf: Wie reimen sich diese Qualen mit dem Glauben an einen allgütigen Gott zusammen? Das wären raffinierte Qualen, wie nur eine perverse menschliche Phantasie sie aussinnen kann und Gottes unwürdig. Woher kennen übrigens Thomas von Aquin und der heilige Bonaventura das Fegefeuer so genau, von dem doch in der Heiligen Schrift nicht die Rede ist, und das sich kirchengeschichtlich wohl erst Jahrhunderte nach Christo findet? Und weiter: Was brennt denn eigentlich in diesem <text:span text:style-name="T1">wirklichen</text:span> Feuer? – Der sündige Leib? – Dieser ist doch begraben worden und zerfallen, die Seele aber ist nichts Materielles und kann doch von wirklichem Feuer nicht berührt werden. Mit einem anderen Leibe, dessen Substanz wir nicht kennen, ist jedoch nicht gesündigt worden, warum soll er für den sündhaften leiden? Substantiell aber müßte er doch sein, da von den »Händen« der armen Seelen gesprochen wird, sowie davon, daß sie mit Hunger und Durst bzw. mit Fasten gestraft werden. Das waren Widersprüche, über die ich mich nicht zu beruhigen vermochte, und diese innere Unruhe steigerte sich noch, als mir nachmals ganz zufällig das im Jahre 1838 in Augsburg erschienene Buch des Kapuzinermönchs <text:span text:style-name="T1">P.</text:span> Cochem über »Die vier letzten Dinge« in die Hände fiel, von dem man nicht glaubt, daß es ein Priester der Gottes- und Menschenliebe geschrieben habe. Das gilt besonders von der Schilderung der Hölle, die <text:span text:style-name="T1">P.</text:span> Cochem so genau kennt wie sein Klösterchen, und in der ihm kein Winkel fremd ist. Wie er zu dieser Kenntnis gekommen, verschweigt er, und man könnte meinen, daß der Teufel selbst ihn gelegentlich eingeladen habe, sich in seinem Bereiche umzusehen. Es ist ein Buch, das für keinen ehrlichen Diener Gottes vorhanden sein dürfte, höchstens als abschreckendes Beispiel, wie man nicht für die Religion der Liebe und für die wahre Kirche Christi wirkt.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T1">P.</text:span> Cochem weiß genau, daß die Hölle 50 Kubikmeilen groß ist, also Hunderttausende aufzunehmen vermag, zumal nicht jeder Verdammte sich beliebig frei bewegen kann, sondern alle zusammengedrängt sind, wie es enger unmöglich. In Feuersglut leiden alle; einige werden in Bratpfannen gebraten, andere an Bratspießen umgewendet, wieder andere in zerschmolzenem Blei, Eisen und Erz gesotten. In diesem glutflüssigen Erz sitzen einige bis an den Nabel, einige bis an die Brust, einige bis an den Hals und einige bis über den Kopf. (!) Ihre Eingeweide und Gedärme, Lunge und Leber, Beine und Rippen, Herz und Herzkammer sind mit Feuer angefüllt, gleichwie ein Schwamm, der im Meer liegt und durch und durch mit gesalzenem Wasser angefüllt ist. Wenn nun der arme Verdammte im feurigen Schwefel so lange gesotten, bis er durch und durch glühend geworden ist, so nehmen ihn die Teufel mit eisernen Haken heraus und werfen ihn wie einen Mühlstein mit großem Geschrei in einen gefrorenen Teich so tief hinein, daß ihm das Wasser hoch über dem Haupte zusammenschlägt. Der feurige Schwefelteich und der gefrorene Teich sind nahe beieinander, und weil die teuflischen Wüteriche die Verdammten aus einem Teiche in den anderen werfen, so ist ein solches rasendes Geschrei und Geheul daselbst, daß es auf hundert Meilen gehört werden könnte. Das höllische Wasser des gefrorenen Teiches selbst ist ganz faul, vergiftet und stinkend; es sind darin soviele giftige, abscheuliche Kröten, Schlangen und höllisches Ungeziefer, daß einem grauset, daran zu denken. Diese teuflischen Würmer aber tun nichts, als den Leuten das Blut aussaugen und ihnen das Fleisch vom Leibe abfressen. (!) Die Verdammten erhalten als Speisen (!) ganze Schüsseln voll geschmolzenen Pechs, Bleis, Schwefels, voll Kröten und giftigen Ungeziefers, und die Teufel schieben ihnen die scheußliche Nahrung in den Mund und gießen ihnen große Becher geschmolzenen Erzes und Gifts in den Hals.</text:p>
+   <text:p text:style-name="Text_20_body">So lehrt der katholische Pater Cochem im 19. Jahrhundert, und seine Ausführungen wimmeln, abgesehen von allem anderen, von oft geradezu naiven Widersprüchen und unsinnigen Angaben. Das alles erschütterte aber immer mehr meinen Glauben an die Wahrheit bezw. Reinheit der Lehre der »allein seligmachenden« Kirche, in der solches offen und mit bischöflicher Genehmigung gelehrt werden durfte, empfindlich und schaffte mir manche schwere Stunde, in der ich mich einsam quälte.</text:p>
+   <text:p text:style-name="Text_20_body">Nach dem Noviziat wurden wir Kleriker, und nun begann das Studium der Theologie, und es gab neue Enttäuschungen, denn es bot nicht das geringste für Geist und Herz. Die Professoren an der theologischen Hausanstalt, durchaus ehrenwerte Priester, versahen ihr Amt schablonenhaft, diktierten ihre (mehrfach lateinischen) Vorträge, die wörtlich auswendig gelernt werden mußten und die Sehnsucht weckten nach der Prager Hochschule, an die wir mit besten Erwartungen gingen, um dort die letzten vier Semester zu absolvieren. Aber auch sie bot uns nichts, was wenigstens ich erhofft hatte und wonach ich suchte.</text:p>
+   <text:p text:style-name="Text_20_body">Die theologische Fakultät hat nur einen ganz losen Zusammenhang mit der altehrwürdigen <text:soft-page-break/>Karl Ferdinand-Universität in Prag, der ältesten deutschen Hochschule überhaupt; sie ist vielmehr eine erzbischöfliche Anstalt, an der es weder Lehr- noch Lernfreiheit gibt. Ich hatte mich in den wenig erquicklichen <text:span text:style-name="T1">Tepler</text:span> Studienjahren auf die Tage gefreut, da ich, zu den Füßen tüchtiger, geistvoller Lehrer, eine Fülle von Anregung und Wissen zu erhalten hoffte, aber schon die erste Zeit bekundete, daß nur die Personen sich geändert hatten. Das Schwören auf des Lehrers Worte und das Goethe&apos;sche: »Was man schwarz auf weiß besitzt, kann man getrost nach Hause tragen«, waren auch hier völlig am Platze. Der Lehrstoff wurde vielfach vorgelesen bzw. diktiert, und die erste Tätigkeit des Studierenden bestand im Nachschreiben, die andere im Einlernen des Aufgeschriebenen, denn jede Stunde wurde wie in Mittelschulen examiniert, und es mußte wörtlich hergesagt werden, was das Gedächtnis aufgenommen hatte. Das hatte seinen Grund wohl auch darin, daß der alte Zopf verlangte, daß die meisten theologischen Disziplinen in lateinischer Sprache vorgetragen wurden. Vom Gymnasium brachte keiner ein derartiges Wissen mit, daß er sich mit Gewandtheit und Sicherheit in der fremden Sprache ausdrücken könnte, und so blieb bei der strengen Forderung nichts übrig, als wortgetreu auswendig zu lernen. Wenn man das durch vier Jahre lang trieb, konnte man die fremde, tote Sprache endlich radebrechen, aber oft in einer Weise, daß sich einem richtigen Philologen die Haare gesträubt hätten: Kirchenlatein! Und dabei wurde soviel Unnötiges, Unpraktisches und Unklares aus alter Gewohnheit und als leerer Ballast für das Leben geboten, daß der Hörer gar nicht über das rein Aeußerliche hinauskam und bei dem beständigen Memorieren ermüdet und verstimmt wurde; Herz und Verstand kamen dabei zu kurz, und die Freude an dem Beruf konnte so unmöglich gefördert werden. Das lag auch wohl zum Teil an den Lehrkräften, durchaus achtenswerten Männern, die aber mitunter selbst wenig Eigenes zu bieten hatten, die lateinische Sprache nur mangelhaft beherrschten und schon darum genötigt schienen, sich ihre Hefte zusammenzuschreiben, zu diktieren und wörtlich abzuprüfen. (Als besonders tüchtig galt unter den Lehrern der Professor der orientalischen Sprachen, der nachmals das Ordensgewand – er war Kreuzherr – ablegte und der Professor der Moraltheologie, ein Zisterziensermönch des Klosters Ossegg, Sales Meyer, der zu den besonderen Beratern des Kardinal-Erzbischofs gehörte und nachmals Abt seines Stifts wurde.)</text:p>
+   <text:p text:style-name="Text_20_body">Auch das erzbischöfliche Seminar zeigte kein erhebendes Bild. Gleich Schulknaben wurden die Alumnen paarweise ausgeführt und hatten auch gemeinsame Speise-, Schlaf- und Studiersäle. In den letzteren sitzen die Schüler, jeder an seinem Pulte und studieren – nein, <text:span text:style-name="T1">lernen</text:span> – auf Kommando. Nicht, wenn es den Einzelnen drängt, sich geistiger Arbeit hinzugeben, nein, zu festgesetzter Stunde, ob auch Neigung und Stimmung eben fehlen, muß er darangehen, den Lehrstoff dem Gedächtnis einzuprägen. Dann herrscht Stille in dem weiten Raum, und das spähende Auge des Vorstehers forscht überall und sucht eventuell Kontrebande. Hier wird leider Strebertum und Heuchelei großgezogen, denn nicht jedem ist es gegeben, auf Befehl geistig zu arbeiten, und während manche in aufdringlicher Weise ihre Pflicht zu erfüllen scheinen, um die <text:soft-page-break/>Gunst der Vorgesetzten zu gewinnen, lassen andere, die Augen auf ihr Buch gerichtet, die Gedanken in die Weite schweifen, oder wissen auch geschickt dem theologischen Buch ein anderes unterzuschieben. Die Art überhaupt, wie die zukünftigen Seelsorger ausgebildet wurden, gefiel mir nicht, denn so wenig die theologischen Vorträge dem Geiste gaben, so wenig gab die Seminarerziehung für Herz, Gemüt und gesunde Moral. Wieviele Berufslosigkeit lebt in diesen Räumen, und wieviele Berufsfreudigkeit wird darin wohl geradezu vernichtet! Diese Erziehung nach der althergebrachten einseitigen Schablone bildet wohl nur selten tüchtige und würdige Priester – sie müssen eben die Anlagen dazu mitbringen –, wohl aber oft Zeloten und Pharisäer. Jede Freiheit zu geistiger Betätigung, jede Entwicklung zur Selbständigkeit des Charakters wird unterbunden oder mindestens erschwert, ohne Welt- und Menschenkenntnis, ohne Umgangsformen, völlig einseitig gebildet, ohne Verständnis für die Forderungen einer geistig immer weiter schreitenden Zeit und für manches andere wird der junge Priester hinausgeschickt in das Leben, in dem er sich oft nicht zurecht zu finden weiß, und das mit seinen Versuchungen ihm um so verlockender erscheint, weil es ihm völlig neu ist.</text:p>
+   <text:p text:style-name="Text_20_body">Bei all diesen Eindrücken fühlte ich immer mehr das seit früher Jugend in mich Aufgenommene wankend werden, und die Erkenntnis rang sich immer mehr durch, daß im Laufe der Zeit die wahre Kirche Christi durch Menschenwerk verunstaltet worden sei, und ein stilles Sehnen nach ihrer Reinheit wollte mich erfassen. Oefter als vordem griff ich nach dem Neuen Testament, um mir daraus Trost zu gewinnen, aber mein Kämpfen und Ringen nahm eher zu. Doch wo sollte ich Hilfe finden in meinen stets neu aufsteigenden Gewissensnöten? Die Beichte konnte mir den Seelendruck nicht mindern, denn in den Beichtstühlen herrschte ein leerer Formalismus oder (wie bei Jesuiten) ein beunruhigender Fanatismus; mit Ordensbrüdern konnte ich mich nicht aussprechen, ohne mich nach einer oder anderen Hinsicht Mißverständnissen auszusetzen, und den Eltern gegenüber mußte ich erst recht schweigen, um die schlichten kirchengläubigen Menschen nicht im tiefsten Herzen zu beunruhigen.</text:p>
+   <text:p text:style-name="Text_20_body">So kam der bedeutsame, schwere Tag der feierlichen Profeß, an dem es galt, die bindenden Gelübde der Armut, der Keuschheit und des Gehorsams für das ganze Leben abzulegen. Wohl trat mir die Schwere dieses Schrittes ins Bewußtsein, aber über seine volle Bedeutung suchte ich nach bitterem Ringen mich selbst hinwegzutäuschen mit dem Gedanken an das Elternhaus, dem ich nun nicht mehr Freude und Hoffen, das auf mich gesetzt war, zerstören durfte, sowie mit der aus den Prager Verhältnissen geschöpften schwachen Beruhigung, daß mir der Trost der Musen und ein gewisses Maß geistiger Freiheit nicht fehlen werde, was vielleicht geeignet sein würde, schwere und bange Stunden zu erleichtern.</text:p>
+   <text:p text:style-name="Text_20_body">Der schwere Tag verlief, aber er sollte mir noch ungleich schwerere bringen. Keiner ist wohl an diesem sich völlig klar, was er auf sich genommen: Lebensunerfahrene, unreife Menschenkinder sind es, die wohl nur in seltensten Fällen von einem inneren höheren und reinen Drang geleitet <text:soft-page-break/>werden, sondern meist getrieben sind von Gehorsam gegen die Wünsche der Eltern, von gedankenloser Erwartung einer guten Versorgung, ja wohl auch von dem leichtfertigen Vorsatz, das Leben nach Möglichkeit auch in diesen Verhältnissen zu genießen. Aber die fortschreitenden Jahre lassen innerlich reifen und manchen erkennen, in wieviel leeren Aeußerlichkeiten sich das Klosterleben bewegt, wie gar manchmal der blasse Schein an die Stelle des Wesentlichen tritt, wie Geist und Herz anfangen zu hungern, wie die berechtigte Sehnsucht erwacht nach freier Betätigung der Kräfte im Dienste der Menschheit und wohl auch nach friedlich schönem Familienglück. Die Ordensgelübde sollten nur von gereiften Männern, die über all das sich innerlich klar geworden und damit ins Reine gekommen sind, abgelegt werden, aber nicht von Unerfahrenen, die nicht als völlig moralisch gereift und frei gelten können für einen Schritt, der geeignet ist, Zufriedenheit und Glück eines Menschenlebens für immer zu vernichten, denn gar mancher – ich habe Belege dafür in Briefen, die mir später von unglücklichen Ordenspriestern zugingen – möchte wohl mit heißen Tränen seine Unterschrift auf dem entscheidenden Blatte auslöschen, aber der Orden kümmert sich nicht um die Beweggründe seines Eintritts, sondern hält sich an die Tatsache und vernichtet nicht, was er einmal besitzt. Dann lebt wohl mancher sich ein in Gleichgültigkeit, geht auf in materiellem Genuß, nimmt es mit den Ordensgelübden nicht peinlich genau und kommt allmählich zu einem weiten Gewissen, das ihm über vieles hinweghilft. Wer aber ein solches nicht besitzt noch es sich wünscht, und lieber die Fesseln zerreißt, die er in seiner Unerfahrenheit sich selbst angelegt, um ein ganzer Mensch anstatt eines halben, d. i. bloß äußerlichen Mönchs zu sein – ist er darum schlecht und verworfen geworden? Hat er sich darum der Achtung unwert gemacht? Haben die mit dem weiten Gewissen, und darunter sind wohl die ärgsten Schreier, ein Recht, mit Steinen nach ihm zu werfen? – Die Kirche aber, die die Religion der Liebe lehrt, stößt ihn aus ihrer Gemeinschaft und legt ihren Fluch auf sein Haupt. Wenn jene, die ihn aussprechen, im Namen Gottes redeten, es wäre entsetzlich, doch der Verfehmte hat den schönen Trost, daß er es nur mit seinem Gewissen und mit dem ewigen Richter zu tun hat, der voll Vaterliebe alle Menschen umfaßt und den Fluch nicht kennt, mit dem man seinen Namen entehrt.</text:p>
+   <text:p text:style-name="Text_20_body">Solche Erwägungen stellten sich erst später bei mir ein, und resigniert ließ ich nach Jahresfrist die Priesterweihe über mich ergehn, die mir im Grunde neben der Profeß bedeutungslos erschien. Ich bemühte mich eben, mich mit meinem Schicksal abzufinden, und suchte vor allem Vergessen in der Beschäftigung mit Wissenschaften, da ich, vom Abt zum Gymnasiallehrer bestimmt, neben der theologischen auch die philosophische Fakultät der Hochschule besuchte und hier die erwünschten wertvollen Anregungen durch treffliche Lehrer erhielt; auch widmete ich mich bereits schriftstellerischer Tätigkeit, und hatte die Freude, für meine erste als Buch erschienene Novelle »Der Dorfengel« von dem Schweizer Piusverein mit einem Preise ausgezeichnet zu werden.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Da trat ein Ereignis ein, das mich wiederum mächtig erregte und alles wieder in mir weckte, was ich niedergekämpft zu haben meinte, so daß es gewaltiger als je in mir aufloderte. Das Jahr 1870 brachte in kirchliche Kreise eine bedeutende und nicht unberechtigte Erregung durch die Erklärung von der <text:span text:style-name="T1">Unfehlbarkeit des Papstes</text:span>. Seit 300 Jahren hatte die Welt nicht mehr das Schauspiel eines ökumenischen Konzils gehabt, und nun waren die Bischöfe der ganzen Welt zu einem solchen nach Rom eingeladen worden. Um was es sich dabei in der Hauptsache handelte, konnte nicht lange verborgen bleiben und schuf schwere Unruhe. Man bemühte sich, von zuständiger Seite sie zu beschwichtigen mit dem Hinweis, daß in kirchlichen Kreisen die Ueberzeugung herrsche, daß ein Glaubenssatz nur Geltung erlangen könne, wenn er von einer Kirchenversammlung einstimmig oder mindestens nahezu einstimmig beschlossen werde. In anderem Falle bleibe der beantragte Satz nur eine Lehrmeinung und könne kein Dogma werden, da das, was man bei Verlust der ewigen Seligkeit zu glauben habe, nicht einer bloßen und zufälligen Majorität seine Entstehung verdanken könne. Auch die in Fulda versammelten deutschen Kirchenfürsten veröffentlichten eine Kundgebung, deren Sinn war: Man solle ruhig sein und Gott vertrauen – es werde in dem bevorstehenden Konzil keine neue Lehre aufgestellt werden. In gleicher Weise hatte sich der Prager Erzbischof geäußert, und auch der angesehene Lehrer des kanonischen Rechts an der juristischen Fakultät der Prager Hochschule, Professor Dr. Schulte, ein gutgläubiger Mann, hatte ein solches Dogma als unmöglich und unannehmbar erklärt. Ebenso hatte Professor Sales Meyer sich dahin geäußert, daß ein solcher Glaubenssatz aus historischen, dogmatischen und moralischen Gründen ganz undenkbar sei.</text:p>
+   <text:p text:style-name="Text_20_body">Und doch geschah, was unmöglich geschienen hatte. Wohl protestierten in der St. Peterskirche in stürmisch erregter Sitzung zahlreiche Kirchenfürsten gegen die aufgezwungene neue Geschäftsordnung, nach welcher eine einfache Majorität über die wichtigsten kirchlichen Fragen entscheiden sollte, vergebens wies der kroatische Bischof Stroßmair, der gewaltigste Redner des Konzils, ein geistvoller und gelehrter, ehrlicher und kluger Mann, der das Latein wie seine Muttersprache beherrschte, darauf hin, daß, wo es sich um das Seelenheil von Millionen handle, unmöglich der Zufall eventuell einer einzigen Stimme den Ausschlag geben dürfe, da man doch nicht annehmen könne, daß bei etwa 700 Bischöfen und Prälaten der Heilige Geist gerade 351 erleuchten und 349 die Erleuchtung versagen sollte; eine solche Annahme wäre Gotteslästerung. – Der 13. Juli brachte die Entscheidung: Von etwa 600 Kirchenvätern hatten 70 gefehlt, 88 hatten mit »nein«, 62 mit »ja unter Vorbehalt« gestimmt, die anderen 386 aber hatten den neuen Glaubenssatz angenommen, und das genügte, ihn als Dogma zu verkünden. Fünfzig Redner waren noch eingeschrieben gewesen, als die Debatte einfach für beendet erklärt wurde; die Majorität der italienischen Bischöfe gab den Ausschlag, aber man durfte wohl fragen: Mit welchem Recht? – Der ganze Kirchenstaat zählte nicht so viele Seelen, wie allein die Diözese des Prager Erzbischofs, war aber beim Konzil durch 143 Bischöfe vertreten; dazu kamen 100 Bischöfe <text:span text:style-name="T1">in partibus infidelium</text:span> und etwa 200 Titularbischöfe, die nicht einmal dem Namen nach <text:soft-page-break/>eine Diözese besaßen. Ganz Deutschland aber hatte nur 14 Kirchenfürsten nach Rom schicken können, und obwohl dieselben viele Millionen von Gläubigen vertraten, galt ihre Stimme nicht mehr als die eines Titularbischofs, und selbst diese 14 hatten nicht den Mut und die Festigkeit, für das, was sie als recht erkannten, einzutreten und blieben lieber der zweiten und entscheidenden Abstimmung vom 18. Juli fern.</text:p>
+   <text:p text:style-name="Text_20_body">Nun drängte sich von selbst die Frage auf: Würden sie sich ganz ruhig fügen und annehmen, was ihnen zuvor als unannehmbar galt? Wie würden sich Männer wie Sales Meyer verhalten, die vordem geradezu erklärt hatten, daß historische, dogmatische und moralische Gründe gegen das neue Dogma sprächen? – – – Für sie alle galt zuletzt das Wort: Rom hat gesprochen, und sie unterwarfen sich bedingungslos, tausend Gemütern aber erwuchs innerer Zwiespalt und Qual, um so mehr, als es höchst ehrenwerte Männer gab, die ihre Ueberzeugung nicht preiszugeben vermochten und nicht mit einmal recht und billig finden konnten, was – ohne daß sich an der Begründung etwas geändert hätte – vordem unrecht und unbillig für einsichtsvolle und gut kirchliche Männer gewesen war: Professor Schulte, Propst Döllinger u. a. beugten sich nicht und wurden nachmals Führer der altkatholischen Bewegung. All das zerwühlte mir in jenen Tagen die junge Seele und drängte mich in einen schweren inneren Kampf. Eines war mir völlig klar: Daß der neue Glaubenssatz für mich niemals gelten könne nach den vorausgegangenen Erklärungen maßgebender Männer. Mir war, als sei mir etwas Wertvolles zerbrochen worden; wie in einem bösen Traum ging ich einher mit heißer Stirn und müdem Leib. Mein ganzes Empfinden lehnte sich auf gegen den von Rom geübten Zwang, und mir war, als müßte ich bei einer gläubig stummen Hingabe selbst mitverantwortlich werden für die Folgen der Neuerung, nach welcher die katholische Kirche und der Papst geradezu identisch wurden, so daß dessen alleinige Aussprüche Geltung haben sollten in allen Glaubenssachen, auch wenn sie dem Empfinden der Besten widersprechen und der Kirche nicht zum Segen sind. Ich mußte an den im Jahre 1864 veröffentlichten »Syllabus« denken; auch dort hat der Papst als Lehrer gesprochen, auch damals müßte er unfehlbar gewesen sein, und wieviel berechtigten Widerspruch hat er hervorgerufen! Es wäre mitunter mehr als bedenklich, wenn die Sätze des Syllabus wirklich göttliche Geltung hätten; sie müßten geradezu den Seelenfrieden Tausender vernichten und den Haß an Stelle der Liebe setzen.</text:p>
+   <text:p text:style-name="Text_20_body">In meiner Herzensangst griff ich nach der Kirchengeschichte. Ich wußte wohl, daß es sich nicht darum handelt, ob der Papst eine sittlich tadellose Persönlichkeit sei oder nicht; was er in Glaubenssachen bestimmt, soll damit nichts zu tun haben; aber muß nicht doch ein Bedenken kommen, daß ein sittenloses und geistig unbedeutendes Oberhaupt der Kirche seine Meinung diktatorisch über die der Besten, Frömmsten und Einsichtsvollsten setzen könne? Und die Geschichte kennt auch lasterhafte Päpste – hier hilft kein Leugnen und Verheimlichen –, und auch sie müssen unfehlbar gewesen sein, wenn es überhaupt der jeweilige Inhaber des <text:soft-page-break/>päpstlichen Stuhles ist. Wie erklären sich aber in solchen Fällen geschichtliche Widersprüche? Die Kirchenversammlung in Nicäa verurteilte die Lehre der Arianer als Ketzerei, und Papst Liberius bestätigte dies. Als man ihm einen Gegenpapst aufstellen wollte, den der Kaiser begünstigte, gab er eine Erklärung ab, die sich eigentlich mit der Arianischen »Ketzerei« deckte, nur um seinen Sitz nicht zu verlieren. Welcher Liberius war unfehlbar? – Papst Vigilius, der Gegenpapst des heil. Silverius, tat vor einem Konzil Widerruf früher gemachter Aussprüche und bezeichnete sich selbst als Werkzeug des Satans. Mag sein, daß man behauptet, er habe die dreifache Krone nicht mit Recht getragen – doch läßt sich das nicht von Papst Honorius sagen, der in Christus nicht zwei Willen, einen göttlichen und menschlichen, sondern nur einen göttlichen gelten ließ. Er wurde als Ketzer von einigen Konzilien und von seinem eigenen päpstlichen Nachfolger verflucht. War dieser unfehlbar, oder war es Honorius? Auf beiden sich widersprechenden Seiten kann die Unfehlbarkeit nicht stehen. Und wie häufig finden sich gleichzeitig zwei Päpste, die sich auf das ärgste befehden, und die Christenheit weiß nicht, wer recht hat, und die Gemüter der Gläubigen kommen in bitteren Zwiespalt, zumal wenn der von Staatsgewalten anerkannte und in Rom residierende der sittlich minder würdige ist. Wer darf sich dann von den Gegnern und Streitern um den heiligen Stuhl unfehlbar nennen? Und zuletzt: War es notwendig, dies Dogma aufzustellen, nachdem die Kirche mehr als 1800 Jahre ohne dasselbe bestanden hat, und eine tiefe Beunruhigung in gläubige Gemüter hineinzutragen – und es sind wohl nicht die Schlechtesten, die beunruhigt werden.</text:p>
+   <text:p text:style-name="Text_20_body">Was ich in jenen Tagen durchstritten und durchlitten habe, vermag nur der zu verstehen, der es an sich selbst erfahren, und daß es noch manchen solchen im Priesterkleide gab, ist wohl außer Zweifel. Immer lastender aber lag die Erkenntnis auf mir, daß ich mit dieser geistigen Unfreiheit und dem schweren Zwiespalt in der Seele für das ganze Leben unglücklich werden müsse. Wollte ich vor mir selbst als ehrlicher Mensch bestehen, so mußte ich die Fesseln lösen, ehe ihr Druck mich erwürgte oder mich in jene Gleichgültigkeit zwang, die mich bei anderen abstieß. Damals habe ich in manch schlafloser Nacht mich gequält mit Zukunftsbildern und nach einem Rettungswege ausgeschaut aus banger Seelennot, habe wohl auch vor dem Kreuz auf dem Betschemel gekniet und den Himmel selbst um ein Zeichen angefleht, das wie ein Stern in meine Nacht hineinleuchten sollte.</text:p>
+   <text:p text:style-name="Text_20_body">Damals aber stieg auch immer lebhafter in mir der Gedanke auf von der Notwendigkeit einer Erneuerung der Kirche Christi im Sinn des einzig wahren Evangeliums, einer Erneuerung, die mit allem aufräumte, was im Lauf der Zeit geradezu Unchristliches hineingetragen ward, was der Heiland niemals gelehrt hatte und nie gewollt haben konnte. Und da ging mir durch den Sinn, daß schon vor Jahrhunderten eine solche Erneuerung erfolgt war – die Reformation des Augustinermönchs <text:span text:style-name="T1">Martin Luther</text:span>. Wenig genug war mir davon bekannt, und auch das nur in der einseitigen Beleuchtung katholischer Lehrer, für die Luther ein verwerflicher Ketzer war, dessen <text:soft-page-break/>Namen man nur mit Verachtung, ja Gehässigkeit nannte. Zum ersten Male erschien mir dieser Mann wie in anderem Lichte, und mich erfaßte das lebhafte Verlangen, näheres von ihm und seiner Lehre kennenzulernen. Ich las mit Eifer, was immer ich über ihn und sein Werk in Prager Bibliotheken finden konnte, und sein Bild begann sich für mich immer mehr zu klären und seine Lehre mich wie mit gesundem Hauche anzuwehen. Aber noch sah ich keinen Weg, um zu ihm zu gelangen, nur das Eine wurde mir immer mehr klar, daß ich im Ordensleben für immer unglücklich werden müßte, da ich meine Pflichten nicht ohne Sünde zu üben vermöchte, und daß der Glaube, in dem ich aufgewachsen, für immer auf das Tiefste erschüttert war.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">Da starb meine Mutter, deren Wunsch und Drängen zumeist mich in das Kloster geführt, und mir war es, als würde ich damit von einer widerwillig übernommenen Verpflichtung befreit. In meiner verzweiflungsvollen Verlassenheit schaute ich immer sehnender nach einer Erlösung aus meiner Seelennot aus. Angesehene Persönlichkeiten hatten sich der neuen kirchlichen Bewegung des Altkatholizismus angeschlossen, und auch ich erwog den Gedanken, dem altkatholischen Bekenntnis beizutreten, aber nähere Erwägung ließ mich erkennen, daß dies im Grunde nur eine Halbheit wäre, die mich nicht zu befriedigen vermöchte. Vor allem aber galt es die Bande zu lösen, die mich an Ordensleben und Ordenssatzungen fesselten, doch wie sollte das geschehen? Ich hatte nicht die mindesten Beziehungen, die mir hätten helfen können, war völlig unerfahren der Welt gegenüber und auch ohne alle materiellen Mittel, um mich selbst nur für kurze Zeit über Wasser halten zu können.</text:p>
+   <text:p text:style-name="Text_20_body">Da erfuhr ich, als ich eben meine Ferien in Stift Tepl verlebte, daß sich in Marienbad Herzog Ernst II. von Coburg-Gotha aufhalte. Ich weiß nicht, weshalb mir bei diesem Namen das Herz aufging. Ich hatte mich wenig um Politik gekümmert, kannte auch nur wenig von den Verdiensten des volkstümlichen deutschen Fürsten um die Förderung und Erneuerung deutschen Wesens und Strebens, aber bekannt war doch sogar mir der gesunde Idealismus seiner Persönlichkeit, sein lebhaftes Interesse an Kunst und Wissenschaft und das Wohlwollen, mit dem er bedrängten Geistern ein Asyl in seinem Lande gab, und da faßte ich den Vorsatz, mich an ihn zu wenden, ihm offen und ehrlich mein Kämpfen und Ringen, mein Leben und Streben vorzutragen und mein Geschick in seine Hand zu legen. Und der Vorsatz wurde zur Tat. Unbekannt mit den höfischen Bräuchen und der Ausdrucksweise hoher Kreise schrieb ich, wie es mir um&apos;s Herz war, schlicht und voll Naivität und bat, mir, wenn möglich, in seinem Lande und seinem Dienste eine meinen Fähigkeiten entsprechende bescheidene Stellung zu geben, die mich Mensch unter Menschen sein und meine Kräfte mit Freudigkeit für eine zusagende Tätigkeit einsetzen ließe.</text:p>
+   <text:p text:style-name="Text_20_body">Die Antwort kam; sie war gütig und verständnisvoll, aber sie kam meinem Hoffen und <text:soft-page-break/>Wünschen nicht entgegen und bereitete mir mit dem Hinweis, daß keine geeignete Stelle offen sei, eine herbe Enttäuschung. Doch die Spannkraft der Jugend, die drängende Stunde halfen darüber hinweg, und das Schreiben selbst brachte mir einen neuen Hoffnungsschimmer. Es kam aus dem Geheimkabinett des Herzogs und war unterzeichnet von dem Kabinettsrat Dr. Tempeltey. Eduard Tempeltey! Bei diesem Namen trat mir die poetisch schöne Tragödie »Klytemnestra« vor den Geist, die Gestalten seines packenden Werks: »Hie Welf – hie Waiblingen!« schienen vor mir lebendig zu werden – hatte ich doch vor nicht langer Zeit gerade diese Schöpfungen eines echten Dichters gelesen –, und der Dichtername erschien mir wie eine Verheißung. Wenn ich Eduard Tempeltey persönlich nahetreten, wenn ich mich ihm vertrauensvoll offenbaren dürfte, sollte der Dichter nicht Verständnis haben für das Ringen eines jungen vertrauenden Herzens, sollte nicht durch sein wohlwollendes Entgegenkommen dennoch der Weg zu seinem erlauchten edlen Herrn gefunden werden können? – Es gab für mich kein langes Zaudern und Erwägen mehr; mein Erstlingswerk »Der Dorfengel«, um dessen Annahme ich, wenn möglich, Herzog Ernst persönlich ersuchen wollte, sowie mein bereits erworbener philosophischer Doktortitel hoben mir Selbstvertrauen und Mut, und so trat ich meine Ferienreise an nach Deutschland, von der ich nicht mehr in das Kloster zurückkehren sollte.</text:p>
+   <text:p text:style-name="Text_20_body">Gottes Sonne lachte über dem freundlichen Coburg, als ich hier ankam, und ich nahm es als gute Vorbedeutung. Mein Hoffen auf Dr. Tempeltey wurde nicht enttäuscht; er vermittelte in liebenswürdiger Weise eine Audienz bei dem Herzog, die mir unvergeßlich bleibt, wie auch der hohe Herr noch nach Jahren nach seiner Versicherung mit Vergnügen daran dachte, da eine solche Begegnung auch ihm wohl selten vorgekommen war. Unbekannt mit den Bräuchen des Hofes, ja selbst an meinem Aeußeren nicht hofmäßig, trat ich vor ihn, und ohne seine Anrede abzuwarten, ließ ich mein Herz auf die Lippen treten, und als ob ich ihn schon längst gekannt, berichtete ich eifrig und lebhaft, warum ich käme, welche Seelenkämpfe ich in meinen jungen Jahren durchstritten, wie verlassen ich sei und nichts weiter suche, als eine Scholle, auf der ich als Mensch menschlich leben, fühlen, schaffen und frei von geistigem Zwange sein dürfe. Warm und herzlich entgegnete er, und ich vergaß beinahe, daß ich mit einem regierenden Fürsten rede und vermeinte, es sei ein älterer Freund voll schöner Teilnahme. Als er mich nach längerer Zwiesprache huldvoll entließ, geschah es mit dem Hinweis, mich nach Gotha zu begeben und mich bei dem Ministerium vorzustellen, das von meinem Kommen unterrichtet werden würde. Hatte ich auch nichts Bestimmtes erreicht, so blieb doch gleichsam ein leuchtender Schimmer in meiner Seele, denn in der Tat war ich in jener Stunde eigentlich am Wendepunkt meines Lebens angelangt, und was ich erreicht habe und geworden bin, führe ich auf sie zurück mit dem Gefühl heißen Dankes für den gütigen Fürsten, der mir sein Wohlwollen bis an seinen Tod bewahrte.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Am nächsten Morgen fuhr ich nach Gotha. Da sah ich zum ersten Male die Wartburg niederschauen in das schöne Land, und geschichtliche Erinnerungen mancher Art erwachten. Da trat auch die Gestalt Martin Luthers lebhafter vor meinen Geist, und plötzlich entstand in mir der heftige Drang, meine Fahrt zu unterbrechen und das Burgjuwel Thüringens kennenzulernen. Bald sah ich aus der freundlichen Restaurationshalle hinab in das weite, waldgrüne Gelände, durchschritt Säle und Hallen, und stand endlich seltsam ergriffen in dem kleinen, schlichten Raume, in dem einst der glaubensstarke deutsche Mann als auf seinem Patmos gewohnt und die Bibel übersetzt hatte. An diesem Tische, auf dem meine Hand ruhte, hatte er gesessen, an dem Fenster, aus dem ich hinausblickte in das liebliche Land, hatte er gestanden – – es umwehte mich wie ein Hauch seines Geistes mächtig und ergreifend; hatte er doch unter ungleich schwierigeren Verhältnissen einen ähnlichen Kampf durchstritten, wie ich ihn kämpfte, war trotz Acht und Bann siegreich geblieben und hatte sogar eine Erneuerung gebracht im Glauben, die in Millionen Herzen weiterlebte. Ich habe nachmals aus verschiedenen interessanten Anlässen die Wartburg besucht, aber niemals jene Erhebung mitgenommen, wie damals aus der kleinen Lutherstube. Mit gehobener Seele, freudigen und zuversichtlichen Sinnes schritt ich talabwärts; mir war, als habe ich einen Helfer gewonnen in meinem Kampfe, der mich jetzt schon zu erlösen schien aus meinen Seelenängsten, und ich gab mich der schönen Erwartung hin, auch weiter den Weg zu ihm zu finden.</text:p>
+   <text:p text:style-name="Text_20_body">Wohl fand sich auch in Gotha zunächst keine Stellung für mich, und die Losung lautete: Abwarten – aber eines vermochte ich nicht aufzuschieben: Mochte es kommen, wie es wolle – es gab kein Zurück mehr für mich, und so schrieb ich an den Abt von Tepl und teilte ihm meinen Austritt aus der klösterlichen Kongregation mit. Ich tat es mit schwerem Herzen um des edlen, guten Mannes willen, den ich aufrichtig verehrte und dem wehe zu tun mir hart ankam; ich öffnete ihm meine ganze Seele und ließ ihn hineinschauen in die bangen schweren Kämpfe, die ich durchstritten, und die mich endlich zu dem Entschluß führten, lieber ein guter, ehrlicher Mensch, als ein schlechter, unehrlicher Mönch zu sein.</text:p>
+   <text:p text:style-name="Text_20_body">So war das Band mit der Vergangenheit zerrissen, und mit Mut und Vertrauen sah ich in die dunkle Zukunft, nur einigermaßen besorgt wegen der sehr bescheidenen Mittel, die mir zu Gebote standen. Ich hatte weder Meßstipendien unterschlagen noch mir einen Vorschuß zahlen lassen, wie das führende klerikale Blatt Oesterreichs, die Wiener »Reichspost« in einem verleumderischen Schmähartikel erzählte, sondern nur geringe Ersparnisse, so daß ich mein Mittagsmahl in der »Herberge zur Heimat« unter fahrenden Handwerksburschen zum Preise von 25 Pfennigen einnahm; aber ein gütiger Himmel half auch hier. Ich hatte mich u. a. dem Generalsuperintendenten Dr. Petersen vorgestellt, der mich mit zuvorkommender Höflichkeit empfing und selbst in das Haus des Hofpredigers Dr. <text:span text:style-name="T1">Gustav Schweitzer</text:span> als einen »Protegé Seiner Hoheit« einführte. Dies Haus ist mir nachmals eine zweite Heimat geworden. Zum ersten Male <text:soft-page-break/>lernte ich ein evangelisches geistliches Haus kennen, und es wehte mich wohlig daraus an. Dr. Schweitzer hatte vordem mit hundert anderen deutschen Jünglingen (wie Fritz Reuter) den Traum von deutscher Freiheit geträumt und dafür auch sein Martyrium gehabt. Er hatte sich jahrelang als unstäter Wanderer durch die Welt geschlagen, hatte in Deutschland keine Stätte gefunden, um seinen Herd zu bauen, hatte sogar die Gastfreundschaft Dänemarks suchen müssen, bis der edle Herrscher von Coburg-Gotha ihm ein Asyl gab. Und hier wirkte er in seiner menschenfreundlichen Art, von der sich manches berichten ließe. Er war ein Priester nach dem Herzen Gottes, der Gottes- und Menschenliebe vereinte und in seiner Gattin dabei die treue und gütige Gefährtin und Helferin fand. Lebhafter als je erkannte ich den Irrtum des katholischen Priesterzölibats, das, abgesehen von den gar oft geradezu unsittlichen Folgen, den Geistlichen in seiner Gemeinde vereinsamt, ihn für manches in derselben ganz ohne Verständnis läßt, ihn seinem Volke und Staate entfremdet und in tausend Fällen unglücklich macht. Hier war Glück und Frieden im Hause, hier herrschte edle Gastlichkeit, und manches junge Menschenkind hat dies gleich mir erfahren, der nachmals wie ein lieber Verwandter aufgenommen und gehalten wurde, und der in einem freundlichen kleinen Gemache des Hauses sein erstes Werk auf deutschem Boden, den Roman eines Wissenden »Der Klosterzögling« schrieb. (Jena, Costenoble.)</text:p>
+   <text:p text:style-name="Text_20_body">Es lag nahe, ja es war mir ein Bedürfnis, daß ich in Gotha den evangelischen Gottesdienst besuchte, und er machte gleich beim ersten Male einen tiefen Eindruck auf mich. Die schlichte Einfachheit wirkte gegenüber dem äußeren Prunk des katholischen Gottesdienstes stimmungsvoll; die auch für den schlichten Mann verständliche Liturgie in deutscher Sprache war anheimelnd gegenüber den kalten lateinischen Lippengebeten, und der allgemeine Gesang der andächtigen Gemeinde hatte etwas Ergreifendes und Erhebendes. Immer mehr zog es mich zu dem evangelischen Bekenntnis, zumal ich ja aus der katholischen Kirche ausgeschlossen und infolge meines Austritts aus dem Kloster exkommuniziert, aber andererseits nicht geneigt war, als konfessionslos zu gelten. Ich unterhielt mich über die Angelegenheit mit Dr. Schweitzer, der, weit entfernt von Proselytenmacherei, wohl erkannte, daß ich ein Wahrheitsucher sei, den es fast unbewußt zu der Erkenntnis drängte, daß Luthers Werk dem christlichen Glauben wie dem deutschen Wesen entspreche. Auf Spaziergängen mit meinem wahrhaft väterlichen Freunde wurden in ruhiger Weise und frei von dem kleinsten gehässigen Hauche religiöse Fragen und konfessionelle Unterschiede erörtert, und endlich kam der Tag – es war der 28. August 1872 –, an dem ich in der Schloßkirche den Uebertritt zum evangelischen Bekenntnis vollzog und das heilige Abendmahl empfing. Es war eine schlichte, stille Feier, der außer dem Ehepaar Schweitzer nur noch zwei Zeugen beiwohnten, aber das Herz schlug mir ruhig und glücklich, so ganz anders, als da ich in Tepl die bindenden Gelübde sprach.</text:p>
+   <text:p text:style-name="Text_20_body">Die klerikale Presse wußte in ihrer gehässig verläumderischen Art ihren Lesern später, bei <text:soft-page-break/>Gelegenheit ihres ganz unwürdigen Kampfes gegen mein Schauspiel »Die Brüder von St. Bernhard«, dessen Tendenz auch nicht im mindesten »Los von Rom!« ist, zu berichten, daß ich meinen Austritt aus dem Kloster bereue und ganz unglücklich sei. Ich kann demgegenüber nur immer wiederholen, daß ich auch nicht eine Minute meinen Schritt bereut habe bzw. bereue, und daß ich an der Seite eines lieben, guten und treuen Weibes, das verständnislos im Beichtstuhl ausgeübter Fanatismus eines jungen Kaplans ebenfalls zur Lehre Luthers geführt hatte, ein wahres, schönes und ungetrübtes Glück genoß, bis sie der Himmel mir nahm, zwei Jahre vor unserem goldenen Ehejubiläum. Die Zuschriften aber von katholischen Priestern, die mich um Rat und Hilfe baten in ähnlichen Nöten, wie ich sie durchgekämpft, ließen mich stets aufs neue dem Himmel danken, daß er mich den Weg finden ließ zu Martin Luther.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="Text_20_body">Vom Verfasser dieser Schrift sind unter andern (die vergriffenen sind nicht aufgeführt) erschienen:</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Der Klosterzögling.</text:span>« Roman 6. Aufl. (Jena, Costenoble.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Marschall Vorwärts.</text:span>« Erzählung. 4. Aufl. (Stuttgart, Süddeutsches Verlags-Institut.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Im Cölibat.</text:span>« Novellen. 2. Aufl. (Wien und Leipzig. Wiener Liter.-Anstalt.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Der Ordensmeister.</text:span>« Epische Dichtung. (Berlin, G. Grote, Sammlung von Werken zeitgenössischer Schriftsteller. Band 41.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Lützow&apos;s wilde Jagd.</text:span>« Erzählung. 5. Aufl. (Leipzig, Abel &amp; Müller.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Deutsche Treue.</text:span>« Erzählung. (Ebenda.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Los von Rom.</text:span>« Erzählung. 6. Aufl. (Stuttgart, Carl Müller &amp; Cie.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Die Brüder von St. Bernhard.</text:span>« Schauspiel. 10. Aufl. (Verlagshaus »Vita« in Charlottenburg.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Der Abt von St. Bernhard.</text:span>« Schauspiel. 2. Aufl. (Verlagshaus »Vita« in Charlottenburg.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Unlösbar.</text:span>« Schauspiel. (Verlagshaus »Vita« in Charlottenburg.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Das Tagebuch des Mönchs.</text:span>« (Leipzig, C. F. Tiefenbach.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Wenn die Schwalbe zieht.</text:span>« Novellen. (Leipzig. C. F. Tiefenbach.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Die Siebenbürger.</text:span>« Schauspiel. (Leipzig, C. F. Tiefenbach.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Die Einödpfarre.</text:span>« Schauspiel. (Leipzig, C. F. Tiefenbach.)</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>»<text:span text:style-name="T3">In gerechter Fehde.</text:span>« Gedichte. (Leipzig, C. F. Tiefenbach.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Aus Tagen deutscher Not.</text:span>« Erzählung. 3. Aufl. (München, Georg W. Dietrich.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Kaiser Rotbart.</text:span>« Erzählung. 2. Aufl. (München, Georg W. Dietrich.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Mit der großen Armee.</text:span>« Erzählung. (München, Georg W. Dietrich.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Unser Schiller.</text:span>« (München, Georg W. Dietrich.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Komm den Frauen zart entgegen!</text:span>« Lustspiel. (Leipzig, Reclams Universalbibliothek.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Vorwärts mit Gott!</text:span>« Dramatisches Zeitbild. (Leipzig, Reclams Universalbibliothek.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Der fliegende Holländer.</text:span>« Epische Dichtung. 3. Aufl. (Wien, Allgem. Nationalbibliothek, Verlag Th. Daberkow.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Ein Märchen.</text:span>« Lustspiel. (Wien, Allgem. Nationalbibliothek, Verlag Th. Daberkow.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Der Kommandant vom Königstein.</text:span>« Lustspiel. (Wien, Allgemeine Nationalbibliothek, Verlag Th. Daberkow.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Kotzebue&apos;s Rache.</text:span>« Schauspiel. (Wien, Allgem. Nationalbibliothek, Verlag Th. Daberkow.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Ruhland.</text:span>« Gedichte. (Leipzig, Theodor Leibing.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Aus Kloster und Welt.</text:span>« (Dresden-Heidenau, Mitteld. Verl.-Anst.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Christian Günther.</text:span>« Roman. (Dresden-Heidenau, Mitteld. Verl.-Anstalt.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Der Geist des Hus&apos;.</text:span>« Roman. (Dresden-Heidenau, Mitteld. Verl.-Anst.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Das Blutmal.</text:span>« Novelle. 2. Aufl. (Annaberg i. S., Pöhlberg-Verlag.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Im Bann der Berge.</text:span>« Roman. (Annaberg i. S., Pöhlberg-Verlag.)</text:p>
+   <text:p text:style-name="Text_20_body">»<text:span text:style-name="T3">Das goldene Buch von deutscher Treue.</text:span>« (Phönix-Verlag, Kattowitz.)</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="Text_20_body">Im Verlag des <text:span text:style-name="T3">Evangelischen Bundes, Berlin W 35</text:span>,</text:p>
+   <text:p text:style-name="Text_20_body">Postscheckkonto Berlin Nr. 181 24,</text:p>
+   <text:p text:style-name="Text_20_body">erscheinen:</text:p>
+   <text:p text:style-name="Text_20_body">Herausgegeben von Professor Dr. <text:span text:style-name="T1">Friedrich Ulmer</text:span> in Erlangen:</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T1">A.</text:span> Warum evangelisch?</text:p>
+   <text:p text:style-name="Text_20_body">(Konvertitenbilder.)</text:p>
+   <text:p text:style-name="Text_20_body">1. Pfarrer <text:span text:style-name="T1">D.</text:span> <text:span text:style-name="T1">Leonhard Fendt</text:span> in Magdeburg: »<text:span text:style-name="T3">Erfüllung.</text:span>« Ein Büchlein von wohlgemutem Luthertum. 24 Seiten. 1923. 30 Pf.</text:p>
+   <text:p text:style-name="Text_20_body">2. Hofrat Dr. <text:span text:style-name="T1">Anton Ohorn</text:span> in Chemnitz: »<text:span text:style-name="T3">Mein Weg zu Martin Luther.</text:span>« 20 Seiten. 25 Pf.</text:p>
+   <text:p text:style-name="Text_20_body">In Vorbereitung:</text:p>
+   <text:p text:style-name="Text_20_body">3. Geheimrat Univ.-Prof. <text:span text:style-name="T1">D.</text:span> Dr. <text:span text:style-name="T1">Friedrich Wiegand</text:span> in Greifswald: »<text:span text:style-name="T3">Fürstbischof Graf Leopold von Sedlnitzki.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body">4. Hofrat Univ.-Prof. <text:span text:style-name="T1">D. D.</text:span> Dr. <text:span text:style-name="T1">Loesche</text:span> in Königssee (Oberbayern): »<text:span text:style-name="T3">Elisabeth von Dänemark. Die erste evangelische Habsburgerin.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body">5. Pfarrer <text:span text:style-name="T1">D.</text:span> <text:span text:style-name="T1">Leonhard Fendt</text:span> in Magdeburg: »<text:span text:style-name="T3">Johannes Mathesius.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body">6. Oberkirchenrat <text:span text:style-name="T1">Adolf Hermann</text:span> in Ansbach: »<text:span text:style-name="T3">Johannes Goßner.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">B.</text:span> Treu dem Evangelium.</text:p>
+   <text:p text:style-name="Text_20_body">(Märtyrerbilder aus der evangelischen Kirche.)</text:p>
+   <text:p text:style-name="Text_20_body">1. Pastor <text:span text:style-name="T1">D.</text:span> <text:span text:style-name="T1">Oskar Schabert</text:span> in Riga: »<text:span text:style-name="T3">Probst </text:span><text:span text:style-name="T2">Dr.</text:span><text:span text:style-name="T3"> Schlau.</text:span>« 16 Seiten. 20 Pf.</text:p>
+   <text:p text:style-name="Text_20_body">2. Hofrat Univ.-Prof. <text:span text:style-name="T1">D. D.</text:span> Dr. <text:span text:style-name="T1">Loesche</text:span> in Königssee (Oberbayern): »<text:span text:style-name="T3">Kaspar Tauber. Der erste Märtyrer der Reformation in Oesterreich im Rahmen der Märtyrergeschichte seines Heimatlandes.</text:span>« 20 S. 25 Pf.</text:p>
+   <text:p text:style-name="Text_20_body">3. Pfarrer <text:span text:style-name="T1">Wilhelm Sebastian Schmerl</text:span> in Gollhofen: »<text:span text:style-name="T3">Leonhard Kaiser, ein Blutzeuge für Gottes Wort und Luthers Lehre.</text:span>« 18 Seiten. 25 Pf.</text:p>
+   <text:p text:style-name="Text_20_body">4. Dekan <text:span text:style-name="T1">Otto Erhard</text:span> in Kempten: »<text:span text:style-name="T3">Heinrich von Zütphen.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body">In Vorbereitung:</text:p>
+   <text:p text:style-name="Text_20_body">5. Dekan <text:span text:style-name="T1">Otto Erhard</text:span> in Kempten: »<text:span text:style-name="T3">Matthias Weibel.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body">6. Stadtpfarrer <text:span text:style-name="T1">Christoph Fikenscher</text:span> in Nürnberg: »<text:span text:style-name="T3">Auf den Galeeren.</text:span>«</text:p>
+   <text:p text:style-name="Text_20_body">Montanus-Druckerei GmbH., Berlin W 35, Kurfürstenstraße 146/47.</text:p>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="First_20_paragraph"/>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Weitere Anmerkungen zur Transkription</text:p>
+   <text:p text:style-name="Text_20_body">Offensichtliche Fehler wurden stillschweigend korrigiert.</text:p>
+   <text:p text:style-name="Text_20_body">Korrekturen:</text:p>
+   <text:p text:style-name="Text_20_body">S. 5: Klinkowström → Klinckowström<text:line-break/>der zweite, ein Graf <text:a xlink:type="simple" xlink:href="#687271114749310052_64523-h-3.htm.html#corr05a" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">Klinckowström</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">S. 5: Klingkowström → Klinckowström<text:line-break/><text:span text:style-name="T1">P.</text:span> <text:a xlink:type="simple" xlink:href="#687271114749310052_64523-h-3.htm.html#corr05b" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">Klinckowström</text:span></text:a> zu hören war ein Genuß</text:p>
+   <text:p text:style-name="Text_20_body">S. 8: durch → und durch<text:line-break/>im Meer liegt <text:a xlink:type="simple" xlink:href="#687271114749310052_64523-h-3.htm.html#corr08" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">und durch</text:span></text:a> und durch</text:p>
+   <text:p text:style-name="P4">Anmerkungen zur Transkription</text:p>
+   <text:p text:style-name="P4">Das Original ist in Fraktur gesetzt. Im Original gesperrter Text ist <text:span text:style-name="T1">so ausgezeichnet</text:span>. Im Original in Antiqua gesetzter Text ist <text:span text:style-name="T1">so markiert</text:span>.</text:p>
+   <text:p text:style-name="P4">Weitere Anmerkungen zur Transkription befinden sich am <text:a xlink:type="simple" xlink:href="#687271114749310052_64523-h-6.htm.html#tnextra" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">Ende des Buches</text:span></text:a>.</text:p>
+  </office:text>
+ </office:body>
+</office:document>

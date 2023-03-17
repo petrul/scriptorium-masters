@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><dc:date>2022-11-18T16:22:59.837070116</dc:date><meta:editing-duration>P1DT15H25M46S</meta:editing-duration><meta:editing-cycles>850</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="35" meta:paragraph-count="133" meta:word-count="5365" meta:character-count="31857" meta:non-whitespace-character-count="26442"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:user-defined meta:name="Language">ro</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">678127</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">40615</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">19151</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12053</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">691661</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">678127</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">40614</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">697276</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">80</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">6172605</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Adobe Garamond Pro" svg:font-family="&apos;Adobe Garamond Pro&apos;, garamond, serif"/>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Linux Libertine" svg:font-family="&apos;Linux Libertine&apos;, Georgia, Times, serif"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="List_20_Contents" style:display-name="List Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="html"/>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="WWNum1">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:language="ro" fo:country="RO"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:language="ro" fo:country="RO"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="0054cb67" officeooo:paragraph-rsid="0054cb67"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="License">
+   <style:text-properties officeooo:paragraph-rsid="004e99d7"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="SourceDesc">
+   <style:text-properties officeooo:paragraph-rsid="00517dd6"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Author">
+   <style:text-properties officeooo:rsid="0059b569" officeooo:paragraph-rsid="0059b569"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="lg">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Epigraph">
+   <style:text-properties officeooo:paragraph-rsid="005b36e5"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="lg">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:font-name="Adobe Garamond Pro" fo:font-size="10.0500001907349pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="lg">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="005e2fbd"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="005050d4"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="004e99d7"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:font-name="Adobe Garamond Pro" fo:font-size="10.0500001907349pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:font-name="Adobe Garamond Pro" fo:font-size="10.0500001907349pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="005b0c1d"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="00517dd6"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="2cm" fo:margin-right="1cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.706cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">35</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+  <style:master-page style:name="Footnote" style:page-layout-name="pm2" draw:style-name="dp1"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm2" draw:style-name="dp1"/>
+  <style:master-page style:name="HTML" style:page-layout-name="pm3" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P3">Scrieri</text:p>
+   <text:p text:style-name="P6">Pavelescu,Cincinat</text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T2">Licența: </text:span>Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) <text:a xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by-sa/3.0/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T1">https://creativecommons.org/licenses/by-sa/3.0/</text:span></text:a><text:span text:style-name="T1"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="https://ro.wikisource.org/wiki/Autor:Cincinat_Pavelescu" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T5">https://ro.wikisource.org/wiki/Autor:Cincinat_Pavelescu</text:span></text:a><text:span text:style-name="T5"><text:line-break/>.<text:line-break/></text:span></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Sub lampă</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Trecătorului</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">În fața casei mele te afli. Intră dacă</text:span><text:line-break/><text:span text:style-name="T3">Măcar o dată viața un dor ți-a sugrumat,</text:span><text:line-break/><text:span text:style-name="T3">Și-n chinuri al tău suflet de-a trebuit să tacă,</text:span><text:line-break/><text:span text:style-name="T3">Aici vei ști cât doare un țipăt nestrigat.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Căci cine valul vieții nu l-a simțit într-însul</text:span><text:line-break/><text:span text:style-name="T3">Cum urlă și se zbate ca marea când e rea,</text:span><text:line-break/><text:span text:style-name="T3">Și n-a știut ce-i visul, ce-i dragostea și plânsul,</text:span><text:line-break/><text:span text:style-name="T3">Acela o să fie străin în casa mea.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar, dacă vii la mine cu fruntea înnorată,</text:span><text:line-break/><text:span text:style-name="T3">Simțind și tu că visul e greu să-l faci cuvânt,</text:span><text:line-break/><text:span text:style-name="T3">Atunci împinge poarta și intră: o să bată</text:span><text:line-break/><text:span text:style-name="T3">O inimă de frate în oaspetele sfânt.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Trecutul meu va crește din umbra ce se lasă.</text:span><text:line-break/><text:span text:style-name="T3">Îți voi întinde jețul să stai. Vei asculta</text:span><text:line-break/><text:span text:style-name="T3">Și-ți va părea o clipă că ești la tine-acasă</text:span><text:line-break/><text:span text:style-name="T3">Și versul meu că spune povești din viața ta!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Primăvară</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">În iarba verde stau lungit...</text:span><text:line-break/><text:span text:style-name="T3">Miroase aerul a floare;</text:span><text:line-break/><text:span text:style-name="T3">O toropeală-adormitoare</text:span><text:line-break/><text:span text:style-name="T3">Mă fură-ncet. Sunt fericit!</text:span><text:line-break/><text:span text:style-name="T3">E umbră, pace și răcoare,</text:span><text:line-break/><text:span text:style-name="T3">Un vânt ușor și liniștit,</text:span><text:line-break/><text:span text:style-name="T3">Mângâietor, sărută nucul...</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">E umbră, pace și răcoare,</text:span><text:line-break/><text:span text:style-name="T3">Ce clar, departe, cântă cucul;</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Un dor de viață negrăit</text:span><text:line-break/><text:span text:style-name="T3">Din om și fire se desprinde.</text:span><text:line-break/><text:span text:style-name="T3">Dac-aș putea în brațe-aș prinde</text:span><text:line-break/><text:span text:style-name="T3">Întregul zării nesfârșit.</text:span><text:line-break/><text:span text:style-name="T3">Și toată seva primăverii</text:span><text:line-break/><text:span text:style-name="T3">Prin mine vraja și-o propagă.</text:span><text:line-break/><text:span text:style-name="T3">Sub caldul ei, așa de dragă</text:span><text:line-break/><text:span text:style-name="T3">Mi-e pacea limpede a serii.</text:span><text:line-break/><text:span text:style-name="T3">Și fiecare fibră-n mine</text:span><text:line-break/><text:span text:style-name="T3">Mai tânăr și mai viu tresaltă...</text:span><text:line-break/><text:span text:style-name="T3">Pricep latenta simfonie</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">A firelor-de iarbă-naltă</text:span><text:line-break/><text:span text:style-name="T3">Pe care vântul le mlădie</text:span><text:line-break/><text:span text:style-name="T3">Și le sărută și le-apleacă,</text:span><text:line-break/><text:span text:style-name="T3">Când spre pădure vrea să treacă.</text:span><text:line-break/><text:span text:style-name="T3">Ca floarea umedă sub rouă,</text:span><text:line-break/><text:span text:style-name="T3">Nădăjduiesc o viață nouă.</text:span><text:line-break/><text:span text:style-name="T3">Și, cum prin frunze tainic moare</text:span><text:line-break/><text:span text:style-name="T3">Amurgul serii auriu,</text:span><text:line-break/><text:span text:style-name="T3">Din umbră, o privighetoare</text:span><text:line-break/><text:span text:style-name="T3">Îmi cântă strofele ce scriu!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Corbii</text:h>
+   <text:p text:style-name="Epigraph">Dlui C. Pariano</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">O! corbi siniștri, vă iubesc;</text:span><text:line-break/><text:span text:style-name="T3">Voi, ce pe-al iernii alb lințoliu</text:span><text:line-break/><text:span text:style-name="T3">Cădeți în stoluri ce-ngrozesc</text:span><text:line-break/><text:span text:style-name="T3">Ca niște pete mari de doliu!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">În fracurile voastre negre</text:span><text:line-break/><text:span text:style-name="T3">De ciocli aveți ceva de gală,</text:span><text:line-break/><text:span text:style-name="T3">Și-n croncănitul vostru râde</text:span><text:line-break/><text:span text:style-name="T3">O ironie triumfală!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dușmani cetăților banale,</text:span><text:line-break/><text:span text:style-name="T3">Prin vechi ruini v-adăpostiți,</text:span><text:line-break/><text:span text:style-name="T3">Și sub disprețul vostru rece</text:span><text:line-break/><text:span text:style-name="T3">O lume-ntreagă-nvăluiți.</text:span><text:line-break/><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Dacă vă mușcă foamea, -ntocmai</text:span><text:line-break/><text:span text:style-name="T3">Ca feudalii castelani,</text:span><text:line-break/><text:span text:style-name="T3">Vă năpustiți pe avuția</text:span><text:line-break/><text:span text:style-name="T3">Muncită-a bieților țărani.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și negrul vostru e simbolic;</text:span><text:line-break/><text:span text:style-name="T3">E doliul ce-ndurător</text:span><text:line-break/><text:span text:style-name="T3">Purtați victimelor căzute</text:span><text:line-break/><text:span text:style-name="T3">Sub ciocul vostru hrăpitor.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Chiar Edgar Poe, în cinstea voastră,</text:span><text:line-break/><text:span text:style-name="T3">A scris balada-ntunecată</text:span><text:line-break/><text:span text:style-name="T3">Al cărei laitmotiv e tristul</text:span><text:line-break/><text:span text:style-name="T3">Și-ngrozitorul: niciodată!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">O, corb sinistru, al meu suflet</text:span><text:line-break/><text:span text:style-name="T3">Scârbit de lupte și de jale</text:span><text:line-break/><text:span text:style-name="T3">E-atras de doliul sarcastic</text:span><text:line-break/><text:span text:style-name="T3">Ce-l poartă aripile tale!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și-aș vrea pentru-a scăpa de viața</text:span><text:line-break/><text:span text:style-name="T3">Sugrumătoare a cetății</text:span><text:line-break/><text:span text:style-name="T3">Să deviu regele ruinei,</text:span><text:line-break/><text:span text:style-name="T3">Al păcii și-al singurătății.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Panteism</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Tu care porți spre cimitir</text:span><text:line-break/><text:span text:style-name="T3">Când jerbe mari de trandafiri,</text:span><text:line-break/><text:span text:style-name="T3">Când albe crizanteme,</text:span><text:line-break/><text:span text:style-name="T3">De nu te-ai teme</text:span><text:line-break/><text:span text:style-name="T3">Și n-ai avea de moarte frică,</text:span><text:line-break/><text:span text:style-name="T3">Ai șterge lacrima ce-ți pică</text:span><text:line-break/><text:span text:style-name="T3">Și-ai scutura în vântul serii</text:span><text:line-break/><text:span text:style-name="T3">Florile durerii,</text:span><text:line-break/><text:span text:style-name="T3">Simțind că-n darul ce le porți</text:span><text:line-break/><text:span text:style-name="T3">E viața vie din cei morți.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Tu nici nu crezi</text:span><text:line-break/><text:span text:style-name="T3">Că cei pe care mergi să-i vezi</text:span><text:line-break/><text:span text:style-name="T3">Etern într-înșii n-au avut</text:span><text:line-break/><text:span text:style-name="T3">Decât al corpurilor lut.</text:span><text:line-break/><text:span text:style-name="T3">În ei pe tine te iubești:</text:span><text:line-break/><text:span text:style-name="T3">Cu toată fața ta cea tristă</text:span><text:line-break/><text:span text:style-name="T3">Și-nduioșările din glas,</text:span><text:line-break/><text:span text:style-name="T3">Din al lor suflet n-a rămas</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Decât durerea-ți egoistă:</text:span><text:line-break/><text:span text:style-name="T3">Tu nici nu crezi</text:span><text:line-break/><text:span text:style-name="T3">Că cei pe care mergi să-i vezi,</text:span><text:line-break/><text:span text:style-name="T3">Chiar de-i iubești,</text:span><text:line-break/><text:span text:style-name="T3">De-i plângi, pe tine te jelești.</text:span><text:line-break/><text:span text:style-name="T3">Dar ei sunt morți ca trupul lor</text:span><text:line-break/><text:span text:style-name="T3">De care ochii jalnici fug,</text:span><text:line-break/><text:span text:style-name="T3">Iar din smintitul tău amor</text:span><text:line-break/><text:span text:style-name="T3">Și-atâtea vise mincinoase</text:span><text:line-break/><text:span text:style-name="T3">Azi ce mai e? un pumn de oase,</text:span><text:line-break/><text:span text:style-name="T3">Un pumn de oase-ntr-un cosciug...</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar soarele ce moare, încă</text:span><text:line-break/><text:span text:style-name="T3">Mai râde-n pomii înfrunziți,</text:span><text:line-break/><text:span text:style-name="T3">Și-n seara clară și adâncă</text:span><text:line-break/><text:span text:style-name="T3">Mai cântă râul: auziți!</text:span><text:line-break/><text:span text:style-name="T3">O, voi ce mai trăiți o clipă</text:span><text:line-break/><text:span text:style-name="T3">În ritmul vieții și-al iubirii</text:span><text:line-break/><text:span text:style-name="T3">Lăsați pe morți în groapa lor</text:span><text:line-break/><text:span text:style-name="T3">Să-ndeplinească legea firii.</text:span><text:line-break/><text:span text:style-name="T3">Și voi, în pripă,</text:span><text:line-break/><text:span text:style-name="T3">Sorbind mirosul primăverii,</text:span><text:line-break/><text:span text:style-name="T3">Din vântul care mișcă merii</text:span><text:line-break/><text:span text:style-name="T3">Înfloriți,</text:span><text:line-break/><text:span text:style-name="T3">Veți bănui într-o aripă</text:span><text:line-break/><text:span text:style-name="T3">De pasăre ce trece</text:span><text:line-break/><text:span text:style-name="T3">Ca un fior,</text:span><text:line-break/><text:span text:style-name="T3">În umbra unui nor,</text:span><text:line-break/><text:span text:style-name="T3">În picul rar de ploaie rece,</text:span><text:line-break/><text:span text:style-name="T3">În vânt când mișcă trandafirii,</text:span><text:line-break/><text:span text:style-name="T3">Că morții voștri din mormânt</text:span><text:line-break/><text:span text:style-name="T3">Sunt: apă, umbră, floare, vânt!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Reîntoarcerea</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Ai vrut să viu, și am revenit.</text:span><text:line-break/><text:span text:style-name="T3">Căsuța albă mă primește</text:span><text:line-break/><text:span text:style-name="T3">Zâmbind din pragu-i înflorit.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și lacul, care oglindește</text:span><text:line-break/><text:span text:style-name="T3">Un colț din cerul infinit,</text:span><text:line-break/><text:span text:style-name="T3">Mă recunoaște, deși chipul</text:span><text:line-break/><text:span text:style-name="T3">Mi-l văd în ape-mbătrânit!</text:span><text:line-break/><text:span text:style-name="T3">Uite, cireșii din livadă,</text:span><text:line-break/><text:span text:style-name="T3">Din umbra-n care stau pitiți,</text:span><text:line-break/><text:span text:style-name="T3">Ce blând s-apleacă să mă vadă!</text:span><text:line-break/><text:span text:style-name="T3">O, câte crăci le-am rupt cu zmeul,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Cu câte pietre-n ei n-am dat,</text:span><text:line-break/><text:span text:style-name="T3">Dar toate toamnele trecute</text:span><text:line-break/><text:span text:style-name="T3">O primăvară le-a-ngropat!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și câinele de lângă vatră,</text:span><text:line-break/><text:span text:style-name="T3">Bătrân și el, m-a-ntâmpinat</text:span><text:line-break/><text:span text:style-name="T3">Neliniștit, dar nu mă latră.</text:span><text:line-break/><text:span text:style-name="T3">Pădurea, parcă de aramă</text:span><text:line-break/><text:span text:style-name="T3">În toamna care s-a lăsat,</text:span><text:line-break/><text:span text:style-name="T3">Pe glasul vântului mă cheamă.</text:span><text:line-break/><text:span text:style-name="T3">Ca niște păsări ostenite</text:span><text:line-break/><text:span text:style-name="T3">Se strâng un stol de amintiri,</text:span><text:line-break/><text:span text:style-name="T3">Și-un val de tainice simțiri</text:span><text:line-break/><text:span text:style-name="T3">În ochi o lacrimă-mi trimite...</text:span><text:line-break/><text:span text:style-name="T3">Podoaba florilor e moartă,</text:span><text:line-break/><text:span text:style-name="T3">Dar tot e veselă grădina</text:span><text:line-break/><text:span text:style-name="T3">Amurgu-și tremură lumina</text:span><text:line-break/><text:span text:style-name="T3">În frunza duzilor din poartă.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Aici e bine. Simt că viața</text:span><text:line-break/><text:span text:style-name="T3">Mi-ar curge lină și cuminte;</text:span><text:line-break/><text:span text:style-name="T3">Aici e bine. Mă simt tânăr</text:span><text:line-break/><text:span text:style-name="T3">Naiv și bun ca mai-nainte.</text:span><text:line-break/><text:span text:style-name="T3">Da, tot mi-e scump aicea: casa,</text:span><text:line-break/><text:span text:style-name="T3">Grădina, câmpul și pădurea.</text:span><text:line-break/><text:span text:style-name="T3">Dar ce gând rău îmi strigă-n taină:</text:span><text:line-break/><text:span text:style-name="T3">Că fericirea e aiurea?!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântecul omului </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Mă-ntorc zdrobit. Ce drum enorm!</text:span><text:line-break/><text:span text:style-name="T3">Vin dintr-o țară depărtată,</text:span><text:line-break/><text:span text:style-name="T3">Pe care harta n-o arată...</text:span><text:line-break/><text:span text:style-name="T3">Sunt obosit, aș vrea să dorm.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Sunt ani, sunt ani de când alerg</text:span><text:line-break/><text:span text:style-name="T3">Tot înainte, înainte!</text:span><text:line-break/><text:span text:style-name="T3">Cu-aceeași întrebare-n minte:</text:span><text:line-break/><text:span text:style-name="T3">De unde viu și unde merg?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și barca-mi nu mai e la fel,</text:span><text:line-break/><text:span text:style-name="T3">Iar pânzele-i imaculate,</text:span><text:line-break/><text:span text:style-name="T3">De la plecare, sunt pătate,</text:span><text:line-break/><text:span text:style-name="T3">Ca și o masă de hotel,</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">O mânam eu sau mă ducea</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">În voia vântului tot anul?</text:span><text:line-break/><text:span text:style-name="T3">Eram sau nu eu căpitanul</text:span><text:line-break/><text:span text:style-name="T3">Sărmanei bărci ce rătăcea?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">O amintire mi-a rămas:</text:span><text:line-break/><text:span text:style-name="T3">Țara nădejdii-n depărtare,</text:span><text:line-break/><text:span text:style-name="T3">Mi se părea atât de mare</text:span><text:line-break/><text:span text:style-name="T3">Și-am ocolit-o într-un ceas!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Un gând mă turbură, mâhnit,</text:span><text:line-break/><text:span text:style-name="T3">Ca un ecou de harfă spartă:</text:span><text:line-break/><text:span text:style-name="T3">E visul meu neîmplinit,</text:span><text:line-break/><text:span text:style-name="T3">E idealul meu de artă!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">În goana lui, izbit de stânci,</text:span><text:line-break/><text:span text:style-name="T3">Mă-ntorc la mal, mânat de soartă,</text:span><text:line-break/><text:span text:style-name="T3">Pe inimă c-o floare moartă,</text:span><text:line-break/><text:span text:style-name="T3">S-ascunză rănile-i adânci.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și-acum, în drumul spre mormânt,</text:span><text:line-break/><text:span text:style-name="T3">Privind amurgul arămiu,</text:span><text:line-break/><text:span text:style-name="T3">Când simt ce-aș fi putut să fiu,</text:span><text:line-break/><text:span text:style-name="T3">Mă-nduioșez văzând ce s</text:span><text:span text:style-name="T4">u</text:span><text:span text:style-name="T3">nt...</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Impresii de toamnă</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Pădurea vestejită în stânga mea coboară,</text:span><text:line-break/><text:span text:style-name="T3">Și-n dreapta, o colină se suie către zări,</text:span><text:line-break/><text:span text:style-name="T3">Sub roșul ce amurgul pe culmile-i strecoară.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">E toamnă pe sfârșite. Pe drum și pe cărări</text:span><text:line-break/><text:span text:style-name="T3">Zbor frunzele mânate de vântul ce le poartă</text:span><text:line-break/><text:span text:style-name="T3">Cum valul poartă barca pe zbuciumul de mări.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Trosnește câte-o cracă și-n umbră cade moartă;</text:span><text:line-break/><text:span text:style-name="T3">Săracul o să aibă la iarnă uscături:</text:span><text:line-break/><text:span text:style-name="T3">Natura se-ngrijește cu milă d-a lui soartă.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">O, fire nențeleasă, cum inima ne-o furi</text:span><text:line-break/><text:span text:style-name="T3">Cu moartea ta, sub care s-ascunde renviere,</text:span><text:line-break/><text:span text:style-name="T3">Tu, care, dintr-un mugur, dai viață la păduri!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Știi, oare, ce duioasă și tristă mângâiere</text:span><text:line-break/><text:span text:style-name="T3">E ordinea eternă, pe care-o-ntrezărim</text:span><text:line-break/><text:span text:style-name="T3">În frunza care naște și-n frunza care piere?</text:span><text:line-break/><text:soft-page-break/><text:line-break/><text:span text:style-name="T3">Doar ea mai ne adoarme durerea că murim!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Seară turbure</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Coboară seara peste câmpuri</text:span><text:line-break/><text:span text:style-name="T3">Cu ceața ei de toamnă. Mie</text:span><text:line-break/><text:span text:style-name="T3">Îmi clocotesc în minte gânduri</text:span><text:line-break/><text:span text:style-name="T3">De umbră și melancolie.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Cu ochii umezi, de la muncă,</text:span><text:line-break/><text:span text:style-name="T3">Spre sat vin boii în cirezi.</text:span><text:line-break/><text:span text:style-name="T3">Ce searbădă și goală-i viața,</text:span><text:line-break/><text:span text:style-name="T3">Ce van e visu-n care crezi!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ce de mai zbuciume și ură,</text:span><text:line-break/><text:span text:style-name="T3">Ce chin, ce lupte fărde rost!</text:span><text:line-break/><text:span text:style-name="T3">Dar într-o clipă moartea ninge</text:span><text:line-break/><text:span text:style-name="T3">Uitare peste tot ce-a fost.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Nimic din tot n-o să rămână,</text:span><text:line-break/><text:span text:style-name="T3">Din gând, din visul tău gigant...</text:span><text:line-break/><text:span text:style-name="T3">Ce-ai plăsmuit a fost țărână,</text:span><text:line-break/><text:span text:style-name="T3">Părere, umbră și neant!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și tu, fantomă de o clipă,</text:span><text:line-break/><text:span text:style-name="T3">Privind la lună, stele, cer,</text:span><text:line-break/><text:span text:style-name="T3">Te-nalță-n ura ta și țipă</text:span><text:line-break/><text:span text:style-name="T3">Blestemul celor care pier!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar pe când sufletul meu geme</text:span><text:line-break/><text:span text:style-name="T3">În prada groaznicei torturi,</text:span><text:line-break/><text:span text:style-name="T3">Senină, noaptea se așterne</text:span><text:line-break/><text:span text:style-name="T3">Pe deal, pe câmpuri și păduri!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Iar taina stelelor te-mbie</text:span><text:line-break/><text:span text:style-name="T3">La gânduri pașnice și clare;</text:span><text:line-break/><text:span text:style-name="T3">Și-ncet, încet îți schimbă ura</text:span><text:line-break/><text:span text:style-name="T3">În umilită adorare.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și-adânc pătruns de sfânta lege</text:span><text:line-break/><text:span text:style-name="T3">Ce-aprinde aștri-n golul boltei,</text:span><text:line-break/><text:span text:style-name="T3">De-odată sufletu-nțelege</text:span><text:line-break/><text:span text:style-name="T3">Deșertăciunile revoltei.</text:span><text:line-break/><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Și trist, dar liniștit, ascultă,</text:span><text:line-break/><text:span text:style-name="T3">Setos de vraja mângâierii,</text:span><text:line-break/><text:span text:style-name="T3">Cum cade dulce peste câmpuri</text:span><text:line-break/><text:span text:style-name="T3">Armoniosul imn al serii...</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Mamei</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Astă-seară simt în mine</text:span><text:line-break/><text:span text:style-name="T3">Clocotind trecutul mort:</text:span><text:line-break/><text:span text:style-name="T3">Lacrimi, visuri, tot amarul</text:span><text:line-break/><text:span text:style-name="T3">Ce în gând și-n suflet port.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Astă-seară moartea rece</text:span><text:line-break/><text:span text:style-name="T3">Mi-e atâta de aproape...</text:span><text:line-break/><text:span text:style-name="T3">Ca și lacrima ce-mi trece</text:span><text:line-break/><text:span text:style-name="T3">Arzătoare printre pleoape.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Obosit de râsul farsei</text:span><text:line-break/><text:span text:style-name="T3">Și scârbit de plânsul dramei,</text:span><text:line-break/><text:span text:style-name="T3">Văd cum alb, din întuneric,</text:span><text:line-break/><text:span text:style-name="T3">Se desprinde chipul mamei.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Numai ea pricepe zborul</text:span><text:line-break/><text:span text:style-name="T3">Sufletului meu, ce strâns-a</text:span><text:line-break/><text:span text:style-name="T3">Într-o lacrimă tot dorul</text:span><text:line-break/><text:span text:style-name="T3">De-a fi iarăși lângă dânsa,</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și de ce iert, în tăcere,</text:span><text:line-break/><text:span text:style-name="T3">Anul stins care mă-ndreaptă</text:span><text:line-break/><text:span text:style-name="T3">Și spre noaptea ce mă cere,</text:span><text:line-break/><text:span text:style-name="T3">Și spre mama ce așteaptă...</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Artist</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">S-a arat, s-a strâns porumbul, vița nu mai are struguri,</text:span><text:line-break/><text:span text:style-name="T3">Și câmpia parcă este o săracă dezbrăcată;</text:span><text:line-break/><text:span text:style-name="T3">Rarii vișini din grădină au de furcă pânla muguri,</text:span><text:line-break/><text:span text:style-name="T3">Și în locul blândei toamne, iarna dinții și-i arată.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Cu picioarele în umbra ce-mprejurul lui se-ntinde,</text:span><text:line-break/><text:span text:style-name="T3">Dar cu fruntea în lumina soarelui ce piere-n zări,</text:span><text:line-break/><text:span text:style-name="T3">Un scaiete-nalt și mândru, orizontul îl cuprinde</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Întrupând melancolia risipită pe cărări.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Până-n fundul vag al zării se lungește umbra mută,</text:span><text:line-break/><text:span text:style-name="T3">Și în jalea ce-nfășoară cerul sur și câmpul gol,</text:span><text:line-break/><text:span text:style-name="T3">Văzând soarele că-n clipa cea din urmă îl salută,</text:span><text:line-break/><text:span text:style-name="T3">Nu știu pentru ce scaietul mi-apăru ca un simbol.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Nocturnă</text:h>
+   <text:p text:style-name="lg">Pe sulițele ascuțite-a galbenelor trestii plouă<text:line-break/>Un tremur vag de lună nouă,<text:line-break/>Iar nuferii, când raza-i bate,<text:line-break/>Par, în acea singurătate<text:line-break/>Ce frica-ncepe s-o propage,<text:line-break/>Că-s niște mici arhipelage!<text:line-break/><text:line-break/>Pe lacu-n umbră se deșiră dantela lungă-a unei moarte...<text:line-break/>E ca o ceață ce s-așterne pe cuta undelor ușor,<text:line-break/>O stea ce pică face-o dungă și-argintul ei căzut departe<text:line-break/>Aprinde-o stranie lucire în părul umbrelor ce zbor.<text:line-break/><text:line-break/>Parcă bătăi de aripi albe tăcerea nopții o frământă,<text:line-break/>E ca o muzică ce-adoarme departe moartea unor crini,<text:line-break/>Or, tu, Ofelie-necată, în pacea undelor suspini,<text:line-break/>Și vântul care plânge-n sălcii e poate glasul tău ce cântă.<text:line-break/><text:line-break/>Atunci, din trestii, parcă șoapte<text:line-break/>Se înălțară-n miez de noapte.<text:line-break/> Nebun, zadarnic te-nfiori<text:line-break/>De vânt, de umbre și de flori,<text:line-break/>Și vrei pe alte căi s-apuci;<text:line-break/><text:line-break/>Ce-auzi, ce vezi nu sunt năluci;<text:line-break/>Nu-i glasul vântului ce-asculți<text:line-break/>Deși sunt moartă de ani mulți,<text:line-break/>Dantela care-o vezi pe apă<text:line-break/>Este lințoliul ce-mi scapă,<text:line-break/><text:soft-page-break/>Iar sub a apelor oglindă<text:line-break/>Vezi părul meu de alge lungi?<text:line-break/>Să te ferești să nu te prindă<text:line-break/>Că-n veci la mal nu mai ajungi.<text:line-break/><text:line-break/>În fundul lacului, sub unde<text:line-break/>Palatul moartei se ascunde,<text:line-break/>Iar când e cerul fără stele,<text:line-break/>De vezi spre lac un zbor de iele<text:line-break/>Și-auzi, târziu, în miez de noapte<text:line-break/>Cum se înalță tainici șoapte,<text:line-break/>Și-auzi din apă cum te cheamă<text:line-break/>Cu glasuri blânde, ca de mamă,<text:line-break/>Tu fugi și n-asculta la ele:<text:line-break/>Sunt clopotele de aramă<text:line-break/>Ce sună-n lac în orice noapte;<text:line-break/>Așa de-ncet și de departe,<text:line-break/>Dar ele sună-așa de-ncet,<text:line-break/>Ca din apuse veșnicii<text:line-break/>Că, de le-auzi sunând, să știi<text:line-break/>Că nu-i semn bun, e semn de moarte!<text:line-break/><text:line-break/>D-atunci în lacuri pe când luna târziu își tremură văpaia,<text:line-break/>Sus, pe clopotniță, departe, cobind s-aude cucuvaia.</text:p>
+   <text:p text:style-name="Trailer">Parepa, 1902</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">La curtea cu jurați </text:h>
+   <text:p text:style-name="lg">În fiecare dintre noi,<text:line-break/>În cel mai bun și mai senin,<text:line-break/>Ca drojdia în orice vin<text:line-break/>E un amestec de noroi!<text:line-break/><text:line-break/>Când vasul șade neclintit<text:line-break/><text:soft-page-break/>E vinul clar și-l bei voios,<text:line-break/>Uitând că drojdia stă jos.<text:line-break/>La fel e omul fericit.<text:line-break/><text:line-break/>Dar câți nenorociți nu cad<text:line-break/>Fărde voința lor în crime;<text:line-break/>Spăimântătoarele victime<text:line-break/>A căror viață e un iad!<text:line-break/><text:line-break/>Ei sunt ca vinul turburat;<text:line-break/>E viața lor cea zbuciumată,<text:line-break/>E drojdia întărâtată<text:line-break/>Care te-mpinge la păcat.</text:p>
+   <text:p text:style-name="Trailer">Piatra-N., 1904</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Poema ochilor </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Sunt ochi adânci ca un păcat</text:span><text:line-break/><text:span text:style-name="T3">Ce-ascund sub gene de-ntuneric</text:span><text:line-break/><text:span text:style-name="T3">Un vis, în negrul lor misteric,</text:span><text:line-break/><text:span text:style-name="T3">De-a pururi alb și nepătat.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Sunt ochi cu ape de smarald,</text:span><text:line-break/><text:span text:style-name="T3">Verzi, limpezi, reci ca valul mării,</text:span><text:line-break/><text:span text:style-name="T3">Și poate-n ei un suflet cald</text:span><text:line-break/><text:span text:style-name="T3">Și-neacă tainele-ntristării.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Sunt ochi de palidă virgină,</text:span><text:line-break/><text:span text:style-name="T3">Parcă măriți de suferinți,</text:span><text:line-break/><text:span text:style-name="T3">Ce-aruncă umbră peste minți,</text:span><text:line-break/><text:span text:style-name="T3">Din mângâioasă lor lumină.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Sunt ochi în care amintirea</text:span><text:line-break/><text:span text:style-name="T3">Iubirii ce i-a chinuit</text:span><text:line-break/><text:span text:style-name="T3">În globul lor cel mărginit</text:span><text:line-break/><text:span text:style-name="T3">A scăpărat nemărginirea.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar dintre toți, de mi-aș alege,</text:span><text:line-break/><text:span text:style-name="T3">lubirea-ntr-înșii să-mi răsfrâng,</text:span><text:line-break/><text:span text:style-name="T3">Liman al zilelor pribege</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Aș cere ochii care plâng.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Sonet</text:h>
+   <text:p text:style-name="P8"><text:span text:style-name="T3">Car dans linfini je veux vivre...</text:span><text:line-break/><text:span text:style-name="T3">Sans quon me le puisse ravir</text:span><text:line-break/><text:span text:style-name="T3">Ce ręve que je veux poursuivre.</text:span><text:line-break/><text:span text:style-name="T3">Et vais, imortellement ivre</text:span><text:line-break/><text:span text:style-name="T3">Pouvoir sans jamais massouvir</text:span><text:line-break/><text:span text:style-name="T3">Baiser tes lourds cheveux de cuivre.</text:span><text:line-break/><text:span text:style-name="T3">L. G.</text:span></text:p>
+   <text:p text:style-name="lg"><text:span text:style-name="T3">Ai cizelat în versuri magistrale</text:span><text:line-break/><text:span text:style-name="T3">Tăiate parcă-n prismele luminii,</text:span><text:line-break/><text:span text:style-name="T3">Ca și un nou Benvenuto Cellini</text:span><text:line-break/><text:span text:style-name="T3">Profilul grec al blondei ideale.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ți-ai rupt din suflet rozele și crinii,</text:span><text:line-break/><text:span text:style-name="T3">Ca să presari sub pașii ei petale,</text:span><text:line-break/><text:span text:style-name="T3">Și n-ai păstrat, poete, frunții tale</text:span><text:line-break/><text:span text:style-name="T3">Decât paloarea visului și spinii!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Urmează-ți visul tainic înainte!</text:span><text:line-break/><text:span text:style-name="T3">Ce-ți pasă dacă farmecu-i te minte</text:span><text:line-break/><text:span text:style-name="T3">Când inima-ți sub vraja lui tresaltă?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Să moară chiar, el moarte nu mai are,</text:span><text:line-break/><text:span text:style-name="T3">Căci l-a închis cu-a versului tău daltă</text:span><text:line-break/><text:span text:style-name="T3">În ritmul larg al strofei lapidare!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Paris</text:h>
+   <text:p text:style-name="Epigraph">Cu prilejul inundațiilor din 1910 (n. a.)</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Oraș de lumină și umbră, abis!</text:span><text:line-break/><text:span text:style-name="T3">Cetate de lacrimi, de râs și durere,</text:span><text:line-break/><text:span text:style-name="T3">Vast Babel de aur, noroi și plăcere,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Târg aprig în care virtuții-i e scris</text:span><text:line-break/><text:span text:style-name="T3">Genunchii să-și plece slăvitului aur,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Regină ce-mparte cununa de laur,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Bal veșnic destinul să fii ți-a prezis</text:span><text:line-break/><text:span text:style-name="T3">Și luxu-ți atâția săraci să hrănească,</text:span><text:line-break/><text:span text:style-name="T3">În ochi numai zâmbet, dar lacrimi sub mască,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Vast câmp de bătaie, circ pururi deschis,</text:span><text:line-break/><text:span text:style-name="T3">În care artistul dă luptă enormă</text:span><text:line-break/><text:span text:style-name="T3">Să-mbrace ideea în splendidă formă...</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Palat al femeii, modern paradis</text:span><text:line-break/><text:span text:style-name="T3">În care iubirea dă aripi speranței,</text:span><text:line-break/><text:span text:style-name="T3">Far magic al lumii și suflet al Franței,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dedal unde ochiul visează deschis,</text:span><text:line-break/><text:span text:style-name="T3">Calvar pentru geniu, dar și Pantheon,</text:span><text:line-break/><text:span text:style-name="T3">Voltaire, Victor Hugo, Balzac, Napoleon,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Izvor ce nu seacă de gânduri și vis,</text:span><text:line-break/><text:span text:style-name="T3">Râu veșnic ce-și poartă lumina prin lume,</text:span><text:line-break/><text:span text:style-name="T3">Și-nvață dreptatea prin cântec și glume,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Vestală impură! ștrengar bun de-nchis!</text:span><text:line-break/><text:span text:style-name="T3">Altar ce-ncunună orgia și arta!</text:span><text:line-break/><text:span text:style-name="T3">Tu, Memphis și Roma, Gomora și Sparta,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Când lumea întreagă spre tine-a trimis</text:span><text:line-break/><text:span text:style-name="T3">Al inimii aur și smirna simțirii,</text:span><text:line-break/><text:span text:style-name="T3">Ți-aduc, ca și magul, tămâia iubirii,</text:span><text:line-break/><text:span text:style-name="T3">Paris!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Ultima verba</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Sub noaptea fără stele, ce trist și-nalță glasul</text:span><text:line-break/><text:span text:style-name="T3">Acel care fusese Isus... Veniți, veniți!</text:span><text:line-break/><text:span text:style-name="T3">Toți morții din morminte sculați-vă, e ceasul!</text:span><text:line-break/><text:span text:style-name="T3">Vin taina s-o dezvălui din moarte vă treziți!</text:span><text:line-break/><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Și-atunci, din toată lumea, mulțimile-adormite,</text:span><text:line-break/><text:span text:style-name="T3">Sutimi și milioane de morți se deșteptau;</text:span><text:line-break/><text:span text:style-name="T3">Pe când de sub lințoliu enormele-i orbite,</text:span><text:line-break/><text:span text:style-name="T3">O tragică durere afară scăpărau...</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și el, mai trist ca-n noaptea când se ruga pe munte,</text:span><text:line-break/><text:span text:style-name="T3">Sub umbra tremurată a verzilor măslini,</text:span><text:line-break/><text:span text:style-name="T3">Când se roșise alba-i sudoare de pe frunte,</text:span><text:line-break/><text:span text:style-name="T3">Mai trist ca pe calvarul însângerat de spini,</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Le zise: Biată turmă în noapte rătăcită,</text:span><text:line-break/><text:span text:style-name="T3">Eu v-am mințit odată când vă spuneam că sus</text:span><text:line-break/><text:span text:style-name="T3">V-așteaptă după moarte o viață fericită,</text:span><text:line-break/><text:span text:style-name="T3">Căci Tatăl nostru nu e, și serafimii nu-s!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Eu vin din depărtarea neantului cea sumbră,</text:span><text:line-break/><text:span text:style-name="T3">De unde larma lumii se pierde-n infinit,</text:span><text:line-break/><text:span text:style-name="T3">Și viu ca să adaug o pagină de umbră</text:span><text:line-break/><text:span text:style-name="T3">La cartea de lumină ce-n vis am plăsmuit.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Să n-așteptați zadarnic fanfara-nvietoare,</text:span><text:line-break/><text:span text:style-name="T3">Căci cerul plin de îngeri e-o pânză de tablou...</text:span><text:line-break/><text:span text:style-name="T3">Eu rătăcesc de veacuri prin golul fără soare,</text:span><text:line-break/><text:span text:style-name="T3">Și chem și-a mea chemare e-n veci fără ecou!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar morții înălțară obrajii lor de ceară,</text:span><text:line-break/><text:span text:style-name="T3">Spre sfânta lui fantomă ce-atât au adorat,</text:span><text:line-break/><text:span text:style-name="T3">Și lacrimi de iubire picându-le, strigară:</text:span><text:line-break/><text:span text:style-name="T3">Isuse blând, stăpâne, fii binecuvântat!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Așa-i cântau în noapte virginile-n uimire;</text:span><text:line-break/><text:span text:style-name="T3">Șoptea și Magdalena: Fii binecuvântat!</text:span><text:line-break/><text:span text:style-name="T3">Căci moartea ne-a fost dulce în visul de iubire</text:span><text:line-break/><text:span text:style-name="T3">Pe care a ta vorbă în noi l-a semănat!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Martirii chiar în circuri zâmbeau cu nepăsare,</text:span><text:line-break/><text:span text:style-name="T3">Sub gura sângerată a leilor flămânzi,</text:span><text:line-break/><text:span text:style-name="T3">Și moartea fioroasă li se părea scăpare</text:span><text:line-break/><text:span text:style-name="T3">Când se gândeau la glasul și ochii lui cei blânzi.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și toți îngenuncheară: apostolul și magul,</text:span><text:line-break/><text:span text:style-name="T3">Și regele și sclavul, cel bun ca și cel rău,</text:span><text:line-break/><text:span text:style-name="T3">Și toți strigau: O, Doamne! pe când sporea șiragul,</text:span><text:line-break/><text:span text:style-name="T3">Mărire ție, veșnic slăvim numele tău!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Prin cerul gol trec albe divinele-ți himere,</text:span><text:line-break/><text:span text:style-name="T3">Și crucea ta e farul în haosul perfid.</text:span><text:line-break/><text:span text:style-name="T3">Mărire ție! pentru sublima mângâiere,</text:span><text:line-break/><text:span text:style-name="T3">C-ai fulgerat nădejdea în ochii ce se-nchid!</text:span><text:line-break/><text:soft-page-break/><text:line-break/><text:span text:style-name="T3">Și dacă azi vro lume, în negurile mute,</text:span><text:line-break/><text:span text:style-name="T3">Lipsită de credință spre moarte se înclină,</text:span><text:line-break/><text:span text:style-name="T3">Aruncă-ți de pe frunte lințoliul, și du-te</text:span><text:line-break/><text:span text:style-name="T3">Să-i porți spre mântuire minciuna ta divină!</text:span></text:p>
+   <text:p text:style-name="Trailer">Sinaia. 9 septembrie 1910</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Adâncuri</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Ce liniștit surâde lacul</text:span><text:line-break/><text:span text:style-name="T3">Sub caldul razelor de soare,</text:span><text:line-break/><text:span text:style-name="T3">Când ceru-albastru se răsfrânge</text:span><text:line-break/><text:span text:style-name="T3">În unda lui scânteietoare.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și-n fundul lui, noroiul negru</text:span><text:line-break/><text:span text:style-name="T3">Ascunde lupte îndârjite.</text:span><text:line-break/><text:span text:style-name="T3">Sunt mii de vieți ce se frământă</text:span><text:line-break/><text:span text:style-name="T3">Sub clarul apei adormite.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și noi zâmbim cu-nșelătoarea</text:span><text:line-break/><text:span text:style-name="T3">Seninătate-a unor unde.</text:span><text:line-break/><text:span text:style-name="T3">Ce calmi părem! Dar câte patimi</text:span><text:line-break/><text:span text:style-name="T3">Adâncul inimii n-ascunde!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Ocultă</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Adună un tragic mănunchi</text:span><text:line-break/><text:span text:style-name="T3">Din toate durerile tale</text:span><text:line-break/><text:span text:style-name="T3">Și-n noapte, pe munte, -n genunchi,</text:span><text:line-break/><text:span text:style-name="T3">Cu florile mistice-n mână,</text:span><text:line-break/><text:span text:style-name="T3">Sub cerul de lună și jale</text:span><text:line-break/><text:span text:style-name="T3">Cuvinte de rugă îngână!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Eu, Doamne, atâta îți cer:</text:span><text:line-break/><text:span text:style-name="T3">O rază din nalta-ți dreptate.</text:span><text:line-break/><text:span text:style-name="T3">Și când al tău glas va străbate</text:span><text:line-break/><text:span text:style-name="T3">Al nopții mister,</text:span><text:line-break/><text:span text:style-name="T3">De simți încă-n tine un rest</text:span><text:line-break/><text:span text:style-name="T3">Din sfânta, dar moarta credință,</text:span><text:line-break/><text:span text:style-name="T3">Un zeu o să prindă ființă</text:span><text:line-break/><text:span text:style-name="T3">Din al tău gest!</text:span></text:p>
+   <text:p text:style-name="Trailer"><text:soft-page-break/>Paris, 1905</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Poetul</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Fecioare dulci, e în zadar!</text:span><text:line-break/><text:span text:style-name="T3">Privirea voastră fermecată</text:span><text:line-break/><text:span text:style-name="T3">Și ale voastre jurăminte,</text:span><text:line-break/><text:span text:style-name="T3">Oricât de calde și de sfinte,</text:span><text:line-break/><text:span text:style-name="T3">Nu pot din drum să mă abată</text:span><text:line-break/><text:span text:style-name="T3">Căci e croit mai dinainte,</text:span><text:line-break/><text:span text:style-name="T3">Așa spinos și solitar...</text:span><text:line-break/><text:span text:style-name="T3">Un glas îmi strigă:</text:span><text:line-break/><text:span text:style-name="T3">Mergi! Nebun!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Puterii sfinte mă supun,</text:span><text:line-break/><text:span text:style-name="T3">Și fug, și fug în largul zării,</text:span><text:line-break/><text:span text:style-name="T3">Și fug în voia întâmplării</text:span><text:line-break/><text:span text:style-name="T3">P-aripa largă-a fanteziei,</text:span><text:line-break/><text:span text:style-name="T3">Călăuzit d-un singur dor:</text:span><text:line-break/><text:span text:style-name="T3">Sunt jidovul rătăcitor</text:span><text:line-break/><text:span text:style-name="T3">Al poeziei!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Legile eterne </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Isus dormea. Pe valuri urla o vijelie</text:span><text:line-break/><text:span text:style-name="T3">Și-apostolii văzându-l dormind nepăsător,</text:span><text:line-break/><text:span text:style-name="T3">Priveau cu înfiorare când cerul în mânie,</text:span><text:line-break/><text:span text:style-name="T3">Când apa, zbuciumată ca sufletele lor.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Lopețile scăpară din mâinile-obosite</text:span><text:line-break/><text:span text:style-name="T3">Și barca fără cârmă, prin haos lunecând,</text:span><text:line-break/><text:span text:style-name="T3">Pe chipurile pale de groază chinuite</text:span><text:line-break/><text:span text:style-name="T3">Cădea lumina stinsă a ultimului gând.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Isus dormea. Și spaima cât apa de adâncă</text:span><text:line-break/><text:span text:style-name="T3">Îi prefăcuse în biete năluci de țintirim,</text:span><text:line-break/><text:span text:style-name="T3">Și îndârjiți pe somnu-i ce nu zburase încă,</text:span><text:line-break/><text:span text:style-name="T3">Apostolii strigară: Stăpâne, -o să pierim!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar El deschise ochii. Privirea de lumină</text:span><text:line-break/><text:span text:style-name="T3">Asupră-le o clipă seninu-și revărsa.</text:span><text:line-break/><text:span text:style-name="T3">Și dulcea ei blândețe pe valuri când se-nclină,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Ce pace peste inimi și ape se lăsa!...</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și noi, munciți de groaza atâtor nențelesuri,</text:span><text:line-break/><text:span text:style-name="T3">Ne rătăcim pe marea gândirilor adânci,</text:span><text:line-break/><text:span text:style-name="T3">Luptăm cu vijelia eternelor eresuri,</text:span><text:line-break/><text:span text:style-name="T3">Bărci searbede, izbite de maluri și de stânci.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Aici orbiți d-un fulger, aici prin întuneric,</text:span><text:line-break/><text:span text:style-name="T3">Ne zbatem spre o țintă ce-n vis o-ntrezărim.</text:span><text:line-break/><text:span text:style-name="T3">Ani lungi ne minte umbra amorului himeric</text:span><text:line-break/><text:span text:style-name="T3">Și-n veci ne chinuiește durerea că murim.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">E calm doar înțeleptul. Doar El din norul ceții</text:span><text:line-break/><text:span text:style-name="T3">Privirea liniștită pe valuri și-o așterne,</text:span><text:line-break/><text:span text:style-name="T3">Știind că peste oameni, pe gând, pe clipa vieții</text:span><text:line-break/><text:span text:style-name="T3">Se lasă pacea largă a legilor eterne.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Se roagă cartea... </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Aruncați-mi o privire-ndurătoare!</text:span><text:line-break/><text:span text:style-name="T3">Biet volum, uitat de vreme și de lume,</text:span><text:line-break/><text:span text:style-name="T3">Fără scoarțe, fără titlu, fără nume...</text:span><text:line-break/><text:span text:style-name="T3">Sunt ruina unui secol care moare.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Poate sunt o carte dulce și intimă,</text:span><text:line-break/><text:span text:style-name="T3">Unde jalea unui suflet se răsfrânge,</text:span><text:line-break/><text:span text:style-name="T3">Poezia dureroasă care plânge</text:span><text:line-break/><text:span text:style-name="T3">O iubire nențeleasă și sublimă?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Am fost scrisă-n ceasuri albe de veghere,</text:span><text:line-break/><text:span text:style-name="T3">În genunchi lângă mormântul unei mame;</text:span><text:line-break/><text:span text:style-name="T3">Poate sunt dezlănțuirea unei drame</text:span><text:line-break/><text:span text:style-name="T3">Prinsă-n ritmul unui cântec de durere?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Cine știe câte lacrimi de fecioară</text:span><text:line-break/><text:span text:style-name="T3">N-au sorbit aceste pagini altădată...</text:span><text:line-break/><text:span text:style-name="T3">Câte inimi n-a făcut oare să bată</text:span><text:line-break/><text:span text:style-name="T3">Versul meu ce plânge trist ca o vioară?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Aruncați-mi o privire-ndurătoare,</text:span><text:line-break/><text:span text:style-name="T3">Cel puțin de-nduioșare la gândirea</text:span><text:line-break/><text:span text:style-name="T3">Că în mine îngropatu-și-a simțirea</text:span><text:line-break/><text:span text:style-name="T3">O ființă, o nălucă trecătoare!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Ultima simfonie </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Niște cântece-n surdină șir de note-abia șoptite,</text:span><text:line-break/><text:span text:style-name="T3">Voci d-argint și voci de aur de copii și de fecioare,</text:span><text:line-break/><text:span text:style-name="T3">Vagi acorduri rătăcite dintr-o muzică ce moare,</text:span><text:line-break/><text:span text:style-name="T3">Și ecoul prinde-n treacăt note-n zare risipite.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dureroasa fâșiere-a unor frunze veștejite,</text:span><text:line-break/><text:span text:style-name="T3">Tremurarea unor coarde mistice și plângătoare,</text:span><text:line-break/><text:span text:style-name="T3">Peste care un maestru plimbă degete ușoare,</text:span><text:line-break/><text:span text:style-name="T3">Evocând melancolia unei patimi năbușite.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Larma surdă și blajină a zăpezii ce s-așterne</text:span><text:line-break/><text:span text:style-name="T3">Punând albu-ndolierii peste negru-ngropăciunii,</text:span><text:line-break/><text:span text:style-name="T3">Voci de orgă, reci și grave cum sunt nopțile eterne.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">La mormântul meu această orchestrare vă implor:</text:span><text:line-break/><text:span text:style-name="T3">Fără lacrimi, fără vorbe și în ritmul rugăciunii,</text:span><text:line-break/><text:span text:style-name="T3">În tăcere și în noapte, să cobor, să cobor!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Pe un album... </text:h>
+   <text:p text:style-name="Epigraph">Domnișoarei X</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Gândesc și mâna mea ezită</text:span><text:line-break/><text:span text:style-name="T3">Să-mbrace-n slove de cerneală</text:span><text:line-break/><text:span text:style-name="T3">Simțirea caldă ce palpită</text:span><text:line-break/><text:span text:style-name="T3">Ca niște fire de beteală!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Mi-e frică. Pagina e albă</text:span><text:line-break/><text:span text:style-name="T3">Ca și un suflet de fecioară:</text:span><text:line-break/><text:span text:style-name="T3">Sub farmecul acestei spaime</text:span><text:line-break/><text:span text:style-name="T3">Ce fericire mă-nfioară!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Tot astfel, când o roză-și nalță</text:span><text:line-break/><text:span text:style-name="T3">Spre cer parfume neștiute,</text:span><text:line-break/><text:span text:style-name="T3">Rotește fluturele-n preajmă-i</text:span><text:line-break/><text:span text:style-name="T3">Și nu-ndrăznește s-o sărute.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Veni-vor mulți să spuie-n versuri:</text:span><text:line-break/><text:span text:style-name="T3">Că te iubesc și cum și cât!</text:span><text:line-break/><text:span text:style-name="T3">Vor scrie-o mai frumos ca mine</text:span><text:line-break/><text:span text:style-name="T3">Dar nu te vor iubi atât!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Moartea</text:h>
+   <text:p text:style-name="Epigraph">Condiția esențială a vieții e forma<text:line-break/>Pasteur</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Moartea, crinul ce se-nalță</text:span><text:line-break/><text:span text:style-name="T3">Pe morminte-abia săpate...</text:span><text:line-break/><text:span text:style-name="T3">Stea ce râde matinală</text:span><text:line-break/><text:span text:style-name="T3">Bătrâneții-mpovărate.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Poarta cerului și-a păcii...</text:span><text:line-break/><text:span text:style-name="T3">Drum ce-n taina-i o să poarte,</text:span><text:line-break/><text:span text:style-name="T3">Spre câmpiile veciei,</text:span><text:line-break/><text:span text:style-name="T3">Umbra sufletelor moarte.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Babel sumbru ce atrage</text:span><text:line-break/><text:span text:style-name="T3">Toate neamurile-ntr-însul,</text:span><text:line-break/><text:span text:style-name="T3">Și pe toți ce-i înspăimântă</text:span><text:line-break/><text:span text:style-name="T3">Remușcările sau plânsul.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Lac de umbră și uitare,</text:span><text:line-break/><text:span text:style-name="T3">Coasă rece-a tinereții,</text:span><text:line-break/><text:span text:style-name="T3">Mare-n care se revarsă</text:span><text:line-break/><text:span text:style-name="T3">Toate râurile vieții!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ia această carne, moarte!</text:span><text:line-break/><text:span text:style-name="T3">Lacrimi, visuri și argilă,</text:span><text:line-break/><text:span text:style-name="T3">Și prefă-o în țărână</text:span><text:line-break/><text:span text:style-name="T3">Fără formă, dar fertilă.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Pierde-o-n totul tău himeric!</text:span><text:line-break/><text:span text:style-name="T3">Și sub tremurul de astre</text:span><text:line-break/><text:span text:style-name="T3">Din nimicu-i fă să crească</text:span><text:line-break/><text:span text:style-name="T3">Visul florilor albastre.</text:span></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Romanțe și cantilene</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Farniente</text:h>
+   <text:p text:style-name="Epigraph">Mie însumi</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Nu sunt nici rău, nu sunt nici blând,</text:span><text:line-break/><text:span text:style-name="T3">Nu m-am târât, n-am pizmuit,</text:span><text:line-break/><text:span text:style-name="T3">Am fost și sunt un biet smintit</text:span><text:line-break/><text:span text:style-name="T3">Care visează chiar mergând.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Eu niciodată n-am muncit.</text:span><text:line-break/><text:span text:style-name="T3">Noaptea nu dorm și ziua casc,</text:span><text:line-break/><text:span text:style-name="T3">Poate-aș fi vrut să nu mă nasc,</text:span><text:line-break/><text:span text:style-name="T3">Dar nu mă plâng că n-am murit.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și nu știu dac-am suferit;</text:span><text:line-break/><text:span text:style-name="T3">N-am fost sărac, n-am fost bogat;</text:span><text:line-break/><text:span text:style-name="T3">Am și iubit, am și uitat,</text:span><text:line-break/><text:span text:style-name="T3">Am și uitat, am și iubit.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântec</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">De ce în seara asta clară,</text:span><text:line-break/><text:span text:style-name="T3">Ce lin se culcă peste văi,</text:span><text:line-break/><text:span text:style-name="T3">Mai cat o altă primăvară</text:span><text:line-break/><text:span text:style-name="T3">În ochii tăi?</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Privește: cerul cu pământul</text:span><text:line-break/><text:span text:style-name="T3">Parcă-s legați c-un brâu de sânge,</text:span><text:line-break/><text:span text:style-name="T3">Și printre brazi, când trece vântul,</text:span><text:line-break/><text:span text:style-name="T3">Plânge!</text:span><text:line-break/><text:soft-page-break/><text:line-break/><text:span text:style-name="T3">Deschide-ți inima de floare</text:span><text:line-break/><text:span text:style-name="T3">Când mângâierile-i te-ajung,</text:span><text:line-break/><text:span text:style-name="T3">Și fericirii trecătoare</text:span><text:line-break/><text:span text:style-name="T3">Zâmbește lung!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Amurgu-n părul tău aruncă</text:span><text:line-break/><text:span text:style-name="T3">Parcă-nadins umbră mai multă.</text:span><text:line-break/><text:span text:style-name="T3">Ce doină stinsă moare-n luncă:</text:span><text:line-break/><text:span text:style-name="T3">Ascultă!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Aș vrea, cum luna se ridică,</text:span><text:line-break/><text:span text:style-name="T3">De m-ai iubi în adevăr,</text:span><text:line-break/><text:span text:style-name="T3">Să-ți prind steluța care pică</text:span><text:line-break/><text:span text:style-name="T3">În păr!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Sunt lângă tine </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Sunt lângă tine, te iubesc</text:span><text:line-break/><text:span text:style-name="T3">Și văd cum altul te sărută,</text:span><text:line-break/><text:span text:style-name="T3">Și-n loc să țip eu vă zâmbesc</text:span><text:line-break/><text:span text:style-name="T3">C-o bucurie prefăcută...</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ca și cămila sunt, ce poartă,</text:span><text:line-break/><text:span text:style-name="T3">Prin largi pustiuri africane,</text:span><text:line-break/><text:span text:style-name="T3">Apa întregii caravane:</text:span><text:line-break/><text:span text:style-name="T3">Și ea de sete pică moartă.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Eu sunt un haos </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Eu sunt un haos de-ntuneric,</text:span><text:line-break/><text:span text:style-name="T3">Un biet smintit fără noroc.</text:span><text:line-break/><text:span text:style-name="T3">Tu cântă, glasul tău în noapte</text:span><text:line-break/><text:span text:style-name="T3">E ca o jerbie de foc!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Frumoaso, viața mea amară</text:span><text:line-break/><text:span text:style-name="T3">E lanț de chinuri și plânsori,</text:span><text:line-break/><text:span text:style-name="T3">Tu râzi, în trista mea sahară</text:span><text:line-break/><text:span text:style-name="T3">Din râsul tău vor crește flori!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Pe când în inima mea arsă</text:span><text:line-break/><text:span text:style-name="T3">Durerea-nfige dinți de șarpe,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Blândețea ochilor tăi varsă</text:span><text:line-break/><text:span text:style-name="T3">Melancolia unei harpe!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și e destul ca rochia-ți albă</text:span><text:line-break/><text:span text:style-name="T3">Într-o alee să tresară,</text:span><text:line-break/><text:span text:style-name="T3">Ca-n sufletu-mi de iarnă rece</text:span><text:line-break/><text:span text:style-name="T3">Să crească flori de primăvară!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântec de primăvară </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Visând la ochii dulci ai dragii mele,</text:span><text:line-break/><text:span text:style-name="T3">Am aruncat, spre casa ei trecând,</text:span><text:line-break/><text:span text:style-name="T3">Într-un mănunchi, albastre viorele</text:span><text:line-break/><text:span text:style-name="T3">Și dorul meu turburător de gând.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Un stol de rândunici gălăgioase</text:span><text:line-break/><text:span text:style-name="T3">L-au prins din zbor și-acum, în adevăr,</text:span><text:line-break/><text:span text:style-name="T3">Îți bat în geamuri, vesele, să-ți lase</text:span><text:line-break/><text:span text:style-name="T3">Amoru-n gând și florile în păr!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Lied</text:h>
+   <text:p text:style-name="Epigraph">Pentru mâinile palide</text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">O, dulce, dulce mână fină,</text:span><text:line-break/><text:span text:style-name="T3">Și care niciodată</text:span><text:line-break/><text:span text:style-name="T3">Nu vei lăsa a ta lumină</text:span><text:line-break/><text:span text:style-name="T3">Pe fruntea mea nemângâiată!</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">O, mâini al căror veșnic gest</text:span><text:line-break/><text:span text:style-name="T3">De milă și iertare,</text:span><text:line-break/><text:span text:style-name="T3">Atrage buzele-ntr-un gând</text:span><text:line-break/><text:span text:style-name="T3">Senin de adorare!</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Mâini tinere ce au în tonul</text:span><text:line-break/><text:span text:style-name="T3">Străvăzător de ceară mat</text:span><text:line-break/><text:span text:style-name="T3">Ceva din mistica paloare</text:span><text:line-break/><text:span text:style-name="T3">A unui zeu crucificăt.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">O, mâini a căror frumusețe</text:span><text:line-break/><text:span text:style-name="T3">Am adorat-o în extaz,</text:span><text:line-break/><text:span text:style-name="T3">Simțind un val de tinerețe</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Că mi se urcă în obraz,</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Spre voi înalț o rugăciune:</text:span><text:line-break/><text:span text:style-name="T3">O, albe mâini nevinovate!</text:span><text:line-break/><text:span text:style-name="T3">Cădeți pe inima-mi odată,</text:span><text:line-break/><text:span text:style-name="T3">Ca să-nceteze d-a mai bate!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Târziu, când vei dormi... </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Târziu, când vei dormi sub trandafirul</text:span><text:line-break/><text:span text:style-name="T3">Din cimitirul</text:span><text:line-break/><text:span text:style-name="T3">Unde te vor duce,</text:span><text:line-break/><text:span text:style-name="T3">Ca să rămâi, un nume pe o cruce,</text:span><text:line-break/><text:span text:style-name="T3">S-o veșteji în ochii tăi safirul</text:span><text:line-break/><text:span text:style-name="T3">Ce-ți lumina privirea nențeleasă,</text:span><text:line-break/><text:span text:style-name="T3">Iubita mea mireasă!</text:span><text:line-break/><text:span text:style-name="T3">Eu voi fi mort cu mult mai înainte.</text:span><text:line-break/><text:span text:style-name="T3">Și mă-nfior, gândind că n-o să fie</text:span><text:line-break/><text:span text:style-name="T3">Măcar un gând, un gând în lumea vie,</text:span><text:line-break/><text:span text:style-name="T3">Să spuie iar, cu-a florilor cuvinte</text:span><text:line-break/><text:span text:style-name="T3">Din poezii, divina-ți frumusețe,</text:span><text:line-break/><text:span text:style-name="T3">Căci vai, uitarea neagră o să-nghețe,</text:span><text:line-break/><text:span text:style-name="T3">Când voi dormi în tristul meu sicriu,</text:span><text:line-break/><text:span text:style-name="T3">Chiar amintirea strofelor ce-ți scriu!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Frica poetului </text:h>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Te iubesc adânc, copilă, și de mult</text:span><text:line-break/><text:span text:style-name="T3">Dar niciodată</text:span><text:line-break/><text:span text:style-name="T3">N-am lăsat un gest să spună</text:span><text:line-break/><text:span text:style-name="T3">Dulcea taină ce mă-mbată.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Tânără, copil aproape,</text:span><text:line-break/><text:span text:style-name="T3">E mai bine să nu știi</text:span><text:line-break/><text:span text:style-name="T3">Ce dureri nenchipuite</text:span><text:line-break/><text:span text:style-name="T3">Ard iubirile târzii.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Noaptea însă, când voința</text:span><text:line-break/><text:span text:style-name="T3">Și gândirea aiurează,</text:span><text:line-break/><text:span text:style-name="T3">În odaia mea te-aduce</text:span><text:line-break/><text:span text:style-name="T3">Visul meu și te-ntrupează.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Simt cum vii și cum te-apropii,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Tremuri toată și te-apleci;</text:span><text:line-break/><text:span text:style-name="T3">În privirea mea tot gândul</text:span><text:line-break/><text:span text:style-name="T3">Și destinul să-ți îneci.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Apoi mijlocul subțire</text:span><text:line-break/><text:span text:style-name="T3">Ți-l mlădii ca-ntr-o gavotă,</text:span><text:line-break/><text:span text:style-name="T3">Și nu știu pe pian sau buze</text:span><text:line-break/><text:span text:style-name="T3">Rătăcește-ntâia notă...</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">De când visurile astea</text:span><text:line-break/><text:span text:style-name="T3">Cu beția lor mă-nving,</text:span><text:line-break/><text:span text:style-name="T3">Fug de tine, mâna albă</text:span><text:line-break/><text:span text:style-name="T3">Chiar mă tem să ți-o ating.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T3">Și mi-e frică deodată,</text:span><text:line-break/><text:span text:style-name="T3">În privirea ta cuminte</text:span><text:line-break/><text:span text:style-name="T3">Să nu văd, cuprins de groază,</text:span><text:line-break/><text:span text:style-name="T3">Că și tu ți-aduci aminte.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Visez o iubire </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Visez o iubire străină</text:span><text:line-break/><text:span text:style-name="T3">De orice pornire vulgară,</text:span><text:line-break/><text:span text:style-name="T3">Aștept fermecat să-mi răsară</text:span><text:line-break/><text:span text:style-name="T3">Etern adorata virgină,</text:span><text:line-break/><text:span text:style-name="T3">Frumoasă ca noaptea de vară,</text:span><text:line-break/><text:span text:style-name="T3">Ca noaptea de vară senină.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">O văd dezlipindu-se sfântă</text:span><text:line-break/><text:span text:style-name="T3">Din zarea ce-n alb o-nfășoară,</text:span><text:line-break/><text:span text:style-name="T3">O simt cum spre mine, ușoară,</text:span><text:line-break/><text:span text:style-name="T3">Se-ndreaptă sub vraja ce cântă</text:span><text:line-break/><text:span text:style-name="T3">În ochii adânci de fecioară!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ea nu știe nici cine este,</text:span><text:line-break/><text:span text:style-name="T3">De lume nimica nu știe,</text:span><text:line-break/><text:span text:style-name="T3">Și, -mpinsă de-o dulce magie,</text:span><text:line-break/><text:span text:style-name="T3">Se rupe din larga vecie</text:span><text:line-break/><text:span text:style-name="T3">Să-mi facă din viață poveste!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Mai bine dormeai nentrupată</text:span><text:line-break/><text:span text:style-name="T3">Năluca visărilor mele,</text:span><text:line-break/><text:span text:style-name="T3">Mai bine visai printre stele</text:span><text:line-break/><text:span text:style-name="T3">De doru-mi etern căutată,</text:span><text:line-break/><text:span text:style-name="T3">Căci lumea e haos de rele...</text:span><text:line-break/><text:span text:style-name="T3">Mai bine dormeai nentrupată.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Tinerețea mea </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Tinerețea mea acum</text:span><text:line-break/><text:span text:style-name="T3">Parcă este o ruină,</text:span><text:line-break/><text:span text:style-name="T3">Abătută de la drum</text:span><text:line-break/><text:span text:style-name="T3">Pe o creastă de colină.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Sub ferestre nu mai cântă</text:span><text:line-break/><text:span text:style-name="T3">Rândunicile zglobii...</text:span><text:line-break/><text:span text:style-name="T3">Prin grădină se frământă</text:span><text:line-break/><text:span text:style-name="T3">Vântul serii-n bălării.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și când țipă cucuvaia</text:span><text:line-break/><text:span text:style-name="T3">Mi se pare, tremurând,</text:span><text:line-break/><text:span text:style-name="T3">Că e glasul tinereții</text:span><text:line-break/><text:span text:style-name="T3">Veștejite prea curând!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Romanță</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Iubirea mea nu-i zvon de șoapte,</text:span><text:line-break/><text:span text:style-name="T3">Nici mandolină pe sub geamuri,</text:span><text:line-break/><text:span text:style-name="T3">E vânt sălbatic, vânt de noapte,</text:span><text:line-break/><text:span text:style-name="T3">Ce smulge flori și frânge ramuri.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">De-ți place urletul furtunii</text:span><text:line-break/><text:span text:style-name="T3">Și balul mării-nfuriate,</text:span><text:line-break/><text:span text:style-name="T3">Cu frică pleacă-te spre iadul</text:span><text:line-break/><text:span text:style-name="T3">În care dorul meu se zbate.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar dacă-n inima ta plină</text:span><text:line-break/><text:span text:style-name="T3">Nu-ncap simțirile eterne,</text:span><text:line-break/><text:span text:style-name="T3">Atunci înfundă-ți capu-n perne</text:span><text:line-break/><text:span text:style-name="T3">Și-adormi în cânt de mandolină!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">De când te-ai dus </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">De când te-ai dus,</text:span><text:line-break/><text:span text:style-name="T3">Eu parcă sunt un cuib pustiu,</text:span><text:line-break/><text:span text:style-name="T3">Sau mortul rece în sicriu</text:span><text:line-break/><text:span text:style-name="T3">Pus.</text:span><text:line-break/><text:soft-page-break/><text:line-break/><text:span text:style-name="T3">Sau un izvor</text:span><text:line-break/><text:span text:style-name="T3">Uitat sub ramuri despuiate,</text:span><text:line-break/><text:span text:style-name="T3">În care frunzele picate</text:span><text:line-break/><text:span text:style-name="T3">Mor!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">De când te-ai dus,</text:span><text:line-break/><text:span text:style-name="T3">Eu sunt un leagăn întristat,</text:span><text:line-break/><text:span text:style-name="T3">Din care pruncul a zburat</text:span><text:line-break/><text:span text:style-name="T3">... Sus!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Curtezanei</text:h>
+   <text:p text:style-name="Epigraph">Innominata</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Nu sărutările perfide...</text:span><text:line-break/><text:span text:style-name="T3">Dă-mi ochi-ți sumbru labirint</text:span><text:line-break/><text:span text:style-name="T3">În care patima deschide</text:span><text:line-break/><text:span text:style-name="T3">Neantul viselor ce mint.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dă-mi ochii tăi, adânci ca marea,</text:span><text:line-break/><text:span text:style-name="T3">Peste-al lor haos să m-aplec,</text:span><text:line-break/><text:span text:style-name="T3">Să sorb dintr-înșii nepăsarea</text:span><text:line-break/><text:span text:style-name="T3">Și amintirile să-nec.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">A mea privire când străbate</text:span><text:line-break/><text:span text:style-name="T3">Adâncul lor mă înfior;</text:span><text:line-break/><text:span text:style-name="T3">Oh! câte suflete-necate</text:span><text:line-break/><text:span text:style-name="T3">Nu rătăcesc în apa lor!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Te-am visat, o, madonă... </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Te-am visat, o, madonă cuminte,</text:span><text:line-break/><text:span text:style-name="T3">Cântând în balconul ducal</text:span><text:line-break/><text:span text:style-name="T3">O arie fără cuvinte,</text:span><text:line-break/><text:span text:style-name="T3">Sub cerul senin de opal.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și cântecul tău fără sens</text:span><text:line-break/><text:span text:style-name="T3">Avea o armonie divină,</text:span><text:line-break/><text:span text:style-name="T3">Madonă cu ochi de lumină</text:span><text:line-break/><text:span text:style-name="T3">Ca și un tablou de Rubens!</text:span><text:line-break/><text:soft-page-break/><text:line-break/><text:span text:style-name="T3">Erai castelana slăvită</text:span><text:line-break/><text:span text:style-name="T3">Ce-așteaptă pe soțul ei brav;</text:span><text:line-break/><text:span text:style-name="T3">Eu, tot trubadur și tot sclav,</text:span><text:line-break/><text:span text:style-name="T3">Tot inimă nenorocită...</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Te-am visat, o, madonă cuminte,</text:span><text:line-break/><text:span text:style-name="T3">Cântând în balconul ducal</text:span><text:line-break/><text:span text:style-name="T3">O arie fără cuvinte,</text:span><text:line-break/><text:span text:style-name="T3">Sub cerul senin de opal!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Din Heine </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Din lacrimile mele nasc</text:span><text:line-break/><text:span text:style-name="T3">Grădini întregi de albe flori,</text:span><text:line-break/><text:span text:style-name="T3">Pe când suspinele-mi se schimbă</text:span><text:line-break/><text:span text:style-name="T3">În cântec de privighetori.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și tu, de m-ai iubi, drăguță,</text:span><text:line-break/><text:span text:style-name="T3">Grădina-ntreagă-ar fi a ta,</text:span><text:line-break/><text:span text:style-name="T3">Și veșnic numai sub fereastră-ți</text:span><text:line-break/><text:span text:style-name="T3">Privighetorile-ar cânta.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cantilenă</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Iubita mea e moartă</text:span><text:line-break/><text:span text:style-name="T3">Și-n păr c-un trandafir,</text:span><text:line-break/><text:span text:style-name="T3">Încet, încet, o poartă,</text:span><text:line-break/><text:span text:style-name="T3">Un dric spre cimitir.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ea doarme albă, albă</text:span><text:line-break/><text:span text:style-name="T3">Ca florile de crin,</text:span><text:line-break/><text:span text:style-name="T3">Purtând la gât sub salbă</text:span><text:line-break/><text:span text:style-name="T3">O cruce de rubin.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Adânc mormânt îi sapă</text:span><text:line-break/><text:span text:style-name="T3">Gropar, pentru sicriu,</text:span><text:line-break/><text:span text:style-name="T3">Ca doi în el să-ncapă:</text:span><text:line-break/><text:span text:style-name="T3">O moartă și un viu.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Lied</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Aș vrea să scriu,</text:span><text:line-break/><text:span text:style-name="T3">Ca Heinric Heine,</text:span><text:line-break/><text:span text:style-name="T3">Un lied;</text:span><text:line-break/><text:span text:style-name="T3">În care pentru veci să-nchid,</text:span><text:line-break/><text:span text:style-name="T3">Ca-ntr-un sicriu,</text:span><text:line-break/><text:span text:style-name="T3">A mele taine</text:span><text:line-break/><text:span text:style-name="T3">Cum a făcut poetul Heinric Heine.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Să nu fie cuvinte-n el</text:span><text:line-break/><text:span text:style-name="T3">Și nici versificări savante,</text:span><text:line-break/><text:span text:style-name="T3">Doar lacrime ce s-au schimbat</text:span><text:line-break/><text:span text:style-name="T3">În diamante.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar nu jelire de mișel</text:span><text:line-break/><text:span text:style-name="T3">Ce plânge ca să-ți facă milă</text:span><text:line-break/><text:span text:style-name="T3">De mila lumii mi-este silă.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Îmi place lacrima tăcută</text:span><text:line-break/><text:span text:style-name="T3">Ce-ngroapă-n ea durerea mută,</text:span><text:line-break/><text:span text:style-name="T3">Și care-ascunde-ntr-însa taine</text:span><text:line-break/><text:span text:style-name="T3">Precum un lied de Heinric Heine!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Floarea mistică </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Vă întoarceți de la câmp și de la munte</text:span><text:line-break/><text:span text:style-name="T3">Cu flori albastre-n ochi și flori pe frunte,</text:span><text:line-break/><text:span text:style-name="T3">Și râdeți fericite și cântați,</text:span><text:line-break/><text:span text:style-name="T3">Cântați, cântați întruna și jucați.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Iar eu ca și un cerșetor încremenit,</text:span><text:line-break/><text:span text:style-name="T3">De-a lungul drumului cel lung și prăfuit,</text:span><text:line-break/><text:span text:style-name="T3">Cu glas mâhnit, un cântec rugător</text:span><text:line-break/><text:span text:style-name="T3">Îngân mereu, și-o floare vă implor.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">O floare e prinosul ce vă cer!</text:span><text:line-break/><text:span text:style-name="T3">Vă cer numai o floare, vă-ndurați,</text:span><text:line-break/><text:span text:style-name="T3">Și din mănunchiul vostru aruncați</text:span><text:line-break/><text:span text:style-name="T3">O floare cântărețului stingher!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Pe sâni la voi, o floare nu trăiește</text:span><text:line-break/><text:span text:style-name="T3">Decât o zi, un ceas și veștejește.</text:span><text:line-break/><text:span text:style-name="T3">Pe când la mine floarea voastră rară</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Din iarna mea va face primăvară!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Pentru ochii tăi... </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Pentru ochii tăi cei dulci</text:span><text:line-break/><text:span text:style-name="T3">O să scriu niște povești.</text:span><text:line-break/><text:span text:style-name="T3">Numai tu să le citești</text:span><text:line-break/><text:span text:style-name="T3">Când mergi seara să te culci.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ritmul lor să fie lin,</text:span><text:line-break/><text:span text:style-name="T3">Drăgălaș, adormitor,</text:span><text:line-break/><text:span text:style-name="T3">Ca o șoaptă de amor</text:span><text:line-break/><text:span text:style-name="T3">Ce se pierde-ntr-un suspin.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Frumoasa mea... </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Frumoasa mea, cu ochii verzi</text:span><text:line-break/><text:span text:style-name="T3">Ca două mistice smaralde,</text:span><text:line-break/><text:span text:style-name="T3">Te duci spre alte țări mai calde</text:span><text:line-break/><text:span text:style-name="T3">Melancolia să ți-o pierzi.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar dacă vrei să mă dezmierzi,</text:span><text:line-break/><text:span text:style-name="T3">Mai fă o dată să mă scalde</text:span><text:line-break/><text:span text:style-name="T3">Priviri din ochii tăi cei verzi</text:span><text:line-break/><text:span text:style-name="T3">Ca două mistice smaralde.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Veni-vor mulți să-ți spuie-n versuri</text:span><text:line-break/><text:span text:style-name="T3">Că te iubesc, și cum, și cât:</text:span><text:line-break/><text:span text:style-name="T3">Vor spune-o mai frumos ca mine,</text:span><text:line-break/><text:span text:style-name="T3">Dar nu te vor iubi atât!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Strofe</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Un steag, iubito, am zărit,</text:span><text:line-break/><text:span text:style-name="T3">Un steag de gloanțe ciuruit,</text:span><text:line-break/><text:span text:style-name="T3">Și petele-i de sânge-n soare</text:span><text:line-break/><text:span text:style-name="T3">Se răsfățau triumfătoare.</text:span><text:line-break/><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Ca steagul ăsta zdrențuit,</text:span><text:line-break/><text:span text:style-name="T3">De dor mi-e sufletul rănit;</text:span><text:line-break/><text:span text:style-name="T3">Dar el în soare nu-și arată</text:span><text:line-break/><text:span text:style-name="T3">Ce largă-i rana sângerată,</text:span><text:line-break/><text:span text:style-name="T3">Ci-n umbră, singur, în tăcere,</text:span><text:line-break/><text:span text:style-name="T3">Așteaptă, suferă și piere.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Un cântec, numai unul... </text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Un cântec, numai unul încă,</text:span><text:line-break/><text:span text:style-name="T3">Și-n urmă, inimă, tăcere;</text:span><text:line-break/><text:span text:style-name="T3">Aș vrea s-ascult a mea durere</text:span><text:line-break/><text:span text:style-name="T3">Cum plânge-n taina ei adâncă.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Un cântec, numai unul încă,</text:span><text:line-break/><text:span text:style-name="T3">Dar blând ca și o mângâiere,</text:span><text:line-break/><text:span text:style-name="T3">Că poate va avea putere</text:span><text:line-break/><text:span text:style-name="T3">Să-nmoaie inima-i de stâncă.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Cântecul Malenei </text:h>
+   <text:p text:style-name="Epigraph">Celei care toarce la geamuri</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">În zori de zi am fost izvorul</text:span><text:line-break/><text:span text:style-name="T3">Cel șoptitor prin viorele;</text:span><text:line-break/><text:span text:style-name="T3">Și mi-era unda mai albastră</text:span><text:line-break/><text:span text:style-name="T3">Ca cerul plin de rândunele!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar la amiazi a vrut iubirea</text:span><text:line-break/><text:span text:style-name="T3">Spre mine farmecul să-și poarte,</text:span><text:line-break/><text:span text:style-name="T3">Și-acum mi-e apa turburată</text:span><text:line-break/><text:span text:style-name="T3">Și toate florile sunt moarte!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Iar dacă tu te uiți prin ramuri</text:span><text:line-break/><text:span text:style-name="T3">Deseară când sfârșești de tors</text:span><text:line-break/><text:span text:style-name="T3">Și vezi o lacrimă pe geamuri,</text:span><text:line-break/><text:span text:style-name="T3">Sunt eu, ce poate m-am întors!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Epitalam</text:h>
+   <text:p text:style-name="Epigraph">Unei perechi fericite</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">V-așteaptă barca-mpodobită</text:span><text:line-break/><text:span text:style-name="T3">De flori muiate-n plâns de rouă,</text:span><text:line-break/><text:span text:style-name="T3">Tu și mireasa ta iubită</text:span><text:line-break/><text:span text:style-name="T3">Porniți voioși spre-o lume nouă!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Să n-aveți frică-n largul mării;</text:span><text:line-break/><text:span text:style-name="T3">Ca să învingeți valul vieții,</text:span><text:line-break/><text:span text:style-name="T3">Aveți virtutea tinereții</text:span><text:line-break/><text:span text:style-name="T3">Și mângâierea sărutării!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Tu ești frumoasă, el cuminte,</text:span><text:line-break/><text:span text:style-name="T3">Râvnesc la fericirea voastră;</text:span><text:line-break/><text:span text:style-name="T3">Dar iată marea e albastră</text:span><text:line-break/><text:span text:style-name="T3">Și pânza-ntinsă. Înainte!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Spre ținta vieții-mbrățișați,</text:span><text:line-break/><text:span text:style-name="T3">Zburați pe aripa iubirii,</text:span><text:line-break/><text:span text:style-name="T3">Aș vrea, în țara fericirii,</text:span><text:line-break/><text:span text:style-name="T3">Să ancorați!</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Lied</text:h>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Aideți, cântece de toamnă,</text:span><text:line-break/><text:span text:style-name="T3">Flori de vis și vreme rea,</text:span><text:line-break/><text:span text:style-name="T3">Aideți, dulcea voastră doamnă</text:span><text:line-break/><text:span text:style-name="T3">Să v-asculte nu mai vrea.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">E copil, vrea să petreacă</text:span><text:line-break/><text:span text:style-name="T3">Și râzând să fure minți,</text:span><text:line-break/><text:span text:style-name="T3">Vouă glasul vi-l îneacă</text:span><text:line-break/><text:span text:style-name="T3">Plânsul mutei suferinți.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Aideți și când pacea serii</text:span><text:line-break/><text:span text:style-name="T3">De urât vă ține-n mers,</text:span><text:line-break/><text:span text:style-name="T3">Voi să nu cerșiți durerii</text:span><text:line-break/><text:span text:style-name="T3">Mângâierea vreunui vers!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Poate-n seara fumurie,</text:span><text:line-break/><text:span text:style-name="T3">Strânsă-n șoldurile rochii,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">Către voi să-și plece ochii</text:span><text:line-break/><text:span text:style-name="T3">Arși d-o lacrimă târzie.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Dar atunci voi fi departe;</text:span><text:line-break/><text:span text:style-name="T3">Și-n pustiul nepăsării</text:span><text:line-break/><text:span text:style-name="T3">Voi opune-n van uitării</text:span><text:line-break/><text:span text:style-name="T3">Amintirile deșarte.</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și târziu, poate-ntr-o carte,</text:span><text:line-break/><text:span text:style-name="T3">Voi închide-n ritmuri vagi</text:span><text:line-break/><text:span text:style-name="T3">Visul ochilor ei dragi</text:span><text:line-break/><text:span text:style-name="T3">Și iubirea-mi fără parte!</text:span></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Serenade și madrigale</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Serenadă</text:h>
+   <text:p text:style-name="Epigraph">Domnișoarei Lily Istrati</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T3">Ca să-ți cânt dintr-o chitară</text:span><text:line-break/><text:span text:style-name="T3">Sub fereastră ți-am venit.</text:span><text:line-break/><text:span text:style-name="T3">Era vară!</text:span><text:line-break/><text:span text:style-name="T3">Liliacul înflorit</text:span><text:line-break/><text:span text:style-name="T3">Și cu rozele semețe</text:span><text:line-break/><text:span text:style-name="T3">Risipeau printre alei</text:span><text:line-break/><text:span text:style-name="T3">Un fior de tinerețe.</text:span><text:line-break/><text:span text:style-name="T3">Iar în părul tău cel blond</text:span><text:line-break/><text:span text:style-name="T3">Caldul soare vagabond,</text:span><text:line-break/><text:span text:style-name="T3">Raza vrând să-și poleiască,</text:span><text:line-break/><text:span text:style-name="T3">S-a-ncurcat în adevăr,</text:span><text:line-break/><text:span text:style-name="T3">Și-n zadar vrea să ghicească</text:span><text:line-break/><text:span text:style-name="T3">În al buclelor tezaur,</text:span><text:line-break/><text:span text:style-name="T3">Care-i raza lui de aur,</text:span><text:line-break/><text:span text:style-name="T3">Care-i firul tău de păr!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Viu și astăzi, din chitară</text:span><text:line-break/><text:span text:style-name="T3">Să-ți mai cânt ca astă-vară</text:span><text:line-break/><text:span text:style-name="T3">Serenade,</text:span><text:line-break/><text:span text:style-name="T3">Însă, vai, găsesc în poartă</text:span><text:line-break/><text:span text:style-name="T3">Frunza moartă!</text:span><text:line-break/><text:span text:style-name="T3">Toamna cade!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Ploaia cerne; ceața deasă</text:span><text:line-break/><text:span text:style-name="T3">Tristă, umedă se lasă,</text:span><text:line-break/><text:span text:style-name="T3">Pe cărare e noroi,</text:span><text:line-break/><text:span text:style-name="T3">Și sub zarea cenușie</text:span><text:line-break/><text:span text:style-name="T3">Toamna rochia și-o sfâșie</text:span><text:line-break/><text:span text:style-name="T3">-N pomii goi!</text:span><text:line-break/><text:span text:style-name="T3">Sub balcon când se ridică</text:span><text:line-break/><text:span text:style-name="T3">Glasul meu pătruns de frică,</text:span><text:line-break/><text:soft-page-break/><text:span text:style-name="T3">De la geamul tău, iubită,</text:span><text:line-break/><text:span text:style-name="T3">Pică-o floare veștejită.</text:span><text:line-break/><text:span text:style-name="T3">Atunci inima-mi se frânge</text:span><text:line-break/><text:span text:style-name="T3">Și-un ecou departe plânge!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și-n zadar mă lupt în vânt</text:span><text:line-break/><text:span text:style-name="T3">Să dau coardelor cuvânt,</text:span><text:line-break/><text:span text:style-name="T3">Din chitara mea mâhnită</text:span><text:line-break/><text:span text:style-name="T3">Nota zboară, rătăcește</text:span><text:line-break/><text:span text:style-name="T3">Și de geamuri se izbește</text:span><text:line-break/><text:span text:style-name="T3">Ca o pasăre rănită!</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Cum neaua-ncepe să s-aștearnă</text:span><text:line-break/><text:span text:style-name="T3">Mi-e frig în suflet, nu știu ce-am,</text:span><text:line-break/><text:span text:style-name="T3">Zadarnic te mai cat la geam,</text:span><text:line-break/><text:span text:style-name="T3">Azi e iarnă!</text:span><text:line-break/><text:span text:style-name="T3">S-a-ntunecat a toamnei ceață,</text:span><text:line-break/><text:span text:style-name="T3">Pe strune mâinile-mi îngheață,</text:span><text:line-break/><text:span text:style-name="T3">N-o să mă vezi de azi-nainte</text:span><text:line-break/><text:span text:style-name="T3">Cu flori în păr și în cuvinte,</text:span><text:line-break/><text:span text:style-name="T3">Căci, vai, balconul ți-e-nflorit</text:span><text:line-break/><text:span text:style-name="T3">Cu reci podoabe de zăpadă,</text:span><text:line-break/><text:line-break/><text:span text:style-name="T3">Și-n noaptea care stă să cadă</text:span><text:line-break/><text:span text:style-name="T3">Tu ai uitat că m-ai iubit;</text:span><text:line-break/><text:span text:style-name="T3">Și neaua-ncepe să s-aștearnă,</text:span><text:line-break/><text:span text:style-name="T3">Întâi mai rar, și-apoi mereu,</text:span><text:line-break/><text:span text:style-name="T3">Ca pe balcon și-n părul meu...</text:span><text:line-break/><text:span text:style-name="T3">Plângi, suflete!... E iarnă!</text:span></text:p>
+   <text:p text:style-name="P9"/>
+  </office:text>
+ </office:body>
+</office:document>

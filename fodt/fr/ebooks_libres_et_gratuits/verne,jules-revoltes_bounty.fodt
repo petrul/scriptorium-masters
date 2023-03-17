@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>Etudes de moeurs [Document électronique]</dc:title><meta:initial-creator>XXX</meta:initial-creator><meta:creation-date>2004-01-07T23:30:00</meta:creation-date><dc:date>2022-12-29T19:29:19.166523802</dc:date><meta:editing-cycles>17</meta:editing-cycles><meta:editing-duration>PT27M42S</meta:editing-duration><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="17" meta:paragraph-count="171" meta:word-count="6955" meta:character-count="42127" meta:non-whitespace-character-count="35311"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="livres.dot" xlink:href="C:\Documents MS Office\Modèles\livres.dot"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">93324</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">27100</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18551</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12374</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">101332</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">93324</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">27099</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">111873</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">95</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕゛゜ゝゞ・ヽヾ！％），．：；？］｝｡｣､･ﾞﾟ￠</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([\{£¥‘“〈《「『【〔＄（［｛｢￡￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1559083</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1559083</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern"/>
+  <style:font-face style:name="Courier New1" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Georgia" svg:font-family="Georgia" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Helvetica" svg:font-family="Helvetica" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Symbol" svg:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma2" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Wingdings" svg:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma2" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Explorateur_20_de_20_document" style:display-name="Explorateur de document" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#000080"/>
+   <style:paragraph-properties fo:background-color="#000080"/>
+   <style:text-properties style:font-name="Tahoma1" fo:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0.501cm" fo:margin-top="0.423cm" fo:margin-bottom="0.423cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.984cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="none" fo:country="none" style:language-asian="none" style:country-asian="none" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="8.001cm" style:type="center"/>
+     <style:tab-stop style:position="16.002cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0.501cm" fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.984cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="15pt" fo:language="none" fo:country="none" style:font-size-asian="15pt" style:language-asian="none" style:country-asian="none"/>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.85cm" fo:margin-right="0cm" fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false" fo:text-indent="1cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="14pt" style:font-size-asian="14pt"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.376cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.834cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_6" style:display-name="Contents 6" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.293cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_7" style:display-name="Contents 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.752cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_8" style:display-name="Contents 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.21cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_9" style:display-name="Contents 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.669cm" fo:margin-right="0cm" fo:text-indent="1cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Text_20_body_20_indent" style:display-name="Text body indent" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="Retrait_20_corps_20_de_20_texte_20_3" style:display-name="Retrait corps de texte 3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.953cm" fo:margin-right="0cm" fo:text-indent="0.048cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Helvetica" fo:font-family="Helvetica" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Helvetica" style:font-family-complex="Helvetica" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titre_20_livre" style:display-name="Titre livre" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="20pt" fo:font-weight="bold" style:font-size-asian="20pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="Nom_20_auteur" style:display-name="Nom auteur" style:family="paragraph" style:parent-style-name="Titre_20_livre">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="8" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="9" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_10" style:display-name="Heading 10" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="10" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="WW8Num1z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num1z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num1z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num2z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num2z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num2z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num3z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num3z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num3z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num4z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num4z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num4z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Police_20_par_20_défaut" style:display-name="Police par défaut" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Page_20_Number" style:display-name="Page Number" style:family="text" style:parent-style-name="Police_20_par_20_défaut"/>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma2" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="WW8Num1" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num1z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num1z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num1z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num1z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num1z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num1z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num1z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num1z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num1z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num2" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num2z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num2z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num2z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num2z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num2z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num2z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num2z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num2z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num2z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num3" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num3z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num3z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num3z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num3z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num3z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num3z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num3z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num3z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num3z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num4" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num4z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num4z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num4z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num4z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num4z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num4z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num4z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num4z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num4z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:margin-top="0.635cm" fo:margin-bottom="0.635cm" style:contextual-spacing="false" fo:break-before="auto" fo:break-after="auto"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Retrait_20_corps_20_de_20_texte_20_3">
+   <style:paragraph-properties fo:margin-left="0.953cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Georgia" fo:font-size="15pt" style:font-size-asian="15pt" style:font-name-complex="Georgia"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body_20_indent">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0cm" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-size="17pt" style:font-size-asian="17pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name-asian="Georgia"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:language="none" fo:country="none" style:language-asian="none" style:country-asian="none"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:language="none" fo:country="none" fo:font-weight="bold" style:language-asian="none" style:country-asian="none" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:language="none" fo:country="none" fo:font-weight="bold" style:language-asian="none" style:country-asian="none" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="0017ca2b"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0.002cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="46" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.099cm" fo:margin-top="0cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.501cm" fo:margin-bottom="1.199cm" fo:margin-left="2.501cm" fo:margin-right="2.501cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="40" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.302cm" fo:margin-top="1.203cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.401cm" fo:margin-bottom="1.251cm" fo:margin-left="2.3cm" fo:margin-right="2.3cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="41" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.15cm" fo:margin-top="1.051cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">- </text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T1"><text:page-number text:select-page="current">17</text:page-number></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T1"><text:s/>-</text:span></text:span></text:p>
+   </style:footer>
+   <style:footer-first>
+    <text:p text:style-name="Footer"/>
+   </style:footer-first>
+  </style:master-page>
+  <style:master-page style:name="Convert_20_1" style:display-name="Convert 1" style:page-layout-name="pm2">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">- </text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T1"><text:page-number text:select-page="current">3</text:page-number></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T1"><text:s/>-</text:span></text:span></text:p>
+   </style:footer>
+  </style:master-page>
+  <style:master-page style:name="Convert_20_2" style:display-name="Convert 2" style:page-layout-name="pm3">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">- </text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T1"><text:page-number text:select-page="current">18</text:page-number></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T1"><text:s/>-</text:span></text:span></text:p>
+   </style:footer>
+   <style:footer-first>
+    <text:p text:style-name="Footer"/>
+   </style:footer-first>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Author">Jules Verne</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Les révoltés<text:span text:style-name="T17"> </text:span>de la Bounty</text:h>
+   <text:p text:style-name="Subtitle">(1879)</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="6.519cm" svg:height="9.525cm" draw:z-index="0"><draw:image draw:mime-type="image/jpeg">
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T8">Nous croyons bon de prévenir nos lecteurs que ce récit n&apos;est point une fiction. Tous les détails en sont pris aux annales maritimes de la Grande-Bretagne. La réalité fournit quelquefois des faits si romanesques que l&apos;imagination elle-même ne pourrait rien y ajouter.</text:span></text:p>
+   <text:h text:style-name="P2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc61291202"/><text:span text:style-name="Label">I</text:span><text:line-break/>L&apos;Abandon<text:bookmark-end text:name="__RefHeading___Toc61291202"/></text:h>
+   <text:p text:style-name="Text_20_body">Pas le moindre souffle, pas une ride à la surface de la mer, pas un nuage au ciel. Les splendides constellations de l&apos;hémisphère austral se dessinent avec une incomparable pureté. Les voiles de la <text:span text:style-name="T9">Bounty</text:span> pendent le long des mâts, le bâtiment est immobile, et la lumière de la lune, pâlissant devant l&apos;aurore qui se lève, éclaire l&apos;espace d&apos;une lueur indéfinissable.</text:p>
+   <text:p text:style-name="Text_20_body">La <text:span text:style-name="T9">Bounty</text:span>, navire de deux cent quinze tonneaux monté par quarante-six hommes, avait quitté Spithead, le 23 décembre 1787, sous le commandement du capitaine Bligh, marin expérimenté mais un peu rude, qui avait accompagné le capitaine Cook dans son dernier voyage d&apos;exploration.</text:p>
+   <text:p text:style-name="Text_20_body">La <text:span text:style-name="T9">Bounty</text:span> avait pour mission spéciale de transporter aux Antilles l&apos;arbre à pain, qui pousse à profusion dans l&apos;archipel de Tahiti. Après une relâche de six mois dans la baie de Matavaï, William Bligh, ayant chargé un millier de ces arbres, avait pris la route des Indes occidentales, après un <text:soft-page-break/>assez court séjour aux îles des Amis.</text:p>
+   <text:p text:style-name="Text_20_body">Maintes fois, le caractère soupçonneux et emporté du capitaine avait amené des scènes désagréables entre quelques-uns de ses officiers et lui. Cependant, la tranquillité qui régnait à bord de la <text:span text:style-name="T9">Bounty</text:span>, au lever du soleil, le 28 avril 1789, ne faisait rien présager des graves événements qui allaient se produire. Tout semblait calme, en effet, lorsque tout à coup une animation insolite se propage sur le bâtiment. Quelques matelots s&apos;accostent, échangent deux ou trois paroles à voix basse, puis disparaissent à petits pas.</text:p>
+   <text:p text:style-name="Text_20_body">Est-ce le quart du matin qu&apos;on relève ? Quelque accident inopiné s&apos;est-il produit à bord ?</text:p>
+   <text:p text:style-name="Text_20_body">« Pas de bruit surtout, mes amis, dit Fletcher Christian, le second de la <text:span text:style-name="T9">Bounty</text:span>. Bob, armez votre pistolet, mais ne tirez pas sans mon ordre. Vous, Churchill, prenez votre hache et faites sauter la serrure de la cabine du capitaine. Une dernière recommandation : Il me le faut vivant ! »</text:p>
+   <text:p text:style-name="Text_20_body">Suivi d&apos;une dizaine de matelots armés de sabres, de coutelas et de pistolets, Christian se glissa dans l&apos;entrepont ; puis, après avoir placé deux sentinelles devant la cabine de Stewart et de Peter Heywood, le maître d&apos;équipage et le midshipman de la <text:span text:style-name="T9">Bounty</text:span>, il s&apos;arrêta devant la porte du capitaine.</text:p>
+   <text:p text:style-name="Text_20_body">« Allons, garçons, dit-il, un bon coup d&apos;épaule ! »</text:p>
+   <text:p text:style-name="Text_20_body">La porte céda sous une pression vigoureuse, et les matelots se précipitèrent dans la cabine.</text:p>
+   <text:p text:style-name="Text_20_body">Surpris d&apos;abord par l&apos;obscurité, et réfléchissant peut-être à la gravité de leurs actes, ils eurent un moment d&apos;hésitation.</text:p>
+   <text:p text:style-name="Text_20_body">« Holà ! qu&apos;y a-t-il ? Qui donc ose se permettre ?… s&apos;écria le capitaine en sautant à bas de son cadre.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Silence, Bligh ! répondit Churchill. Silence, et n&apos;essaie pas de résister, ou je te bâillonne !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Inutile de t&apos;habiller, ajouta Bob. Tu feras toujours assez bonne figure, lorsque tu seras pendu à la vergue d&apos;artimon !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Attachez-lui les mains derrière le dos, Churchill, dit Christian, et hissez-le sur le pont !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Le plus terrible des capitaines n&apos;est pas bien redoutable, quand on sait s&apos;y prendre », fit observer John Smith, le philosophe de la bande.</text:p>
+   <text:p text:style-name="Text_20_body">Puis le cortège, sans s&apos;inquiéter de réveiller ou non les matelots du dernier quart, encore endormis, remonta l&apos;escalier et reparut sur le pont.</text:p>
+   <text:p text:style-name="Text_20_body">C&apos;était une révolte en règle. Seul de tous les officiers du bord, Young, un des midshipmen, avait fait cause commune avec les révoltés.</text:p>
+   <text:p text:style-name="Text_20_body">Quant aux hommes de l&apos;équipage, les hésitants avaient dû céder pour l&apos;instant, tandis que les autres, sans armes, sans chef, restaient spectateurs du drame qui allait s&apos;accomplir sous leurs yeux.</text:p>
+   <text:p text:style-name="Text_20_body">Tous étaient sur le pont, rangés en silence ; ils observaient la contenance de leur capitaine, qui, demi-nu, s&apos;avançait la tête haute au milieu de ces hommes habitués à trembler devant lui.</text:p>
+   <text:p text:style-name="Text_20_body">« Bligh, dit Christian, d&apos;une voix rude, vous êtes démonté de votre commandement.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>–<text:span text:style-name="T10"> </text:span>Je ne vous reconnais pas le droit… répondit le capitaine.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Ne perdons pas de temps en protestations inutiles, s&apos;écria Christian, qui interrompit Bligh. Je suis, en ce moment, l&apos;interprète de tout l&apos;équipage de la <text:span text:style-name="T9">Bounty</text:span>. Nous n&apos;avions pas encore quitté l&apos;Angleterre que nous avions déjà à nous plaindre de vos soupçons injurieux, de vos procédés brutaux. Lorsque je dis nous, j&apos;entends les officiers aussi bien que les matelots. Non seulement nous n&apos;avons jamais pu obtenir la satisfaction qui nous était due, mais vous avez toujours rejeté nos plaintes avec mépris ! Sommes-nous donc des chiens, pour être injuriés à tout moment ? Canailles, brigands, menteurs, voleurs ! vous n&apos;aviez pas d&apos;expression assez forte, d&apos;injure assez grossière pour nous ! En vérité, il faudrait ne pas être un homme pour supporter pareille existence ! Et moi, moi votre compatriote, moi qui connais votre famille, moi qui ai déjà fait deux voyages sous vos ordres, m&apos;avez-vous épargné ? Ne m&apos;avez-vous pas accusé, hier encore, de vous avoir volé quelques misérables fruits ? Et les hommes ! Pour un rien, aux fers ! Pour une bagatelle, vingt-quatre coups de corde ! Eh bien ! tout se paie en ce monde ! Vous avez été trop libéral avec nous, Bligh ! A notre tour ! Vos injures, vos injustices, vos accusations insensées, les tortures morales et physiques dont vous avez accablé votre équipage depuis un an et demi, vous allez les expier, et les expier durement ! Capitaine, vous avez été jugé par ceux que vous avez offensés, et vous êtes condamné. Est-ce bien cela, camarades ?</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Oui, oui, à mort ! s&apos;écrièrent la plupart des matelots, en menaçant leur capitaine.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Capitaine Bligh, reprit Christian, quelques-uns avaient parlé de vous hisser au bout d&apos;une corde entre le ciel et l&apos;eau. D&apos;autres proposaient de vous déchirer les épaules avec le chat à neuf queues, jusqu&apos;à ce que mort s&apos;ensuivît. Ils manquaient d&apos;imagination. J&apos;ai trouvé mieux que cela. D&apos;ailleurs, vous n&apos;êtes pas seul coupable ici. Ceux qui ont toujours fidèlement exécuté vos ordres, si cruels qu&apos;ils fussent, seraient au désespoir de passer sous mon commandement. Ils ont mérité de vous accompagner là où le vent vous poussera. Qu&apos;on amène la chaloupe ! »</text:p>
+   <text:p text:style-name="Text_20_body">Un murmure désapprobateur accueillit ces dernières paroles de Christian, qui ne parut pas s&apos;en inquiéter. Le capitaine Bligh, que ces menaces ne parvenaient pas à troubler, profita d&apos;un instant de silence pour prendre la parole.</text:p>
+   <text:p text:style-name="Text_20_body">« Officiers et matelots, dit-il d&apos;une voix ferme, en ma qualité d&apos;officier de la marine royale, commandant la <text:span text:style-name="T9">Bounty</text:span>, je proteste contre le traitement que vous voulez me faire subir. Si vous avez à vous plaindre de la façon dont j&apos;ai exercé mon commandement, vous pouvez me faire juger par une cour martiale. Mais vous n&apos;avez pas réfléchi, sans doute, à la gravité de l&apos;acte que vous allez commettre. Porter la main sur votre capitaine, c&apos;est vous mettre en révolte contre les lois existantes, c&apos;est rendre pour vous tout retour impossible dans votre patrie, c&apos;est vouloir être traités comme des forbans ! Tôt ou tard, c&apos;est la mort ignominieuse, la mort des traîtres et des rebelles ! Au nom de l&apos;honneur et de l&apos;obéissance que vous m&apos;avez jurés, je vous somme de rentrer dans le devoir !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Nous savons parfaitement à quoi nous nous exposons, répondit Churchill.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Assez ! Assez ! cria l&apos;équipage, prêt à se porter à des voies de fait.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>–<text:span text:style-name="T10"> </text:span>Eh bien ! dit Bligh, s&apos;il vous faut une victime, que ce soit moi, mais moi seul ! Ceux de mes compagnons que vous condamnez comme moi, n&apos;ont fait qu&apos;exécuter mes ordres ! »</text:p>
+   <text:p text:style-name="Text_20_body">La voix du capitaine fut alors couverte par un concert de vociférations, et il dut renoncer à toucher ces cœurs devenus impitoyables.</text:p>
+   <text:p text:style-name="Text_20_body">Pendant ce temps, les dispositions avaient été prises pour que les ordres de Christian fussent exécutés.</text:p>
+   <text:p text:style-name="Text_20_body">Cependant, un assez vif débat s&apos;était élevé entre le second et plusieurs des révoltés qui voulaient abandonner sur les flots le capitaine Bligh et ses compagnons sans leur donner une arme, sans leur laisser une once de pain.</text:p>
+   <text:p text:style-name="Text_20_body">Quelques-uns – et c&apos;était l&apos;avis de Churchill – trouvaient que le nombre de ceux qui devaient quitter le navire n&apos;était pas assez considérable. Il fallait se défaire, disait-il, de tous les hommes qui, n&apos;ayant pas trempé directement dans le complot, n&apos;étaient pas sûrs. On ne pouvait compter sur ceux qui se contentaient d&apos;accepter les faits accomplis. Quant à lui, son dos lui faisait encore mal des coups de fouet qu&apos;il avait reçus pour avoir déserté à Tahiti. Le meilleur, le plus rapide moyen de le guérir, ce serait de lui livrer d&apos;abord le commandant !… Il saurait bien se venger, et de sa propre main !</text:p>
+   <text:p text:style-name="Text_20_body">« Hayward ! Hallett ! cria Christian, en s&apos;adressant à deux des officiers, sans tenir compte des observations de Churchill, descendez dans la chaloupe.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Que vous ai-je fait, Christian, pour que vous me traitiez ainsi ? dit Hayward. C&apos;est à la mort que vous m&apos;envoyez !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Les récriminations sont inutiles ! Obéissez, ou sinon !… Fryer, embarquez aussi ! »</text:p>
+   <text:p text:style-name="Text_20_body">Mais ces officiers, au lieu de se diriger vers la chaloupe, se rapprochèrent du capitaine Bligh, et Fryer, qui semblait le plus déterminé, se pencha vers lui en disant :</text:p>
+   <text:p text:style-name="Text_20_body">« Commandant, voulez-vous essayer de reprendre le bâtiment ? Nous n&apos;avons pas d&apos;armes, il est vrai ; mais ces mutins, surpris, ne pourront résister. Si quelques-uns d&apos;entre nous sont tués, qu&apos;importe ! On peut tenter la partie ! Que vous en semble ? »</text:p>
+   <text:p text:style-name="Text_20_body">Déjà les officiers prenaient leurs dispositions pour se jeter sur les révoltés, occupés à dépasser la chaloupe de ses porte-manteaux, lorsque Churchill, à qui cet entretien, si rapide qu&apos;il fût, n&apos;avait pas échappé, les entoura avec quelques hommes bien armés, et les fit embarquer de force.</text:p>
+   <text:p text:style-name="Text_20_body">« Millward, Muspratt, Birket, et vous autres, dit Christian en s&apos;adressant à quelques-uns des matelots qui n&apos;avaient point pris part à la révolte, descendez dans l&apos;entrepont, et choisissez ce que vous avez de plus précieux ! Vous accompagnez le capitaine Bligh. Toi, Morrison, surveille-moi ces gaillards-là ! Purcell, prenez votre coffre de charpentier, je vous permets de l&apos;emporter. »</text:p>
+   <text:p text:style-name="Text_20_body">Deux mâts avec leurs voiles, quelques clous, une scie, une demi-pièce de toile à voile, quatre petites pièces contenant cent vingt-cinq litres d&apos;eau, cent cinquante livres de biscuit, trente-deux livres de porc salé, six bouteilles de vin, six bouteilles de rhum, la cave à liqueur du capitaine, voilà tout ce que les abandonnés eurent permission d&apos;emporter.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>On leur jeta, en outre, deux ou trois vieux sabres, mais on leur refusa toute espèce d&apos;armes à feu.</text:p>
+   <text:p text:style-name="Text_20_body">« Où sont donc Heywood et Steward ? dit Bligh, quand il fut dans la chaloupe. Eux aussi m&apos;ont-ils trahi ? »</text:p>
+   <text:p text:style-name="Text_20_body">Ils ne l&apos;avaient pas trahi, mais Christian avait résolu de les garder à bord.</text:p>
+   <text:p text:style-name="Text_20_body">Le capitaine eut alors un moment de découragement et de faiblesse bien pardonnable, qui ne dura pas.</text:p>
+   <text:p text:style-name="Text_20_body">« Christian, dit-il, je vous donne ma parole d&apos;honneur d&apos;oublier tout ce qui vient de se passer, si vous renoncez à votre abominable projet ! Je vous en supplie, pensez à ma femme et à ma famille ! Moi mort, que deviendront tous les miens !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Si vous aviez eu quelque honneur, répondit Christian, les choses n&apos;en seraient point arrivées à ce point. Si vous-même aviez pensé un peu plus souvent à votre femme, à votre famille, aux femmes et aux familles des autres, vous n&apos;auriez pas été si dur, si injuste envers nous tous ! »</text:p>
+   <text:p text:style-name="Text_20_body">A son tour, le bosseman, au moment d&apos;embarquer, essaya d&apos;attendrir Christian.</text:p>
+   <text:p text:style-name="Text_20_body">Ce fut en vain.</text:p>
+   <text:p text:style-name="Text_20_body">« Il y a longtemps que je souffre, répondit ce dernier avec amertume. Vous ne savez pas quelles ont été mes tortures ! Non ! cela ne pouvait durer un jour de plus, et, d&apos;ailleurs, vous n&apos;ignorez pas que, durant tout le voyage, moi, le second de ce navire, j&apos;ai été traité comme un chien ! Cependant, en me séparant du capitaine Bligh, que je ne reverrai probablement jamais, je veux bien, par pitié, ne pas lui enlever tout espoir de salut. Smith ! descendez dans la cabine du capitaine, et reportez-lui ses vêtements, sa commission, son journal et son portefeuille. De plus, qu&apos;on lui remette mes tables nautiques et mon propre sextant. Il aura ainsi quelque chance de pouvoir sauver ses compagnons et se tirer d&apos;affaire lui-même ! »</text:p>
+   <text:p text:style-name="Text_20_body">Les ordres de Christian furent exécutés, non sans quelque protestation.</text:p>
+   <text:p text:style-name="Text_20_body">« Et maintenant, Morrison, largue l&apos;amarre, cria le second devenu le premier, et à la grâce de Dieu ! »</text:p>
+   <text:p text:style-name="Text_20_body">Tandis que les révoltés saluaient d&apos;acclamations ironiques le capitaine Bligh et ses malheureux compagnons, Christian, appuyé contre le bastingage, ne pouvait détacher les yeux de la chaloupe qui s&apos;éloignait. Ce brave officier, dont la conduite, jusqu&apos;alors loyale et franche, avait mérité les éloges de tous les commandants sous lesquels il avait servi, n&apos;était plus aujourd&apos;hui que le chef d&apos;une bande de forbans. Il ne lui serait plus permis de revoir ni sa vieille mère, ni sa fiancée, ni les rivages de l&apos;île de Man, sa patrie. Il se sentait déchu dans sa propre estime, déshonoré aux yeux de tous ! Le châtiment suivait déjà la faute !</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc61291203"/><text:span text:style-name="Label">II</text:span><text:line-break/>Les abandonnés<text:bookmark-end text:name="__RefHeading___Toc61291203"/></text:h>
+   <text:p text:style-name="Text_20_body">Avec ses dix-huit passagers, officiers et matelots, et le peu de provisions qu&apos;elle contenait, la chaloupe qui portait Bligh était tellement chargée, qu&apos;elle dépassait à peine de quinze pouces le niveau de la mer. Longue de vingt et un pieds, large de six, elle pouvait être parfaitement appropriée au service de la <text:span text:style-name="T9">Bounty</text:span> ; mais, pour contenir un équipage aussi nombreux, pour faire un voyage un peu long, il était difficile de trouver embarcation plus détestable.</text:p>
+   <text:p text:style-name="Text_20_body">Les matelots, confiants dans l&apos;énergie et l&apos;habileté du capitaine Bligh et des officiers confondus dans le même sort, nageaient vigoureusement, et la chaloupe fendait rapidement les lames.</text:p>
+   <text:p text:style-name="Text_20_body">Bligh n&apos;avait pas hésité sur le parti à prendre. Il fallait, tout d&apos;abord, regagner au plutôt l&apos;île Tofoa, la plus voisine du groupe des îles des Amis, qu&apos;ils avaient quittée quelques jours avant, il fallait y recueillir des fruits de l&apos;arbre à pain, renouveler l&apos;approvisionnement d&apos;eau, et, de là, courir sur Tonga-Tabou. On pourrait sans doute y prendre des vivres en assez grande quantité pour faire la traversée jusqu&apos;aux établissements hollandais de Timor, si, par crainte des indigènes, l&apos;on ne voulait pas s&apos;arrêter dans les innombrables archipels semés sur la route.</text:p>
+   <text:p text:style-name="Text_20_body">La première journée se passa sans incident, et la nuit tombait, lorsqu&apos;on découvrit les côtes de Tofoa. Par malheur, le rivage était si rocheux, la plage si accore, qu&apos;on ne pouvait y débarquer de nuit. Il fallut donc attendre le jour.</text:p>
+   <text:p text:style-name="Text_20_body">Bligh, à moins de nécessité absolue, entendait ne pas toucher aux provisions de la chaloupe. Il fallait donc que l&apos;île nourrît ses hommes et lui. Cela semblait devoir être difficile, car, tout d&apos;abord, lorsqu&apos;ils furent à terre, ils ne rencontrèrent pas trace d&apos;habitants. Quelques-uns, cependant, ne tardèrent pas à se montrer, et, ayant été bien reçus, ils en amenèrent d&apos;autres, qui apportèrent un peu d&apos;eau et quelques noix de coco.</text:p>
+   <text:p text:style-name="Text_20_body">L&apos;embarras de Bligh était grand. Que dire à ces naturels qui avaient déjà trafiqué avec la <text:span text:style-name="T9">Bounty</text:span> pendant sa dernière relâche ? A tout prix, il importait de leur cacher la vérité, afin de ne pas détruire le prestige dont les étrangers avaient été entourés jusqu&apos;alors dans ces îles.</text:p>
+   <text:p text:style-name="Text_20_body">Dire qu&apos;ils étaient envoyés aux provisions par le bâtiment resté au large ? Impossible, puisque la <text:span text:style-name="T9">Bounty</text:span> n&apos;était pas visible, même du haut des collines ! Dire que le navire avait fait naufrage, et que les indigènes voyaient en eux les seuls survivants des naufragés ? c&apos;était encore la fable la plus vraisemblable. Peut-être les toucherait-elle, les amènerait-elle à compléter les provisions de la chaloupe. Bligh s&apos;arrêta donc à ce dernier parti, si dangereux qu&apos;il fût, et il prévint ses hommes, afin que tout le monde fût d&apos;accord sur cette fable.</text:p>
+   <text:p text:style-name="Text_20_body">En entendant ce récit, les naturels ne firent paraître ni marque de joie ni signes de chagrin. Leur visage n&apos;exprima qu&apos;un profond étonnement, et il fut impossible de connaître ce qu&apos;ils pensaient.</text:p>
+   <text:p text:style-name="Text_20_body">Le 2 mai, le nombre des indigènes venus des autres parties de l&apos;île s&apos;accrut d&apos;une façon inquiétante, et Bligh put bientôt juger qu&apos;ils avaient des intentions hostiles. Quelques-uns <text:soft-page-break/>essayèrent même de haler l&apos;embarcation sur le rivage, et ne se retirèrent que devant les démonstrations énergiques du capitaine, qui dut les menacer de son coutelas. Pendant ce temps, quelques-uns de ses hommes, que Bligh avait envoyés à la recherche, rapportaient trois gallons d&apos;eau.</text:p>
+   <text:p text:style-name="Text_20_body">Le moment était venu de quitter cette île inhospitalière. Au coucher du soleil, tout était prêt, mais il n&apos;était pas facile de gagner la chaloupe. Le rivage était bordé d&apos;une foule d&apos;indigènes qui choquaient des pierres l&apos;une contre l&apos;autre, prêts à les lancer. Il fallait donc que la chaloupe se tînt à quelques toises du rivage et n&apos;accostât qu&apos;au moment même où les hommes seraient tout à fait prêts à embarquer.</text:p>
+   <text:p text:style-name="Text_20_body">Les Anglais, véritablement très inquiets des dispositions hostiles des naturels, redescendirent la grève, au milieu de deux cents indigènes, qui n&apos;attendaient qu&apos;un signal pour se jeter sur eux. Cependant, tous venaient d&apos;entrer heureusement dans l&apos;embarcation, lorsque l&apos;un des matelots, nommé Bancroft, eut la funeste idée de revenir sur la plage pour chercher quelque objet qu&apos;il y avait oublié. En une seconde, cet imprudent fut entouré par les naturels et assommé à coups de pierre, sans que ses compagnons, qui ne possédaient pas une arme à feu, pussent le secourir. D&apos;ailleurs, eux-mêmes, à cet instant, étaient attaqués, des pierres pleuvaient sur eux.</text:p>
+   <text:p text:style-name="Text_20_body">« Allons, garçons, cria Bligh, vite aux avirons, et souquez ferme ! »</text:p>
+   <text:p text:style-name="Text_20_body">Les naturels entrèrent alors dans la mer et firent pleuvoir sur l&apos;embarcation une nouvelle grêle de cailloux. Plusieurs hommes furent blessés. Mais Hayward, ramassant une des pierres qui étaient tombées dans la chaloupe, visa l&apos;un des assaillants et l&apos;atteignit entre les deux yeux. L&apos;indigène tomba à la renverse en poussant un grand cri auquel répondirent les hourras des Anglais. Leur infortuné camarade était vengé.</text:p>
+   <text:p text:style-name="Text_20_body">Cependant, plusieurs pirogues se détachaient du rivage et leur donnaient la chasse. Cette poursuite ne pouvait se terminer que par un combat, dont l&apos;issue n&apos;aurait pas été heureuse, lorsque le maître d&apos;équipage eut une lumineuse idée. Sans se douter qu&apos;il imitait Hippomène dans sa lutte avec Atalante, il se dépouilla de sa vareuse et la jeta à la mer. Les naturels, lâchant la proie pour l&apos;ombre, s&apos;attardèrent afin de la ramasser, et cet expédient permit à la chaloupe de doubler la pointe de la baie.</text:p>
+   <text:p text:style-name="Text_20_body">Sur ces entrefaites, la nuit était entièrement venue, et les indigènes, découragés, abandonnèrent la poursuite de la chaloupe.</text:p>
+   <text:p text:style-name="Text_20_body">Cette première tentative de débarquement était trop malheureuse pour être renouvelée ; tel fut du moins l&apos;avis du capitaine Bligh.</text:p>
+   <text:p text:style-name="Text_20_body">« C&apos;est maintenant qu&apos;il faudra prendre une résolution, dit-il. La scène qui vient de se passer à Tofoa se renouvellera, j&apos;en suis certain, à Tonga-Tabou, et partout où nous voudrons accoster. En petit nombre, sans armes à feu, nous serons absolument à la merci des indigènes. Privés d&apos;objets d&apos;échange, nous ne pouvons acheter de vivres, et il nous est impossible de nous les procurer de vive force.</text:p>
+   <text:p text:style-name="Text_20_body">» Nous sommes donc réduits à nos seules ressources. Or, vous savez comme moi, mes amis, <text:soft-page-break/>combien elles sont misérables ! Mais ne vaut-il pas mieux s&apos;en contenter que de risquer, à chaque atterrissage, la vie de plusieurs d&apos;entre nous ? Cependant, je ne veux en rien vous dissimuler l&apos;horreur de notre situation. Pour atteindre Timor, nous avons à peu près douze cents lieues à franchir, et il faudra vous contenter d&apos;une once de biscuit par jour et d&apos;un quart de pinte d&apos;eau ! Le salut est à ce prix seulement, et encore, à la condition que je trouverai en vous la plus complète obéissance. Répondez-moi sans arrière-pensée ! Consentez-vous à tenter l&apos;entreprise ? Jurez-vous d&apos;obéir à mes ordres quels qu&apos;ils soient ? Promettez-vous de vous soumettre sans murmure à ces privations ?</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Oui, oui, nous le jurons ! s&apos;écrièrent d&apos;une commune voix les compagnons de Bligh.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Mes amis, reprit le capitaine, il faut aussi oublier nos torts réciproques, nos antipathies et nos haines, sacrifier en un mot nos rancunes personnelles à l&apos;intérêt de tous, qui doit seul nous guider !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Nous le promettons.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Si vous tenez votre parole, ajouta Bligh, et, au besoin, je saurai vous y forcer, je réponds du salut. »</text:p>
+   <text:p text:style-name="Text_20_body">La route fut faite alors vers l&apos;O.-N.-O. Le vent, qui était assez fort, souilla en tempête dans la soirée du 4 mai. Les lames devinrent si grosses, que l&apos;embarcation disparaissait entre elles, et semblait ne pouvoir se relever. Le danger augmentait à chaque instant. Trempés et glacés, les malheureux n&apos;eurent pour se réconforter, ce jour-là, qu&apos;une tasse à thé de rhum et le quart d&apos;un fruit à pain à moitié pourri.</text:p>
+   <text:p text:style-name="Text_20_body">Le lendemain et les jours suivants, la situation ne changea pas. L&apos;embarcation passa au milieu d&apos;îles innombrables, d&apos;où quelques pirogues se détachèrent.</text:p>
+   <text:p text:style-name="Text_20_body">Était-ce pour lui donner la chasse, était-ce pour faire quelques échanges ? Dans le doute, il aurait été imprudent de s&apos;arrêter. Aussi, la chaloupe, les voiles gonflées par un bon vent, les eut bientôt laissées loin derrière elle.</text:p>
+   <text:p text:style-name="Text_20_body">Le 9 mai, un orage épouvantable éclata. Le tonnerre, les éclairs se succédaient sans interruption. La pluie tombait avec une force dont les plus violents orages de nos climats ne peuvent donner une idée. Il était impossible de faire sécher les vêtements. Bligh, alors, eut l&apos;idée de les tremper dans l&apos;eau de mer et de les imprégner de sel, afin de ramener à la peau un peu de la chaleur enlevée par la pluie. Toutefois, ces pluies torrentielles, qui causèrent tant de souffrances au capitaine et à ses compagnons, leur épargnèrent d&apos;autres tortures encore plus horribles, les tortures de la soif, qu&apos;une insoutenable chaleur eût bientôt provoquées.</text:p>
+   <text:p text:style-name="Text_20_body">Le 17 mai, au matin, à la suite d&apos;un orage terrible, les plaintes devinrent unanimes :</text:p>
+   <text:p text:style-name="Text_20_body">« Jamais nous n&apos;aurons la force d&apos;atteindre la Nouvelle-Hollande, s&apos;écrièrent les malheureux. Transpercés par la pluie, épuisés de fatigue, n&apos;aurons-nous jamais un moment de repos ! A demi-morts de faim, n&apos;augmenterez-vous pas nos rations, capitaine ? Peu importe que nos vivres s&apos;épuisent ! Nous trouverons facilement à les remplacer en arrivant à la Nouvelle-Hollande !</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Je refuse, répondit Bligh. Ce serait agir comme des fous. Comment ! nous n&apos;avons franchi que la <text:soft-page-break/>moitié de la distance qui nous sépare de l&apos;Australie, et vous êtes déjà découragés ! Croyez-vous, d&apos;ailleurs, pouvoir trouver facilement des vivres sur la côte de la Nouvelle-Hollande ? Vous ne connaissez donc pas le pays et ses habitants. »</text:p>
+   <text:p text:style-name="Text_20_body">Et Bligh se mit à peindre à grands traits la nature du sol, les mœurs des indigènes, le peu de fonds qu&apos;il fallait faire sur leur accueil, toutes choses que son voyage avec le capitaine Cook lui avait appris à connaître. Pour cette fois encore, ses infortunés compagnons l&apos;écoutèrent et se turent.</text:p>
+   <text:p text:style-name="Text_20_body">Les quinze jours suivants furent égayés par un clair soleil, qui permit de sécher les vêtements. Le 27 furent franchis les brisants qui bordent la côte orientale de la Nouvelle-Hollande. La mer était calme derrière cette ceinture madréporique, et quelques groupes d&apos;îles, à la végétation exotique, réjouissaient les regards. On débarqua en ne s&apos;avançant qu&apos;avec précaution. On ne trouva d&apos;autres traces du séjour des naturels que d&apos;anciennes places à feu.</text:p>
+   <text:p text:style-name="Text_20_body">Il était donc possible de passer une bonne nuit à terre. Mais il fallait manger. Par bonheur, un des matelots découvrit un banc d&apos;huîtres. Ce fut un véritable régal.</text:p>
+   <text:p text:style-name="Text_20_body">Le lendemain, Bligh trouva dans la chaloupe un verre grossissant, un briquet et du soufre. Il fut donc à même de se procurer du feu pour faire cuire le gibier ou le poisson.</text:p>
+   <text:p text:style-name="Text_20_body">Bligh eut alors la pensée de diviser son équipage en trois escouades : l&apos;une devait tout mettre en ordre dans l&apos;embarcation ; les deux autres, aller à la recherche des vivres. Mais plusieurs hommes se plaignirent avec amertume, déclarant qu&apos;ils aimaient mieux se passer de dîner que de s&apos;aventurer dans le pays.</text:p>
+   <text:p text:style-name="Text_20_body">L&apos;un d&apos;eux, plus violent ou plus énervé que ses camarades, alla même jusqu&apos;à dire au capitaine :</text:p>
+   <text:p text:style-name="Text_20_body">« Un homme en vaut un autre, et je ne vois pas pourquoi vous resteriez toujours à vous reposer ! Si vous avez faim, allez chercher de quoi manger ! Pour ce que vous faites ici, je vous remplacerai bien ! »</text:p>
+   <text:p text:style-name="Text_20_body">Bligh, comprenant que cet esprit de mutinerie devait être enrayé sur-le-champ, saisit un coutelas, et, en jetant un autre aux pieds du rebelle, il lui cria :</text:p>
+   <text:p text:style-name="Text_20_body">« Défends-toi, ou je te tue comme un chien ! »</text:p>
+   <text:p text:style-name="Text_20_body">Cette attitude énergique fit aussitôt rentrer le mutin en lui-même, et le mécontentement général se calma. Pendant cette relâche, l&apos;équipage de la chaloupe récolta abondamment des huîtres, des peignes &apos; et de l&apos;eau douce.</text:p>
+   <text:p text:style-name="Text_20_body">Un peu plus loin, dans le détroit de l&apos;Endeavour, de deux détachements envoyés à la chasse des tortues et des noddis2, le premier revint les mains vides ; le second rapporta six noddis, mais il en aurait pris bien davantage sans l&apos;obstination de l&apos;un des chasseurs, qui, s&apos;étant écarté de ses camarades, effraya ces oiseaux. Cet homme avoua, plus tard, qu&apos;il s&apos;était emparé de neuf de ces volatiles et qu&apos;il les avait mangés crus sur place.</text:p>
+   <text:p text:style-name="Text_20_body">Sans les vivres et l&apos;eau douce qu&apos;il venait de trouver sur la côte de la Nouvelle-Hollande, il est bien certain que Bligh et ses compagnons auraient péri. D&apos;ailleurs, tous étaient dans un état lamentable, hâves, défaits, épuisés – de véritables cadavres.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Le voyage en pleine mer, pour gagner Timor, ne fut que la douloureuse répétition des souffrances déjà endurées par ces malheureux avant d&apos;atteindre les côtes de la Nouvelle-Hollande. Seulement, la force de résistance avait diminué chez tous, sans exception. Au bout de quelques jours, leurs jambes étaient enflées.</text:p>
+   <text:p text:style-name="Text_20_body">Dans cet état de faiblesse extrême, ils étaient accablés par une envie de dormir presque continuelle. C&apos;étaient les signes avant-coureurs d&apos;une fin qui ne pouvait tarder beaucoup. Aussi Bligh, qui s&apos;en aperçut, distribua une double ration aux plus affaiblis et s&apos;efforça de leur rendre un peu d&apos;espoir.</text:p>
+   <text:p text:style-name="Text_20_body">Enfin, le 12 juin au matin, la côte de Timor apparut, après trois mille six cent dix-huit lieues d&apos;une traversée accomplie dans des conditions épouvantables. L&apos;accueil que les Anglais reçurent à Coupang fut des plus sympathiques. Ils y restèrent deux mois pour se refaire. Puis, Bligh, ayant acheté un petit schooner, gagna Batavia, où il s&apos;embarqua pour l&apos;Angleterre.</text:p>
+   <text:p text:style-name="Text_20_body">Ce fut le 14 mars 1790 que les abandonnés débarquèrent à Portsmouth. Le récit des tortures qu&apos;ils avaient endurées excita la sympathie universelle et l&apos;indignation de tous les gens de cœur. Presque aussitôt, l&apos;Amirauté procédait à l&apos;armement de la frégate <text:span text:style-name="T9">La Pandore</text:span>, de vingt-quatre canons et de cent soixante hommes d&apos;équipage, et l&apos;envoyait à la poursuite des révoltés de la <text:span text:style-name="T9">Bounty</text:span>.</text:p>
+   <text:p text:style-name="Text_20_body">On va voir ce qu&apos;ils étaient devenus.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc61291204"/><text:span text:style-name="Label">III</text:span><text:line-break/>Les révoltés<text:bookmark-end text:name="__RefHeading___Toc61291204"/></text:h>
+   <text:p text:style-name="Text_20_body">Après que le capitaine Bligh eut été abandonné en pleine mer, la <text:span text:style-name="T9">Bounty</text:span> avait fait voile pour Tahiti. Le jour même, elle atteignait Toubouaï. Le riant aspect de cette petite île, entourée d&apos;une ceinture de roches madréporiques, invitait Christian à y descendre ; mais les démonstrations des habitants parurent trop menaçantes, et le débarquement ne fut pas effectué.</text:p>
+   <text:p text:style-name="Text_20_body">Ce fut le 6 juin 1789 que l&apos;ancre tomba dans la rade de Matavaï. La surprise des Tahitiens fut extrême en reconnaissant la <text:span text:style-name="T9">Bounty</text:span>. Les révoltés retrouvèrent là les indigènes avec lesquels ils avaient été en rapport dans une précédente relâche, et ils leur racontèrent une fable, à laquelle ils eurent soin de mêler le nom du capitaine Cook, dont les Tahitiens avaient conservé le meilleur souvenir.</text:p>
+   <text:p text:style-name="Text_20_body">Le 29 juin, les révoltés repartirent pour Toubouaï et se mirent en quête de quelque île qui fût située en dehors de la route ordinaire des bâtiments, dont le sol fût assez fertile pour les nourrir, et sur laquelle ils pussent vivre en toute sécurité.</text:p>
+   <text:p text:style-name="Text_20_body">Ils errèrent ainsi d&apos;archipel en archipel, commettant toutes sortes de déprédations et d&apos;excès, que l&apos;autorité de Christian ne parvenait que bien rarement à prévenir. Puis, attirés encore une fois par la fertilité de Tahiti, par les mœurs douces et faciles de ses habitants, ils regagnèrent la baie de Matavaï. Là, les deux tiers de l&apos;équipage descendirent aussitôt à terre. Mais, le soir même, la <text:span text:style-name="T9">Bounty</text:span> avait levé l&apos;ancre et disparu, avant que les matelots débarqués eussent pu soupçonner l&apos;intention de Christian de partir sans eux.</text:p>
+   <text:p text:style-name="Text_20_body">Livrés à eux-mêmes, ces hommes s&apos;établirent sans trop de regrets dans différents districts de l&apos;île. Le maître d&apos;équipage Stewart et le midshipman Peter Heywood, les deux officiers que Christian avait exceptés de la condamnation prononcée contre Bligh, et avait emmenés malgré eux, restèrent à Matavaï auprès du roi Tippao, dont Stewart épousa bientôt la sœur. Morrison et Millward se rendirent auprès du chef Péno, qui leur fit bon accueil. Quant aux autres matelots, ils s&apos;enfoncèrent dans l&apos;intérieur de l&apos;île et ne tardèrent pas à épouser des Tahitiennes.</text:p>
+   <text:p text:style-name="Text_20_body">Churchill et un fou furieux nommé Thompson, après avoir commis toute sorte de crimes, en vinrent tous deux aux mains. Churchill fut tué dans cette lutte, et Thompson lapidé par les naturels. Ainsi périrent deux des révoltés qui avaient pris la plus grande part à la rébellion. Les autres surent, au contraire, par leur bonne conduite, se faire chérir des Tahitiens.</text:p>
+   <text:p text:style-name="Text_20_body">Cependant, Morrison et Millward voyaient toujours le châtiment suspendu sur leurs têtes et ne pouvaient vivre tranquilles dans cette île où ils auraient été facilement découverts. Ils conçurent donc le dessein de construire un schooner, sur lequel ils essayeraient de gagner Batavia, afin de se perdre au milieu du monde civilisé. Avec huit de leurs compagnons, sans autres outils que ceux du charpentier, ils parvinrent, non sans peine, à construire un petit bâtiment qu&apos;ils appelèrent la <text:span text:style-name="T9">Résolution</text:span>, et ils l&apos;amarrèrent dans une baie derrière une des pointes de Tahiti, nommée la pointe Vénus. Mais l&apos;impossibilité absolue où ils se trouvaient de se procurer des voiles les empêcha de <text:soft-page-break/>prendre la mer.</text:p>
+   <text:p text:style-name="Text_20_body">Pendant ce temps, forts de leur innocence, Stewart cultivait un jardin, et Peter Heywood réunissait les matériaux d&apos;un vocabulaire, qui fut, plus tard, d&apos;un grand secours aux missionnaires anglais.</text:p>
+   <text:p text:style-name="Text_20_body">Cependant, dix-huit mois s&apos;étaient écoulés lorsque, le 23 mars 1791, un vaisseau doubla la pointe Vénus et s&apos;arrêta dans la baie Matavaï. C&apos;était la <text:span text:style-name="T9">Pandore</text:span>, envoyée à la poursuite des révoltés par l&apos;Amirauté anglaise.</text:p>
+   <text:p text:style-name="Text_20_body">Heywood et Stewart s&apos;empressèrent de se rendre à bord, déclarèrent leurs noms et qualités, racontèrent qu&apos;ils n&apos;avaient pris aucune part à la révolte ; mais on ne les crut pas, et ils furent aussitôt mis aux fers, ainsi que tous leurs compagnons, sans que la moindre enquête eût été faite. Traités avec l&apos;inhumanité la plus révoltante, chargés de chaînes, menacés d&apos;être fusillés s&apos;ils se servaient de la langue tahitienne pour converser entre eux, ils furent enfermés dans une cage de onze pieds de long, placée à l&apos;extrémité du gaillard d&apos;arrière, et qu&apos;un amateur de mythologie décora du nom de « boîte de Pandore. »</text:p>
+   <text:p text:style-name="Text_20_body">Le 19 mai, la <text:span text:style-name="T9">Résolution</text:span>, qui avait été pourvue de voiles, et la <text:span text:style-name="T9">Pandore</text:span> reprirent la mer. Pendant trois mois, ces deux bâtiments croisèrent à travers l&apos;archipel des Amis, où l&apos;on supposait que Christian et le reste des révoltés avaient pu se réfugier. La <text:span text:style-name="T9">Résolution</text:span>, d&apos;un faible tirant d&apos;eau, rendit même de grands services pendant cette croisière ; mais elle disparut dans les parages de l&apos;île Chatam, et, bien que la <text:span text:style-name="T9">Pandore</text:span> fût restée plusieurs jours en vue, jamais on n&apos;en entendit parler, ni des cinq marins qui la montaient.</text:p>
+   <text:p text:style-name="Text_20_body">La <text:span text:style-name="T9">Pandore </text:span>avait repris la route d&apos;Europe avec ses prisonniers, lorsque, dans le détroit de Torrès, elle donna contre un écueil de corail et sombra presque aussitôt avec trente et un de ses matelots et quatre des révoltés.</text:p>
+   <text:p text:style-name="Text_20_body">L&apos;équipage et les prisonniers, qui avaient échappé au naufrage, gagnèrent alors un îlot sablonneux. Là, les officiers et les matelots purent s&apos;abriter sous des tentes ; mais les rebelles, exposés aux ardeurs d&apos;un soleil vertical, furent réduits, pour trouver un peu de soulagement, à s&apos;enfoncer dans le sable jusqu&apos;au cou. Les naufragés restèrent sur cet îlot pendant quelques jours ; puis, tous gagnèrent Timor dans les chaloupes de la <text:span text:style-name="T9">Pandore</text:span>, et la surveillance si rigoureuse dont les mutins étaient l&apos;objet ne fut pas un moment négligée, malgré la gravité des circonstances.</text:p>
+   <text:p text:style-name="Text_20_body">Arrivés en Angleterre au mois de juin 1792, les révoltés passèrent devant un conseil de guerre présidé par l&apos;amiral Hood. Les débats durèrent six jours et se terminèrent par l&apos;acquittement de quatre des accusés et la condamnation à mort des six autres, pour crime de désertion et enlèvement du bâtiment confié à leur garde. Quatre des condamnés furent pendus à bord d&apos;un vaisseau de guerre ; les deux autres, Stewart et Peter Heywood, dont l&apos;innocence avait enfin été reconnue, furent graciés.</text:p>
+   <text:p text:style-name="Text_20_body">Mais qu&apos;était devenue la <text:span text:style-name="T9">Bounty</text:span> ? Avait-elle fait naufrage avec les derniers des révoltés ? Voilà ce qu&apos;il était impossible de savoir.</text:p>
+   <text:p text:style-name="Text_20_body">En 1814, vingt-cinq ans après la scène par laquelle ce récit commence, deux navires de guerre <text:soft-page-break/>anglais croisaient en Océanie sous le commandement du capitaine Staines. Ils se trouvaient, au sud de l&apos;archipel Dangereux, en vue d&apos;une île montagneuse et volcanique que Carteret avait découverte dans son voyage autour du monde, et à laquelle il avait donné le nom de Pitcairn. Ce n&apos;était qu&apos;un cône, presque sans rivage, qui s&apos;élevait à pic au-dessus de la mer, et que tapissaient jusqu&apos;à sa cime des forêts de palmiers et d&apos;arbres à pain. Jamais cette île n&apos;avait été visitée ; elle se trouvait à douze cents milles de Tahiti, par 25 ° de latitude sud et 180° 8&apos; de longitude ouest ; elle ne mesurait que quatre milles et demi à sa circonférence, et un mille et demi seulement à son grand axe, et l&apos;on n&apos;en savait que ce qu&apos;en avait rapporté Carteret.</text:p>
+   <text:p text:style-name="Text_20_body">Le capitaine Staines résolut de la reconnaître et d&apos;y chercher un endroit convenable pour débarquer.</text:p>
+   <text:p text:style-name="Text_20_body">En s&apos;approchant de la côte, il fut surpris d&apos;apercevoir des cases, des plantations, et, sur la plage, deux naturels qui, après avoir lancé une embarcation à la mer et traversé habilement le ressac, se dirigèrent vers son bâtiment. Mais son étonnement n&apos;eut plus de bornes lorsqu&apos;il s&apos;entendit interpeller, en excellent anglais, par cette phrase :</text:p>
+   <text:p text:style-name="Text_20_body">« Hé ! vous autres, allez-vous nous jeter une corde, que nous montions à bord ! »</text:p>
+   <text:p text:style-name="Text_20_body">A peine arrivés sur le pont, les deux robustes rameurs furent entourés par les matelots stupéfaits, qui les accablaient de questions auxquelles ils ne savaient que répondre. Conduits devant le commandant, ils furent interrogés régulièrement.</text:p>
+   <text:p text:style-name="Text_20_body">« Qui êtes-vous ?</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Je m&apos;appelle Fletcher Christian, et mon camarade, Young. »</text:p>
+   <text:p text:style-name="Text_20_body">Ces noms ne disaient rien au capitaine Staines, qui était bien loin de penser aux survivants de la <text:span text:style-name="T9">Bounty</text:span>.</text:p>
+   <text:p text:style-name="Text_20_body">« Depuis quand êtes-vous ici ?</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Nous y sommes nés.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Quel âge avez-vous ?</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>J&apos;ai vingt-cinq ans, répondit Christian, et Young dix-huit.</text:p>
+   <text:p text:style-name="Text_20_body">–<text:span text:style-name="T10"> </text:span>Vos parents ont-ils été jetés sur cette île par quelque naufrage ? »</text:p>
+   <text:p text:style-name="Text_20_body">Christian fit alors au capitaine Staines l&apos;émouvante confession qui va suivre et dont voici les principaux traits :</text:p>
+   <text:p text:style-name="Text_20_body">En quittant Tahiti, où il abandonnait vingt et un de ses camarades, Christian, qui avait à bord de la <text:span text:style-name="T9">Bounty </text:span>le récit de voyage du capitaine Carteret, s&apos;était dirigé directement vers l&apos;île Pitcairn, dont la position lui avait semblé convenir au but qu&apos;il se proposait. Vingt-huit hommes composaient encore l&apos;équipage de la <text:span text:style-name="T9">Bounty</text:span>. C&apos;étaient Christian, l&apos;aspirant Young et sept matelots, six Tahitiens pris à Tahiti, dont trois avec leurs femmes et un enfant de dix mois, plus trois hommes et six femmes, indigènes de Toubouaï.</text:p>
+   <text:p text:style-name="Text_20_body">Le premier soin de Christian et de ses compagnons, dès qu&apos;ils eurent atteint l&apos;île Pitcairn, avait été de détruire la <text:span text:style-name="T9">Bounty</text:span>, afin de n&apos;être pas découverts. Sans doute, ils s&apos;étaient enlevé par là toute <text:soft-page-break/>possibilité de quitter l&apos;île, mais le soin de leur sécurité l&apos;exigeait.</text:p>
+   <text:p text:style-name="Text_20_body">L&apos;établissement de la petite colonie ne devait pas se faire sans difficultés, avec des gens qu&apos;unissait seule la solidarité d&apos;un crime. De sanglantes querelles avaient éclaté bientôt entre les Tahitiens et les Anglais. Aussi, en 1794, quatre des mutins survivaient-ils seulement. Christian était tombé sous le couteau de l&apos;un des indigènes qu&apos;il avait amenés. Tous les Tahitiens avaient été massacrés.</text:p>
+   <text:p text:style-name="Text_20_body">Un des Anglais, qui avait trouvé le moyen de fabriquer des spiritueux avec la racine d&apos;une plante indigène, avait fini par s&apos;abrutir dans l&apos;ivresse, et, pris d&apos;un accès de <text:span text:style-name="T9">delirium tremens</text:span>, s&apos;était précipité du haut d&apos;une falaise dans la mer.</text:p>
+   <text:p text:style-name="Text_20_body">Un autre, en proie à un accès de folie furieuse, s&apos;était jeté sur Young et sur un des matelots, nommé John Adams, qui s&apos;étaient vus forcés de le tuer. En 1800, Young était mort pendant une violente crise d&apos;asthme.</text:p>
+   <text:p text:style-name="Text_20_body">John Adams fut alors le dernier survivant de l&apos;équipage des révoltés.</text:p>
+   <text:p text:style-name="Text_20_body">Resté seul avec plusieurs femmes et vingt enfants, nés du mariage de ses camarades avec les Tahitiennes, le caractère de John Adams s&apos;était modifié profondément. Il n&apos;avait que trente-six ans alors ; mais, depuis bien des années, il avait assisté à tant de scènes de violence et de carnage, il avait vu la nature humaine sous de si tristes aspects, qu&apos;après avoir fait un retour sur lui-même, il s&apos;était tout à fait amendé.</text:p>
+   <text:p text:style-name="Text_20_body">Dans la bibliothèque de la <text:span text:style-name="T9">Bounty</text:span>, conservée sur l&apos;île, se trouvaient une bible et plusieurs livres de prières. John Adams, qui les lisait fréquemment, se convertit, éleva dans d&apos;excellents principes la jeune population qui le considérait comme un père, et devint, par la force des choses, le législateur, le grand prêtre et, pour ainsi dire, le roi de Pitcairn.</text:p>
+   <text:p text:style-name="Text_20_body">Cependant, jusqu&apos;en 1814, ses alarmes avaient été continuelles. En 1795, un bâtiment s&apos;étant approché de Pitcairn, les quatre survivants de la <text:span text:style-name="T9">Bounty </text:span>s&apos;étaient cachés dans des bois inaccessibles et n&apos;avaient osé redescendre dans la baie qu&apos;après le départ du navire. Même acte de prudence, lorsqu&apos;en 1808, un capitaine américain débarqua sur l&apos;île, où il s&apos;empara d&apos;un chronomètre et d&apos;une boussole, qu&apos;il fit parvenir à l&apos;Amirauté anglaise ; mais l&apos;Amirauté ne s&apos;émut pas à la vue de ces reliques de la <text:span text:style-name="T9">Bounty</text:span>. Il est vrai qu&apos;elle avait en Europe des préoccupations d&apos;une bien autre gravité, à cette époque.</text:p>
+   <text:p text:style-name="Text_20_body">Tel fut le récit fait au commandant Staines par les deux naturels, Anglais par leurs pères, l&apos;un fils de Christian, l&apos;autre fils d&apos;Young ; mais, lorsque Staines demanda à voir John Adams, celui-ci refusa de se rendre à bord avant de savoir ce qu&apos;il adviendrait de lui.</text:p>
+   <text:p text:style-name="Text_20_body">Le commandant, après avoir assuré aux deux jeunes gens que John Adams était couvert par la prescription, puisque vingt-cinq ans s&apos;étaient écoulés depuis la révolte de la <text:span text:style-name="T9">Bounty</text:span>, descendit à terre, et il fut reçu à son débarquement par une population composée de quarante-six adultes et d&apos;un grand nombre d&apos;enfants.</text:p>
+   <text:p text:style-name="Text_20_body">Tous étaient grands et vigoureux, avec le type anglais nettement accusé ; les jeunes filles surtout étaient admirablement belles, et leur modestie leur imprimait un caractère tout à fait séduisant.</text:p>
+   <text:p text:style-name="Text_20_body">Les lois mises en vigueur dans l&apos;île étaient des plus simples. Sur un registre était noté ce que <text:soft-page-break/>chacun avait gagné par son travail. La monnaie était inconnue ; toutes les transactions se faisaient au moyen de l&apos;échange, mais il n&apos;y avait pas d&apos;industrie, car les matières premières manquaient. Les habitants portaient pour tout habillement de vastes chapeaux et des ceintures d&apos;herbe. La pêche et l&apos;agriculture, telles étaient leurs principales occupations. Les mariages ne se faisaient qu&apos;avec la permission d&apos;Adams, et lorsque l&apos;homme avait défriché et planté un terrain assez vaste pour subvenir à l&apos;entretien de sa future famille.</text:p>
+   <text:p text:style-name="Text_20_body">Le commandant Staines, après avoir recueilli les documents les plus curieux sur cette île, perdue dans les parages les moins fréquentés du Pacifique, reprit la mer et revint en Europe.</text:p>
+   <text:p text:style-name="Text_20_body">Depuis cette époque, le vénérable John Adams a terminé sa carrière si accidentée. Il est mort en 1829, et a été remplacé par le révérend George Nobbs, qui remplit encore dans l&apos;île les fonctions de pasteur, de médecin et de maître d&apos;école.</text:p>
+   <text:p text:style-name="Text_20_body">En 1853, les descendants des révoltés de la <text:span text:style-name="T9">Bounty</text:span> étaient au nombre de cent soixante-dix individus. Depuis lors, la population ne fit que s&apos;accroître, et devint si nombreuse, que, trois ans plus tard, elle dut s&apos;établir en grande partie sur l&apos;île Norfolk, qui avait jusqu&apos;alors servi de station pour les convicts. Mais une partie des émigrés regrettaient Pitcairn, bien que Norfolk fût quatre fois plus grande, que son sol fût remarquable par sa richesse, et que les conditions de l&apos;existence y fussent bien plus faciles. Au bout de deux ans de séjour, plusieurs familles retournèrent à Pitcairn, où elles continuent à prospérer.</text:p>
+   <text:p text:style-name="Text_20_body">Tel fut donc le dénouement d&apos;une aventure qui avait commencé d&apos;une façon si tragique. Au début, des révoltés, des assassins, des fous, et maintenant, sous l&apos;influence des principes de la morale chrétienne et de l&apos;instruction donnée par un pauvre matelot converti, l&apos;île Pitcairn est devenue la patrie d&apos;une population douce, hospitalière, heureuse, chez laquelle se retrouvent les mœurs patriarcales des premiers âges.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc61291205"/>À propos de cette édition électronique<text:bookmark-end text:name="__RefHeading___Toc61291205"/></text:h>
+   <text:p text:style-name="Text_20_body">Texte libre de droits.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T11">Corrections, édition, conversion informatique et publication par le groupe :<text:line-break/></text:span></text:p>
+   <text:p text:style-name="Text_20_body">Ebooks libres et gratuits</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="http://fr.groups.yahoo.com/group/ebooksgratuits" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T12">http://fr.groups.yahoo.com/group/ebooksgratuits</text:span></text:span></text:a><text:span text:style-name="T11"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T11">Adresse du site web du groupe : </text:span><text:a xlink:type="simple" xlink:href="http://www.ebooksgratuits.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T13">http://www.ebooksgratuits.com/</text:span></text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body">——</text:p>
+   <text:p text:style-name="Text_20_body">8 janvier 2004</text:p>
+   <text:p text:style-name="Text_20_body">——</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T7">- Dispositions :</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T1">Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, </text:span><text:span text:style-name="T15">à une fin non commerciale et non professionnelle</text:span><text:span text:style-name="T1">. Si vous désirez les faire paraître sur votre site, ils ne doivent pas être altérés en aucune sorte. </text:span><text:span text:style-name="T16">Tout lien vers notre site est bienvenu…</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">- Qualité :</text:span></text:p>
+   <text:p text:style-name="P4">Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l&apos;original. Nous rappelons que c&apos;est un travail d&apos;amateurs non rétribués et nous essayons de promouvoir la culture littéraire avec de maigres moyens.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T8">Votre aide est la bienvenue !</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">VOUS POUVEZ NOUS AIDER<text:line-break/>À CONTRIBUER À FAIRE CONNAÎTRE<text:line-break/>CES CLASSIQUES LITTÉRAIRES.</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>

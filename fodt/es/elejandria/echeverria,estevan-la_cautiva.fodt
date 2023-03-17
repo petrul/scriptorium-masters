@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>La cautiva</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>Estevan echeverria</meta:initial-creator>
+    
+    <meta:creation-date>2022-09-10T10:25:22Z</meta:creation-date>
+    <dc:date>2022-11-21T20:32:11.550698633</dc:date>
+    
+    
+    
+  <meta:editing-duration>PT3M58S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="85" meta:paragraph-count="275" meta:word-count="9506" meta:character-count="55416" meta:non-whitespace-character-count="45948"/><meta:user-defined meta:name="date"/><meta:user-defined meta:name="language">es</meta:user-defined><meta:user-defined meta:name="publisher">www.elejandria.com</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">26381</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14263</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13720</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3461</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">26379</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14261</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2209594</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="8" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="9" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_10" style:display-name="Heading 10" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="10" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">85</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">La cautiva</text:h>
+   <text:p text:style-name="Author">Estevan Echeverria</text:p>
+   <text:p text:style-name="Date">2022-04-192022-04-19</text:p>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20primera.xhtml#calibre_pb_0"/>Parte primera<text:bookmark-end text:name="Parte%20primera.xhtml#calibre_pb_0"/><text:line-break/> El desierto</text:h>
+   <text:p text:style-name="lg">Era la tarde, y la hora<text:line-break/>en que el sol la cresta dora<text:line-break/>de los Andes. El Desierto<text:line-break/>inconmensurable, abierto,<text:line-break/>y misterioso a sus pies<text:line-break/>se extiende; triste el semblante,<text:line-break/>solitario y taciturno<text:line-break/>como el mar, cuando un instante<text:line-break/>al crepúsculo nocturno,<text:line-break/>pone rienda a su altivez.</text:p>
+   <text:p text:style-name="lg">Gira en vano, reconcentra<text:line-break/>su inmensidad, y no encuentra<text:line-break/>la vista, en su vivo anhelo,<text:line-break/>do fijar su fugaz vuelo,<text:line-break/>como el pájaro en el mar.<text:line-break/>Doquier campos y heredades<text:line-break/>del ave y bruto guaridas,<text:line-break/>doquier cielo y soledades<text:line-break/>de Dios sólo conocidas,<text:line-break/>que Él sólo puede sondar.<text:line-break/>A veces, la tribu errante,<text:line-break/>sobre el potro rozagante,<text:line-break/>cuyas crines altaneras<text:line-break/>flotan al viento ligeras,<text:line-break/>lo cruza cual torbellino,<text:line-break/>y pasa; o su toldería<text:line-break/>sobre la grama frondosa<text:line-break/>asienta, esperando el día<text:line-break/>duerme, tranquila reposa,<text:line-break/>sigue veloz su camino.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>¡Cuántas, cuántas maravillas,<text:line-break/>sublimes y a par sencillas,<text:line-break/>sembró la fecunda mano<text:line-break/>de Dios allí! ¡Cuánto arcano<text:line-break/>que no es dado al vulgo ver!<text:line-break/>La humilde yerba, el insecto,<text:line-break/>la aura aromática y pura,<text:line-break/>el silencio, el triste aspecto<text:line-break/>de la grandiosa llanura,<text:line-break/>el pálido anochecer.</text:p>
+   <text:p text:style-name="lg">Las armonías del viento<text:line-break/>dicen más al pensamiento<text:line-break/>que todo cuanto a porfía<text:line-break/>la vana filosofía<text:line-break/>pretende altiva enseñar.<text:line-break/>¿Qué pincel podrá pintarlas<text:line-break/>sin deslucir su belleza?<text:line-break/>¿Qué lengua humana alabarlas?<text:line-break/>Sólo el genio su grandeza<text:line-break/>puede sentir y admirar.</text:p>
+   <text:p text:style-name="lg">Ya el sol su nítida frente<text:line-break/>reclinaba en occidente,<text:line-break/>derramando por la esfera<text:line-break/>de su rubia cabellera<text:line-break/>el desmayado fulgor.<text:line-break/>Sereno y diáfano el cielo,<text:line-break/>sobre la gala verdosa<text:line-break/>de la llanura, azul velo<text:line-break/>esparcía, misteriosa<text:line-break/>sombra dando a su color.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>El aura, moviendo apenas<text:line-break/>sus alas de aroma llenas,<text:line-break/>entre la yerba bullía<text:line-break/>del campo que parecía<text:line-break/>como un piélago ondear.<text:line-break/>Y la tierra, contemplando<text:line-break/>del astro rey la partida,<text:line-break/>callaba, manifestando,<text:line-break/>como en una despedida,<text:line-break/>en su semblante pesar.</text:p>
+   <text:p text:style-name="lg">Sólo a ratos, altanero<text:line-break/>relinchaba un bruto fiero<text:line-break/>aquí o allá, en la campaña;<text:line-break/>bramaba un toro de saña,<text:line-break/>rugía un tigre feroz;<text:line-break/>o las nubes contemplando,<text:line-break/>como extático y gozoso,<text:line-break/>el yajá, de cuando en cuando,<text:line-break/>turbaba el mudo reposo<text:line-break/>con su fatídica voz.</text:p>
+   <text:p text:style-name="lg">Se puso el sol; parecía<text:line-break/>que el vasto horizonte ardía:<text:line-break/>la silenciosa llanura<text:line-break/>fue quedando más obscura,<text:line-break/>más pardo el cielo, y en él,<text:line-break/>con luz trémula brillaba<text:line-break/>una que otra estrella, y luego<text:line-break/>a los ojos se ocultaba,<text:line-break/>como vacilante fuego<text:line-break/>en soberbio chapitel.</text:p>
+   <text:p text:style-name="lg">El crepúsculo, entretanto,<text:line-break/>con su claroscuro manto,<text:line-break/><text:soft-page-break/>veló la tierra; una faja,<text:line-break/>negra como una mortaja,<text:line-break/>el occidente cubrió;<text:line-break/>mientras la noche bajando<text:line-break/>lenta venía, la calma,<text:line-break/>que contempla suspirando<text:line-break/>inquieta a veces el alma,<text:line-break/>con el silencio reinó.</text:p>
+   <text:p text:style-name="lg">Entonces, como el ruido<text:line-break/>que suele hacer el tronido<text:line-break/>cuando retumba lejano,<text:line-break/>se oyó en el tranquilo llano<text:line-break/>sordo y confuso clamor;<text:line-break/>se perdió... y luego violento,<text:line-break/>como baladro espantoso<text:line-break/>de turba inmensa, en el viento<text:line-break/>se dilató sonoroso,<text:line-break/>dando a los brutos pavor.</text:p>
+   <text:p text:style-name="lg">Bajo la planta sonante<text:line-break/>del ágil potro arrogante<text:line-break/>el duro suelo temblaba,<text:line-break/>y envuelto en polvo cruzaba<text:line-break/>como animado tropel,<text:line-break/>velozmente cabalgando;<text:line-break/>veíanse lanzas agudas,<text:line-break/>cabezas, crines ondeando,<text:line-break/>y como formas desnudas<text:line-break/>de aspecto extraño y cruel.</text:p>
+   <text:p text:style-name="lg">¿Quién es? ¿Qué insensata turba<text:line-break/>con su alarido perturba<text:line-break/>las calladas soledades<text:line-break/>de Dios, do las tempestades<text:line-break/><text:soft-page-break/>sólo se oyen resonar?<text:line-break/>¿Qué humana planta orgullosa<text:line-break/>se atreve a hollar el desierto<text:line-break/>cuando todo en él reposa?<text:line-break/>¿Quién viene seguro puerto<text:line-break/>en sus yermos a buscar?</text:p>
+   <text:p text:style-name="lg">¡Oíd! Ya se acerca el bando<text:line-break/>de salvajes, atronando<text:line-break/>todo el campo convecino;<text:line-break/>¡mirad! como torbellino<text:line-break/>hiende el espacio veloz.<text:line-break/>El fiero ímpetu no enfrena<text:line-break/>del bruto que arroja espuma;<text:line-break/>vaga al viento su melena,<text:line-break/>y con ligereza suma<text:line-break/>pasa en ademán atroz.</text:p>
+   <text:p text:style-name="lg">¿Dónde va? ¿De dónde viene?<text:line-break/>¿De qué su gozo proviene?<text:line-break/>¿Por qué grita, corre, vuela,<text:line-break/>clavando al bruto la espuela,<text:line-break/>sin mirar alrededor?<text:line-break/>¡Ved que las puntas ufanas<text:line-break/>de sus lanzas, por despojos,<text:line-break/>llevan cabezas humanas,<text:line-break/>cuyos inflamados ojos<text:line-break/>respiran aún furor!</text:p>
+   <text:p text:style-name="lg">Así el bárbaro hace ultraje<text:line-break/>al indomable coraje<text:line-break/>que abatió su alevosía;<text:line-break/>y su rencor todavía<text:line-break/>mira, con torpe placer,<text:line-break/>las cabezas que cortaron<text:line-break/><text:soft-page-break/>sus inhumanos cuchillos,<text:line-break/>exclamando: -&quot;Ya pagaron<text:line-break/>del cristiano los caudillos<text:line-break/>el feudo a nuestro poder.</text:p>
+   <text:p text:style-name="lg">Ya los ranchos do vivieron<text:line-break/>presa de las llamas fueron,<text:line-break/>y muerde el polvo abatida<text:line-break/>su pujanza tan erguida.<text:line-break/>¿Dónde sus bravos están?<text:line-break/>Vengan hoy del vituperio,<text:line-break/>sus mujeres, sus infantes,<text:line-break/>que gimen en cautiverio,<text:line-break/>a libertar, y como antes,<text:line-break/>nuestras lanzas probarán.&quot;</text:p>
+   <text:p text:style-name="lg">Tal decía, y bajo el callo<text:line-break/>del indómito caballo,<text:line-break/>crujiendo el suelo temblaba;<text:line-break/>hueco y sordo retumbaba<text:line-break/>su grito en la soledad.<text:line-break/>Mientras la noche, cubierto<text:line-break/>el rostro en manto nubloso,<text:line-break/>echó en el vasto desierto,<text:line-break/>su silencio pavoroso,<text:line-break/>su sombría majestad. </text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20segunda.xhtml#calibre_pb_1"/>Parte segunda<text:bookmark-end text:name="Parte%20segunda.xhtml#calibre_pb_1"/><text:line-break/>El festín</text:h>
+   <text:p text:style-name="First_20_paragraph"> </text:p>
+   <text:p text:style-name="Epigraph">...orríbile favelle,<text:line-break/>parole di dolore, accenti d&apos;ira,<text:line-break/>voci alte e fioche, e suon di man con elle<text:line-break/>facévano un tumulto...<text:line-break/>(Dante)</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El festín</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Noche es el vasto horizonte,<text:line-break/>noche el aire, cielo y tierra.<text:line-break/>Parece haber apiñado<text:line-break/>el genio de las tinieblas,<text:line-break/>para algún misterio inmundo,<text:line-break/>sobre la llanura inmensa,<text:line-break/>la lobreguez del abismo<text:line-break/>donde inalterable reina.</text:p>
+   <text:p text:style-name="lg">Sólo inquietos divagando,<text:line-break/>por entre las sombras negras,<text:line-break/>los espíritus foletos<text:line-break/>con viva luz reverberan,<text:line-break/>se disipan, reaparecen,<text:line-break/>vienen, van, brillan, se alejan,<text:line-break/>mientras el insecto chilla,<text:line-break/>y en fachinales o cuevas<text:line-break/>los nocturnos animales<text:line-break/><text:soft-page-break/>con triste aullido se quejan.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>La tribu aleve, entretanto,<text:line-break/>allá en la pampa desierta,<text:line-break/>donde el cristiano atrevido<text:line-break/>jamás estampa la huella,<text:line-break/>ha reprimido del bruto<text:line-break/>la estrepitosa carrera;<text:line-break/>y campo tiene fecundo<text:line-break/>al pie de una loma extensa,<text:line-break/>lugar hermoso, do a veces<text:line-break/>sus tolderías asienta.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Feliz la maloca ha sido;<text:line-break/>rica y de estima la presa<text:line-break/>que arrebató a los cristianos:<text:line-break/>caballos, potros y yeguas,<text:line-break/>bienes que en su vida errante<text:line-break/>ella más que el oro precia;<text:line-break/>muchedumbre de cautivas,<text:line-break/>todas jóvenes y bellas.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Sus caballos, en manadas,<text:line-break/>pacen la fragante yerba;<text:line-break/>y al lazo, algunos prendidos,<text:line-break/>a la pica, o la manea,<text:line-break/>de sus indolentes amos<text:line-break/>el grito de alarma esperan.<text:line-break/>Y no lejos de la turba,<text:line-break/>que charla ufana y hambrienta,<text:line-break/>atado entre cuatro lanzas,<text:line-break/>como víctima en reserva,<text:line-break/><text:soft-page-break/>noble espíritu valiente<text:line-break/>mira vacilar su estrella;<text:line-break/>al paso que su infortunio,<text:line-break/>sin esperanza, lamentan,<text:line-break/>rememorando su hogar,<text:line-break/>los infantes y las hembras.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Arden ya en medio del campo<text:line-break/>cuatro extendidas hogueras,<text:line-break/>cuyas vivas llamaradas<text:line-break/>irradiando, colorean<text:line-break/>el tenebroso recinto<text:line-break/>donde la chusma hormiguea.<text:line-break/>En torno al fuego sentados<text:line-break/>unos lo atizan y ceban;<text:line-break/>otros la jugosa carne<text:line-break/>al rescoldo o llama tuestan.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Aquél come, éste destriza,<text:line-break/>más allá alguno degüella<text:line-break/>con afilado cuchillo<text:line-break/>la yegua al lazo sujeta,<text:line-break/>y a la boca de la herida,<text:line-break/>por donde ronca y resuella,<text:line-break/>y a borbollones arroja<text:line-break/>la caliente sangre fuera,<text:line-break/>en pie, trémula y convulsa,<text:line-break/>dos o tres indios se pegan<text:line-break/>como sedientos vampiros,<text:line-break/>sorben, chupan, saborean<text:line-break/>la sangre, haciendo mormullo,<text:line-break/>y de sangre se rellenan.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Baja el pescuezo, vacila,<text:line-break/>y se desploma la yegua<text:line-break/>con aplausos de las indias<text:line-break/>que a descuartizarla empiezan.<text:line-break/>Arden en medio del campo,<text:line-break/>con viva luz las hogueras;<text:line-break/>sopla el viento de la pampa<text:line-break/>y el humo y las chispas vuelan.<text:line-break/>A la charla interrumpida,<text:line-break/>cuando el hambre está repleta,<text:line-break/>sigue el cordial regocijo,<text:line-break/>el beberaje y la gresca,<text:line-break/>que apetecen los varones,<text:line-break/>y las mujeres detestan.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El licor espirituoso<text:line-break/>en grandes bacías echan;<text:line-break/>y, tendidos de barriga<text:line-break/>en derredor, la cabeza<text:line-break/>meten sedientos, y apuran<text:line-break/>el apetecido néctar,<text:line-break/>que bien pronto los convierte<text:line-break/>en abominables fieras.<text:line-break/>Cuando algún indio, medio ebrio,<text:line-break/>tenaz metiendo la lengua<text:line-break/>sigue en la preciosa fuente,<text:line-break/>y beber también no deja<text:line-break/>a los que aguijan furiosos,<text:line-break/>otro viene, de las piernas<text:line-break/>lo agarra, tira y arrastra,<text:line-break/>y en lugar suyo se espeta.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Así bebe, ríe, canta,<text:line-break/><text:soft-page-break/>y al regocijo sin rienda<text:line-break/>se da la tribu; aquel ebrio<text:line-break/>se levanta, bambolea,<text:line-break/>a plomo cae, y gruñendo<text:line-break/>como animal se revuelca.<text:line-break/>Éste chilla, algunos lloran,<text:line-break/>y otros a beber empiezan.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>De la chusma toda al cabo<text:line-break/>la embriaguez se enseñorea<text:line-break/>y hace andar en remolino<text:line-break/>sus delirantes cabezas;<text:line-break/>entonces empieza el bullicio,<text:line-break/>y la algazara tremenda,<text:line-break/>el infernal alarido<text:line-break/>y las voces lastimeras,<text:line-break/>mientras sin alivio lloran<text:line-break/>las cautivas miserables,<text:line-break/>y los ternezuelos niños,<text:line-break/>al ver llorar a sus madres.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Las hogueras, entretanto,<text:line-break/>en la obscuridad flamean,<text:line-break/>y a los pintados semblantes<text:line-break/>y a las largas cabelleras<text:line-break/>de aquellos indios beodos,<text:line-break/>da su vislumbre siniestra<text:line-break/>colorido tan extraño,<text:line-break/>traza tan horrible y fea,<text:line-break/>que parecen del abismo<text:line-break/>précito, inmunda ralea,<text:line-break/>entregada al torpe gozo<text:line-break/>de la sabática fiesta.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Todos en silencio escuchan;<text:line-break/>una voz entona recia<text:line-break/>las heroicas alabanzas,<text:line-break/>y los cantos de la guerra:<text:line-break/>-Guerra, guerra, y exterminio<text:line-break/>al tiránico dominio<text:line-break/>del huinca; engañosa paz:<text:line-break/>devore el fuego sus ranchos,<text:line-break/>que en su vientre los caranchos<text:line-break/>ceben el pico voraz.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Oyó gritos el caudillo,<text:line-break/>y en su fogoso tordillo<text:line-break/>salió Brian;<text:line-break/>pocos eran y él delante<text:line-break/>venía, al bruto arrogante<text:line-break/>dio una lanzada Quillán.<text:line-break/>Lo cargó al punto la indiada:<text:line-break/>con la fulminante espada<text:line-break/>se alzó Brian;<text:line-break/>grandes sus ojos brillaron,<text:line-break/>y las cabezas rodaron<text:line-break/>de Quitur y Callupán.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Echando espuma y herido<text:line-break/>como toro enfurecido<text:line-break/>se encaró,<text:line-break/>ceño torvo revolviendo,<text:line-break/>y el acero sacudiendo:<text:line-break/>nadie acometerlo osó.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>Valichu estaba en su brazo;<text:line-break/>pero al golpe de un bolazo<text:line-break/>cayó Brian<text:line-break/>como potro en la llanura:<text:line-break/>cebo en su cuerpo y hartura<text:line-break/>encontrará el gavilán.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Las armas cobarde entrega<text:line-break/>el que vivir quiere esclavo;<text:line-break/>pero el indio guapo, no:<text:line-break/>Chañil murió como bravo,<text:line-break/>batallando en la refriega,<text:line-break/>de una lanzada murió.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Salió Brian airado<text:line-break/>blandiendo la lanza,<text:line-break/>con fiera pujanza<text:line-break/>Chañil lo embistió;<text:line-break/>del pecho clavado<text:line-break/>en el hierro agudo,<text:line-break/>con brazo forzudo,<text:line-break/>Brian lo levantó.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Funeral sangriento<text:line-break/>ya tuvo en el llano;<text:line-break/>ni un solo cristiano<text:line-break/>con vida escapó.<text:line-break/>¡Fatal vencimiento!<text:line-break/>Lloremos la muerte<text:line-break/>del indio más fuerte<text:line-break/>que la pampa crió.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Quiénes su pérdida lloran,<text:line-break/>quiénes sus hazañas mentan.<text:line-break/>Óyense voces confusas,<text:line-break/>medio articuladas quejas,<text:line-break/>baladros, cuyo son ronco<text:line-break/>en la llanura resuena.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>De repente todos callan,<text:line-break/>y un sordo mormullo reina,<text:line-break/>semejante al de la brisa<text:line-break/>cuando rebulle en la selva;<text:line-break/>pero, gritando, algún indio<text:line-break/>en la boca se palmea,<text:line-break/>y el disonante alarido<text:line-break/>otra vez el campo atruena.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El indeleble recuerdo<text:line-break/>de las pasadas ofensas<text:line-break/>se aviva en su ánimo entonces,<text:line-break/>y atizando su fiereza<text:line-break/>al rencor adormecido<text:line-break/>y a la venganza subleva.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>En su mano los cuchillos,<text:line-break/>a la luz de las hogueras,<text:line-break/>llevando muerte relucen;<text:line-break/>se ultrajan, riñen, vocean,<text:line-break/>como animales feroces<text:line-break/>se despedazan y bregan.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Y, asombradas, las cautivas<text:line-break/>la carnicería horrenda<text:line-break/>miran, y a Dios en silencio<text:line-break/>humildes preces elevan.<text:line-break/>Sus mujeres entretanto,<text:line-break/>cuya vigilancia tierna<text:line-break/>en las horas de peligro<text:line-break/>siempre cautelosa vela,<text:line-break/>acorren luego a calmar<text:line-break/>el frenesí que los ciega,<text:line-break/>ya con ruegos y palabras<text:line-break/>de amor y eficacia llenas,<text:line-break/>ya interponiendo su cuerpo<text:line-break/>entre las armas sangrientas.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Ellos resisten y luchan,<text:line-break/>las desoyen y atropellan,<text:line-break/>lanzando injuriosos gritos;<text:line-break/>y los cuchillos no sueltan<text:line-break/>sino cuando, ya rendida<text:line-break/>su natural fortaleza<text:line-break/>a la embriaguez y al cansancio,<text:line-break/>dobla el cuello y cae por tierra.<text:line-break/>Al tumulto y la matanza<text:line-break/>sigue el llorar de las hembras<text:line-break/>por sus maridos y deudos,<text:line-break/>las lastimosas endechas<text:line-break/>a la abundancia pasada,<text:line-break/>a la presente miseria,<text:line-break/>a las víctimas queridas<text:line-break/>de aquella noche funesta.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pronto un profundo silencio<text:line-break/><text:soft-page-break/>hace a los lamentos tregua,<text:line-break/>interrumpido por ayes<text:line-break/>de moribundos, o quejas,<text:line-break/>risas, gruñir sofocado<text:line-break/>de la embriagada torpeza;<text:line-break/>al espantoso ronquido<text:line-break/>de los que durmiendo sueñan,<text:line-break/>los gemidos infantiles<text:line-break/>del ñacurutú se mezclan;<text:line-break/>chillidos, aúllos tristes<text:line-break/>del lobo que anda a la presa.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>De cadáveres, de troncos,<text:line-break/>miembros, sangre y osamentas,<text:line-break/>entremezclados con vivos,<text:line-break/>cubierto aquel campo queda,<text:line-break/>donde poco antes la tribu<text:line-break/>llegó alegre y tan soberbia.<text:line-break/>La noche en tanto camina<text:line-break/>triste, encapotada y negra;<text:line-break/>y la desmayada luz<text:line-break/>de las festivas hogueras<text:line-break/>sólo alumbra los estragos<text:line-break/>de aquella bárbara fiesta.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="parte%20tercera.xhtml#calibre_pb_2"/>Parte tercera<text:bookmark-end text:name="parte%20tercera.xhtml#calibre_pb_2"/><text:line-break/>El puñal</text:h>
+   <text:p text:style-name="First_20_paragraph">Yo iba a morir, es verdad,<text:line-break/>entre bárbaros crueles,<text:line-break/>y allí el pesar me mataba<text:line-break/>de morir, mi bien, sin verte.<text:line-break/>A darme la vida tú<text:line-break/>saliste, hermosa, y valiente<text:line-break/>(Calderón)</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El puñal</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Yace en el campo tendida,<text:line-break/>cual si estuviera sin vida,<text:line-break/>ebria, la salvaje turba,<text:line-break/>y ningún ruido perturba<text:line-break/>su sueño o sopor mortal.<text:line-break/>Varones y hembras mezclados</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Paran la oreja bufando<text:line-break/>los caballos, que vagando<text:line-break/>libres despuntan la grama;<text:line-break/>y a la moribunda llama<text:line-break/>de las hogueras se ve,<text:line-break/>se ve sola y taciturna,<text:line-break/>símil a sombra nocturna,<text:line-break/>moverse una forma humana,<text:line-break/>como quien lucha y se afana,<text:line-break/>y oprime algo bajo el pie.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Se oye luego triste aúllo,<text:line-break/>y horrisonante mormullo,<text:line-break/>semejante al del novillo<text:line-break/>cuando el filoso cuchillo<text:line-break/>lo degüella sin piedad,<text:line-break/>y por la herida resuella,<text:line-break/>y aliento y vivir por ella,<text:line-break/>sangre hirviendo a borbollones,<text:line-break/>en horribles convulsiones,<text:line-break/>lanza con velocidad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Silencio; ya el paso leve<text:line-break/>por entre la yerba mueve,<text:line-break/>como quien busca y no atina,<text:line-break/>y temeroso camina<text:line-break/>de ser visto o tropezar,<text:line-break/>una mujer: en la diestra<text:line-break/>un puñal sangriento muestra,<text:line-break/>sus largos cabellos flotan<text:line-break/>desgreñados, y denotan<text:line-break/>de su ánimo el batallar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Ella va. Toda es oídos;<text:line-break/>sobre salvajes dormidos<text:line-break/>va pasando, escucha, mira,<text:line-break/>se para, apenas respira,<text:line-break/>y vuelve de nuevo a andar.<text:line-break/>Ella marcha, y sus miradas<text:line-break/>vagan en torno, azoradas,<text:line-break/>cual si creyesen ilusas<text:line-break/>en las tinieblas confusas<text:line-break/>mil espectros divisar.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Ella va, y aun de su sombra,<text:line-break/>como el criminal, se asombra;<text:line-break/>alza, inclina la cabeza;<text:line-break/>pero en un cráneo tropieza<text:line-break/>y queda al punto mortal.<text:line-break/>Un cuerpo gruñe y resuella,<text:line-break/>y se revuelve; mas ella<text:line-break/>cobra espíritu y coraje,<text:line-break/>y en el pecho del salvaje<text:line-break/>clava el agudo puñal.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El indio dormido expira,<text:line-break/>y ella veloz se retira<text:line-break/>de allí, y anda con más tino<text:line-break/>arrastrando del destino<text:line-break/>la rigorosa crueldad.<text:line-break/>Un instinto poderoso,<text:line-break/>un afecto generoso<text:line-break/>la impele y guía segura,<text:line-break/>como luz de estrella pura,<text:line-break/>por aquella obscuridad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Su corazón de alegría<text:line-break/>palpita; lo que quería,<text:line-break/>lo que buscaba con ansia<text:line-break/>su amorosa vigilancia,<text:line-break/>encontró gozosa al fin.<text:line-break/>Allí, allí está su universo,<text:line-break/>de su alma el espejo terso,<text:line-break/>su amor, esperanza y vida;<text:line-break/>allí contempla embebida<text:line-break/>su terrestre serafín.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>-Brian -dice-, mi Brian querido<text:line-break/>busca durmiendo el olvido;<text:line-break/>quizás ni soñando espera<text:line-break/>que yo entre esta gente fiera<text:line-break/>le venga a favorecer.<text:line-break/>Lleno de heridas, cautivo,<text:line-break/>no abate su ánimo altivo<text:line-break/>la desgracia, y satisfecho<text:line-break/>descansa, como en su lecho,<text:line-break/>sin esperar, ni temer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Sus verdugos, sin embargo,<text:line-break/>para hacerle más amargo<text:line-break/>de la muerte el pensamiento,<text:line-break/>deleitarse en su tormento,<text:line-break/>y más su rencor cebar<text:line-break/>prolongando su agonía,<text:line-break/>la vida suya, que es mía,<text:line-break/>guardaron, cuando, triunfantes,<text:line-break/>hasta los tiernos infantes<text:line-break/>osaron despedazar,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>arrancándolos del seno<text:line-break/>de sus madres -¡día lleno<text:line-break/>de execración y amargura,<text:line-break/>en que murió mi ventura,<text:line-break/>tu memoria me da horror!-.<text:line-break/>Así dijo, y ya no siente,<text:line-break/>ni llora, porque la fuente<text:line-break/>del sentimiento fecunda,<text:line-break/>que el femenil pecho inunda,<text:line-break/>consumió el voraz dolor.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Y el amor y la venganza<text:line-break/>en su corazón alianza<text:line-break/>han hecho, y sólo una idea<text:line-break/>tiene fija y saborea<text:line-break/>su ardiente imaginación.<text:line-break/>Absorta el alma, en delirio<text:line-break/>lleno de gozo y martirio<text:line-break/>queda, hasta que al fin estalla<text:line-break/>como volcán, y se explaya<text:line-break/>la lava del corazón.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Allí está su amante herido,<text:line-break/>mirando al cielo, y ceñido<text:line-break/>el cuerpo con duros lazos,<text:line-break/>abiertos en cruz los brazos,<text:line-break/>ligadas manos y pies.<text:line-break/>Cautivo está, pero duerme;<text:line-break/>inmoble, sin fuerza, inerme<text:line-break/>yace su brazo invencible:<text:line-break/>de la pampa el león terrible<text:line-break/>presa de los buitres es.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Allí, de la tribu impía,<text:line-break/>esperando con el día<text:line-break/>horrible muerte, está el hombre<text:line-break/>cuya fama, cuyo nombre<text:line-break/>era, al bárbaro traidor,<text:line-break/>más temible que el zumbido<text:line-break/>del hierro o plomo encendido;<text:line-break/>más aciago y espantoso<text:line-break/>que el valichu rencoroso<text:line-break/>a quien ataca su error.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Allí está; silenciosa ella,<text:line-break/>como tímida doncella,<text:line-break/>besa su entreabierta boca,<text:line-break/>cual si dudara le toca<text:line-break/>por ver si respira aún.<text:line-break/>Entonces las ataduras,<text:line-break/>que sus carnes roen duras,<text:line-break/>corta, corta velozmente<text:line-break/>con su puñal obediente,<text:line-break/>teñido en sangre común.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Brian despierta; su alma fuerte,<text:line-break/>conforme ya con su suerte,<text:line-break/>no se conturba, ni azora;<text:line-break/>poco a poco se incorpora,<text:line-break/>mira sereno, y cree ver<text:line-break/>un asesino: echan fuego<text:line-break/>sus ojos de ira; mas luego<text:line-break/>se siente libre, y se calma,<text:line-break/>y dice: -¿Eres alguna alma<text:line-break/>que pueda y deba querer?</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¿Eres espíritu errante,<text:line-break/>ángel bueno, o vacilante<text:line-break/>parto de mi fantasía?<text:line-break/>-Mi vulgar nombre es María,<text:line-break/>ángel de tu guarda soy;<text:line-break/>y mientras cobra pujanza,<text:line-break/>ebria la feroz venganza<text:line-break/>de los bárbaros, segura,<text:line-break/>en aquesta noche obscura,<text:line-break/>velando a tu lado estoy:<text:line-break/>nada tema tu congoja.-</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Y enajenada se arroja<text:line-break/>de su querido en los brazos,<text:line-break/>la da mil besos y abrazos,<text:line-break/>repitiendo: -Brian, Brian.-<text:line-break/>La alma heroica del guerrero<text:line-break/>siente el gozo lisonjero<text:line-break/>por sus miembros doloridos<text:line-break/>correr, y que sus sentidos<text:line-break/>libres de ilusión están.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y en labios de su querida<text:line-break/>apura aliento de vida,<text:line-break/>y la estrecha cariñoso<text:line-break/>y en éxtasis amoroso<text:line-break/>ambos respiran así;<text:line-break/>mas, súbito él la separa,<text:line-break/>como si en su alma brotara<text:line-break/>horrible idea, y la dice:<text:line-break/>-María, soy infelice,<text:line-break/>ya no eres digna de mí.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Del salvaje la torpeza<text:line-break/>habrá ajado la pureza<text:line-break/>de tu honor, y mancillado<text:line-break/>tu cuerpo santificado<text:line-break/>por mi cariño y tu amor;<text:line-break/>ya no me es dado quererte.-<text:line-break/>Ella le responde: -Advierte<text:line-break/>que en este acero está escrito<text:line-break/>mi pureza y mi delito,<text:line-break/>mi ternura y mi valor.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Mira este puñal sangriento,<text:line-break/>y saltará de contento<text:line-break/>tu corazón orgulloso;<text:line-break/>diómelo amor poderoso,<text:line-break/>diómelo para matar<text:line-break/>al salvaje que insolente<text:line-break/>ultrajar mi honor intente;<text:line-break/>para, a un tiempo, de mi padre,<text:line-break/>de mi hijo tierno y mi madre,<text:line-break/>la injusta muerte vengar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y tu vida, más preciosa<text:line-break/>que la luz del sol hermosa,<text:line-break/>sacar de las fieras manos<text:line-break/>de estos tigres inhumanos,<text:line-break/>o contigo perecer.<text:line-break/>Loncoy, el cacique altivo<text:line-break/>cuya saña al atractivo<text:line-break/>se rindió de estos mis ojos,<text:line-break/>y quiso entre sus despojos<text:line-break/>de Brian la querida ver,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>después de haber mutilado<text:line-break/>a su hijo tierno; anegado<text:line-break/>en su sangre yace impura;<text:line-break/>sueño infernal su alma apura:<text:line-break/>dióle muerte este puñal.<text:line-break/>Levanta, mi Brian, levanta,<text:line-break/>sigue, sigue mi ágil planta;<text:line-break/>huyamos de esta guarida<text:line-break/>donde la turba se anida<text:line-break/>más inhumana y fatal.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>-¿Pero adónde, adónde iremos?<text:line-break/>¿Por fortuna encontraremos<text:line-break/>en la pampa algún asilo,<text:line-break/>donde nuestro amor tranquilo<text:line-break/>logre burlar su furor?<text:line-break/>¿Podremos, sin ser sentidos<text:line-break/>escapar, y desvalidos<text:line-break/>caminar a pie, ijadeando,<text:line-break/>con el hambre y sed luchando,<text:line-break/>el cansancio y el dolor?</text:p>
+   <text:p text:style-name="lg"><text:line-break/>-Sí; el anchuroso desierto<text:line-break/>más de un abrigo encubierto<text:line-break/>ofrece, y la densa niebla,<text:line-break/>que el cielo y la tierra puebla,<text:line-break/>nuestra fuga ocultará.<text:line-break/>Brian, cuando aparezca el día,<text:line-break/>palpitantes de alegría,<text:line-break/>lejos de aquí ya estaremos,<text:line-break/>y el alimento hallaremos<text:line-break/>que el cielo al infeliz da.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>-Tú podrás, querida amiga,<text:line-break/>hacer rostro a la fatiga,<text:line-break/>mas yo, llagado y herido,<text:line-break/>débil, exangüe, abatido,<text:line-break/>¿cómo podré resistir?<text:line-break/>Huye tú, mujer sublime,<text:line-break/>y del oprobio redime<text:line-break/>tu vivir predestinado;<text:line-break/>deja a Brian infortunado,<text:line-break/>solo, en tormentos morir.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>-No, no, tu vendrás conmigo,<text:line-break/>o pereceré contigo.<text:line-break/>De la amada patria nuestra<text:line-break/>escudo fuerte es tu diestra,<text:line-break/>¿y qué vale una mujer?<text:line-break/>Huyamos, tú de la muerte,<text:line-break/>yo de la oprobiosa suerte<text:line-break/>de los esclavos; propicio<text:line-break/>el cielo este beneficio<text:line-break/>nos ha querido ofrecer;<text:line-break/>no insensatos lo perdamos.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Huyamos, mi Brian, huyamos;<text:line-break/>que en el áspero camino<text:line-break/>mi brazo, y poder divino<text:line-break/>te servirán de sostén.<text:line-break/>-Tu valor me infunde fuerza,<text:line-break/>y de la fortuna adversa,<text:line-break/>amor, gloria o agonía<text:line-break/>participar con María<text:line-break/>yo quiero; huyamos, ven, ven.-</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Dice Brian y se levanta;<text:line-break/>el dolor traba su planta,<text:line-break/>mas devora el sufrimiento;<text:line-break/>y ambos caminan a tiento<text:line-break/>por aquella obscuridad.<text:line-break/>Tristes van, de cuando en cuando<text:line-break/>la vista al cielo llevando,<text:line-break/>que da esperanza al que gime,<text:line-break/>¿qué busca su alma sublime?<text:line-break/>la muerte o la libertad.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>-Y en esta noche sombría<text:line-break/>¿quién nos servirá de guía?<text:line-break/>-Brian, ¿no ves allá una estrella<text:line-break/>que entre dos nubes centella<text:line-break/>cual benigno astro de amor?<text:line-break/>Pues ésa es por Dios enviada,<text:line-break/>como la nube encarnada<text:line-break/>que vio Israel prodigiosa;<text:line-break/>sigamos la senda hermosa<text:line-break/>que nos muestra su fulgor,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>ella del triste desierto<text:line-break/>nos llevará a feliz puerto.-<text:line-break/>Ellos van; solas, perdidas,<text:line-break/>como dos almas queridas,<text:line-break/>que amor en la tierra unió,<text:line-break/>y en la misma forma de antes,<text:line-break/>andan por la noche errantes,<text:line-break/>con la memoria hechicera<text:line-break/>del bien que en su primavera<text:line-break/>la desdicha les robó.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Ellos van. Vasto, profundo<text:line-break/>como el páramo del mundo<text:line-break/>misterioso es el que pisan;<text:line-break/>mil fantasmas se divisan,<text:line-break/>mil formas vanas allí,<text:line-break/>que la sangre joven hielan:<text:line-break/>mas ellos vivir anhelan.<text:line-break/>Brian desmaya caminando<text:line-break/>y, al cielo otra vez mirando,<text:line-break/>dice a su querida así:<text:line-break/>-Mira: ¿no ves? la luz bella<text:line-break/><text:soft-page-break/>de nuestra polar estrella<text:line-break/>de nuevo se ha obscurecido,<text:line-break/>y el cielo más denegrido<text:line-break/>nos anuncia algo fatal.<text:line-break/>-Cuando contrario el destino<text:line-break/>nos cierre, Brian, el camino,<text:line-break/>antes de volver a manos<text:line-break/>de esos indios inhumanos.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20cuarta.xhtml#calibre_pb_3"/>Parte cuarta<text:bookmark-end text:name="Parte%20cuarta.xhtml#calibre_pb_3"/><text:line-break/>La alborada</text:h>
+   <text:p text:style-name="First_20_paragraph">Già la terra e coperta d´uccisi;<text:line-break/>tutta è sangue la vasta pianura;...<text:line-break/>(Manzoni.)</text:p>
+   <text:p text:style-name="lg">&quot;Ya de muertos la tierra está cubierta,<text:line-break/>y la vasta llanura toda es sangre.&quot;</text:p>
+   <text:p text:style-name="lg">La alborada</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Todo estaba silencioso.<text:line-break/>La brisa de la mañana<text:line-break/>recién la yerba lozana<text:line-break/>acariciaba, y la flor;<text:line-break/>y en el oriente nubloso,<text:line-break/>la luz apenas rayando<text:line-break/>iba el campo matizando<text:line-break/>de claroscuro verdor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Posaba el ave en su nido;<text:line-break/>ni del pájaro se oía<text:line-break/>la variada melodía,<text:line-break/>música que al alba da;<text:line-break/>y sólo, al ronco bufido<text:line-break/>de algún potro que se azora,<text:line-break/>mezclaba su voz sonora<text:line-break/>el agorero yajá.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>En el campo de la holganza,<text:line-break/>so la techumbre del cielo,<text:line-break/>libre, ajena de recelo,<text:line-break/>dormía la tribu infiel;<text:line-break/>mas la terrible venganza<text:line-break/>de su constante enemigo<text:line-break/>alerta estaba, y castigo<text:line-break/>le preparaba cruel.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Súbito, al trote asomaron<text:line-break/>sobre la extendida loma<text:line-break/>dos jinetes, como asoma<text:line-break/>el astuto cazador;<text:line-break/>y al pie de ella divisaron<text:line-break/>la chusma quieta y dormida,<text:line-break/>y volviendo atrás la brida<text:line-break/>fueron a dar el clamor</text:p>
+   <text:p text:style-name="lg"><text:line-break/>de alarma al campo cristiano.<text:line-break/>Pronto en brutos altaneros<text:line-break/>un escuadrón de lanceros<text:line-break/>trotando allí se acercó,<text:line-break/>con acero y lanza en mano;<text:line-break/>y en hileras dividido<text:line-break/>al indio, no apercibido,<text:line-break/>en doble muro encerró.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Entonces, el grito &quot;Cristiano, cristiano&quot;<text:line-break/>resuena en el llano,<text:line-break/>&quot;Cristiano&quot; repite confuso clamor.<text:line-break/>La turba que duerme despierta turbada,<text:line-break/><text:soft-page-break/>clamando azorada,<text:line-break/>&quot;Cristiano nos cerca, cristiano traidor&quot;.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Niños y mujeres, llenos de conflicto,<text:line-break/>levantan el grito;<text:line-break/>sus almas conturba la tribulación;<text:line-break/>los unos pasmados, al peligro horrendo,<text:line-break/>los otros huyendo,<text:line-break/>corren, gritan, llevan miedo y confusión.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Quién salta al caballo que encontró primero,<text:line-break/>quién toma el acero,<text:line-break/>quién corre su potro querido a buscar;<text:line-break/>mas ya la llanura cruzan desbandadas,<text:line-break/>yeguas y manadas,<text:line-break/>que el cauto enemigo las hizo espantar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>En trance tan duro los carga el cristiano,<text:line-break/>blandiendo en su mano<text:line-break/>la terrible lanza, que no da cuartel.<text:line-break/>Los indios más bravos luchando resisten,<text:line-break/>cual fieras embisten:<text:line-break/>el brazo sacude la matanza cruel.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El sol aparece; las armas agudas<text:line-break/>relucen desnudas,<text:line-break/>horrible la muerte se muestra doquier.<text:line-break/>En lomos del bruto, la fuerza y coraje,<text:line-break/>crece del salvaje,<text:line-break/>sin su apoyo, inerme, se deja vencer.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Pie en tierra poniendo la fácil victoria,<text:line-break/>que no le da gloria,<text:line-break/>prosigue el cristiano lleno de rencor.<text:line-break/>Caen luego caciques, soberbios caudillos:<text:line-break/>los fieros cuchillos<text:line-break/>degüellan, degüellan, sin sentir horror.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Los ayes, los gritos, clamor del que llora,<text:line-break/>gemir del que implora,<text:line-break/>puesto de rodillas, en vano piedad,<text:line-break/>todo se confunde: del plomo el silbido,<text:line-break/>del hierro el crujido,<text:line-break/>que ciego no acata ni sexo, ni edad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Horrible, horrible matanza<text:line-break/>hizo el cristiano aquel día;<text:line-break/>ni hembra, ni varón, ni cría<text:line-break/>de aquella tribu quedó.<text:line-break/>La inexorable venganza<text:line-break/>siguió el paso a la perfidia,<text:line-break/>y en no cara y breve lidia<text:line-break/>su cerviz al hierro dio.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Viose la yerba teñida<text:line-break/>de sangre, hediondo y sembrado<text:line-break/>de cadáveres el prado<text:line-break/>donde resonó el festín.<text:line-break/>Y del sueño de la vida<text:line-break/>al de la muerte pasaron<text:line-break/>los que poco antes se holgaron,<text:line-break/>sin temer aciago fin.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Las cautivas derramaban<text:line-break/>lágrimas de regocijo;<text:line-break/>una al esposo, otra al hijo<text:line-break/>debió allí la libertad;<text:line-break/>pero ellos tristes estaban,<text:line-break/>porque ni vivo ni muerto<text:line-break/>halló a Brian en el desierto,<text:line-break/>su valor y su lealtad.</text:p>
+   <text:p text:style-name="lg"> </text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20quinta.xhtml#calibre_pb_4"/>Parte quinta<text:bookmark-end text:name="Parte%20quinta.xhtml#calibre_pb_4"/><text:line-break/>El pajonal</text:h>
+   <text:p text:style-name="First_20_paragraph">...e lo spirito lasso<text:line-break/>conforta, e ciba di speranza buona;<text:line-break/>(Dante.)</text:p>
+   <text:p text:style-name="lg">&quot;...y el ánimo cansado,<text:line-break/>de esperanza feliz nutre y conforta;&quot;</text:p>
+   <text:p text:style-name="lg">El pajonal</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Así, huyendo a la ventura,<text:line-break/>ambos a pie divagaron<text:line-break/>por la lóbrega llanura,<text:line-break/>y al salir la luz del día,<text:line-break/>a corto trecho se hallaron<text:line-break/>de un inmenso pajonal.<text:line-break/>Brian debilitado, herido,<text:line-break/>a la fatiga rendido<text:line-break/>la planta apenas movía;<text:line-break/>su angustia era sin igual.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero un ángel, su querida,<text:line-break/>siempre a su lado velaba,<text:line-break/>y el espíritu y la vida,<text:line-break/>que su alma heroica anidaba,<text:line-break/>la infundía, al parecer,<text:line-break/>con miradas cariñosas,<text:line-break/>voces del alma profundas,<text:line-break/>que debieran ser eternas,<text:line-break/><text:soft-page-break/>y aquellas palabras tiernas,<text:line-break/>o armonías misteriosas<text:line-break/>que sólo manan fecundas<text:line-break/>del labio de la mujer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Temerosos del salvaje,<text:line-break/>acogiéronse al abrigo<text:line-break/>de aquel pajonal amigo,<text:line-break/>para de nuevo su viaje<text:line-break/>por la noche continuar;<text:line-break/>descansar allí un momento,<text:line-break/>y refrigerio y sustento<text:line-break/>a la flaqueza buscar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Era el adusto verano.<text:line-break/>Ardiente el sol como fragua,<text:line-break/>en cenagoso pantano<text:line-break/>convertido había el agua<text:line-break/>allí estancada, y los peces,<text:line-break/>los animales inmundos<text:line-break/>que aquel bañado habitaban<text:line-break/>muertos, al aire infectaban,<text:line-break/>o entre las impuras heces<text:line-break/>aparecían a veces<text:line-break/>boqueando moribundos,<text:line-break/>como del cielo implorando<text:line-break/>agua y aire: aquí se vía<text:line-break/>al voraz cuervo, tragando<text:line-break/>lo más asqueroso y vil;<text:line-break/>allí la blanca cigüeña,<text:line-break/>el pescuezo corvo alzando,<text:line-break/>en su largo pico enseña<text:line-break/>el tronco de algún reptil;<text:line-break/>más allá se ve el carancho,<text:line-break/><text:soft-page-break/>que jamás presa desdeña,<text:line-break/>con pico en forma de gancho<text:line-break/>de la expirante alimaña<text:line-break/>sajar la fétida entraña.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y en aquel páramo yerto,<text:line-break/>donde a buscar como a puerto<text:line-break/>refrigerio, van errantes<text:line-break/>Brian y María anhelantes,<text:line-break/>sólo divisan sus ojos,<text:line-break/>feos, inmundos despojos<text:line-break/>de la muerte. ¡Qué destino<text:line-break/>como el suyo miserable!<text:line-break/>Si en aquel instante vino<text:line-break/>la memoria perdurable<text:line-break/>de la pasada ventura<text:line-break/>a turbar su fantasía<text:line-break/>¡cuán amarga les sería!<text:line-break/>¡cuán triste, yerma y obscura!</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero con pecho animoso<text:line-break/>en el lodo pegajoso<text:line-break/>penetraron, ya cayendo,<text:line-break/>ya levantando o subiendo<text:line-break/>el pie flaco y dolorido;<text:line-break/>y sobre un flotante nido<text:line-break/>de yajá ¡columna bella,<text:line-break/>que entre la paja descuella,<text:line-break/>como edificio construido<text:line-break/>por mano hábil¿ se sentaron<text:line-break/>a descansar o morir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>Súbito allí desmayaron<text:line-break/>los espíritus vitales<text:line-break/>de Brian a tanto sufrir;<text:line-break/>y en los brazos de María,<text:line-break/>que inmoble permanecía,<text:line-break/>cayó muerto al parecer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¡Cómo palabras mortales<text:line-break/>pintar al vivo podrán<text:line-break/>el desaliento y angustias,<text:line-break/>o las imágenes mustias<text:line-break/>que el alma atravesarán<text:line-break/>de aquella infeliz mujer!<text:line-break/>Flor hermosa y delicada,<text:line-break/>perseguida y conculcada<text:line-break/>por cuantos males tiranos<text:line-break/>dio en herencia a los humanos<text:line-break/>inexorable poder.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero a cada golpe injusto<text:line-break/>retoñece más robusto<text:line-break/>de su noble alma el valor;<text:line-break/>y otra vez, con paso fuerte,<text:line-break/>holla el fango, do la muerte<text:line-break/>disputa un resto de vida<text:line-break/>a indefensos animales;<text:line-break/>y rompiendo enfurecida<text:line-break/>los espesos matorrales,<text:line-break/>camina a un sordo rumor<text:line-break/>que oye próximo, y mirando<text:line-break/>el hondo cauce anchuroso<text:line-break/>de un arroyo que copioso<text:line-break/>entre la paja corría,<text:line-break/>se volvió atrás, exclamando<text:line-break/><text:soft-page-break/>arrobada de alegría:<text:line-break/>-¡Gracias te doy, Dios Supremo!<text:line-break/>Brian se salva, nada temo.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pronto llega al alto nido<text:line-break/>donde yace su querido,<text:line-break/>sobre sus hombros le carga,<text:line-break/>y con vigor desmedido<text:line-break/>lleva, lleva, a paso lento,<text:line-break/>al puerto de salvamento<text:line-break/>aquella preciosa carga.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Allí en la orilla verdosa<text:line-break/>el inmoble cuerpo posa,<text:line-break/>y los labios, frente y cara<text:line-break/>en el agua fresca y clara<text:line-break/>le embebe; su aliento aspira,<text:line-break/>por ver si vivo respira,<text:line-break/>trémula su pecho toca;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>y otra vez sienes y boca<text:line-break/>le empapa. En sus ojos vivos<text:line-break/>y en su semblante animado,<text:line-break/>los matices fugitivos<text:line-break/>de la apasionada guerra<text:line-break/>que su corazón encierra,<text:line-break/>se muestran. Brian recobrado<text:line-break/>se mueve, incorpora, alienta;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>y débil mirada lenta<text:line-break/><text:soft-page-break/>clava en la hermosa María,<text:line-break/>diciéndola: -Amada mía,<text:line-break/>pensé no volver a verte,<text:line-break/>y que este sueño sería<text:line-break/>como el sueño de la muerte;<text:line-break/>pero tú, siempre velando,<text:line-break/>mi vivir sustentas, cuando<text:line-break/>yo en nada puedo valerte,<text:line-break/>sino doblar la amargura<text:line-break/>de tu extraña desventura.<text:line-break/>-Que vivas tan sólo quiero,<text:line-break/>porque si mueres, yo muero;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Brian mío, alienta, triunfamos,<text:line-break/>en salvo y libres estamos.<text:line-break/>No te aflijas; bebe, bebe<text:line-break/>esta agua, cuyo frescor<text:line-break/>el extenuado vigor<text:line-break/>volverá a tu cuerpo en breve,<text:line-break/>y esperemos con valor<text:line-break/>de Dios el fin que imploramos.-</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Dijo así, y en la corriente<text:line-break/>recoge agua, y diligente,<text:line-break/>de sus miembros con esmero,<text:line-break/>se aplica a lavar primero<text:line-break/>las dolorosas heridas,<text:line-break/>las hondas llagas henchidas<text:line-break/>de negra sangre cuajada,<text:line-break/>y a sus inflamados pies<text:line-break/>el lodo impuro; y después<text:line-break/>con su mano delicada<text:line-break/>las venda. Brian silencioso<text:line-break/>sufre el dolor con firmeza;</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>pero siente a la flaqueza<text:line-break/>rendido el pecho animoso.<text:line-break/>Ella entonces alimento<text:line-break/>corre a buscar; y un momento,<text:line-break/>sin duda el cielo piadoso,<text:line-break/>de aquellos finos amantes,<text:line-break/>infortunados y errantes,<text:line-break/>quiso aliviar el tormento.</text:p>
+   <text:p text:style-name="lg"> </text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="parte%20sexta.xhtml#calibre_pb_5"/>Parte sexta<text:bookmark-end text:name="parte%20sexta.xhtml#calibre_pb_5"/><text:line-break/>La espera</text:h>
+   <text:p text:style-name="First_20_paragraph">¡Qué largas son las horas del deseo! Moreto</text:p>
+   <text:p text:style-name="lg">La espera</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Triste, obscura, encapotada<text:line-break/>llegó la noche esperada,<text:line-break/>la noche que ser debiera<text:line-break/>su grata y fiel compañera;<text:line-break/>y en el vasto pajonal<text:line-break/>permanecen inactivos<text:line-break/>los amantes fugitivos.<text:line-break/>Su astro, al parecer, declina,<text:line-break/>como la luz vespertina<text:line-break/>entre sombra funeral.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Brian, por el dolor vencido<text:line-break/>al margen yace tendido<text:line-break/>del arroyo; probó en vano<text:line-break/>el paso firme y lozano<text:line-break/>de su querida seguir;<text:line-break/>sus plantas desfallecieron,<text:line-break/>y sus heridas vertieron<text:line-break/>sangre otra vez. Sintió entonces<text:line-break/>como una mano de bronce<text:line-break/>por sus miembros discurrir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>María espera, a su lado,<text:line-break/><text:soft-page-break/>con corazón agitado,<text:line-break/>que amanecerá otra aurora<text:line-break/>más bella y consoladora;<text:line-break/>el amor la inspira fe<text:line-break/>en destino más propicio,<text:line-break/>y la oculta el precipicio<text:line-break/>cuya idea sólo pasma:<text:line-break/>el descarnado fantasma<text:line-break/>de la realidad no ve.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pasión vivaz la domina,<text:line-break/>ciega pasión la fascina;<text:line-break/>mostrando a su alma el trofeo<text:line-break/>de su impetuoso deseo<text:line-break/>la dice: tú triunfarás.<text:line-break/>Ella infunde a su flaqueza<text:line-break/>constancia allí y fortaleza;<text:line-break/>Ella su hambre, su fatiga,<text:line-break/>y sus angustias mitiga<text:line-break/>para devorarla más.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Sin el amor que en sí entraña,<text:line-break/>¿qué sería? Frágil caña,<text:line-break/>que el más leve impulso quiebra,<text:line-break/>ser delicado, fina hebra,<text:line-break/>sensible y flaca mujer.<text:line-break/>Con él es ente divino<text:line-break/>que pone a raya el destino,<text:line-break/>ángel poderoso y tierno<text:line-break/>a quien no haría el infierno<text:line-break/>vacilar y estremecer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>De su querido no advierte<text:line-break/>el mortal abatimiento,<text:line-break/>ni cree se atreva la muerte<text:line-break/>a sofocar el aliento<text:line-break/>que hace vivir a los dos;<text:line-break/>porque de su llama intensa<text:line-break/>es la vida tan inmensa,<text:line-break/>que a la muerte vencería,<text:line-break/>y en sí eficacia tendría<text:line-break/>para animar como Dios.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El amor es fe inspirada,<text:line-break/>es religión arraigada<text:line-break/>en lo íntimo de la vida.<text:line-break/>Fuente inagotable, henchida<text:line-break/>de esperanza, su anhelar<text:line-break/>no halla obstáculo invencible<text:line-break/>hasta conseguir victoria;<text:line-break/>si se estrella en lo imposible<text:line-break/>gozoso vuela a la gloria<text:line-break/>su heroica palma a buscar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>María no desespera,<text:line-break/>porque su ahínco procura<text:line-break/>para lo que ama, ventura;<text:line-break/>y al infortunio supera<text:line-break/>su imperiosa voluntad.<text:line-break/>Mañana -el grito constante<text:line-break/>de su corazón amante<text:line-break/>la dice-, mañana el cielo<text:line-break/>hará cesar tu desvelo,<text:line-break/>la nueva luz esperad.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>La noche cubierta, en tanto,<text:line-break/>camina en densa tiniebla,<text:line-break/>y en el abismo de espanto,<text:line-break/>que aquellos páramos puebla,<text:line-break/>ambos perdidos se ven.<text:line-break/>Parda, rojiza, radiosa,<text:line-break/>una faja luminosa<text:line-break/>forma horizonte no lejos;<text:line-break/>sus amarillos reflejos<text:line-break/>en lo obscuro hacen vaivén.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>La llanura arder parece,<text:line-break/>y que con el viento crece,<text:line-break/>se encrespa, aviva y derrama<text:line-break/>el resplandor y la llama<text:line-break/>en el mar de lobreguez.<text:line-break/>Aquel fuego colorado,<text:line-break/>en tinieblas engolfado,<text:line-break/>cuyo esplendor vaga horrendo,<text:line-break/>era trasunto estupendo<text:line-break/>de la inferna terriblez.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Brian, recostado en la yerba,<text:line-break/>como ajeno de sentido,<text:line-break/>nada ve: ella un ruido<text:line-break/>oye; pero sólo observa<text:line-break/>la negra desolación,<text:line-break/>o las sombrías visiones<text:line-break/>que engendran las turbaciones<text:line-break/>de su espíritu. ¡Cuán larga<text:line-break/>aquella noche y amarga<text:line-break/>sería a su corazón!</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Miró a su amante; espantoso,<text:line-break/>un bramido cavernoso<text:line-break/>la hizo temblar, resonando:<text:line-break/>era el tigre, que buscando<text:line-break/>pasto a su saña feroz<text:line-break/>en los densos matorrales,<text:line-break/>nuevos presagios fatales<text:line-break/>al infortunio traía.<text:line-break/>En silencio, echó María<text:line-break/>mano a su puñal, veloz.</text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20septima.xhtml#calibre_pb_6"/>Parte séptima<text:bookmark-end text:name="Parte%20septima.xhtml#calibre_pb_6"/><text:line-break/>La quemazón</text:h>
+   <text:p text:style-name="First_20_paragraph">Voyez... Déjà la flamme en torrent se déploie.<text:line-break/>Lamartine<text:line-break/>&quot;Mirad: ya en torrente se extiende la llama.&quot;  </text:p>
+   <text:p text:style-name="lg"><text:line-break/>La quemazón</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El aire estaba inflamado,<text:line-break/>turbia la región suprema,<text:line-break/>envuelto el campo en vapor;<text:line-break/>rojo el sol, y coronado<text:line-break/>de parda obscura diadema,<text:line-break/>amarillo resplandor<text:line-break/>en la atmósfera esparcía;<text:line-break/>el bruto, el pájaro huía,<text:line-break/>y agua la tierra pedía<text:line-break/>sedienta y llena de ardor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Soplando a veces el viento<text:line-break/>limpiaba los horizontes,<text:line-break/>y de la tierra brotar<text:line-break/>de humo rojo y ceniciento<text:line-break/>se veían como montes;<text:line-break/>y en la llanura ondear,<text:line-break/>formando espiras doradas,<text:line-break/>como lenguas inflamadas,<text:line-break/>o melenas encrespadas<text:line-break/>de ardiente, agitado mar.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Cruzándose nubes densas,<text:line-break/>por la esfera dilataban<text:line-break/>como cuando hay tempestad,<text:line-break/>sus negras alas inmensas;<text:line-break/>y más, y más aumentaban<text:line-break/>el pavor y obscuridad.<text:line-break/>El cielo entenebrecido,<text:line-break/>el aire, el humo encendido,<text:line-break/>eran, con el sordo ruido,<text:line-break/>signo de calamidad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El pueblo de lejos<text:line-break/>contempla asombrado<text:line-break/>los turbios reflejos;<text:line-break/>del día enlutado<text:line-break/>la ceñuda faz.<text:line-break/>El humilde llora,<text:line-break/>el piadoso implora;<text:line-break/>se turba y azora<text:line-break/>la malicia audaz.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Quién cree ser indicio<text:line-break/>fatal, estupendo,<text:line-break/>del día del juicio,<text:line-break/>del día tremendo<text:line-break/>que anunciado está.<text:line-break/>Quién piensa que al mundo,<text:line-break/>sumido en lo inmundo,<text:line-break/>el cielo iracundo<text:line-break/>pone a prueba ya.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>Era la plaga que cría<text:line-break/>la devorante sequía<text:line-break/>para estrago y confusión:<text:line-break/>de la chispa de una hoguera,<text:line-break/>que llevó el viento ligera,<text:line-break/>nació grande, cundió fiera<text:line-break/>la terrible quemazón.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Ardiendo, sus ojos<text:line-break/>relucen, chispean;<text:line-break/>en rubios manojos<text:line-break/>sus crines ondean,<text:line-break/>flameando también:<text:line-break/>la tierra gimiendo,<text:line-break/>los brutos rugiendo,<text:line-break/>los hombres huyendo,<text:line-break/>confusos la ven.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Sutil se difunde,<text:line-break/>camina, se mueve,<text:line-break/>penetra, se infunde;<text:line-break/>cuanto toca, en breve<text:line-break/>reduce a tizón.<text:line-break/>Ella era; y pastales,<text:line-break/>densos pajonales,<text:line-break/>cardos y animales,<text:line-break/>ceniza, humo son.<text:line-break/>Raudal vomitando<text:line-break/>venía de llama,<text:line-break/>que hirviendo, silbando,<text:line-break/>se enrosca y derrama<text:line-break/>con velocidad.<text:line-break/>Sentada María<text:line-break/>con su Brian la vía:<text:line-break/><text:soft-page-break/>-¡Dios mío! -decía-,<text:line-break/>de nos ten piedad.-</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Piedad María imploraba,<text:line-break/>y piedad necesitaba<text:line-break/>de potencia celestial.<text:line-break/>Brian caminar no podía,<text:line-break/>y la quemazón cundía<text:line-break/>por el vasto pajonal.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Allí pábulo encontrando,<text:line-break/>como culebra serpeando,<text:line-break/>velozmente caminó;<text:line-break/>y agitando, desbocada,<text:line-break/>su crin de fuego erizada,<text:line-break/>gigante cuerpo tomó.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Lodo, paja, restos viles<text:line-break/>de animales y reptiles<text:line-break/>quema el fuego vencedor,<text:line-break/>que el viento iracundo atiza;<text:line-break/>vuelan el humo y ceniza,<text:line-break/>y el inflamado vapor,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>al lugar donde, pasmados,<text:line-break/>los cautivos desdichados,<text:line-break/>con despavoridos ojos,<text:line-break/>están, su hervidero oyendo,<text:line-break/>y las llamaradas viendo<text:line-break/>subir en penachos rojos.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>No hay cómo huir, no hay efugio,<text:line-break/>esperanza ni refugio;<text:line-break/>¿dónde auxilio encontrarán?<text:line-break/>Postrado Brian yace inmoble<text:line-break/>como el orgulloso roble<text:line-break/>que derribó el huracán.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Para ellos no existe el mundo.<text:line-break/>Detrás, arroyo profundo<text:line-break/>ancho se extiende, y delante,<text:line-break/>formidable y horroroso,<text:line-break/>alza la cresta furioso<text:line-break/>mar de fuego devorante.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>-Huye presto -Brian decía<text:line-break/>con voz débil a María-,<text:line-break/>déjame solo morir;<text:line-break/>este lugar es un horno:<text:line-break/>huye, ¿no miras en torno<text:line-break/>vapor cárdeno subir?-</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Ella calla, o le responde:<text:line-break/>-Dios, largo tiempo, no esconde<text:line-break/>su divina protección.<text:line-break/>¿Crees tú nos haya olvidado?<text:line-break/>Salvar tu vida ha jurado<text:line-break/>o morir mi corazón.-</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero del cielo era juicio<text:line-break/><text:soft-page-break/>que en tan horrendo suplicio<text:line-break/>no debían perecer;<text:line-break/>y que otra vez de la muerte<text:line-break/>inexorable, amor fuerte<text:line-break/>triunfase, amor de mujer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Súbito ella se incorpora;<text:line-break/>de la pasión que atesora<text:line-break/>el espíritu inmortal<text:line-break/>brota, en su faz la belleza<text:line-break/>estampando y fortaleza<text:line-break/>de criatura celestial,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>no sujeta a ley humana;<text:line-break/>y como cosa liviana<text:line-break/>carga el cuerpo amortecido<text:line-break/>de su amante, y con él junto,<text:line-break/>sin cejar, se arroja al punto<text:line-break/>en el arroyo extendido.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Cruje el agua, y suavemente<text:line-break/>surca la mansa corriente<text:line-break/>con el tesoro de amor;<text:line-break/>semejante a Ondina bella,<text:line-break/>su cuerpo airoso descuella,<text:line-break/>y hace, nadando, rumor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Los cabellos atezados,<text:line-break/>sobre sus hombros nevados,<text:line-break/>sueltos, reluciendo van;<text:line-break/><text:soft-page-break/>boga con un brazo lenta,<text:line-break/>y con el otro sustenta,<text:line-break/>a flor, el cuerpo de Brian.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Aran la corriente unidos<text:line-break/>como dos cisnes queridos,<text:line-break/>que huyen de águila crüel,<text:line-break/>cuya garra, siempre lista,<text:line-break/>desde la nube se alista<text:line-break/>a separar su amor fiel.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>La suerte injusta se afana<text:line-break/>en perseguirlos. Ufana<text:line-break/>en la orilla opuesta el pie<text:line-break/>pone María triunfante,<text:line-break/>y otra vez libre a su amante<text:line-break/>de horrenda agonía ve.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¡Oh del amor maravilla!<text:line-break/>En sus bellos ojos brota<text:line-break/>del corazón, gota a gota,<text:line-break/>el tesoro sin mancilla,<text:line-break/>celeste, inefable unción;<text:line-break/>sale en lágrimas deshecho<text:line-break/>su heroico amor satisfecho.<text:line-break/>Y su formidable cresta<text:line-break/>sacude, enrosca y enhiesta<text:line-break/>la terrible quemazón.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Calmó después el violento<text:line-break/><text:soft-page-break/>soplar del airado viento:<text:line-break/>el fuego a paso más lento<text:line-break/>surcó por el pajonal,<text:line-break/>sin topar ningún escollo;<text:line-break/>y a la orilla de un arroyo<text:line-break/>a morir al cabo vino,<text:line-break/>dejando, en su ancho camino,<text:line-break/>negra y profunda señal.</text:p>
+   <text:p text:style-name="lg"> </text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20octava.xhtml#calibre_pb_7"/>Parte octava<text:bookmark-end text:name="Parte%20octava.xhtml#calibre_pb_7"/><text:line-break/>Brian</text:h>
+   <text:p text:style-name="First_20_paragraph">Les guerriers et les coursiers eux mêmes<text:line-break/>sont là pour attester les victoires de mon bras.<text:line-break/>Je dois ma renomée à mon glaive...<text:line-break/>(Antar)</text:p>
+   <text:p text:style-name="lg">&quot;Los guerreros y aun los bridones de la batalla<text:line-break/>existen para atestiguar las victorias de mi brazo.<text:line-break/>Debo mi renombre a mi espada.&quot;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Brian</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pasó aquél, llegó otro día<text:line-break/>triste, ardiente, y todavía<text:line-break/>desamparados como antes,<text:line-break/>a los míseros amantes<text:line-break/>encontró en el pajonal.<text:line-break/>Brian, sobre pajizo lecho<text:line-break/>inmoble está, y en su pecho<text:line-break/>arde fuego inextinguible;<text:line-break/>brota en su rostro, visible<text:line-break/>abatimiento mortal.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Abrumados y rendidos<text:line-break/>sus ojos, como adormidos,<text:line-break/>la luz esquivan, o absortos,<text:line-break/>en los pálidos abortos<text:line-break/>de la conciencia ¡legión<text:line-break/><text:soft-page-break/>que atribula al moribundo!<text:line-break/>verán formas de otro mundo,<text:line-break/>imágenes fugitivas,<text:line-break/>o las claridades vivas<text:line-break/>de fantástica región.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Triste a su lado María<text:line-break/>revuelve en la fantasía<text:line-break/>mil contrarios pensamientos,<text:line-break/>y horribles presentimientos<text:line-break/>la vienen allí a asaltar;<text:line-break/>espectros que engendra el alma,<text:line-break/>cuando el ciego desvarío<text:line-break/>de las pasiones se calma,<text:line-break/>y perdida en el vacío<text:line-break/>se recoge a meditar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Allí, frágil navecilla<text:line-break/>en mar sin fondo ni orilla,<text:line-break/>do nunca ríe bonanza,<text:line-break/>se encuentra sin esperanza<text:line-break/>de poder al fin surgir.<text:line-break/>Allí ve su afán perdido<text:line-break/>por salvar a su querido;<text:line-break/>y cuán lejano y nubloso<text:line-break/>el horizonte radioso<text:line-break/>está de su porvenir,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>cuán largo, incierto camino<text:line-break/>la desdicha le previno,<text:line-break/>cuán triste peregrinaje;<text:line-break/>allí ve de aquel paraje<text:line-break/><text:soft-page-break/>la yerta inmovilidad.<text:line-break/>Allí ya del desaliento<text:line-break/>sufre el pausado tormento,<text:line-break/>y abrumada de tristeza,<text:line-break/>al cabo a sentir empieza<text:line-break/>su abandono y soledad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Echa la vista delante,<text:line-break/>y al aspecto de su amante<text:line-break/>desfallece su heroísmo;<text:line-break/>la vuelve, y hórrido abismo<text:line-break/>mira atónita detrás.<text:line-break/>Allí apura la agonía<text:line-break/>del que vio cuando dormía<text:line-break/>paraíso de dicha eterno,<text:line-break/>y al despertar, un infierno<text:line-break/>que no imaginó jamás.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>En el empíreo nublado<text:line-break/>flamea el sol colorado,<text:line-break/>y en la llanura domina<text:line-break/>la vaporosa calina,<text:line-break/>el bochorno abrasador.<text:line-break/>Brian sigue inmoble; y María,<text:line-break/>en formar se entretenía<text:line-break/>de junco un denso tejido,<text:line-break/>que guardase a su querido<text:line-break/>de la intemperie y calor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Cuando oyó, como el aliento<text:line-break/>que al levantarse o moverse<text:line-break/>hace animal corpulento,<text:line-break/><text:soft-page-break/>crujir la paja y romperse<text:line-break/>de un cercano matorral.<text:line-break/>Miró, ¡oh terror!, y acercarse<text:line-break/>vio con movimiento tardo,<text:line-break/>y hacia ella encaminarse,<text:line-break/>lamiéndose, un tigre pardo<text:line-break/>tinto en sangre; atroz señal.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Cobrando ánimo al instante<text:line-break/>se alzó María arrogante,<text:line-break/>en mano el puñal desnudo,<text:line-break/>vivo el mirar, y un escudo<text:line-break/>formó de su cuerpo a Brian.<text:line-break/>Llegó la fiera inclemente;<text:line-break/>clavó en ella vista ardiente,<text:line-break/>y a compasión ya movida,<text:line-break/>o fascinada y herida<text:line-break/>por sus ojos y ademán,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>recta prosiguió el camino,<text:line-break/>y al arroyo cristalino<text:line-break/>se echó a nadar. ¡Oh amor tierno!<text:line-break/>de lo más frágil y eterno<text:line-break/>se compaginó tu ser.<text:line-break/>Siendo sólo afecto humano,<text:line-break/>chispa fugaz, tu grandeza,<text:line-break/>por impenetrable arcano,<text:line-break/>es celestial. ¡Oh belleza!<text:line-break/>no se anida tu poder,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>en tus lágrimas ni enojos;<text:line-break/>sí, en los sinceros arrojos<text:line-break/><text:soft-page-break/>de tu corazón amante.<text:line-break/>María en aquel instante<text:line-break/>se sobrepuso al terror,<text:line-break/>pero cayó sin sentido<text:line-break/>a conmoción tan violenta.<text:line-break/>Bella como ángel dormido<text:line-break/>la infeliz estaba, exenta<text:line-break/>de tanto afán y dolor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Entonces, ¡ah!, parecía<text:line-break/>que marchitado no había<text:line-break/>la aridez de la congoja,<text:line-break/>que a lo más bello despoja,<text:line-break/>su frescura juvenil.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¡Venturosa si más largo<text:line-break/>hubiera sido su sueño!<text:line-break/>Brian despierta del letargo:<text:line-break/>brilla matiz más risueño<text:line-break/>en su rostro varonil.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Se sienta; extático mira,<text:line-break/>como el que en vela delira;<text:line-break/>lleva la mano a su frente<text:line-break/>sudorífera y ardiente,<text:line-break/>¿qué cosas su alma verá?<text:line-break/>La luz, noche le parece,<text:line-break/>tierra y cielo se obscurece,<text:line-break/>y rueda en un torbellino<text:line-break/>de nubes. -Este camino<text:line-break/>lleno de espinas está:</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Y la llanura, María,<text:line-break/>¿no ves cuán triste y sombría?<text:line-break/>¿Dónde vamos? A la muerte.<text:line-break/>Triunfó la enemiga suerte<text:line-break/>-dice delirando Brian-.<text:line-break/>¡Cuán caro mi amor te cuesta!<text:line-break/>Y mi confianza funesta,<text:line-break/>¡cuánta fatiga y ultrajes!<text:line-break/>Pero pronto los salvajes<text:line-break/>su deslealtad pagarán.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Cobra María el sentido<text:line-break/>al oír de su querido<text:line-break/>la voz, y en gozo nadando<text:line-break/>se incorpora, en él clavando<text:line-break/>su cariñosa mirada.<text:line-break/>-Pensé dormías -la dice-,<text:line-break/>y despertarte no quise;<text:line-break/>fuera mejor que durmieras<text:line-break/>y del bárbaro no oyeras<text:line-break/>la estrepitosa llegada.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>-¿Sabes? Sus manos lavaron,<text:line-break/>con infernal regocijo,<text:line-break/>en la sangre de mi hijo;<text:line-break/>mis valientes degollaron.<text:line-break/>Como el huracán pasó,<text:line-break/>desolación vomitando,<text:line-break/>su vigilante perfidia.<text:line-break/>Obra es del inicuo bando,<text:line-break/>¡qué dirá la torpe envidia!<text:line-break/>Ya mi gloria se eclipsó.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>De paz con ellos estaba,<text:line-break/>y en la villa descansaba.<text:line-break/>Oye; no te fíes, vela;<text:line-break/>lanza, caballo y espuela<text:line-break/>siempre lista has de tener.<text:line-break/>Mira dónde me han traído.<text:line-break/>Atado estoy y ceñido;<text:line-break/>no me es dado levantarme,<text:line-break/>ni valerte, ni vengarme,<text:line-break/>ni batallar, ni vencer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Venga, venga mi caballo,<text:line-break/>mi caballo por la vida;<text:line-break/>venga mi lanza fornida,<text:line-break/>que yo basto a ese tropel.<text:line-break/>Rodeado de picas me hallo.<text:line-break/>Paso, canalla traidora,<text:line-break/>que mi lanza vengadora<text:line-break/>castigo os dará crüel.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¿No miráis la polvareda<text:line-break/>que del llano se levanta?<text:line-break/>¿No sentís lejos la planta<text:line-break/>de los brutos retumbar?<text:line-break/>La tribu es, huyendo leda,<text:line-break/>como carnicero lobo,<text:line-break/>con los despojos del robo,<text:line-break/>no de intrépido lidiar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Mirad ardiendo la villa,<text:line-break/>y degollados, dormidos,<text:line-break/><text:soft-page-break/>nuestros hermanos queridos<text:line-break/>por la mano del infiel.<text:line-break/>¡Oh mengua! ¡Oh rabia! ¡Oh mancilla!<text:line-break/>Venga mi lanza ligero,<text:line-break/>mi caballo parejero,<text:line-break/>daré alcance a ese tropel.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Se alzó Brian enajenado,<text:line-break/>y su bigote erizado<text:line-break/>se mueve; chispean, rojos<text:line-break/>como centellas, sus ojos,<text:line-break/>que hace el entusiasmo arder;<text:line-break/>el rostro y talante fiero,<text:line-break/>do resalta con viveza<text:line-break/>el valor y la nobleza,<text:line-break/>la majestad del guerrero<text:line-break/>acostumbrado a vencer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero al punto desfallece.<text:line-break/>Ella, atónita, enmudece,<text:line-break/>ni halla voz su sentimiento;<text:line-break/>en tan solemne momento<text:line-break/>flaquea su corazón.<text:line-break/>El sol pálido declina:<text:line-break/>en la cercana colina<text:line-break/>triscan las gamas y ciervos,<text:line-break/>y de caranchos y cuervos<text:line-break/>grazna la impura legión,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>de cadáveres avara,<text:line-break/>cual si muerte presagiara.<text:line-break/>Así la caterva estulta,<text:line-break/><text:soft-page-break/>vil al heroísmo insulta,<text:line-break/>que triunfante veneró.<text:line-break/>María tiembla. Él, alzando<text:line-break/>la vista al cielo y tomando<text:line-break/>con sus manos casi heladas<text:line-break/>las de su amiga, adoradas,<text:line-break/>a su pecho las llevó.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y con voz débil la dice:<text:line-break/>-Oye, de Dios es arcano,<text:line-break/>que más tarde o más temprano<text:line-break/>todos debemos morir.<text:line-break/>Insensato el que maldice<text:line-break/>la ley que a todos iguala;<text:line-break/>hoy el término señala<text:line-break/>a mi robusto vivir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Resígnate; bien venida<text:line-break/>siempre, mi amor, fue la muerte,<text:line-break/>para el bravo, para el fuerte,<text:line-break/>que a la patria y al honor<text:line-break/>joven consagró su vida;<text:line-break/>¿qué es ella?, una chispa, nada,<text:line-break/>con ese sol comparada,<text:line-break/>raudal vivo de esplendor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>La mía brilló un momento,<text:line-break/>pero a la patria sirviera;<text:line-break/>también mi sangre corriera<text:line-break/>por su gloria y libertad.<text:line-break/>Lo que me da sentimiento<text:line-break/>es que de ti me separo,<text:line-break/><text:soft-page-break/>dejándote sin amparo<text:line-break/>aquí en esta soledad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Otro premio merecía<text:line-break/>tu amor y espíritu brioso,<text:line-break/>y galardón más precioso<text:line-break/>te destinaba mi fe.<text:line-break/>Pero ¡ay Dios! la suerte mía<text:line-break/>de otro modo se eslabona;<text:line-break/>hoy me arranca la corona<text:line-break/>que insensato ambicioné.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¡Si al menos la azul bandera<text:line-break/>sombra a mi cabeza diese!<text:line-break/>¡O antes por la patria fuese<text:line-break/>aclamado vencedor!<text:line-break/>¡Oh destino! Quién pudiera<text:line-break/>morir en la lid, oyendo<text:line-break/>el alarido y estruendo,<text:line-break/>la trompeta y el tambor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Tal gloria no he conseguido.<text:line-break/>Mis enemigos triunfaron;<text:line-break/>pero mi orgullo no ajaron<text:line-break/>los favores del poder.<text:line-break/>¡Qué importa! Mi brazo ha sido<text:line-break/>terror del salvaje fiero:<text:line-break/>los Andes vieron mi acero<text:line-break/>con honor resplandecer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>¡Oh estrépito de las armas!<text:line-break/>¡Oh embriaguez de la victoria!<text:line-break/>¡Oh campos, soñada gloria!<text:line-break/>¡Oh lances del combatir!<text:line-break/>Inesperadas alarmas,<text:line-break/>patria, honor, objetos caros,<text:line-break/>ya no volveré a gozaros;<text:line-break/>joven yo debo morir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Hoy es el aniversario<text:line-break/>de mi primera batalla,<text:line-break/>y en torno a mí todo calla...<text:line-break/>Guarda en tu pecho mi amor,<text:line-break/>nadie llegue a su santuario...<text:line-break/>Aves de presa parecen,<text:line-break/>ya mis ojos se oscurecen;<text:line-break/>pero allí baja un cóndor;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>y huye el enjambre insolente,<text:line-break/>adiós, en vano te aflijo...<text:line-break/>Vive, vive para tu hijo,<text:line-break/>Dios te impone ese deber.<text:line-break/>Sigue, sigue al occidente<text:line-break/>tu trabajosa jornada;<text:line-break/>adiós, en otra morada<text:line-break/>nos volveremos a ver.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Calló Brian, y en su querida<text:line-break/>clavó mirada tan bella,<text:line-break/>tan profunda y dolorida,<text:line-break/>que toda el alma por ella<text:line-break/>al parecer exhaló.<text:line-break/><text:soft-page-break/>El crepúsculo esparcía<text:line-break/>en el desierto luz mustia.<text:line-break/>Del corazón de María,<text:line-break/>el desaliento y angustia,<text:line-break/>sólo el cielo penetró.</text:p>
+   <text:p text:style-name="lg"> </text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Parte%20novena.xhtml#calibre_pb_8"/>Parte novena<text:bookmark-end text:name="Parte%20novena.xhtml#calibre_pb_8"/><text:line-break/>María</text:h>
+   <text:p text:style-name="First_20_paragraph">Fallece esperanza y crece tormento<text:line-break/>(Anónimo)</text:p>
+   <text:p text:style-name="lg">Morte bella parea nel suo bel viso<text:line-break/>(Petrarca)</text:p>
+   <text:p text:style-name="lg">&quot;La muerte parecía bella en su rostro bello.&quot;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>María</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¿Qué hará María? En la tierra<text:line-break/>ya no se arraiga su vida.<text:line-break/>¿Dónde irá? Su pecho encierra<text:line-break/>tan honda y vivaz herida,<text:line-break/>tanta congoja y pasión,<text:line-break/>que para ella es infecundo<text:line-break/>todo consuelo del mundo,<text:line-break/>burla horrible su contento,<text:line-break/>su compasión un tormento,<text:line-break/>su sonrisa una irrisión.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¿Qué le importan sus placeres,<text:line-break/>su bullicio y vana gloria,<text:line-break/>si ella, entre todos los seres,<text:line-break/>como desechada escoria,<text:line-break/>lejos, olvidada está?<text:line-break/><text:soft-page-break/>¿En qué corazón humano,<text:line-break/>en qué límite del orbe,<text:line-break/>el tesoro soberano,<text:line-break/>que sus potencias absorbe,<text:line-break/>ya perdido encontrará?</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Nace del sol la luz pura,<text:line-break/>y una fresca sepultura<text:line-break/>encuentra; lecho postrero,<text:line-break/>que al cadáver del guerrero<text:line-break/>preparó el más fino amor.<text:line-break/>Sobre ella hincada, María,<text:line-break/>muda como estatua fría,<text:line-break/>inclinada la cabeza,<text:line-break/>semejaba a la tristeza<text:line-break/>embebida en su dolor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Sus cabellos renegridos<text:line-break/>caen por los hombros tendidos,<text:line-break/>y sombrean de su frente,<text:line-break/>su cuello y rostro inocente,<text:line-break/>la nevada palidez.<text:line-break/>No suspira allí, ni llora;<text:line-break/>pero como ángel que implora,<text:line-break/>para miserias del suelo<text:line-break/>una mirada del cielo,<text:line-break/>hace esta sencilla prez:</text:p>
+   <text:p text:style-name="lg"><text:line-break/>-Ya en la tierra no existe<text:line-break/>el poderoso brazo<text:line-break/>donde hallaba regazo<text:line-break/>mi enamorada sien:<text:line-break/><text:soft-page-break/>Tú ¡oh Dios! no permitiste<text:line-break/>que mi amor lo salvase,<text:line-break/>quisiste que volase<text:line-break/>donde florece el bien.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Abre Señor a su alma<text:line-break/>tu seno regalado,<text:line-break/>del bienaventurado,<text:line-break/>reciba el galardón;<text:line-break/>encuentre allí la calma,<text:line-break/>encuentre allí la dicha,<text:line-break/>que busca en su desdicha,<text:line-break/>mi viudo corazón.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Dice. Un punto su sentido<text:line-break/>queda como sumergido.<text:line-break/>Echa la postrer mirada<text:line-break/>sobre la tumba callada<text:line-break/>donde toda su alma está;<text:line-break/>mirada llena de vida,<text:line-break/>pero lánguida, abatida,<text:line-break/>como la última vislumbre<text:line-break/>de la agonizante lumbre,<text:line-break/>falta de alimento ya.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y alza luego la rodilla;<text:line-break/>y tomando por la orilla<text:line-break/>del arroyo hacia el ocaso,<text:line-break/>con indiferente paso<text:line-break/>se encamina al parecer.<text:line-break/>Pronto sale de aquel monte<text:line-break/>de paja, y mira adelante<text:line-break/><text:soft-page-break/>ilimitado horizonte,<text:line-break/>llanura y cielo brillante,<text:line-break/>desierto y campo doquier.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¡Oh noche! ¡Oh fúlgida estrella!<text:line-break/>Luna solitaria y bella<text:line-break/>sed benignas; el indicio<text:line-break/>de vuestro influjo propicio<text:line-break/>siquiera una vez mostrad.<text:line-break/>Bochornos, cálidos vientos,<text:line-break/>inconstantes elementos,<text:line-break/>preñados de temporales,<text:line-break/>apiadaos; fieras fatales<text:line-break/>su desdicha respetad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y Tú ¡oh Dios! en cuyas manos<text:line-break/>de los míseros humanos<text:line-break/>está el oculto destino,<text:line-break/>siquiera un rayo divino<text:line-break/>haz a su esperanza ver.<text:line-break/>Vacilar, de alma sencilla,<text:line-break/>que resignada se humilla,<text:line-break/>no hagas la fe acrisolada;<text:line-break/>susténtala en su jornada,<text:line-break/>no la dejes perecer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Adiós pajonal funesto,<text:line-break/>adiós pajonal amigo.<text:line-break/>Se va ella sola ¡cuán presto<text:line-break/>de su júbilo, testigo,<text:line-break/>y su luto fuiste vos!<text:line-break/>El sol y la llama impía<text:line-break/><text:soft-page-break/>marchitaron tu ufanía;<text:line-break/>pero hoy tumba de un soldado<text:line-break/>eres, y asilo sagrado:<text:line-break/>pajonal glorioso, adiós.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Gózate; ya no se anidan<text:line-break/>en ti las aves parleras,<text:line-break/>ni tu agua y sombra convidan<text:line-break/>sólo a los brutos y fieras:<text:line-break/>soberbio debes estar.<text:line-break/>El valor y la hermosura,<text:line-break/>ligados por la ternura,<text:line-break/>en ti hallaron refrigerio;<text:line-break/>de su infortunio el misterio<text:line-break/>tú sólo puedes contar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Gózate; votos, ni ardores<text:line-break/>de felices amadores<text:line-break/>tu esquividad no turbaron,<text:line-break/>sino voces que confiaron</text:p>
+   <text:p text:style-name="lg"><text:line-break/>a tu silencio su mal.<text:line-break/>En la noche tenebrosa,<text:line-break/>con los ásperos graznidos<text:line-break/>de la legión ominosa,<text:line-break/>oirás ayes y gemidos:<text:line-break/>adiós triste pajonal.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>De ti María se aleja,<text:line-break/>y en tus soledades deja<text:line-break/><text:soft-page-break/>toda su alma; agradecido,<text:line-break/>el depósito querido<text:line-break/>guarda y conserva; quizá<text:line-break/>mano generosa y pía<text:line-break/>venga a pedírtelo un día;<text:line-break/>quizá la viva palabra<text:line-break/>un monumento le labra<text:line-break/>que el tiempo respetará.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Día y noche ella camina;<text:line-break/>y la estrella matutina,<text:line-break/>caminando solitaria,<text:line-break/>sin articular plegaria,<text:line-break/>sin descansar ni dormir,<text:line-break/>la ve. En su planta desnuda<text:line-break/>brota la sangre y chorrea;<text:line-break/>pero toda ella, sin duda,<text:line-break/>va absorta en la única idea<text:line-break/>que alimenta su vivir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>En ella encuentra sustento.<text:line-break/>Su garganta es viva fragua,<text:line-break/>un volcán su pensamiento,<text:line-break/>pero mar de hielo y agua<text:line-break/>refrigerio inútil es<text:line-break/>para el incendio que abriga,<text:line-break/>insensible a la fatiga,<text:line-break/>a cuanto ve indiferente,<text:line-break/>como mísera demente<text:line-break/>mueve sus heridos pies,</text:p>
+   <text:p text:style-name="lg"><text:line-break/>por el Desierto. Adormida<text:line-break/><text:soft-page-break/>está su orgánica vida;<text:line-break/>pero la vida de su alma<text:line-break/>fomenta en sí aquella calma<text:line-break/>que sigue a la tempestad,<text:line-break/>cuando el ánimo cansado<text:line-break/>del afán violento y duro,<text:line-break/>al parecer resignado,<text:line-break/>se abisma en el fondo obscuro<text:line-break/>de su propia soledad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Tremebundo precipicio,<text:line-break/>fiebre lenta y devorante,<text:line-break/>último efugio, suplicio<text:line-break/>del infierno, semejante<text:line-break/>a la postrer convulsión<text:line-break/>de la víctima en tormento:<text:line-break/>trance que si dura un día<text:line-break/>anonada el pensamiento,<text:line-break/>encanece, o deja fría<text:line-break/>la sangre en el corazón.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Dos soles pasan. ¿Adónde<text:line-break/>tu poder ¡oh Dios! se esconde?<text:line-break/>¿Está, por ventura, exhausto?<text:line-break/>¿Más dolor en holocausto<text:line-break/>pide a una flaca mujer?<text:line-break/>No; de la quieta llanura<text:line-break/>ya se remonta a la altura<text:line-break/>gritando el yajá. Camina,<text:line-break/>oye la voz peregrina<text:line-break/>que te viene a socorrer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/><text:soft-page-break/>¡Oh ave de la Pampa hermosa,<text:line-break/>cómo te meces ufana!<text:line-break/>Reina, sí, reina orgullosa<text:line-break/>eres, pero no tirana<text:line-break/>como el águila fatal;<text:line-break/>tuyo es también el espacio<text:line-break/>el transparente palacio:<text:line-break/>si ella en las rocas se anida,<text:line-break/>tú en la esquivez escondida<text:line-break/>de algún vasto pajonal.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>De la víctima el gemido,<text:line-break/>el huracán y el tronido<text:line-break/>ella busca, y deleite halla<text:line-break/>en los campos de batalla;<text:line-break/>pero tú la tempestad,<text:line-break/>día y noche vigilante,<text:line-break/>anuncias al gaucho errante;<text:line-break/>tu grito es de buen presagio<text:line-break/>al que asechanza o naufragio<text:line-break/>teme de la adversidad.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Oye sonar en la esfera<text:line-break/>la voz del ave agorera,<text:line-break/>oye María infelice;<text:line-break/>alerta, alerta, te dice;<text:line-break/>aquí está tu salvación.<text:line-break/>¿No la ves cómo en el aire<text:line-break/>balancea con donaire<text:line-break/>su cuerpo albo-ceniciento?<text:line-break/>¿No escuchas su ronco acento?<text:line-break/>Corre a calmar tu aflicción.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Pero nada ella divisa,<text:line-break/>ni el feliz reclamo escucha;<text:line-break/>y caminando va a prisa:<text:line-break/>el demonio con que lucha<text:line-break/>la turba, impele y amaga.<text:line-break/>Turbios, confusos y rojos<text:line-break/>se presentan a sus ojos<text:line-break/>cielo, espacio, sol, verdura,<text:line-break/>quieta, insondable llanura<text:line-break/>donde sin brújula vaga.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Mas ¡ah! que en vivos corceles<text:line-break/>un grupo de hombres armados<text:line-break/>se acerca. ¿Serán infieles,<text:line-break/>enemigos? No, soldados<text:line-break/>son del desdichado Brian.<text:line-break/>Llegan, su vista se pasma;<text:line-break/>ya no es la mujer hermosa,<text:line-break/>sino pálido fantasma;<text:line-break/>mas reconocen la esposa<text:line-break/>de su fuerte capitán.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Creíanla cautiva o muerta;<text:line-break/>grande fue su regocijo.<text:line-break/>Ella los mira, y despierta:<text:line-break/>-¿No sabéis qué es de mi hijo?-<text:line-break/>con toda el alma exclamó.<text:line-break/>Tristes mirando a María<text:line-break/>todos el labio sellaron,<text:line-break/>mas luego una voz impía:<text:line-break/>-Los indios lo degollaron-<text:line-break/>roncamente articuló.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Y al oír tan crudo acento,<text:line-break/>como quiebra el seco tallo<text:line-break/>el menor soplo del viento<text:line-break/>o como herida del rayo,<text:line-break/>cayó la infeliz allí;<text:line-break/>viéronla caer, turbados,<text:line-break/>los animosos soldados;<text:line-break/>una lágrima la dieron,<text:line-break/>y funerales la hicieron<text:line-break/>dignos de contarse aquí.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Aquella trama formada<text:line-break/>de la hebra más delicada,<text:line-break/>cuyo espíritu robusto<text:line-break/>lo más acerbo e injusto<text:line-break/>de la adversidad probó,<text:line-break/>un soplo débil deshizo:<text:line-break/>Dios para amar, sin duda, hizo<text:line-break/>un corazón tan sensible;<text:line-break/>palpitar le fue imposible<text:line-break/>cuando a quien amar no halló.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Murió María. ¡Oh voz fiera!<text:line-break/>¡Cuál entraña te abortara!<text:line-break/>Mover al tigre pudiera<text:line-break/>su vista sola; y no hallara<text:line-break/>en ti alguna compasión,<text:line-break/>tanta miseria y conflito,<text:line-break/>ni aquel su materno grito;<text:line-break/>y como flecha saliste,<text:line-break/>y en lo más profundo heriste<text:line-break/>su anhelante corazón.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Embates y oscilaciones<text:line-break/>de un mar de tribulaciones<text:line-break/>ella arrostró; y la agonía<text:line-break/>saboreó su fantasía;<text:line-break/>y el punzante frenesí<text:line-break/>de la esperanza insaciable<text:line-break/>que en pos de un deseo vuela,<text:line-break/>no alcanza el blanco inefable;<text:line-break/>se irrita en vano y desvela,<text:line-break/>vuelve a devorarse a sí.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Una a una, todas bellas,<text:line-break/>sus ilusiones volaron,<text:line-break/>y sus deseos con ellas;<text:line-break/>sola y triste la dejaron<text:line-break/>sufrir hasta enloquecer.<text:line-break/>Quedaba a su desventura<text:line-break/>un amor, una esperanza,<text:line-break/>un astro en la noche obscura,<text:line-break/>un destello de bonanza,<text:line-break/>un corazón que querer,<text:line-break/>una voz cuya armonía<text:line-break/>adormecerla podría;<text:line-break/>a su llorar un testigo,<text:line-break/>a su miseria un abrigo,<text:line-break/>a sus ojos qué mirar.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Quedaba a su amor desnudo<text:line-break/>un hijo, un vástago tierno;<text:line-break/>encontrarlo aquí no pudo,<text:line-break/>y su alma al regazo eterno<text:line-break/>lo fue volando a buscar.<text:line-break/>Murió; por siempre cerrados<text:line-break/><text:soft-page-break/>están sus ojos cansados<text:line-break/>de errar por llanura y cielo,<text:line-break/>de sufrir tanto desvelo,<text:line-break/>de afanar sin conseguir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El atractivo está yerto<text:line-break/>de su mirar; ya el desierto,<text:line-break/>su último asilo, los rastros<text:line-break/>de tan hechiceros astros<text:line-break/>no verá otra vez lucir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero de ella aun hay vestigio.<text:line-break/>¿No veis el raro prodigio?<text:line-break/>Sobre su cándida frente<text:line-break/>aparece nuevamente<text:line-break/>un prestigio encantador.<text:line-break/>Su boca y tersa mejilla<text:line-break/>rosada, entre nieve brilla,<text:line-break/>y revive en su semblante<text:line-break/>la frescura rozagante<text:line-break/>que marchitara el dolor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>La muerte bella la quiso,<text:line-break/>y estampó en su rostro hermoso<text:line-break/>aquel inefable hechizo,<text:line-break/>inalterable reposo,<text:line-break/>y sonrisa angelical,<text:line-break/>que destellan las facciones<text:line-break/>de una virgen en su lecho<text:line-break/>cuando las tristes pasiones<text:line-break/>no han ajado de su pecho<text:line-break/>la pura flor virginal.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Entonces el que la viera,<text:line-break/>dormida ¡oh Dios! la creyera;<text:line-break/>deleitándose en el sueño<text:line-break/>con memorias de su dueño,<text:line-break/>llenas de felicidad,<text:line-break/>soñando en la alba lucida<text:line-break/>del banquete de la vida<text:line-break/>que sonríe a su amor puro;<text:line-break/>más ¡ay! que en el seno obscuro<text:line-break/>duerme de la eternidad.</text:p>
+   <text:p text:style-name="lg"> </text:p>
+   <text:p text:style-name="lg"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="Epilogo.xhtml#calibre_pb_9"/>La cautiva<text:bookmark-end text:name="Epilogo.xhtml#calibre_pb_9"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Epílogo</text:h>
+   <text:p text:style-name="First_20_paragraph">Douce lumière, es-tu leur âme?<text:line-break/>(Lamartine)</text:p>
+   <text:p text:style-name="lg">&quot;¿Eres, plácida luz, el alma de ellos?&quot;</text:p>
+   <text:p text:style-name="lg"><text:line-break/>¡Oh María! Tu heroísmo,<text:line-break/>tu varonil fortaleza,<text:line-break/>tu juventud y belleza<text:line-break/>merecieran fin mejor.<text:line-break/>Ciegos de amor, el abismo<text:line-break/>fatal tus ojos no vieron,<text:line-break/>y sin vacilar se hundieron<text:line-break/>en él ardiendo en amor.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>De la más cruda agonía<text:line-break/>salvar quisiste a tu amante,<text:line-break/>y lo viste delirante<text:line-break/>en el desierto morir.<text:line-break/>¡Cuál tu congoja sería!<text:line-break/>¡Cuál tu dolor y amargura!<text:line-break/>Y no hubo humana criatura<text:line-break/>que te ayudase a sentir.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Se malogró tu esperanza;<text:line-break/>y cuando sola te viste<text:line-break/>también mísera caíste<text:line-break/>como árbol cuya raíz<text:line-break/>en la tierra ya no afianza<text:line-break/><text:soft-page-break/>su pompa y florido ornato.<text:line-break/>Nada supo el mundo ingrato<text:line-break/>de tu constancia infeliz.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Naciste humilde, y oculta,<text:line-break/>como diamante en la mina,<text:line-break/>la belleza peregrina<text:line-break/>de tu noble alma quedó.<text:line-break/>El Desierto la sepulta,<text:line-break/>tumba sublime y grandiosa,<text:line-break/>do el héroe también reposa<text:line-break/>que la gozó y admiró.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>El destino de tu vida<text:line-break/>fue amar, amor tu delirio,<text:line-break/>amor causó tu martirio,<text:line-break/>te dio sobrehumano ser;<text:line-break/>y amor, en edad florida,<text:line-break/>sofocó la pasión tierna<text:line-break/>que, omnipotencia de eterna,<text:line-break/>trajo consigo al nacer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Pero, no triunfa el olvido,<text:line-break/>de amor, ¡oh bella María!<text:line-break/>que la virgen poesía<text:line-break/>corona te forma ya<text:line-break/>de ciprés entretejido<text:line-break/>con flores que nunca mueren;<text:line-break/>y que admiren y veneren<text:line-break/>tu nombre y su nombre hará.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:line-break/>Hoy, en la vasta llanura,<text:line-break/>inhospitable morada,<text:line-break/>que no siempre sosegada<text:line-break/>mira el astro de la luz;<text:line-break/>descollando en una altura,<text:line-break/>entre agreste flor y yerba,<text:line-break/>hoy el caminante observa<text:line-break/>una solitaria cruz.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Fórmale grata techumbre<text:line-break/>la copa extensa y tupida<text:line-break/>de un ombú donde se anida<text:line-break/>la altiva águila real;<text:line-break/>y la varia muchedumbre<text:line-break/>de aves que cría el desierto,<text:line-break/>se pone en ella a cubierto<text:line-break/>del frío y sol estival.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Nadie sabe cuya mano<text:line-break/>plantó aquel árbol benigno,<text:line-break/>ni quién a su sombra, el signo<text:line-break/>puso de la redención.<text:line-break/>Cuando el cautivo cristiano<text:line-break/>se acerca a aquellos lugares,<text:line-break/>recordando sus hogares,<text:line-break/>se postra a hacer oración.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Fama es que la tribu errante,<text:line-break/>si hasta allí llega embebida<text:line-break/>en la caza apetecida<text:line-break/>de la gama y avestruz,<text:line-break/><text:soft-page-break/>al ver del ombú gigante<text:line-break/>la verdosa cabellera,<text:line-break/>suelta al potro la carrera<text:line-break/>gritando: -allí está la cruz.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Y revuelve atrás la vista<text:line-break/>como quien huye aterrado,<text:line-break/>creyendo, se alza el airado,<text:line-break/>terrible espectro de Brian.<text:line-break/>Pálido, el indio exorcista<text:line-break/>el fatídico árbol nombra;<text:line-break/>ni a hollar se atreven su sombra<text:line-break/>los que de camino van.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>También el vulgo asombrado<text:line-break/>cuenta que en la noche obscura<text:line-break/>suelen en aquella altura<text:line-break/>dos luces aparecer;<text:line-break/>que salen, y habiendo errado<text:line-break/>por el desierto tranquilo,<text:line-break/>juntas a su triste asilo<text:line-break/>vuelven al amanecer.</text:p>
+   <text:p text:style-name="lg"><text:line-break/>Quizá mudos habitantes<text:line-break/>serán del páramo aéreo,<text:line-break/>quizá espíritus, ¡misterio!,<text:line-break/>visiones del alma son.<text:line-break/>Quizá los sueños brillantes<text:line-break/>de la inquieta fantasía,<text:line-break/>forman coro en la armonía<text:line-break/>de la invisible creación.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/> </text:p>
+   <text:p text:style-name="lg"> </text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">¡Gracias por leer este libro de <text:a xlink:type="simple" xlink:href="https://www.elejandria.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">www.elejandria.com</text:span></text:a>!</text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4">Descubre nuestra colección de obras de dominio público en castellano en nuestra web</text:h>
+  </office:text>
+ </office:body>
+</office:document>

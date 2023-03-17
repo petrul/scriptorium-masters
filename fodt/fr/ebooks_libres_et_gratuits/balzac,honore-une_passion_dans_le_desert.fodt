@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>H. de Balzac : Une passion dans le désert (1830)</dc:title><dc:subject/><meta:keyword/><dc:description/><meta:initial-creator>XXXXX</meta:initial-creator><meta:creation-date>2003-06-14T20:08:00</meta:creation-date><dc:date>2022-11-18T16:32:38.361521100</dc:date><meta:print-date>2005-05-11T21:27:00</meta:print-date><meta:editing-cycles>32</meta:editing-cycles><meta:editing-duration>PT29M58S</meta:editing-duration><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="12" meta:paragraph-count="87" meta:word-count="5438" meta:character-count="32110" meta:non-whitespace-character-count="26713"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="livres.dot" xlink:href="C:\Documents MS Office\Modèles\livres.dot"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">78105</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">32149</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15321</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14593</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">82404</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">78105</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">32147</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">93424</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕゛゜ゝゞ・ヽヾ！％），．：；？］｝｡｣､･ﾞﾟ￠</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([\{£¥‘“〈《「『【〔＄（［｛｢￡￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1857214</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1857214</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern"/>
+  <style:font-face style:name="Courier New1" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Georgia" svg:font-family="Georgia" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Helvetica" svg:font-family="Helvetica" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Symbol" svg:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma2" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Wingdings" svg:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma2" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Normal_20__28_Web_29_" style:display-name="Normal (Web)" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0.494cm" fo:margin-bottom="0.494cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Explorateur_20_de_20_document" style:display-name="Explorateur de document" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#000080"/>
+   <style:paragraph-properties fo:background-color="#000080"/>
+   <style:text-properties style:font-name="Tahoma1" fo:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0.501cm" fo:margin-top="0.423cm" fo:margin-bottom="0.423cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.984cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="none" fo:country="none" style:language-asian="none" style:country-asian="none" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Corps_20_de_20_texte_20_3" style:display-name="Corps de texte 3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Text_20_body_20_indent" style:display-name="Text body indent" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" style:font-name-complex="Arial" style:font-family-complex="Arial" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Corps_20_de_20_texte_20_2" style:display-name="Corps de texte 2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Retrait_20_corps_20_de_20_texte_20_2" style:display-name="Retrait corps de texte 2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Retrait_20_corps_20_de_20_texte_20_3" style:display-name="Retrait corps de texte 3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.953cm" fo:margin-right="0cm" fo:text-indent="0.048cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Helvetica" fo:font-family="Helvetica" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Helvetica" style:font-family-complex="Helvetica" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="8.001cm" style:type="center"/>
+     <style:tab-stop style:position="16.002cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0.501cm" fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.984cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="15pt" fo:language="none" fo:country="none" style:font-size-asian="15pt" style:language-asian="none" style:country-asian="none"/>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.85cm" fo:margin-right="0cm" fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" style:contextual-spacing="false" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:font-size="14pt" style:font-size-asian="14pt"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.376cm" fo:margin-right="0cm" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.834cm" fo:margin-right="0cm" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_6" style:display-name="Contents 6" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.293cm" fo:margin-right="0cm" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_7" style:display-name="Contents 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="2.752cm" fo:margin-right="0cm" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_8" style:display-name="Contents 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.21cm" fo:margin-right="0cm" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Contents_20_9" style:display-name="Contents 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:class="index">
+   <style:paragraph-properties fo:margin-left="3.669cm" fo:margin-right="0cm" fo:text-indent="1.199cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Auteur" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="1.501cm" fo:margin-top="0cm" fo:margin-bottom="2.117cm" style:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="22pt" style:font-size-asian="22pt"/>
+  </style:style>
+  <style:style style:name="Titre_5f_livre" style:display-name="Titre_livre" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="4.001cm" fo:margin-right="1.501cm" fo:margin-top="0cm" fo:margin-bottom="2.117cm" style:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="30pt" fo:font-weight="bold" style:font-size-asian="30pt" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Sous_5f_titre_5f_livre" style:display-name="Sous_titre_livre" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="4.001cm" fo:margin-right="1.501cm" fo:margin-top="0cm" fo:margin-bottom="2.117cm" style:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="A_5f_propos_5f_dispositions" style:display-name="A_propos_dispositions" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt"/>
+  </style:style>
+  <style:style style:name="Texte_20_de_20_bulles" style:display-name="Texte de bulles" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Tahoma1" fo:font-family="Tahoma" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="8pt" style:font-size-asian="8pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="WW8Num5z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num6z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num7z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num8z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num10z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num11z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num11z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num11z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num12z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num12z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num12z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num13z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num13z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num13z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num14z0" style:family="text">
+   <style:text-properties style:font-name="Symbol" fo:font-family="Symbol" style:font-family-generic="roman" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Symbol" style:font-family-complex="Symbol" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="WW8Num14z1" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern"/>
+  </style:style>
+  <style:style style:name="WW8Num14z2" style:family="text">
+   <style:text-properties style:font-name="Wingdings" fo:font-family="Wingdings" style:font-pitch="variable" style:font-charset="x-symbol" fo:font-size="10pt" style:font-size-asian="10pt" style:font-name-complex="Wingdings" style:font-family-complex="Wingdings" style:font-pitch-complex="variable" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Police_20_par_20_défaut" style:display-name="Police par défaut" style:family="text"/>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Page_20_Number" style:display-name="Page Number" style:family="text" style:parent-style-name="Police_20_par_20_défaut"/>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New1" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New1" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New1" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma2" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="WW8Num1" text:consecutive-numbering="true">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.632cm" fo:text-indent="-0.635cm" fo:margin-left="2.632cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num2" text:consecutive-numbering="true">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.133cm" fo:text-indent="-0.635cm" fo:margin-left="2.133cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num3" text:consecutive-numbering="true">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.633cm" fo:text-indent="-0.635cm" fo:margin-left="1.633cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num4" text:consecutive-numbering="true">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.134cm" fo:text-indent="-0.635cm" fo:margin-left="1.134cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num5" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num5z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.632cm" fo:text-indent="-0.635cm" fo:margin-left="2.632cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num6" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num6z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.133cm" fo:text-indent="-0.635cm" fo:margin-left="2.133cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num7" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num7z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.633cm" fo:text-indent="-0.635cm" fo:margin-left="1.633cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num8" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num8z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.134cm" fo:text-indent="-0.635cm" fo:margin-left="1.134cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num9" text:consecutive-numbering="true">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.635cm" fo:text-indent="-0.635cm" fo:margin-left="0.635cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num10" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num10z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.635cm" fo:text-indent="-0.635cm" fo:margin-left="0.635cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num11" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num11z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num11z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num11z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num11z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num11z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num11z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num11z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num11z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num11z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num12" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num12z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num12z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num12z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num12z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num12z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num12z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num12z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num12z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num12z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num13" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num13z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num13z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num13z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num13z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num13z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num13z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num13z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num13z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num13z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WW8Num14" text:consecutive-numbering="true">
+   <text:list-level-style-bullet text:level="1" text:style-name="WW8Num14z0" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="WW8Num14z1" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Courier New"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="WW8Num14z2" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="WW8Num14z2" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="WW8Num14z2" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="WW8Num14z2" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="7.62cm" fo:text-indent="-0.635cm" fo:margin-left="7.62cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="WW8Num14z2" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="8.89cm" fo:text-indent="-0.635cm" fo:margin-left="8.89cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="WW8Num14z2" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10.16cm" fo:text-indent="-0.635cm" fo:margin-left="10.16cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="WW8Num14z2" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="11.43cm" fo:text-indent="-0.635cm" fo:margin-left="11.43cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="Wingdings"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="Convert_20_2">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Convert_20_1">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text"/>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-name-asian="Georgia" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-size="30pt" fo:font-weight="bold" style:font-size-asian="30pt" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:font-name-asian="Georgia"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:font-size="15pt" style:font-name-asian="Georgia" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="001c56be"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="46" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.099cm" fo:margin-top="0cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="3cm" fo:margin-bottom="1.251cm" fo:margin-left="2.501cm" fo:margin-right="2.501cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="40" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.75cm" fo:margin-top="1.651cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.499cm" fo:margin-bottom="1.249cm" fo:margin-left="2.499cm" fo:margin-right="2.499cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="40" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.564cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.251cm" fo:margin-top="1.152cm" style:dynamic-spacing="true"/>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:footer>
+    <text:p text:style-name="P1">- <text:span text:style-name="Page_20_Number"><text:page-number text:select-page="current">2</text:page-number></text:span><text:span text:style-name="Page_20_Number"><text:s/>-</text:span></text:p>
+   </style:footer>
+   <style:footer-first>
+    <text:p text:style-name="Footer"/>
+   </style:footer-first>
+  </style:master-page>
+  <style:master-page style:name="Convert_20_1" style:display-name="Convert 1" style:page-layout-name="pm2">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T2">–</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T2"><text:page-number text:select-page="current">11</text:page-number></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T3"><text:s/></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T2">–</text:span></text:span></text:p>
+   </style:footer>
+   <style:footer-first>
+    <text:p text:style-name="Footer"/>
+   </style:footer-first>
+  </style:master-page>
+  <style:master-page style:name="Convert_20_2" style:display-name="Convert 2" style:page-layout-name="pm3">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T2">–</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T2"><text:page-number text:select-page="current">12</text:page-number></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T3"><text:s/></text:span></text:span><text:span text:style-name="Page_20_Number"><text:span text:style-name="T2">–</text:span></text:span></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Author">Balzac<text:span text:style-name="T15">, </text:span>Honoré de </text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Une passion<text:span text:style-name="T15"> </text:span>dans le désert</text:h>
+   <text:p text:style-name="Subtitle">LA COMÉDIE HUMAINE</text:p>
+   <text:p text:style-name="Subtitle">Texte écrit en 1830</text:p>
+   <text:p text:style-name="Subtitle">Études de mœurs. 5e livre.<text:line-break/>Scènes de la vie militaire et scènes de la vie de campagne.</text:p>
+   <text:p text:style-name="P12">Ce spectacle est effrayant ! s’écria-t-elle en sortant de la ménagerie de M. Martin.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Elle venait de contempler ce hardi spéculateur <text:span text:style-name="Emphasis">travaillant</text:span> avec son hyène, pour parler en style d’affiche.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Par quels moyens, dit-elle en continuant, peut-il avoir apprivoisé ses animaux au point d’être assez certain de leur affection pour… ?</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Ce fait, qui vous semble un problème, répondis-je en l’interrompant, est cependant une chose naturelle.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Oh ! s’écria-t-elle en laissant errer sur ses lèvres un sourire d’incrédulité.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Vous croyez donc les bêtes entièrement dépourvues de passions ? lui demandai-je ; apprenez que nous pouvons leur donner tous les vices dus à notre état de civilisation.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Elle me regarda d’un air étonné.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Mais, repris-je, en voyant M. Martin pour la première fois, j’avoue qu’il m’est échappé, comme à vous, une exclamation de surprise. Je me trouvais alors près d’un ancien militaire amputé de la jambe droite, entré avec moi. Cette figure m’avait frappé. C’était une de ces têtes intrépides, marquées du sceau de la guerre et sur lesquelles sont écrites les batailles de Napoléon. Ce vieux soldat avait surtout un air de franchise et de gaieté qui me prévient toujours favorablement. C’était sans doute un de ces troupiers que rien ne surprend, qui trouvent matière à rire dans la dernière grimace d’un camarade, l’ensevelissent ou le dépouillent gaiement, interpellent les boulets avec autorité, dont enfin les délibérations sont courtes, et qui fraterniseraient avec le diable. Après avoir regardé fort attentivement le propriétaire de la ménagerie au moment où il sortait de la loge, mon compagnon plissa ses lèvres de manière à formuler un dédain moqueur par cette espèce de moue significative que se permettent les hommes supérieurs pour se faire distinguer des dupes. Aussi, quand je me récriai sur le courage de M. Martin, sourit-il et me dit-il d’un air capable, en hochant la tête :</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Connu !</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Comment, connu ? lui répondis-je. Si vous voulez m’expliquer ce mystère, je vous serai très-obligé.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Après quelques instants, pendant lesquels nous fîmes connaissance, nous allâmes dîner dans le premier restaurant qui s’offrit à nos regards. Au dessert, une bouteille de vin de Champagne rendit aux souvenirs de ce curieux soldat toute leur clarté. Il me raconta son histoire, et je vis qu’il avait eu raison de s’écrier : <text:span text:style-name="Emphasis">Connu</text:span> !</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Rentrée chez elle, elle me fit tant d’agaceries, tant de promesses, que je consentis à lui rédiger la confidence du soldat. Le lendemain, elle reçut donc cet épisode d’une épopée qu’on pourrait intituler <text:span text:style-name="Emphasis">les Français en Égypte</text:span>.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P4">____</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:soft-page-break/>Lors de l’expédition entreprise dans la haute Égypte par le général Desaix, un soldat provençal, étant tombé au pouvoir des Maugrabins, fut emmené par ces Arabes dans les déserts situés au delà des cataractes du Nil. Afin de mettre entre eux et l’armée française un espace suffisant pour leur tranquillité, les Maugrabins firent une marche forcée, et ne s’arrêtèrent qu’à la nuit. Ils campèrent autour d’un puits masqué par des palmiers, auprès desquels ils avaient précédemment enterré quelques provisions. Ne supposant pas que l’idée de fuir pût venir à leur prisonnier, ils se contentèrent de lui attacher les mains, et s’endormirent tous, après avoir mangé quelques dattes et donné de l’orge à leurs chevaux. Quand le hardi Provençal vit ses ennemis hors d’état de le surveiller, il se servit de ses dents pour s’emparer d’un cimeterre ; puis, s’aidant de ses genoux pour en fixer la lame, il trancha les cordes qui lui ôtaient l’usage de ses mains et se trouva libre. Aussitôt, il se saisit d’une carabine et d’un poignard, se précautionna d’une provision de dattes sèches, d’un petit sac d’orge, de poudre et de balles ; ceignit un cimeterre, monta sur un cheval et piqua vivement dans la direction où il supposa que devait être l’armée française. Impatient de revoir un bivac, il pressa tellement le coursier, déjà fatigué, que le pauvre animal expira, les flancs déchirés, laissant les Français au milieu du désert.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Après avoir marché pendant quelque temps dans le sable avec tout le courage d’un forçat qui s’évade, le soldat fut obligé de s’arrêter, le jour finissait. Malgré la beauté du ciel pendant les nuits en Orient, il ne se sentit pas la force de continuer son chemin. Il avait heureusement pu gagner une éminence sur le haut de laquelle s’élançaient quelques palmiers, dont le feuillage, aperçu depuis longtemps, avait réveillé dans son cœur les plus douces espérances. Sa lassitude était si grande, qu’il se coucha sur une pierre de granit capricieusement taillée en lit de camp, et s’y endormit sans prendre aucune précaution pour sa défense pendant son sommeil. Il avait fait le sacrifice de sa vie. Sa dernière pensée fut même un regret. Il se repentait déjà d’avoir quitté les Maugrabins, dont la vie errante commençait à lui sourire depuis qu’il était loin d’eux et sans secours. Il fut réveillé par le soleil, dont les impitoyables rayons, tombant d’aplomb sur le granit, y produisaient une chaleur intolérable. Or, le Provençal avait eu la maladresse de se placer en sens inverse de l’ombre projetée par les têtes verdoyantes et majestueuses des palmiers… Il regarda ces arbres solitaires, et tressaillit ! ils lui rappelèrent les fûts élégants et couronnés de longues feuilles qui distinguent les colonnes sarrasines de la cathédrale d’Arles. Mais, quand, après avoir compté les palmiers, il jeta les yeux autour de lui, le plus affreux désespoir fondit sur son âme. Il voyait un océan sans bornes. Les sables noirâtres du désert s’étendaient à perte de vue dans toutes les directions, et ils étincelaient comme une lame d’acier frappée par une vive lumière. Il ne savait pas si c’était une mer de glace ou des lacs unis comme un miroir. Emportée par lames, une vapeur de feu tourbillonnait au-dessus de cette terre mouvante. Le ciel avait un éclat oriental d’une pureté désespérante, car il ne laisse alors rien à désirer à l’imagination. Le ciel et la terre étaient en feu. Le silence effrayait par sa majesté sauvage et terrible. L’infini, l’immensité, pressaient l’âme de toutes parts : pas un nuage au ciel, pas un souffle dans l’air, pas un accident au sein du sable agité par petites vagues menues ; enfin, l’horizon finissait, comme en mer quand il fait beau, par une ligne de lumière aussi déliée que le tranchant d’un sabre. Le Provençal serra le tronc d’un des palmiers, comme si c’eût été le corps d’un ami ; puis, à l’abri de l’ombre grêle et droite que l’arbre dessinait sur le granit, il pleura, s’assit et resta là, contemplant avec une tristesse profonde la scène implacable qui s’offrait à ses regards. Il cria comme pour tenter la solitude. Sa voix, perdue dans les cavités de l’éminence, rendit au loin un son maigre qui ne réveilla point d’écho ; l’écho était dans son cœur. Le Provençal avait vingt-deux ans, il arma sa carabine…</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Il sera toujours bien temps ! se dit-il en posant à terre l’arme libératrice.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Regardant tour à tour l’espace noirâtre et l’espace bleu, le soldat rêvait à la France. Il sentait avec délices les ruisseaux de Paris, il se rappelait les villes par lesquelles il avait passé, les figures de ses camarades, et les plus légères circonstances de sa vie. Enfin, son imagination méridionale lui fit bientôt entrevoir les cailloux de sa chère Provence dans les jeux de la chaleur qui ondoyait au-dessus de la nappe étendue dans le désert. Craignant tous les dangers de ce cruel mirage, il descendit le revers opposé à celui par lequel il était monté, la veille, sur la colline. Sa joie fut grande en découvrant une espèce de grotte, naturellement taillée dans les immenses fragments de granit qui formaient la base de ce monticule. Les débris d’une natte annonçaient que cet asile avait été jadis habité. Puis, à quelques pas, il aperçut des palmiers chargés de dattes. Alors, l’instinct qui nous attache à la vie se réveilla dans son cœur. Il espéra vivre assez pour attendre le passage de quelques Maugrabins, ou peut-être entendrait-il bientôt le bruit des canons ! car, en ce moment, Bonaparte parcourait l’Égypte. Ranimé par cette pensée, le Français abattit quelques régimes de fruits mûrs sous le poids desquels les dattiers semblaient fléchir, et il s’assura, en goûtant cette manne inespérée, que l’habitant de la grotte avait cultivé les palmiers : la chair savoureuse et fraîche de la datte accusait en effet les soins de son prédécesseur. Le Provençal passa subitement d’un sombre désespoir à une joie presque folle. Il remonta sur le haut de la colline, et s’occupa pendant le reste du jour à couper un des palmiers inféconds qui, la veille, lui avaient servi de toit. Un vague souvenir lui fit penser aux animaux du désert, et, prévoyant qu’ils pourraient venir boire à la source perdue dans les sables qui apparaissait au bas des quartiers de roche, il résolut de se garantir de leurs visites en mettant une barrière à la porte de son ermitage. Malgré son ardeur, malgré les forces que lui donna la peur d’être dévoré pendant son sommeil, il lui fut impossible de couper le palmier en plusieurs morceaux dans cette journée ; mais il réussit à l’abattre. Quand, vers le soir, ce roi du désert tomba, le bruit de sa chute retentit au loin, et il y eut une sorte de gémissement poussé par la solitude ; le soldat en frémit comme s’il eût entendu quelque voix lui prédire un malheur. Mais, ainsi qu’un héritier qui ne s’apitoie pas longtemps sur la mort d’un parent, il dépouilla ce bel arbre des larges et hautes feuilles vertes qui en sont le poétique ornement, et s’en servit pour réparer la natte sur laquelle il allait se coucher. Fatigué par la chaleur et le travail, il s’endormit sous les lambris rouges de sa grotte humide. Au milieu de la nuit, son sommeil fut troublé par un bruit extraordinaire. Il se dressa sur son séant, et le silence profond qui régnait lui permit de reconnaître l’accent alternatif d’une respiration dont la sauvage énergie ne pouvait appartenir à une créature humaine. Une profonde peur, encore augmentée par l’obscurité, par le silence et par les fantaisies du réveil, lui glaça le cœur. Il sentit même à peine la douloureuse contraction de sa chevelure quand, à force de dilater les pupilles de ses yeux, il aperçut dans l’ombre deux lueurs faibles et jaunes. D’abord, il attribua ces lumières à quelque reflet de ses prunelles ; mais bientôt, le vif éclat de la nuit l’aidant par degrés à distinguer les objets qui se trouvaient dans la grotte, il aperçut un énorme animal couché à deux pas de lui. Était-ce un lion, un tigre, ou un crocodile ? Le Provençal n’avait pas assez d’instruction pour savoir dans quel sous-genre était classé son ennemi ; mais son effroi fut d’autant plus violent, que son ignorance lui fit supposer tous les malheurs ensemble. Il endura le cruel supplice d’écouter, de saisir les caprices de cette respiration, sans en rien perdre et sans oser se permettre le moindre mouvement. Une odeur aussi forte que l’odeur exhalée par les renards, mais plus pénétrante, plus grave, pour ainsi dire, remplissait la grotte ; et, quand le Provençal l’eut dégustée du nez, sa terreur fut au comble, car il ne pouvait plus révoquer en doute l’existence du terrible compagnon dont l’antre royal lui servait de bivac. Bientôt, les <text:soft-page-break/>reflets de la lune, qui se précipitait vers l’horizon, éclairant la tanière, firent insensiblement resplendir la peau tachetée d’une panthère. Ce lion d’Égypte dormait, roulé comme un gros chien, paisible possesseur d’une niche somptueuse à la porte d’un hôtel ; ses yeux, ouverts pendant un moment, s’étaient refermés. Il avait la face tournée vers le Français. Mille pensées confuses passèrent dans l’âme du prisonnier de la panthère ; d’abord, il voulut la tuer d’un coup de carabine, mais il s’aperçut qu’il n’y avait pas assez d’espace entre elle et lui pour l’ajuster, le canon aurait dépassé l’animal. Et s’il l’éveillait ? … Cette hypothèse le rendit immobile. En écoutant battre son cœur au milieu du silence, il maudissait les pulsations trop fortes que l’affluence du sang y produisait, redoutant de troubler ce sommeil qui lui permettait de chercher un expédient salutaire. Il mit la main deux fois sur son cimeterre, dans le dessein de trancher la tête à son ennemie ; mais la difficulté de couper un poil ras et dur l’obligea de renoncer à ce hardi projet.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>La manquer ? ce serait mourir sûrement, pensa-t-il.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Il préféra les chances d’un combat, et résolut d’attendre le jour. Et le jour ne se fit pas longtemps désirer. Le Français put alors examiner la panthère ; elle avait le museau teint de sang.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Elle a bien mangé ! … pensa-t-il, sans s’inquiéter si le festin avait été composé de chair humaine ; elle n’aura pas faim à son réveil.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">C’était une femelle. La fourrure du ventre et des cuisses étincelait de blancheur. Plusieurs petites taches, semblables à du velours, formaient de jolis bracelets autour des pattes. La queue musculeuse était également blanche, mais terminée par des anneaux noirs. Le dessus de la robe, jaune comme de l’or mat, mais bien lisse et doux, portait ces mouchetures caractéristiques, nuancées en forme de roses, qui servent à distinguer les panthères des autres espèces de <text:span text:style-name="Emphasis">felis</text:span>. Cette tranquille et redoutable hôtesse ronflait dans une pose aussi gracieuse que celle d’une chatte couchée sur le coussin d’une ottomane. Ses sanglantes pattes, nerveuses et bien armées, étaient en avant de sa tête, qui reposait dessus et de laquelle partaient ces barbes rares et droites, semblables à des fils d’argent. Si elle avait été ainsi dans une cage, le Provençal aurait certes admiré la grâce de cette bête et les vigoureux contrastes des couleurs vives qui donnaient à sa simarre un éclat impérial ; mais, en ce moment, il sentait sa vue troublée par cet aspect sinistre. La présence de la panthère, même endormie, lui faisait éprouver l’effet que les yeux magnétiques du serpent produisent, dit-on, sur le rossignol. Le courage du soldat finit par s’évanouir un instant devant ce danger, tandis qu’il se serait sans doute exalté sous la bouche des canons vomissant la mitraille. Cependant, une pensée intrépide se fit jour en son âme, et tarit dans sa source la sueur froide qui lui découlait du front. Agissant comme les hommes qui, poussés à bout par le malheur, arrivent à défier la mort et s’offrent à ses coups, il vit sans s’en rendre compte une tragédie dans cette aventure, et résolut d’y jouer son rôle avec honneur jusqu’à la dernière scène.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Avant-hier, les Arabes m’auraient peut-être tué ! … se dit-il.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Se considérant comme mort, il attendit bravement et avec une inquiète curiosité le réveil de son ennemie. Quand le soleil parut, la panthère ouvrit subitement les yeux ; puis elle étendit violemment ses pattes, comme pour les dégourdir et dissiper des crampes. Enfin elle bâilla, montrant ainsi l’épouvantable appareil de ses dents et sa langue fourchue, aussi dure qu’une <text:soft-page-break/>râpe.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>C’est comme une petite-maîtresse ! … pensa le Français en la voyant se rouler et faire les mouvements les plus doux et les plus coquets.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Elle lécha le sang qui teignait ses pattes, son museau, et se gratta la tête par des gestes réitérés pleins de gentillesse.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Bien ! … fais un petit bout de toilette,… dit en lui-même le Français, qui retrouva sa gaieté en reprenant du courage ; nous allons nous souhaiter le bonjour.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Et il saisit le petit poignard court dont il avait débarrassé les Maugrabins.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">En ce moment, la panthère retourna la tête vers les Français et le regarda fixement sans avancer. La rigidité de ses yeux métalliques et leur insupportable clarté firent tressaillir le Provençal, surtout quand la bête marcha vers lui ; mais il la contempla d’un air caressant, et, la guignant comme pour la magnétiser, il la laissa venir près de lui ; puis, par un mouvement aussi doux, aussi amoureux que s’il avait voulu caresser la plus jolie femme, il lui passa la main sur tout le corps, de la tête à la queue, en irritant avec ses ongles les flexibles vertèbres qui partageaient le dos jaune de la panthère. La bête redressa voluptueusement sa queue, ses yeux s’adoucirent ; et, quand, pour la troisième fois, le Français accomplit cette flatterie intéressée, elle fit entendre un de ces <text:span text:style-name="Emphasis">ronron</text:span> par lesquels nos chats expriment leur plaisir ; mais ce murmure partait d’un gosier si puissant et si profond, qu’il retentit dans la grotte comme les derniers ronflements des orgues dans une église. Le Provençal, comprenant l’importance de ses caresses, les redoubla de manière à étourdir, à stupéfier cette courtisane impérieuse. Quand il se crut sûr d’avoir éteint la férocité de sa capricieuse compagne, dont la faim avait été si heureusement assouvie la veille, il se leva et voulut sortir de la grotte ; la panthère le laissa bien partir, mais, quand il eut gravi la colline, elle bondit avec la légèreté des moineaux sautant d’une branche à une autre, et vint se frotter contre les jambes du soldat en faisant le gros dos à la manière des chattes ; puis, regardant son hôte d’un œil dont l’éclat était devenu moins inflexible, elle jeta ce cri sauvage que les naturalistes comparent au bruit d’une scie.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Elle est exigeante ! s’écria le Français en souriant.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Il essaya de jouer avec les oreilles, de lui caresser le ventre et de lui gratter fortement la tête avec ses ongles ; et, s’apercevant de ses succès, il lui chatouilla le crâne avec la pointe de poignard, en épiant l’heure de la tuer ; mais la dureté des os le fit trembler de ne pas réussir.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">La sultane du désert agréa les talents de son esclave en levant la tête, en tendant le cou, en accusant son ivresse par la tranquillité de son attitude. Le Français songea soudain que, pour assassiner d’un seul coup cette farouche princesse, il fallait la poignarder dans la gorge, et il levait la lame, quand la panthère, rassasiée sans doute, se coucha gracieusement à ses pieds en lui jetant de temps en temps des regards où, malgré une rigueur native, se peignait confusément de la bienveillance. Le pauvre Provençal mangea ses dattes, en s’appuyant sur un des palmiers ; mais il lançait tour à tour un œil investigateur sur le désert pour y chercher des libérateurs, et sur sa terrible compagne pour en épier la clémence incertaine. La panthère regardait l’endroit où les noyaux de dattes tombaient, chaque fois qu’il en jetait un, et ses <text:soft-page-break/>yeux exprimaient alors une incroyable méfiance. Elle examinait le Français avec une prudence commerciale ; mais cet examen lui fut favorable, car, lorsqu’il eut achevé son maigre repas, elle lui lécha ses souliers, et, d’une langue rude et forte, elle en enleva miraculeusement la poussière incrustée dans les plis.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Mais quand elle aura faim ? … pensa le Provençal.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Malgré le frisson que lui causa son idée, le soldat se mit à mesurer curieusement les proportions de la panthère, certainement un des plus beaux individus de l’espèce, car elle avait trois pieds de hauteur et quatre pieds de longueur, sans y comprendre la queue. Cette arme puissante, ronde comme un gourdin, était haute de près de trois pieds. La tête, aussi grosse que celle d’une lionne, se distinguait par une rare expression de finesse ; la froide cruauté des tigres y dominait bien, mais il y avait aussi une vague ressemblance avec la physionomie d’une femme artificieuse. Enfin, la figure de cette reine solitaire révélait en ce moment une sorte de gaieté semblable à celle de Néron ivre : elle s’était désaltérée dans le sang et voulait jouer. Le soldat essaya d’aller et de venir, la panthère le laissa libre, se contentant de le suivre des yeux, ressemblant ainsi moins à un chien fidèle qu’à un gros angora inquiet de tout, même des mouvements de son maître. Quand il se retourna, il aperçut du côté de la fontaine les restes de son cheval, la panthère en avait traîné jusque-là le cadavre. Les deux tiers environ étaient dévorés. Ce spectacle rassura le Français. Il lui fut facile alors d’expliquer l’absence de la panthère, et le respect qu’elle avait eu pour lui pendant son sommeil. Ce premier bonheur l’enhardissant à tenter l’avenir, il conçut le fol espoir de faire bon ménage avec la panthère pendant toute la journée, en ne négligeant aucun moyen de l’apprivoiser et de se concilier ses bonnes grâces. Il revint près d’elle et eut l’ineffable bonheur de lui voir remuer la queue par un mouvement presque insensible. Il s’assit alors sans crainte auprès d’elle, et ils se mirent à jouer tous les deux : il lui prit les pattes, le museau, lui tournilla les oreilles, la renversa sur le dos, et gratta fortement ses flancs chauds et soyeux. Elle se laissa faire, et, quand le soldat essaya de lui lisser le poil des pattes, elle rentra soigneusement ses ongles recourbés comme des damas. Le Français, qui gardait une main sur son poignard, pensait encore à le plonger dans le ventre de la trop confiante panthère ; mais il craignit d’être immédiatement étranglé dans la dernière convulsion qui l’agiterait. Et, d’ailleurs, il entendit dans son cœur une sorte de remords qui lui criait de respecter une créature inoffensive. Il lui semblait avoir trouvé une amie dans ce désert sans bornes. Il songea involontairement à sa première maîtresse, qu’il avait surnommée *Mignonne*, par antiphrase, parce qu’elle était d’une si atroce jalousie, que, pendant tout le temps que dura leur passion, il eut à craindre le couteau dont elle l’avait toujours menacé. Ce souvenir de son jeune âge lui suggéra d’essayer de faire répondre à ce nom la jeune panthère, de laquelle il admirait, maintenant avec moins d’effroi, l’agilité, la grâce et la mollesse.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Vers la fin de la journée, il s’était familiarisé avec sa situation périlleuse, et il en aimait presque les angoisses. Enfin, sa compagne avait fini par prendre l’habitude de le regarder quand il criait en voix de fausset : <text:span text:style-name="Emphasis">Mignonne ! </text:span>Au coucher du soleil, Mignonne fit entendre à plusieurs reprises un cri profond et mélancolique.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Elle est bien élevée ! … pensa le gai soldat ; elle dit ses prières.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Mais cette plaisanterie mentale ne lui vint en l’esprit que quand il eut remarqué l’attitude pacifique dans laquelle restait sa camarade.</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Va, ma petite blonde, je te laisserai coucher la première, lui dit-il en comptant bien sur l’activité de ses jambes pour s’évader au plus vite quand elle serait endormie, afin d’aller chercher un autre gîte pendant la nuit.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Le soldat attendit avec impatience l’heure de sa fuite, et, quand elle fut arrivée, il marcha rapidement dans la direction du Nil ; mais à peine eut-il fait un quart de lieue dans les sables, qu’il entendit la panthère bondissant derrière lui, et jetant par intervalles ce cri de scie, plus effrayant encore que le bruit lourd de ses bonds. &gt;</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Allons, se dit-il, elle m’a pris en amitié ! … Cette jeune panthère n’a peut-être encore rencontré personne, il est flatteur d’avoir son premier amour !</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">En ce moment, le Français tomba dans un de ces sables mouvants si redoutables pour les voyageurs, et d’où il est impossible de se sauver. En se sentant pris, il poussa un cri d’alarme ; la panthère le saisit avec ses dents par le collet, et, sautant vigoureusement en arrière, elle le tira du gouffre comme par magie.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Ah ! Mignonne, s’écria le soldat en la caressant avec enthousiasme, c’est entre nous maintenant à la vie et à la mort… Mais pas de farces !</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Et il revint sur ses pas.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Le désert fut dès lors comme peuplé. Il renfermait un être auquel le Français pouvait parler, et dont la férocité s’était adoucie pour lui, sans qu’il s’expliquât les raisons de cette incroyable amitié. Quelque puissant que fût le désir du soldat de rester debout et sur ses gardes, il dormit. A son réveil, il ne vit plus Mignonne ; il monta sur la colline, et, dans le lointain, il l’aperçut accourant par bonds, suivant l’habitude de ces animaux, auxquels la course est interdite par l’extrême flexibilité de leur colonne vertébrale. Mignonne arriva les babines sanglantes ; elle reçut les caresses nécessaires que lui fit son compagnon, en témoignant même par plusieurs <text:span text:style-name="T9">ronron</text:span> graves combien elle en était heureuse. Ses yeux, pleins de mollesse, se tournèrent avec encore plus de douceur que la veille sur le Provençal, qui lui parlait comme à un animal domestique :</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Ah ! ah ! mademoiselle, car vous êtes une honnête fille, n’est-ce pas ? Voyez-vous ça ! … nous aimons à être câlinée. N’avez-vous pas honte ! Vous avez mangé quelque Maugrabin ? … Bien ! C’est pourtant des animaux comme vous ! … Mais n’allez pas gruger les Français, au moins… Je ne vous aimerais plus !</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Elle joua comme un jeune chien joue avec son maître, se laissant rouler, battre et flatter tour à tour ; et parfois elle provoquait le soldat en avançant la patte sur lui, par un geste de solliciteur.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Quelques jours se passèrent ainsi. Cette compagnie permit au Provençal d’admirer les sublimes beautés du désert. Du moment qu’il y trouvait des heures de crainte et de tranquillité, des aliments, et une créature à laquelle il pensait, il eut l’âme agitée par des contrastes… C’était une vie pleine d’oppositions. La solitude lui révéla tous ses secrets, l’enveloppa de ses charmes. Il découvrit dans le lever et le coucher du soleil des spectacles <text:soft-page-break/>inconnus au monde. Il sut tressaillir en entendant au-dessus de sa tête le doux sifflement des ailes d’un oiseau, – rare passager ! – en voyant les nuages se confondre, – voyageurs changeants et colorés ! Il étudia pendant la nuit les effets de la lune sur l’océan des sables, où le simoun produisait des vagues, des ondulations et de rapides changements. Il vécut avec le jour de l’Orient, il en admira les pompes merveilleuses ; et souvent, après avoir joui du terrible spectacle d’un ouragan dans cette plaine où les sables soulevés produisaient des brouillards rouges et secs, des nuées mortelles, il voyait venir la nuit avec délices, car alors tombait la bienfaisante fraîcheur des étoiles. Il écouta des musiques imaginaires dans les cieux. Puis la solitude lui apprit à déployer les trésors de la rêverie. Il passait des heures entières à se rappeler des riens, à comparer sa vie passée à sa vie présente. Enfin, il se passionna pour sa panthère, car il lui fallait bien une affection. Soit que sa volonté, puissamment projetée, eût modifié le caractère de sa compagne, soit qu’elle trouvât une nourriture abondante grâce aux combats qui se livraient alors dans ces déserts, elle respecta la vie du Français, qui finit par ne plus s’en défier en la voyant si bien apprivoisée. Il employait la plus grande partie du temps à dormir ; mais il était obligé de veiller, comme une araignée au sein de sa toile, pour ne pas laisser échapper le moment de sa délivrance, si quelqu’un passait dans la sphère décrite par l’horizon. Il avait sacrifié sa chemise pour en faire un drapeau, arboré sur le haut d’un palmier dépouillé de feuillage. Conseillé par la nécessité, il sut trouver le moyen de le garder déployé en le tendant avec des baguettes, car le vent aurait pu ne pas l’agiter au moment où le voyageur attendu regarderait dans le désert…</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">C’était pendant les longues heures où l’abandonnait l’espérance qu’il s’amusait avec la panthère. Il avait fini par connaître les différentes inflexions de sa voix, l’expression de ses regards, il avait étudié les caprices de toutes les taches qui nuançaient l’or de sa robe. Mignonne ne grondait même plus quand il lui prenait la touffe par laquelle sa redoutable queue était terminée, pour en compter les anneaux noirs et blancs, ornement gracieux, qui brillait de loin au soleil comme des pierreries. Il avait du plaisir à contempler les lignes moelleuses et fines des contours, la blancheur du ventre, la grâce de la tête. Mais c’était surtout quand elle folâtrait qu’il la regardait complaisamment, et l’agilité, la jeunesse de ses mouvements, le surprenaient toujours ; il admirait sa souplesse quand elle se mettait à bondir, à ramper, à se glisser, à se fourrer, à s’accrocher, se rouler, se blottir, s’élancer partout. Quelque rapide que fût son élan, quelque glissant que fût un bloc de granit, elle s’y arrêtait tout court au mot de « Mignonne ! »</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">Un jour, par un soleil éclatant, un immense oiseau plana dans les airs. Le Provençal quitta sa panthère pour examiner ce nouvel hôte ; mais, après un moment d’attente, la sultane délaissée gronda sourdement.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Je crois, Dieu m’emporte, qu’elle est jalouse ! s’écria-t-il en voyant ses yeux redevenus rigides. L’âme de Virginie aura passé dans ce corps-là, c’est sûr ! …</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">L’aigle disparut dans les airs pendant que le soldat admirait la croupe rebondie de la panthère. Mais il y avait tant de grâce et de jeunesse dans ses contours ! C’était joli comme une femme. La blonde fourrure de la robe se mariait par des teintes fines aux tons du blanc mat qui distinguait les cuisses. La lumière profusément jetée par le soleil faisait briller cet or vivant, ces taches brunes, de manière à leur donner d’indéfinissables attraits. Le Provençal et la panthère se regardèrent l’un et l’autre d’un air intelligent ; la coquette tressaillit quand elle sentit les ongles de son ami lui gratter le crâne, ses yeux brillèrent comme deux éclairs, puis <text:soft-page-break/>elle les ferma fortement.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Elle a une âme ! dit-il en étudiant la tranquillité de cette reine des sables, dorée comme eux, blanche comme eux, solitaire et brûlante comme eux…</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Eh bien, me dit-elle, j’ai lu votre plaidoyer en faveur des bêtes ; mais comment deux personnes si bien faites pour se comprendre ont-elles fini ?</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Ah ! voilà ! … Elles ont fini comme finissent toutes les grandes passions, par un malentendu. On croit, de part et d’autre, à quelque trahison, l’on ne s’explique point par fierté, l’on se brouille par entêtement.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Et quelquefois dans les plus beaux moments, dit-elle ; un regard, une exclamation, suffisent… Eh bien, alors, achevez l’histoire.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>C’est horriblement difficile, mais vous comprendrez ce que m’avait déjà confié le vieux grognard quand, en finissant sa bouteille de vin de Champagne, il s’est écrié :</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Je ne sais pas quel mal je lui ai fait, mais elle se retourna comme si elle eût été enragée, et, de ses dents aiguës, elle m’entama la cuisse, faiblement sans doute. Moi, croyant qu’elle voulait me dévorer, je lui plongeai mon poignard dans le cou. Elle roula en jetant un cri qui me glaça le cœur, je la vis se débattant en me regardant sans colère. J’aurais voulu pour tout au monde, pour ma croix, que je n’avais pas encore, la rendre à la vie. C’était comme si j’eusse assassiné une personne véritable. Et les soldats qui avaient vu mon drapeau, et qui accoururent à mon secours, me trouvèrent tout en larmes…</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Eh bien, monsieur, reprit-il après un moment de silence, j’ai fait depuis la guerre en Allemagne, en Espagne, en Russie, en France ; j’ai bien promené mon cadavre, je n’ai rien vu de semblable au désert… Ah ! c’est que cela est bien beau !</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Qu’y sentiez-vous ? lui ai-je demandé.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Oh ! cela ne se dit pas, jeune homme. D’ailleurs, je ne regrette pas toujours mon bouquet de palmiers et ma panthère,… il faut que je sois triste pour cela. Dans le désert, voyez-vous, il y a tout, et il n’y a rien…</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Mais encore, expliquez-moi…</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">–<text:span text:style-name="T8"> </text:span>Eh bien, reprit-il en laissant échapper un geste d’impatience, c’est Dieu sans les hommes.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P7">Paris, 1830</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:h text:style-name="P2" text:outline-level="2">À propos de cette édition électronique</text:h>
+   <text:p text:style-name="P6">Texte libre de droits.</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P5">Corrections, édition, conversion informatique et publication par le groupe :</text:p>
+   <text:p text:style-name="P8">Ebooks libres et gratuits</text:p>
+   <text:p text:style-name="P5"><text:a xlink:type="simple" xlink:href="http://fr.groups.yahoo.com/group/ebooksgratuits" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T4">http://fr.groups.yahoo.com/group/ebooksgratuits</text:span></text:span></text:a><text:line-break/></text:p>
+   <text:p text:style-name="P5">Adresse du site web du groupe :<text:line-break/> <text:a xlink:type="simple" xlink:href="http://www.ebooksgratuits.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T5">http://www.ebooksgratuits.com/</text:span></text:span></text:a></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">—</text:p>
+   <text:p text:style-name="P6">Juin 2003</text:p>
+   <text:p text:style-name="P5">—</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P9">–<text:span text:style-name="T8"> </text:span>Dispositions :</text:p>
+   <text:p text:style-name="A_5f_propos_5f_dispositions">Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <text:span text:style-name="T14">à une fin non commerciale et non professionnelle</text:span>. <text:span text:style-name="T4">Tout lien vers notre site est bienvenu…</text:span></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P9">–<text:span text:style-name="T8"> </text:span>Qualité :</text:p>
+   <text:p text:style-name="A_5f_propos_5f_dispositions">Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l&apos;original. Nous rappelons que c&apos;est un travail d&apos;amateurs non rétribués et nous essayons de promouvoir la culture littéraire avec de maigres moyens.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P10">Votre aide est la bienvenue !</text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P5">VOUS POUVEZ NOUS AIDER</text:p>
+   <text:p text:style-name="P5">À FAIRE CONNAÎTRE</text:p>
+   <text:p text:style-name="P5">CES CLASSIQUES LITTÉRAIRES.</text:p>
+  </office:text>
+ </office:body>
+</office:document>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" >
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Biblia sau Sfânta Scriptură</title>
+
+      <respStmt>
+        <resp>edited by</resp>
+        <name>Aociația Studenților Creștin-Ortodocși din România (ASCOR)</name>
+      </respStmt>
+    </titleStmt>
+      <publicationStmt>
+        <distributor>Scriptorium</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biblia românească, în trad</bibl>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
+
+<text>
+
+<!-- <front>
+    <div type="prefata" id="prefata">
+        <head>Biblia sau Sf�nta Scriptur�</head>
+        <p></p>
+    </div>
+</front>
+ -->
+<body>
+<div type="parte" id="vt" n="1">
+<head>Vechiul Testament</head>
+
+<xi:include href="capitole/facerea.xml"/>
+<xi:include href="capitole/iesirea.xml"/>
+<xi:include href="capitole/levitic.xml"/>   
+<xi:include href="capitole/numerii.xml"/>    
+<xi:include href="capitole/deuteronom.xml"/>
+<xi:include href="capitole/iosua.xml"/>
+<xi:include href="capitole/judecatori.xml"/>
+<xi:include href="capitole/rut.xml"/>
+<xi:include href="capitole/regi1.xml"/>
+<xi:include href="capitole/regi2.xml"/>	   
+<xi:include href="capitole/regi3.xml"/>	   
+<xi:include href="capitole/regi4.xml"/>	   
+<xi:include href="capitole/cronici1.xml"/>   
+<xi:include href="capitole/cronici2.xml"/>   
+<xi:include href="capitole/ezdra1.xml"/>     
+<xi:include href="capitole/neemia.xml"/>     
+<xi:include href="capitole/estera.xml"/>     
+<xi:include href="capitole/iov.xml"/> 	   
+<xi:include href="capitole/psalmi.xml"/>     
+<xi:include href="capitole/iov.xml"/> 	   
+
+<xi:include href="capitole/ecclesiast.xml"/> 
+<xi:include href="capitole/cantare.xml"/>    
+<xi:include href="capitole/isaia.xml"/>	   
+<xi:include href="capitole/ieremia.xml"/>    
+<xi:include href="capitole/plangeri.xml"/>   
+<xi:include href="capitole/iezechiel.xml"/>  
+<xi:include href="capitole/daniel.xml"/>     
+<xi:include href="capitole/osea.xml"/>	   
+<xi:include href="capitole/amos.xml"/>	   
+<xi:include href="capitole/miheia.xml"/>     
+<xi:include href="capitole/ioil.xml"/>	   
+<xi:include href="capitole/avdie.xml"/>	   
+<xi:include href="capitole/iona.xml"/>	   
+<xi:include href="capitole/naum.xml"/>	   
+<xi:include href="capitole/avacum.xml"/>     
+<xi:include href="capitole/sofonie.xml"/>    
+<xi:include href="capitole/agheu.xml"/>	   
+<xi:include href="capitole/zaharia.xml"/>    
+<xi:include href="capitole/maleahi.xml"/>    
+<xi:include href="capitole/tobit.xml"/>	   
+<xi:include href="capitole/iudita.xml"/>     
+<xi:include href="capitole/baruh.xml"/>	   
+
+<xi:include href="capitole/treitineri.xml"/> 
+<xi:include href="capitole/ezdra3.xml"/>     
+<xi:include href="capitole/solomon.xml"/>    
+<xi:include href="capitole/sirah.xml"/>	   
+<xi:include href="capitole/susana.xml"/>     
+<xi:include href="capitole/balaur.xml"/>     
+<xi:include href="capitole/macabei1.xml"/>   
+<xi:include href="capitole/macabei2.xml"/>   
+<xi:include href="capitole/macabei3.xml"/>   
+<xi:include href="capitole/manase.xml"/>     
+
+</div>
+ 
+<div type="parte" id="nt" n="2">
+<head>Noul Testament</head>
+<xi:include href="capitole/matei.xml"/>     
+<xi:include href="capitole/marcu.xml"/>      
+<xi:include href="capitole/luca.xml"/>
+<xi:include href="capitole/ioan.xml"/>
+<xi:include href="capitole/fapte.xml"/>
+<xi:include href="capitole/romani.xml"/>
+<xi:include href="capitole/corinteni1.xml"/>
+<xi:include href="capitole/corinteni2.xml"/>
+<xi:include href="capitole/galateni.xml"/>
+<xi:include href="capitole/efeseni.xml"/>  
+<xi:include href="capitole/filipeni.xml"/>   
+<xi:include href="capitole/coloseni.xml"/>  
+<xi:include href="capitole/tesaloniceni1.xml"/>
+<xi:include href="capitole/tesaloniceni2.xml"/>
+<xi:include href="capitole/timotei1.xml"/>
+<xi:include href="capitole/timotei2.xml"/>  
+<xi:include href="capitole/tit.xml"/>  
+<xi:include href="capitole/filimon.xml"/>
+<xi:include href="capitole/evrei.xml"/>   
+<xi:include href="capitole/iacov.xml"/>     
+<xi:include href="capitole/petru1.xml"/>     
+<xi:include href="capitole/petru2.xml"/>    
+<xi:include href="capitole/ioan1.xml"/>    
+<xi:include href="capitole/ioan2.xml"/>     
+<xi:include href="capitole/ioan3.xml"/>     
+<xi:include href="capitole/iuda.xml"/>     
+<xi:include href="capitole/apocalipsa.xml"/>
+</div>
+
+
+</body>
+</text>
+
+</TEI>

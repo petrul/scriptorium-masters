@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>După melci</title>
+        <author>
+          <name>Ion Barbu</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <p>- ATENŢIE, CONSERVAŢI ACEASTĂ LICENŢĂ DACĂ REDISTRIBUIŢI ACEST FIŞIER - 
+
+
+	Licenţă Biblioteca Electronică
+	======================
+
+	Versiunea 1, August 1998 
+
+	Copyright ? Radu Iliescu - Biblioteca Electronică
+
+http://www.lme.ro/~byblos/
+radu.iliescu@lme.ro
+
+	Baza de texte a Bibliotecii Electronice poate fi copiată, difuzată şi modificată în condiţiile următoare:
+
+	01) Orice copie în scopuri private, în scopuri de ilustrare a învăţămîntului şi în scopuri de cercetare este autorizată.
+
+	02) Introducerea oricărui text sau fragment într-un material de largă circulaţie trebuie să se facă însoţită de prezenta licenţă. Prezenţa oricărui text într-un material comercial fără prezenta licenţă este interzisă.
+
+	03) Antetul care însoţeste prezentul document trebuie integral păstrat.
+
+	04) Menţiunea producătorului original trebuie să existe, precum şi cea a contribuţiilor ulterioare.
+
+	05) Orice modificare ulterioară în sensul corectării erorilor sau punerii într-un alt format trebuie neîntîrziat adusă la cunoştinţa administratorului acestei biblioteci. Indicarea diferitelor modificări trebuie explicit precizată, precum şi datată. Acestea conferă autorului statutul de colaborator la Biblioteca Electronică.
+
+	06) Acestă licenţă se aplică inclusiv versiunilor ulterioare provenind de la colaboratorii Bibliotecii Electronice.
+
+	Copist: Radu Iliescu (radu.iliescu@lme.ro)
+
+	Acest fişier reproduce poeziile din ediţia Joc Secund, Editura pentru literatură, 1966.
+
+----------------------------------------Sfîrşitul licenţei Bibliotecii Electronice------------------------------------------</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- one of (recordingStmt scriptStmt listBibl biblStruct biblFull bibl p) -->
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <lg>
+          <l>Dintr-atîţia fraţi mai mari:</l>
+          <l>Unii morţi,</l>
+          <l>Alţii plugari;</l>
+          <l>Dintr-atîţia fraţi mai mici:</l>
+          <l>Prunci de treabă,</l>
+          <l>Uzi, peltici,</l>
+          <l>Numai eu răsad mai rău</l>
+          <l>(Mai năuc, mai nătărău).</l>
+          <l>Dintr-atîţia (prin ce har?),</l>
+          <l>Mă brodisem un hoinar.</l>
+        </lg>
+        <lg>
+          <l>Eram mult mai prost pe-atunci...</l>
+        </lg>
+        <lg>
+          <l>Cînd Păresimii, prin lunci,</l>
+          <l>Răspîndeau pietriş de-albine,</l>
+          <l>Ne părea la toţi mai bine:</l>
+          <l>Ţînci ursuzi,</l>
+          <l>Desculţi şi uzi,</l>
+          <l>Fetişcane</l>
+          <l>(Cozi plăvane),</l>
+          <l>Înfăşate-n lungi zăvelci,</l>
+          <l>O porneau în turmă bleagă,</l>
+          <l>Să culeagă</l>
+          <l>Ierburi noi, crăiţe, melci...</l>
+        </lg>
+        <lg>
+          <l>Era umed în bordei...</l>
+          <l>Şi tuleam şi eu cu ei</l>
+        </lg>
+        <lg>
+          <l>I</l>
+        </lg>
+        <lg>
+          <l>Tot aşa o dată, iar,</l>
+          <l>La un sfînt prin Făurar,</l>
+          <l>Ori la Sfinţii Mucenici,</l>
+          <l>Tîrla noastră de pitici</l>
+          <l>Odihnea pe creastă, sus.</l>
+          <l>Eu voinic prea tare nu-s.</l>
+          <l>Şi din fugă,</l>
+          <l>Subt o glugă</l>
+          <l>De-aluniş, pe-o buturugă</l>
+          <l>Odihnii</l>
+          <l>Şi eu curînd...</l>
+        </lg>
+        <lg>
+          <l>Vezi, atunci mi-a dat prin gînd</l>
+          <l>Că, tot stînd şi alegînd</l>
+          <l>Jos, în vraful de foi ude,</l>
+          <l>Prin lăstari şi vrejuri crude,</l>
+          <l>S-ar putea să dau de el :</l>
+          <l>Melcul prost, încetinel...</l>
+          <l>Din ungher adînc, un gînd</l>
+          <l>Îmi şoptea că melcul blînd</l>
+          <l>Subt mormînt de foi, pe-aproape,</l>
+          <l>Cheamă omul să-l dezgroape...</l>
+        </lg>
+        <lg>
+          <l>Şi pornii la scormonit</l>
+          <l>(Cu noroc, căci l-am găsit).</l>
+        </lg>
+        <lg>
+          <l>Era, tot, o mogîldeaţă:</l>
+          <l>Ochi de bou, dar cu albeaţă.</l>
+          <l>Între el şi ce-i afar'</l>
+          <l>Strejuia un zid de var.</l>
+          <l>"Ce să fac cu el aşa ?"</l>
+          <l>Vream să-l văd cum se dezghioacă,</l>
+          <l>Pui molatec, din ghioacă ;</l>
+          <l>Vream să-l văd cum iar învie</l>
+          <l>Somnoros din colivie...</l>
+        </lg>
+        <lg>
+          <l>Şi de-a lungul, pe pămînt,</l>
+          <l>M-aşezai ca să-l descînt :</l>
+          <l>"Melc, melc,</l>
+          <l>Cotobelc,</l>
+          <l>Ghem vărgat</l>
+          <l>Şi ferecat ;</l>
+          <l>Lasă noaptea din găoace,</l>
+          <l>Melc nătîng, şi fă-te-ncoace ;</l>
+          <l>Nu e bine să te-ascunzi</l>
+          <l>Subt păreţii grei şi scunzi ;</l>
+          <l>Printre vreascuri cerne soare,</l>
+          <l>Colţi de iarbă pe răzoare</l>
+          <l>Au zvîcnit, şi muguri noi</l>
+          <l>Pun pe ramure altoi.</l>
+          <l>Melc, melc,</l>
+          <l>Cotobelc,</l>
+          <l>Iarna leapădă cojoace,</l>
+          <l>Şi tu încă subt găoace !</l>
+          <l>Hai, ieşi</l>
+          <l>Din cornoasele cămăşi !</l>
+          <l>Scoate patru firişoare</l>
+          <l>Străvezii, tremurătoare,</l>
+          <l>Scoate umede şi mici</l>
+          <l>Patru fire de arnici ;</l>
+          <l>Şi agaţă la feştile</l>
+          <l>Ciufulite de zambile</l>
+          <l>Sau la fir de mărgărint</l>
+          <l>Îmbălatul tău argint...</l>
+        </lg>
+        <lg>
+          <l>Peste gardurile vii</l>
+          <l>(Colo-n vii),</l>
+          <l>Ori, de vrei, şi mai la vale,</l>
+          <l>Pe tarlale,</l>
+          <l>Hai, întinde brîu de bale... "</l>
+        </lg>
+        <lg>
+          <l>După ce l-am descîntat,</l>
+          <l>L-am pus jos,</l>
+          <l>Şi-am aşteptat...</l>
+          <l>Înserase mai de-a bine ;</l>
+          <l>Crengi uscate, peste mine,</l>
+          <l>Bîzîind la vîntul strîmb,</l>
+          <l>Îmi ziceau răstit din drîmb...</l>
+        </lg>
+        <lg>
+          <l>Năzdrăvana de pădure,</l>
+          <l>Jumulită de secure,</l>
+          <l>Pe furiş</l>
+          <l>Şi pitiş</l>
+          <l>Tot scurta din luminiş.</l>
+        </lg>
+        <lg>
+          <l>Din lemnoase văgăuni,</l>
+          <l>Căpcăuni</l>
+          <l>Îi vedeam pieziş</l>
+          <l>Cum cască</l>
+          <l>Buze searbăde de iască ;</l>
+        </lg>
+        <lg>
+          <l>Şi, vîrtoşi,</l>
+          <l>Ochi buboşi</l>
+          <l>Înnoptau subt frunţi pestriţe</l>
+          <l>De păroase</l>
+          <l>Şi bărboase</l>
+          <l>Joimariţe.</l>
+        </lg>
+        <lg>
+          <l>Şi cum stam subt vînt şi frig,</l>
+          <l>Frînt cîrlig,</l>
+          <l>Iscodind cu ochii treji</l>
+          <l>Mai în sus de brînă drumul</l>
+          <l>Unde seara ţese fumul</l>
+          <l>Multor mreji,</l>
+          <l>Pe subt vreascuri văzui bine</l>
+          <l>Repezită înspre mine</l>
+          <l>O guşată cu găteji.</l>
+        </lg>
+        <lg>
+          <l>Chiondorîş</l>
+          <l>Căta la cale ;</l>
+          <l>De pe şale,</l>
+          <l>Cînd la deal şi cînd la vale,</l>
+          <l>Curgeau betele tîrîş.</l>
+          <l>Iar din plosca ei de guşe</l>
+          <l>De mătuşe</l>
+          <l>Auzeai cum face "hîrrşi" ...</l>
+          <l>Plîns prelung, cum scoate fiare,</l>
+          <l>Plîns dogit,</l>
+          <l>Cînd vreun şarpe-i muşcă gheara,</l>
+          <l>Muget aspru şi lărgit,</l>
+          <l>De vuia din funduri seara...</l>
+        </lg>
+        <lg>
+          <l>Mi-a fost frică, şi-am fugit !</l>
+        </lg>
+        <lg>
+          <l>II</l>
+        </lg>
+        <lg>
+          <l>Toată noaptea viscoli...</l>
+          <l>În sat încă n-ajunsesem,</l>
+          <l>Că porni, duium, să vie</l>
+          <l>O viforniţă tîrzie</l>
+          <l>De Păresimi.</l>
+          <l>Vîntura, stîrnind gîlceavă,</l>
+          <l>Albă pleavă ;</l>
+          <l>Şi cădeau şi mărunţei</l>
+          <l>Bobi de mei...</l>
+          <l>(Ningea bine, cu temei).</l>
+        </lg>
+        <lg>
+          <l>În bordei,</l>
+          <l>Foc vîrtos mînca năprasnic</l>
+          <l>Retevei.</l>
+          <l>Pe colibă, singur paznic,</l>
+          <l>M-au lăsat c-un vraf de pene...</l>
+          <l>Eu... le culegeam alene ;</l>
+          <l>Moşul Iene</l>
+          <l>Tot venea de prin poiene,</l>
+          <l>Să-mi dea genele prin gene,</l>
+          <l>Şi, trudit,</l>
+          <l>Lîngă vatră prigorit,</l>
+          <l>Privegheam prelung tăciunii,</l>
+          <l>Umbre dese,</l>
+          <l>Ca păunii,</l>
+          <l>Îmi roteau prin hornul şui</l>
+          <l>Leasa ochilor verzui...</l>
+          <l>Şi-mi ziceam în gînd :</l>
+          <l>"Dar el,</l>
+          <l>Melcul, prost, încetinel ?</l>
+          <l>Tremură-n ghioacă, vargă,</l>
+          <l>Nu cumva vrun vînt să-l spargă ;</l>
+          <l>Roagă vîntul să nu-l fure</l>
+          <l>Şi să nu mai biciuiască</l>
+          <l>Bărbi de muşchi, obraji de iască</l>
+          <l>Prin pădure.</l>
+          <l>Roagă vîntul să se-ndure."</l>
+        </lg>
+        <lg>
+          <l>De la jarul străveziu,</l>
+          <l>Mai tîrziu,</l>
+          <l>Somnoros venii la geam.</l>
+          <l>(Era-nalt, nu ajungeam.)</l>
+          <l>Dar prin sticla petecită</l>
+          <l>Şi prin gheaţa încîlcită</l>
+          <l>Fulgera cînd des, cînd rar,</l>
+          <l>Prăpădenia de afar' ;</l>
+          <l>Podul lumii se surpase,</l>
+          <l>Iar pe case,</l>
+          <l>Pînă sus, peste colnic,</l>
+          <l>Albicioase</l>
+          <l>Şi foioase,</l>
+          <l>Cădeau cepi de arbagic.</l>
+        </lg>
+        <lg>
+          <l>Mi-adusei atunci aminte</l>
+          <l>C-auzisem mai-nainte</l>
+          <l>De o noapte între toate</l>
+          <l>Urgisită,</l>
+          <l>Cînd pe coate</l>
+          <l>Guri spurcate</l>
+          <l>Suflă vînt,</l>
+          <l>Să dărîme</l>
+          <l>Din pămînt?</l>
+          <l>Cînd pe un sloi, rupînd din pită,</l>
+          <l>Baba Dochia-nvălită</l>
+          <l>Cu opt sărici</l>
+          <l>Stă covrig,</l>
+          <l>Stă de-nghite</l>
+          <l>Şi sughite</l>
+          <l>Şi se vaicără</l>
+          <l>De frig.</l>
+          <l>Hei, e noapte-aceea, poate !</l>
+        </lg>
+        <lg>
+          <l>Înapoi</l>
+          <l>La fulgii moi,</l>
+          <l>Cumpenind a somn, pe coate,</l>
+          <l>Cu tot gîndul sus, la el,</l>
+          <l>Şoptii :</l>
+          <l>- Melc încetinel,</l>
+          <l>Cu n-ai vrut să ieşi mai iute !</l>
+          <l>Nici viforniţă, nici mute</l>
+          <l>Prin păduri nu m-ar fi prins?</l>
+          <l>Iar acum, cînd focu-i stins,</l>
+          <l>Hornul nins,</l>
+          <l>Am fi doi s-alegem pene,</l>
+          <l>Şi alene</l>
+          <l>Să chemăm pe moşul Iene</l>
+          <l>Din poiene,</l>
+          <l>Să ne-nchidă :</l>
+          <l>Mie gene,</l>
+          <l>Ţie</l>
+          <l>Cornul drept,</l>
+          <l>Cel stîng,</l>
+          <l>Binişor,</l>
+          <l>Pe cînd se frîng</l>
+          <l>Lemne-n crîng.</l>
+          <l>Melc nătîng,</l>
+          <l>Melc nătîng !</l>
+        </lg>
+        <lg>
+          <l>III</l>
+        </lg>
+        <lg>
+          <l>Dintre pene şi cotoare,</l>
+          <l>Gata nins,</l>
+          <l>Cum mijea un pic de soare</l>
+          <l>Pe întins</l>
+          <l>(În cîmpie</l>
+          <l>Colilie,</l>
+          <l>Războind cu lunecuşul ;</l>
+          <l>Şi pieziş</l>
+          <l>La povîrniş,</l>
+          <l>Din ţăpoi săltînd urcuşul),</l>
+          <l>Mă-ntorsei subt aluniş...</l>
+          <l>Şi-l zării lîngă culcuşu-i</l>
+          <l>De frunziş...</l>
+        </lg>
+        <lg>
+          <l>Era, tot, o scorojită</l>
+          <l>Limbă vînătă, sucită...</l>
+          <l>O nuia, ca un hengher,</l>
+          <l>Îl ţinea în zgărzi de ger !</l>
+          <l>Bale reci</l>
+          <l>(Aspre benţi ce se-ntretaie)</l>
+          <l>Sus, pe vreascurile seci,</l>
+          <l>Îl prindeau :</l>
+          <l>O frunză moartă, cu păstaie.</l>
+          <l>Şi pe trupul lui zgîrcit</l>
+          <l>M-am plecat,</l>
+          <l>Şi l-am bocit :</l>
+          <l>- Melc, melc, ce-ai făcut,</l>
+          <l>Din somn cum te-ai desfăcut ?</l>
+          <l>Ai crezut în vorba mea</l>
+          <l>Prefăcută... Ea glumea !</l>
+          <l>Ai crezut că plouă soare,</l>
+          <l>C-a dat iarbă pe răzoare,</l>
+          <l>Că alunu-i, tot, un cîntec...</l>
+          <l>Astea-s vorbe şi descîntec !</l>
+          <l>Trebuia să dormi, ca ieri,</l>
+          <l>Surd la cînt şi îmbieri,</l>
+          <l>Să tragi alt oblon de var</l>
+          <l>Între trup şi ce-i afar'...</l>
+          <l>Vezi ?</l>
+          <l>Ieşişi la un descîntec ;</l>
+          <l>Iarna ţi-a muşcat din pîntec...</l>
+          <l>Ai pornit spre lunci şi crîng,</l>
+          <l>Dar pornişi cu cornul stîng,</l>
+          <l>Melc nătîng,</l>
+          <l>Melc nătîng !</l>
+        </lg>
+        <lg>
+          <l>Iar cînd vrui să-l mai alint,</l>
+          <l>Întinsei o mînă-amară</l>
+          <l>De plîns mult...</l>
+          <l>Şi, dîrdîind,</l>
+          <l>Două coarne de argint</l>
+          <l>Răsucit se fărîmară.</l>
+          <l>Că e ciunt nu m-am uitat?</l>
+          <l>Ci, în punga lui de bale,</l>
+          <l>Cu-nsutite griji, pe cale</l>
+          <l>L-am purtat</l>
+          <l>Legănat :</l>
+          <l>Pungă mică de mătasă...</l>
+          <l>Iar acasă</l>
+          <l>L-am pus bine</l>
+          <l>Sus, în pod</l>
+          <l>(Tot lîngă mine),</l>
+        </lg>
+        <lg>
+          <l>Ca să-i cînt din cînd în cînd</l>
+          <l>Fie tare,</l>
+          <l>Fie-n gînd :</l>
+        </lg>
+        <lg>
+          <l>"Melc, melc,</l>
+          <l>Cotobelc,</l>
+          <l>Plouă soare</l>
+          <l>Prin fînaţuri şi răzoare,</l>
+          <l>Lujerii te-aşteaptă-n crîng,</l>
+          <l>Dar n-ai corn -</l>
+          <l>Nici drept,</l>
+          <l>Nici stîng ;</l>
+          <l>Sînt în sîn la moşul Iene</l>
+          <l>Din poiene ;</l>
+          <l>Cornul drept,</l>
+          <l>Cornul stîng...</l>
+          <l>Iarna coarnele se frîng,</l>
+          <l>Melc nătîng,</l>
+          <l>Melc nătîng !"</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

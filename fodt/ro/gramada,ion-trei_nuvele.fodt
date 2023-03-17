@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:title>Ion Gramada</dc:title><dc:subject/><meta:keyword/><dc:description/><meta:initial-creator>Trei Nuvele 10</meta:initial-creator><meta:creation-date>2013-08-28T19:21:00</meta:creation-date><dc:date>2022-11-14T16:55:41.814393192</dc:date><meta:editing-cycles>8</meta:editing-cycles><meta:editing-duration>PT2M21S</meta:editing-duration><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="22" meta:paragraph-count="294" meta:word-count="8603" meta:character-count="50180" meta:non-whitespace-character-count="41221"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">27728</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">36197</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17782</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16706</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3000</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">27728</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">36195</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">45508</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕゛゜ゝゞ・ヽヾ！％），．：；？］｝｡｣､･ﾞﾟ￠</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([\{£¥‘“〈《「『【〔＄（［｛｢￡￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">405563</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">1</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">405563</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Bookman Old Style" svg:font-family="&apos;Bookman Old Style&apos;, &apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Cambria" svg:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="7" style:class="text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.564cm" fo:margin-bottom="0.176cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#9bbb59" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Cambria" style:font-family-complex="Cambria" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="8" style:class="text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.564cm" fo:margin-bottom="0.176cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#9bbb59" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Cambria" style:font-family-complex="Cambria" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_9" style:display-name="Heading 9" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="9" style:class="text">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.564cm" fo:margin-bottom="0.176cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#9bbb59" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="italic" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-name-complex="Cambria" style:font-family-complex="Cambria" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Fără_20_spațiere" style:display-name="Fără spațiere" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Legendă" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard">
+   <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Listă_20_paragraf" style:display-name="Listă paragraf" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="true" fo:text-indent="0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Citat" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard">
+   <style:text-properties fo:color="#5a5a5a" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Cambria" style:font-family-complex="Cambria" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Citat_20_intens" style:display-name="Citat intens" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#4f81bd"/>
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="2.54cm" fo:margin-top="0.564cm" fo:margin-bottom="0.564cm" style:contextual-spacing="false" fo:line-height="125%" fo:text-indent="0.635cm" style:auto-text-indent="false" fo:background-color="#4f81bd" fo:padding-left="0.141cm" fo:padding-right="0.141cm" fo:padding-top="0.353cm" fo:padding-bottom="0.353cm" fo:border-left="4.51pt solid #4f81bd" fo:border-right="4.51pt solid #4f81bd" fo:border-top="1.5pt solid #b8cce4" fo:border-bottom="3pt solid #9bbb59" style:shadow="none"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Cambria" style:font-family-complex="Cambria" style:font-family-generic-complex="roman" style:font-pitch-complex="variable" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Titlu_20_cuprins" style:display-name="Titlu cuprins" style:family="paragraph" style:parent-style-name="Heading_20_1" style:next-style-name="Standard" style:default-outline-level="" style:list-style-name="">
+   <style:paragraph-properties fo:padding-left="0cm" fo:padding-right="0cm" fo:padding-top="0cm" fo:padding-bottom="0.035cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.5pt solid #365f91" style:shadow="none"/>
+   <style:text-properties fo:color="#365f91" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-asian="Times New Roman" style:font-family-asian="&apos;Times New Roman&apos;" style:font-family-generic-asian="roman" style:font-pitch-asian="variable" style:font-name-complex="Cambria" style:font-family-complex="Cambria" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="WW8Num1z0" style:family="text">
+   <style:text-properties style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="WW8NumSt1z0" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Font_20_de_20_paragraf_20_implicit" style:display-name="Font de paragraf implicit" style:family="text"/>
+  <style:style style:name="Titlu_20_1_20_Caracter" style:display-name="Titlu 1 Caracter" style:family="text">
+   <style:text-properties fo:color="#365f91" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_2_20_Caracter" style:display-name="Titlu 2 Caracter" style:family="text">
+   <style:text-properties fo:color="#365f91" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_3_20_Caracter" style:display-name="Titlu 3 Caracter" style:family="text">
+   <style:text-properties fo:color="#4f81bd" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_4_20_Caracter" style:display-name="Titlu 4 Caracter" style:family="text">
+   <style:text-properties fo:color="#4f81bd" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_5_20_Caracter" style:display-name="Titlu 5 Caracter" style:family="text">
+   <style:text-properties fo:color="#4f81bd" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_6_20_Caracter" style:display-name="Titlu 6 Caracter" style:family="text">
+   <style:text-properties fo:color="#4f81bd" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_7_20_Caracter" style:display-name="Titlu 7 Caracter" style:family="text">
+   <style:text-properties fo:color="#9bbb59" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_8_20_Caracter" style:display-name="Titlu 8 Caracter" style:family="text">
+   <style:text-properties fo:color="#9bbb59" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_9_20_Caracter" style:display-name="Titlu 9 Caracter" style:family="text">
+   <style:text-properties fo:color="#9bbb59" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="italic" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlu_20_Caracter" style:display-name="Titlu Caracter" style:family="text">
+   <style:text-properties fo:color="#243f60" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="30pt" fo:font-style="italic" style:font-size-asian="30pt" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Subtitlu_20_Caracter" style:display-name="Subtitlu Caracter" style:family="text">
+   <style:text-properties style:font-name="Calibri" fo:font-family="Calibri" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Fără_20_spațiere_20_Caracter" style:display-name="Fără spațiere Caracter" style:family="text"/>
+  <style:style style:name="Citat_20_Caracter" style:display-name="Citat Caracter" style:family="text">
+   <style:text-properties fo:color="#5a5a5a" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Citat_20_intens_20_Caracter" style:display-name="Citat intens Caracter" style:family="text">
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" fo:background-color="#4f81bd" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Accentuare_20_subtilă" style:display-name="Accentuare subtilă" style:family="text">
+   <style:text-properties fo:color="#5a5a5a" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Accentuare_20_intensă" style:display-name="Accentuare intensă" style:family="text">
+   <style:text-properties fo:color="#4f81bd" loext:opacity="100%" fo:font-size="11pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Referire_20_subtilă" style:display-name="Referire subtilă" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#9bbb59" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Referire_20_intensă" style:display-name="Referire intensă" style:family="text">
+   <style:text-properties fo:color="#76923c" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#9bbb59" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Titlul_20_cărții" style:display-name="Titlul cărții" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Cambria" fo:font-family="Cambria" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="italic" fo:font-weight="bold" style:font-name-asian="Times New Roman" style:font-family-asian="&apos;Times New Roman&apos;" style:font-family-generic-asian="roman" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-family-complex="&apos;Times New Roman&apos;" style:font-family-generic-complex="roman" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="WW8Num1" text:consecutive-numbering="true">
+   <text:list-level-style-number text:level="1" text:style-name="WW8Num1z0" loext:num-list-format="*" style:num-suffix="*" style:num-format="1" text:start-value="0">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Fără_20_spațiere">
+   <style:text-properties style:font-name="Bookman Old Style" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Bookman Old Style"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Fără_20_spațiere">
+   <style:text-properties style:font-name="Bookman Old Style" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-size="36pt" style:font-size-asian="36pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-size="20pt" fo:font-style="italic" style:font-size-asian="20pt" style:font-style-asian="italic"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Bookman Old Style" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Bookman Old Style" fo:font-size="12pt" style:font-name-asian="Bookman Old Style" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.004cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.004cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.002cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.002cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.005cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="-0.002cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.007cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="0.007cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Bookman Old Style" fo:font-size="12pt" fo:letter-spacing="-0.004cm" style:font-size-asian="12pt" style:font-name-complex="Bookman Old Style" style:font-size-complex="14pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.499cm" fo:margin-bottom="2.499cm" fo:margin-left="2.499cm" fo:margin-right="2.499cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="36" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.388cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Author">Ion Grămadă</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Trei nuvele</text:h>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">O noapte de groază</text:h>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Amândoi păşeam domol, braţ la braţ, privind cum se lungesc, împrejurul nostru, umbrele înserării peste ogoarele dogorâte ale toamnei, şi vorbeam despre toate, despre ştiinţă, despre literatură, dar, mai ales, despre ce puteau vorbi doi studenţi la vârsta noastră: despre dragoste. Poate era şi taina înserării de vină, căci glasurile ne tremurau. Prin văzduh treceau cârduri de raţe sălbatice spre iazurile din apropiere, ca să se culce în păpurişul ce foşnea în bătaia vântului de seară, iar dinspre Suceava se auzea tocând şi trăgând clopotele.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dar gândurile noastre luară alt curs, căci, deodată, răsări înainte-ne, de după sprânceana dealului, o turlă de biserică, a cărei cruce scânteia în focul asfinţitului: era mănăstirea Hagigadar, ce se ridică stingheră în mijlocul câmpului, drept în vârful unei uriaşe movile de pământ. Am hotărât să o vizităm, cu toate că era cam târziu, şi, de aceea, am intrat în ogradă, unde nu ne-a ieşit nimeni înainte, deşi uşa de la una din cele două chilii era deschisă larg şi un câine dormea întins pe prag.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ca să dăm peste vreun suflet de om, ne-am uitat şi peste zid, în vale, unde se auzea larmă de glasuri: păzitorul schitului culegea, acolo, merele din pomătul ce se întindea pe coastă până la mijlocul zidului. O fetiţă de vreo cincisprezece ani urca dealul cu coşul plin de mere galbene şi roşii şi, cum ne zări, rămase locului uimită, puse coşul pe jos şi strigă după cineva, în vale.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>La chemarea ei, urcă dealul păzitorul armean al schitului, împreună cu două „cucoane” şi o slugă. Le-am dat tuturor „bună vremea” şi le-am spus că vrem să vedem mănăstirea şi chiliile, deşi nu mai locuiesc, acum, călugăriţele întrânsele.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Măcar că eram străini, am fost primiţi foarte cumsecade: ne-au adus scaune să şedem şi ne-au servit câte-o dulceaţă şi pere galbene, ce ni le adusese copilita cea cu ochii negri. Cu tot întunericul înserării, am mai zăbovit puţin ca să întrebăm cine au fost ctitorii mănăstirii şi de când nu mai trăiesc călugăriţe întrânsa. Am aflat multe despre fosta mănăstire de călugăriţe armence, la care peregrinează, şi acum, o mulţime de armeni, mai ales femei, din pricina icoanei făcătoare de minuni, care se află înlăuntrul bisericii.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Prietenul meu, care citise, în tinereţe, o mulţime de romane haiduceşti, îl întreabă pe păzitorul schitului ori de nu îi e frică aici, în mijlocul câmpului, aşa de departe de locuinţe omeneşti. Răspunse „cucoana Aneta”, una din cele două femei, care era mai în vârstă şi se vedea că-i din România după vorba cea înţepată, dar, mai ales, după mâncărimea de limbă ce avea, că, uneori, vin şi pe acolo oameni răi, dar că toţi cei din mănăstire au fost apăraţi de icoana Maicii Domnului cea făcătoare de minuni.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Odată, am avut chiar eu o întâmplare, ne povesti cucoana Aneta, în tinereţile mele, şi anume în chilia asta, ce-o vedeţi înaintea dumneavoastră. Pe </text:span><text:soft-page-break/><text:span text:style-name="T3">vremea aceea, eram fată mare şi-mi trăiau încă părinţii şi fraţii. E mult de atunci, şi totuşi, îmi aduc aşa de bine aminte de toate amănuntele, de parcă s-ar fi întâmplat ieri-alaltăieri</text:span><text:span text:style-name="T5">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Era după Crăciun şi afară se pusese o iarnă grea, cum nu se mai pomenise de multă vreme. Într-o zi, numai ce văd că vine la noi, la Suceava, frate-meu, Ovanes, care locuia aici, la mănăstire. Vine, zic, şi mă cheamă să stau vreo săptămână cu băieţii lui, la mănăstire, şi să dau seama de chilii, că el merge cu soţia în România, la Panciu, la celălalt frate mai mare, Garabet, care ţinea han acolo. Voia să fie la cununia fetei lui Garabet, Nataliţa, iar, după o săptămână, avea să se întoarcă. Eu încă m-aş fi dus bucuroasă, mai ales că, la urmă, se hotărâră şi părinţii mei să meargă la nunta lui Garabet, pe care nu-l văzuseră de multă vreme; ei însă începură să-mi vorbească despre iarna cea grea, de drumurile rele şi de guturai, aşa de stăruitor, încât am rămas acasă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>La început, am plâns niţel, dar m-am ogoit îndată, căci vedeam bine că mănăstirea nu putea să rămână aici, în mijlocul câmpului, pustie, fără suflet de om pe lângă dânsa, şi, de aceea, de voie, de nevoie, m-am înduplecat, cu atât mai mult că părinţii aveau să-1 aducă, la întoarcere, pentru vreo câteva zile, şi pe logodnicul meu din Panciu, cu numele Cristea Manea.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nepoţii mei erau mici, abia răsăriţi: băiatul, de vreo zece, iar copila -de vreo opt ani.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ovanes mi-a dat toate cheile cămărilor pe mână, şi m-a sfătuit să închid, de cu vreme, uşa, îndată ce-a prinde a însera.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>La mănăstire, mai era şi o slugă bătrână, un surd, care căra apă, tăia lemne şi îngrijea două vaci. Cum vedeţi, mănăstirea, înconjurată cu ziduri înalte, e cocoţată pe vârful unui deal, în mijlocul câmpului, şi, pentru că înăuntru nu sunt, acum, călugăriţe – ca pe vremuri, nu prea abate nimeni pe aici. Iarna, însă, când viscoleşte şi drumurile sunt astupate de troiene, nu zăreşti ţipenie de om primprejur, aşa-i de pustiu locul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dar mă dedasem cu urâtul: peste zi, hrăneam galiţele, spălam şi hrăneam copiii, făceam mâncare, mai coseam la gherghef şi mă gândeam la nunta de la Panciu şi la logodnicul care avea să vină să mă vadă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Fricoasă nu eram din cale-afară, dar, totuşi, nu-mi era oarecum îndemână, mai ales îndată ce cădea noaptea, când începea să se audă, împrejurul zidurilor, urletul jalnic al haitelor de lupi, ce ieşiseră la drumul mare din pricina iernii celei grele. Ştiam că peste zid n-au să sară, iar porţile erau încuiate şi, de aceea, după ce culcam copiii, mă răzimam cu spatele de soba fierbinte şi citeam nişte cărţi sfinte, până ce mă pălea somnul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În cea din urmă seară, însă, după ce-am căutat ori de-s porţile închise şi după ce-am pus sluga să-mi aducă ap?ă şi lemne în casă, am încuiat, cam devreme, uşa cu zăvorul, am tras parul de-a curmezişul şi mi-am luat, apoi, colţunul să împletesc.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Pe slugă am trimis-o să se culce în grajd.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cina o luasem de cu vreme, încă pe când se zărea afară. Copiii nu dormeau, ci se jucau prin casă cu un cal de lemn, înţepenit pe roate, pe care-l puneau să-1 tragă mâţa.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Stam aşa, pe gânduri, şi împleteam, ascultând cum turbă viscolul, căci se pornise, după ce a înnoptat, o viforniţă straşnică, de nu se vedea lumea. În vuietul vântului, auzeam glasuri ciudate: parcă sunau clopote dogite, poate erau şi glasuri slabe de oameni rătăciţi, cine mai ştie! căci vântul de iarnă uşor îţi înşeală auzul. Am tras perdelele la fereşti şi mă gândeam ce mi-or aduce, a doua zi, părinţii de la nuntă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Într-un târziu, deodată, începe câinele să hămăiască aşa de furios de gândeai că se sfarmă. Mie mi se tăiară, atunci, picioarele de pe la genunchi şi-mi îngheţă inima de frică. Copiii se ghemuiră într-un cotlon, lângă sobă, cu ochii mari şi cu buzele deschise, aproape-aproape să înceapă a plânge.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Mă dau, încet, lângă fereastră şi ascult, lângă zid, cu urechea şi cel mai mic zgomot din ogradă, ca să pot desluşi ce este.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Viforniţa se potolise şi, acum, strălucea, afară, luna.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Gangul începu să trosnească şi, îndată, auzii bocănind paşi de om. De bună seamă, sunt hoţi, iar sluga doarme dusă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Trosc! trosc! Făcea omătul călcat de ciubote.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Sunt mai mulţi! îmi zic eu.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Începură să vorbească şi unul merse la uşă, încercând să o deschidă. Gândul că poate am uitat uşa descuiată mă înlemnise de spaimă! Numai cu mare greu, nici nu ştiu cum, m-am târât, pe lângă perete, în tindă şi am pipăit zăvorul: era tras! Parcă-mi veni inima la loc, căci uşa era de stejar vârtos, bătută cu ţinte, şi avea, de-a curmezişul, pus un par, iar fereştile erau întărite cu gratii groase. Înainte de a merge la uşă, slăbisem aşa de tare, întocmai ca şi când visezi că cineva vrea să te omoare şi tu nu poţi fugi, nici striga, căci parcă te-năduşi, iar picioarele ţi-s grele ca de plumb. Am vrut şi eu să strig, dar puteam să bag copiii în boli şi, apoi, cine m-ar fi auzit în pustietatea asta? Câinele mănăstirii, însă, un câine ciobănesc mare şi flocos, pe care-l dezlegam noaptea, nu-şi afla loc, acum, aşa lătra şi se zbătea, sărind să rupă tâlharii din gang, pe care-i auzeam cum se apără suduind.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Sluga, şi aşa surdă, dormea somnul drepţilor în grajdul vitelor, pe care îl încuiase cu grijire de cu seară.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eram singur? numai cu Dumnezeu.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Da&apos; dă-i un ciomag şi astupă-i gura! zise, mânios, unul dintre ei.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi, deodată, începu câinele să schelălăiască aşa de dureros ca şi cum l-ar fi înjunghiat cineva. De aceea, nu se mai apropia de hoţi, ci scheuna întruna pe un ton plângător, în mijlocul ogrăzii mănăstirii, împlând valea de groază. Copiii plângeau şi ei speriaţi, de nu-i puteam ogoi, iar eu am avut încă destulă vreme să sting lampa.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Am culcat copiii ce plângeau în pat, m-am pus lângă dânşii, plângând şi eu în tăcere, iar ei, bieţii, mă cuprinseseră de după gât, ţipând:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Ţaţă! ţaţă, nu ne lăsa</text:span><text:span text:style-name="T7">…</text:span><text:span text:style-name="T3">!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Tot mai aveam nădejde că nu vor putea intra în casă, dar, când începură să izbească cu topoarele în uşă, inima mi se făcu cât un purice de mică şi mai că încetă să zvâcnească de spaimă. Pe frunte, îmi curgea sudoarea în şiroaie reci şi tremuram ca varga: aşa o noapte n-am mai petrecut în viaţa mea!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Afară, topoarele trosneau tot mai des, tot mai înfuriat, ameninţând să facă uşa ţăndări, iar eu tresăream la fiecare lovitură ca şi cum ar fi izbit în inima mea.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Văzând că uşa e prea tare, hoţii se apucară de gratiile fereştii ca să le îndoaie, dar nici aici n-au isprăvit nimic. Într-un târziu, conteniră: păreau că mai răsuflă. Nu se auzea nimic afară, decât doar schelălăitul câinelui, care se ascunsese undeva, după grajd.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Tâlharii începură să vorbească iarăşi şi să suduie groaznic, lovind din nou cu muchia toporului în uşă. Erau, însă, cele din urmă izbiri, căci îndată se auziră bocăniturile ciubotelor şi omătul trosnind pe gang.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Se îndepărtară.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>De acolo, din pat, căutam să prind cu urechea trosnetul paşilor ca să ştiu în ce parte se îndreaptă, dar din pricina omătului celui gros, n-am putut.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cât voi fi stat aşa, nu ştiu, dar, de la o vreme, nemaiauzind nimic, mă furişai încet pe lângă pereţi şi trasei un chibrit pe perete ca să văd câte ceasuri sunt şi ori de mai este mult până la ziuă, care parcă n-are să se mai zărească.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ceasornicul stătuse din mers, iar arătătorul arăta un ceas şi un sfert după miezul nopţii. Cine ştie când va fi încetat să meargă!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Târându-mă pe lângă perete, am ajuns la o fereastră şi am ridicat, încet, un colţ de perdea: afară, era o lună de vedeai ca ziua, iar în ograd?ă nu se auzea, nici nu se vedea nimic, afară de câine, care trebuie să fi fost stâlcit rău, căci scheuna mai departe.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>M-am întors în pat şi-mi făcui fel de fel de planuri.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Unde or fi hoţii acum? Ce vor fi făcând?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Câteodată, căutam să-mi fac fire şi-mi ziceam că vor fi trecut, poate, zidul şi se vor fi pierdut în noapte, apoi iarăşi mă întorceam şi mă frământam cu gândul să nu fi luat vacile din grajd sau poate că s-au urcat pe casă, spre a intra pe horn înlăuntru. Un gând nebun, de altfel, atunci, însă credeam că se poate şi aşa ceva şi, de aceea, răscolii repede focul din vatră, unde mai găsii puţin jăratic şi începui să pun pe foc vârtos. Era şi frig în casă, acum, dar mă gândeam, în mintea mea înspăimântată, că prin fum nu se vor putea coborî în casă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Copiii adormiseră cu încetul. Tăcerea cea moartă a odăii mă înfiora şi mai tare decât hoţii şi, de aceea, mişcai ceasornicul ca să ştiu măcar ceva viu şi treaz în casă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ascultam!…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Gândul că mă aflu aşa departe de fiinţe omeneşti, cu viaţa în mână, în mijlocul unui câmp pustiu, mă îngrozea din ce în ce mai mult.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Lemnul trosnea în sobă, ceasornicul ticăia şi, odată cu căldura ce creştea în odaie, îmi venea pe-ncetul şi inima…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Aşa am vegheat toată dimineaţa aceea, iar când se vedea bine afară, aud zăngănitul vesel al clopoţeilor de la o sanie şi, de bucurie, sar la fereastră să văd ce-i. Nu se zărea încă nimic, dar sunetul de clopoţei stăruia, apropiindu-se. De bună seamă, se întorceau cei de la Panciu, care vor fi trecut prin vama de la Buneşti.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Am deschis, cu mare băgare de seamă, uşa, uitându-mă primprejur cu frică şi am trimis sluga să deschidă poarta. Săniuţele se repeziră în ogradă şi, dintr-însele, îmbrobodiţi în blănuri groase, se scoborâră părinţii, frate-meu cu soţia şi logodnicul meu.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Când m-au zărit, au rămas ca trăsniţi. Nu ştiam de ce, dar, uitându-mă, apoi, în oglindă, am priceput care-i pricina spaimei lor: faţa-mi era suptă şi galbenă ca ceara, ochii – roşii de nesomn şi duşi în fundul capului, iar pe tâmple îmi răsăriseră o mulţime de peri albi.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Mă mir că nu mi-am pierdut minţile de frică, dar, după aceea, a trebuit să zac la pat patru săptămâni încheiate şi, din pricina asta, nici nunta n-am putut să o fac în câşlegile acelea…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Pe aici, n-am mai fost de multă vreme şi, dacă am venit acu&apos;, în toamna asta, am făcut-o pentru că am voit să-mi văd neamurile din Suceava şi locurile unde mi-am petrecut tinereţile</text:span><text:span text:style-name="T5">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Se întunecase de-a binelea când ne-am sculat să plecăm, mulţumind „cucoanei” pentru povestire, iar celei din loc – pentru primirea frumoasă, cu toate că eram numai nişte străini.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Păzitorul mănăstirii, împreună cu sluga, căra poamele din vale, iar ca să vadă pe unde urcă, fetiţa cea mică le ţinea lampa, răzimată fiind de zid.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Mergeam repede, dar tăcuţi, spre oraş, uitându-ne, din când în când, înapoi, spre mănăstire.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Blânda lumină a lămpii ce rănea întunericul stărui încă multă vreme acolo, devenind din ce în ce mai mic?ă, până ce se stinse cu totul ca o picătură de foc în marea de întuneric a nopţii.</text:span></text:p>
+   <text:p text:style-name="Trailer"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>(Călindarul poporului Bucovinean, 1911, apud Cartea sângelui, ed. Muşatinii, Suceava, 2002, pp. 118-124.)</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">În Abbiategrasso</text:h>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În seara zilei de 3 iunie 1859, se aşezase batalionul nostru de vânători ardeleni nr. 23, împreună cu brigada Hartung, în Abbiategrasso, un sat mic, nu departe de Magenta. Noi, câţiva ofiţeri şi vreo treizeci de soldaţi, aveam să rămânem în ogradă la signor Vacano. Parcă-1 văd şi acum, cu comanacul pe-o ureche, barba stufoasă, sură şi cu lulea în colţul gurii; toată vremea zâmbeşte fericit, poveste întâmplări din viaţa lui şi ne tratează cu tabac de nas dintr-o tabacheră veche de mesteacăn. Şi, dacă unul strănută, el îl bate prieteneşte pe umăr, închide şiret dintr-un ochi şi ne întreabă la cine am gândit.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Casa morarului era o clădire mare, veche şi zidită în stil şviţerean; jos era moara, iar în rândul de sus locuia signor Vacano. În seara aceea, el şedea pe trepte, cu soţia sa, signora Giulia, o femeie puţintică la trup, dar încă frumoasă la vârsta ei: să fi avut vreo patruzeci de ani. El fuma, răzimat cu un cot pe genunchi, şi privea la roata morii dus pe gânduri; ea dezghioca mazăre în poală şi alunga, din vreme-n vreme, găinile de dinaintea lui.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În ogradă ardeau focuri vioaie: soldaţii îşi fierbeau mâncarea în căldări.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Prin amurgul vioriu, se zărea satul Abbiategrasso într-o pâclă deasă: din hogeaguri ieşea fum, femei şi fete spălau cămăşi la pârâu şi, pe malul verde, păşteau cai împiedicaţi. Câte un sunet răzleţ de goarnă se clătina pe deasupra satului.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nemişcată pluteşte secera palidă a lunii peste valea lui Naviglio Grande şi noaptea adâncă înfăşură satele ca o mână uriaşă a morţii ce acoperă totul. Numai de departe, dinspre Magenta, se aud pârâituri de puşti, ce mor în răstimpuri şi în răstimpuri învie iarăşi, slabe, tremurătoare, ori tunurile bubuie înfundat.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Din ogradă, se uită soldaţii spre asfinţit, unde se încolăcesc flăcări uriaşe şi ard satele, şi un miros de fum greu, înăbuşit, pătrunde până la noi. Ici şi acolo, se aude zuruit surd de arme: sunt coloane de marş ce-şi caută posturile. Dar, încetul cu încetul, se face linişte, o linişte adâncă, înfiorătoare, ce prevesteşte o catastrofă groaznică: întocmai ca liniştea cea moartă, înaintea unui orcan…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În umbră, abia zăresc faţa lui signor Vanco.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Doamne, cum se schimbă şi omul! Cum era bătrânul înainte şi cum îi acum! Când l-am rugat, mai înainte, să ne îngăduie să rămânem la moară, el s-a sculat binişor în picioare, a băgat o mână în buzunarul pantalonilor, iar cu cealaltă a luat pipa din gură, a scuipat de mai multe ori şi ne-a măsurat cu privirile din creştet până-n tălpi, fără să rostească o vorbă. Ochii lui negri, focoşi, îi jucau mereu în cap, sub sprâncenele stufoase.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— S-a mâniat piemontezul, măi frate! zise un soldat de al nostru. Atunci, faţa lui signor Vacano se lumină, deodată, şi ochii cei negri deveniră blânzi, de nerecunoscut.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Signorii-s italieni, aşa-i? ne întrebă, întinzându-mi mâna.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nu, noi suntem din Ardeal, îi răspunsei eu în italieneşte.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Nuuu! Signorii-s italieni, dar nu vor să spună</text:span><text:span text:style-name="T9">…</text:span><text:span text:style-name="T3"> Vă trădează limba. Dacă sunteţi italieni, vă primesc, de ce nu?!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Noi am tăcut, mulţumiţi fiind cu explicaţia lui signor Vacano. Apoi, el îşi duse mâinile la gură şi strigă tare, de vreo două ori:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Giacomo!… Giacomo!…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Din moară ieşi un servitor, cu mânecile suflecate.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Giacomo, adă scaune pentru signori, căci signorii-s italieni din Austria!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi, întorcându-se către noi, ne zice râzând:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Italieni, numai… mai corciţi</text:span><text:span text:style-name="T10">…</text:span><text:span text:style-name="T3">!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Noi, toţi câţi ştiam limba italiană, am izbucnit în râs.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Acum, eu şed pe scaun şi-1 înfăşor cu privirile pe signor Vacano. El îşi scutură luleaua de scrum şi şi-o umple, iarăşi, cu tabac. Toată vremea, îi joacă pe buze râsul cel ştrengăresc, care-i stă aşa de bine, mai ales că are comanacul pe-o ureche şi luleaua-n colţul gurii, de parcă-ar zice:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Pe moş Vacano nu-l înşelaţi cu una, cu două!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi, ca şi cum i-aş fi ghicit gândul, îl întreb aşa, în şagă:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ei, ce suntem noi, signore?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Na, apoi italieni din Lombardia, ori din altă parte, căci Italia-i mare, nu-i aşa?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Degeaba încercăm noi să-1 încredinţăm că suntem români din Ardeal, el rămâne la vorba lui.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Câteodată, ascultă la vorbele soldaţilor ce au aprins focuri şi pregătesc mâncare, apoi se bate cu mâna pe genunchi şi zice:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Ce vă spuneam eu?! Pe Vacano nu-l înşelaţi!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Vreo doi ofiţeri se duc la iazul morii ca să se spele pe faţă de colb şi sudoare. Soarele asfinţise de mult; în vale, deasupra satului, pluteşte fumul albăstriu. O transmontana îmi răcoreşte obrajii arşi de soare şi cât de bine îmi prinde răcoarea asta după un marş obositor de o zi întreagă! Dinspre grajd, vine o fată tânără cu o doniţă de lapte; faţa-i îmbrobodită cu o basma albă până aproape de urechi. Un vânător ardelean o opreşte şi o întreabă nu ştiu ce. Ea stă locului şi-i răspunde ceva în limba ei, de care ceilalţi vânători râd.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cine să fie fata asta zveltă? Uite cum dispare în gang!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dinspre iazul morii vin ofiţerii, vorbind veseli între ei şi ştergându-se pe mâini cu batistele.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cum îi vede, morarul pleacă capul pe spate şi strigă în sus:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Giovannina, adă un ştergar pentru signori!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Fata de mai înainte aduce un ştergar, îi dă drumul în jos şi dispare în întuneric.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Asta-i Giovannina, fiica mea. Cât e de sperioasă! şi-şi şterse cu dosul mâinii mustăţile-i ţepoase. Signori, în astă-seară cinăm împreună! Du-te, Giulia, şi pregăteşte cina mai repede! Signorii-s italieni, oameni de-ai noştri, Giulia!…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Signora Giulia strânse boabele de mazăre în pestelcă şi urcă sprintenă treptele.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Vacano era vorbăreţ şi petrecător de-a mai mare dragul. Ne-a povestit că el nu-i din Abbiategrasso, ci din Anzio, de lângă mare, unde tatăl său era pescar. A fost de multe ori chiar şi la Roma, când tatăl său încărca două coşuri de peşte pe-un catâr şi-1 vindea la piaţă. În Anzio, are neamuri multe, ba chiar şi în Monte Albano. În tinereţe, când a crescut mai mare, a cutreierat toată Italia, purtând negoţ cu jucării. Şi-n Abbiategrasso a întâlnit-o pe signora Giulia, fata avută a unui morar.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>El tăcu şi se uită spre biserica ce se zărea, departe, în lumina lunii. Roata greoaie a morii nu se mai mişca; se auzea numai clipocitul apei şi freamătul chiparoşilor sprinteni, întunecaţi, adevăraţi copaci ai morţii. De altfel, era linişte şi un miros de răşină umplea aerul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi, cum stăteam noi aşa tăcuţi, auzirăm, deasupra noastră, vocea signorei Giulia, care ne chemă la masă. Urcăm treptele, până ce dăm de cerdacul învelit în viţă sălbatică. În cerdac e aşezată masa, iar de sus, din tavan, atârnă lampa.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ce fericită idee de a cina în cerdac, unde-i aşa de răcoros şi unde Transmontana se joacă cu frunzele!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eu stau faţă în faţă cu Giovannina şi-i privesc gropiţa din bărbie, ochii, ciudaţii ochi, şi buzele ce par tăiate cu un pumnal. Ea ţine privirile pironite-n pământ şi rar când rosteşte câte o vorbă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ochii! Bată-i pârdalnicul de ochi, că-s prea neastâmpăraţi, când îi ridică în sus! Când râd, când devin serioşi nevoie-mare, însă aşa de comici că mai că mă păleşte râsul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ciudată fată!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Un ardelean povesteşte de ţara noastră, despre români şi despre traiul lor, iar signor Vacano ascultă cu luare aminte, le crede pe toate, afară de punctul unde-i vorba că suntem români, şi, de bucurie, îi şopteşte lui Giacomo, la ureche, să aducă vin de Genzano.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Hm! Iar m-a furat Giovannina cu privirea. Eu o întreb dacă a fost la Roma. Ea îmi răspunde că da, apoi îmi povesteşte cum a călătorit cu unchiul ei, Fra Sebastiano, un călugăr capucin, prin Monte Albano până la Anzio. Mergeau la neamuri, ea – călare pe catâr, iar el pe jos. Acolo, la Anzio, a văzut marea.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cu câtă însufleţire nu-mi povestea ea despre mare, despre albastra şi nemărginita mare de la Anzio! Şi câte flamuri, câte petreceri şi cântări nu se află la Anzio, un adevărat cuib de rai!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eram răpit de povestirea şi de frumuseţea ei. În lumina lămpii, îl zării pe Giacomo venind cu vinul. Vacano ne turnă vin în păhărele. Minunat vin e vinul de Genzano! Cum ni s-au deschis inimile la toţi!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Signora Giulia se îndreaptă către bărbatu-său şi zice:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cât de bine seamănă signorino cu Girolamo! Numai mie îmi ziceau signorino, de ce, nu ştiu.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ce zici, Vacano, aşa-i că-i adevărat? Vacano nu zise nimic, ci aftă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Da, mamă, mai ales la ochi, curat ochii lui Girolamo, şi gura, chiar şi </text:span><text:soft-page-break/><text:span text:style-name="T3">râsul, ţi se pare că aduce lumină în casă, când râde, zise Giovannina, sorbindu-mă cu ochii.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eu parcă căpătăm aripi şi mă înălţăm încetişor spre cer. Căpitanul Pavel cuteză că întrebe:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Unde-i Girolamo acum? Trăieşte?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>A murit în lupta de la Mortara, când cu Radeţchi! fu răspunsul scurt, abia şoptit.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Să bem vin, signori, căci vinul de Genzano alungă grijile şi-ţi înveseleşte inima! zise Vacano, umplând paharele, pe rând.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ei, signorino, poate semeni cu Girolamo şi poate eşti frumos, însă nu eşti ca dânsul! Să-1 fi văzut pe el, mai ales la joc, înaintea osteriei, cum juca de frumos, de venea lumea din împrejurime să se uite la el! Beţi, signori, vin, ce vă uitaţi la mine?! Ce-am rămas eu acum? Un moşneag fără sprijin la bătrâneţe! Giovannina, adă-ţi mandolina şi ne cântă ceva! Să vedeţi, signori, cum cântă de frumos Giovannina!…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Fata aduse mandolina, se puse pe un scaun şi stârni câteva acorduri, neştiind cu ce să-nceapă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Cântă-ne ceva din gură, şi acompaniază-te de mandolină!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ea plecă puţin capul pe umăr, se uită aşa, în deşert, ca şi cum şi-ar aminti ceva, apoi îşi pironi ochii ei de foc într-ai mei şi începu un cântec vechi italian:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Noz son rose senza spine</text:span><text:span text:style-name="T6">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nu sunt roze fără spini</text:span><text:span text:style-name="T11">…</text:span><text:span text:style-name="T3"> O melodie moale, ce-ţi răpeşte minţile, şi cuvinte îndrăzneţe, pline de patimă. Toţi încremenirăm cu paharele în mâini: era vorba de bucuriile lumeşti, care trebuie să aibă, odată, capăt; ne iubirea nevinovată, fermecătoare, după care vine uitarea ce s-aşterne ca o pulbere peste toate.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi ne gândim la noi, cum am fost smulşi din mijlocul fraţilor şi surorilor, din mijlocul celor ce ni-s dragi, şi-am plecat în război să ne putrezească trupurile în ţări străine, departe de căminul părintesc.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi, la urma fiecărei strofe, se repetă refrenul: Non son roze senza spine. Refren abia şoptit, ca în suspine.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Printre frunze, pătrunde luna liniştită, maiestuoasă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Încă vreo câteva zdrăngăniri uşoare, apoi tăcere.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Am ciocnit cu toţii paharele, într-un sunet scurt, ascuţit, şi le-am deşertat dintr-o dată, căci inimile erau îndurerate.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Căpitanul Pavel se sculă în picioare şi ţinu următorul toast:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Camarazi! Simt, parcă, că n-am să mă întorc acasă, dar voi să-mi salutaţi iubita din parte-mi, ştiţi voi care</text:span><text:span text:style-name="T10">…</text:span><text:span text:style-name="T3"> Şi</text:span><text:span text:style-name="T10">…</text:span><text:span text:style-name="T3"> i…a aşa-i viaţa: non son roze senza spine… Să vă trăiască iubitele, puilor!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Tuturor li se umeziră ochii, numai căpitanul Pavel se uita în deşert şi părea că nu gândeşte la nimic.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Signor Vacano voia să ne înveselească şi ne pofti să cântăm şi noi ceva, doar ne-ar trece supărarea. Ca prin minune se îndreptară privirile tuturor spre căpitanul Pavel.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Ce vreţi, puilor, să vă cânt eu ceva? Bine, numai să mă acompanieze Giovannina cu mandolina…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi el cântă cu o voce puternică, de tenor, cântecul:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Măi bădiţă din Ardeal Unde creşte grâul rar Şi iarba numaipodbal</text:span><text:span text:style-name="T12">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Când sfârşi, un ropot de aplauze făcu să răsune cerdacul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Atunci, se sculă un cadet, tânăr şi subţire de părea tras prin inel: părul şi-1 purta pieptănat cu cărare, şi pieliţa feţei era albă ca ghiocelul. Abia putea ţine paharul în mână de emoţie şi zise cu voce tremurătoare:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Să trăiască Ardealul!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ne-au podidit lacrimile, care curgeau din belşug pe obraz la vale. Chiar şi mustăţile căpitanului Pavel străluceau de lacrimi.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Pe uşă îşi grămădeau soldaţii capurile şi priveau cu ochii roşii de plâns.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ce-i, mă, cu voi? îi întreb eu.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Păi dă, domnule locotenent, am vrut să ascultăm şi noi cântecul, răspunseră ei, ducându-şi mâna la chipiuri.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ei, dar ce-i cu ochii de-s aşa roşii?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Poate de colb, domnule, căci azi era prăpădenie, aşa sufla vântul…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Afară-i o noapte caldă, o noapte dumnezeiască! Clară şi plină de farmec străluceşte luna între stelele ce par o ploaie de lacrimi mari. Nemişcaţi, vrăjiţi parcă de lumina lunii, aruncă pinii umbrele lor întunecate, uriaşe, peste poartă. Ascult fără de voie şipotul sonor al apelor pe scocul morii; frunzele viţei sălbatice foşnesc domol, când frumosul crai, vântul de noapte, se furişează printre ele; şi o pace adâncă se coboară din cerul înstelat, bătând din aripi spre a închide ochii obosiţi ai atâtor oameni depărtaţi de ţara lor. Dacă asculţi bine, ţi se pare că auzi răsuflarea grea a pământului sub farmecul nopţii de luni.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ca în vis, aud cum se apropie un călăreţ în trap. Deschid ochii pe jumătate şi zăresc un aghiotant cum descăleca: luna-l luminează din creştet până-n tălpi. Iată cum intră repede în casă</text:span><text:span text:style-name="T9">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>După câteva minute, iese iar şi încalecă pe cal, bătându-1 uşor pe gât, iar calul nechează vesel, puternic, de se aude nechezatul lui până hăt, departe în văi; un soldat îi deschide poarta şi, lungă vreme, mi se pare că aud paşii calului: ta, tac, tac.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Simt atâta mulţumire în suflet, atâtea taine îmi vibrează în inimă şi atâtea icoane dragi îmi răsar din cele mai ascunse colţuri ale sufletului!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Doamne, parcă mă desfac, plutesc în sus ca un fulg uşor. Mă gândesc la cartea ce am trimis-o, ieri, acasă. Parcă prea puţin am scris. Şi ce bucurie o să fie pe biata mama! Tot satul o să ştie că ea a căpătat o carte din „bătaie”. Parcă o văd cum merge spre casa popii. Ce i-o fi scris feciorul? Puiul mamei!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>E în amurg şi cucoana preoteasă sade pe trepte şi dezghioacă păstăi în poală. Prin fereştile deschise, în care-s aşezate oale cu măgheran, se revarsă râuri de melodii ce râd şi plâng. Sanda, fiica popei Toader, e la clavir şi cântă. Mama dă bună-seara şi sărută mâna cucoanei preotese, apoi stă mută locului, cu o mână subsuoară şi cu alta la ochi, suspinând cu sughiţuri.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ce-ai păţit? Spune-i maicii preotese, poate ţi-a ajuta cu ceva! îi vorbeşte cucoana Tinca, preoteasa popei Toader, cu blândeţe.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>O… car-te din… ca-tane…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ad-o încoace să văd ce-i!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Sanda încetează de cântat, lasă, pe nesimţite, storurile-n jos, ascultă, răzimându-se cu urechea de fereastră:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Ce-o fi scris el în răvaş? Oare pomeneşte de mine?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi o cuprinde neliniştea. Ea ridică, iarăşi, un pic numai storul în sus, să vadă ce face mă-sa. Preoteasa varsă boabele din poală într-o sită, se scutură pe mâini şi-şi pune ochelarii pe nas, apoi rupe plicul şi citeşte încet, ca bătrânii. Dar nimic nu înţelegi din cele citite. Ochii mamei nu văd alta decât faţa curioasă a preotesei, ca să poată citi într-însa ca într-o carte cuprinsul răvaşului.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Pe sub storuri se uită Sanda, cu obrajii îmbujoraţi de nerăbdare.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— De, zâmbeşte mama, apoi, de bună seamă, e vorba de mine…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dar faţa preotesei e atât de liniştită, de nemişcată, ca tăiată-n marmură; numai din când în când îşi îndreaptă ochelarii, legaţi cu bumbac roşu, pe nas. Se apropie şi părintele, bătrânul popa Toader, rezemat în cârjă, stă locului, îşi dă pălăria cu margini late pe ceafă şi nu cutează să vorbească, ci se şterge mereu de sudori pe faţă. Iată că preoteasa zâmbeşte şiret, însă numai cu un colţ al gurii, dar se vede că citeşte ceva plăcut, căci chiar şi ochii îi strălucesc mai tare.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Sanda-i sigură că-i vorba de dânsa şi nu-şi află astâmpăr de bucurie; de aceea, lasă cu zgomot storurile-n jos şi se pune la clavir. Acordurile unui cântec vesel, nebun, se revarsă-n toată casa în valuri repezi, clocotitoare…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>E atâta neastâmpăr, dar şi sete de viaţă, de iubire înflăcărată, că ţi se topeşte inima. Preoteasa conteneşte de citit şi-ntreabă:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Ce-i cu tine, Sanda?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dar cântecul curge mai departe ca un şuvoi ce nu întâmpină piedici în calea sa, ci inundă câmpii şi şesuri întinse.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Mamei i se luminează obrajii şi inima-i tremură de bucurie, când îi povesteşte preoteasa despre fecior, şi iar o podidesc lacrimile.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Părintele Toader intră-n cerdac, ca omul ce nu ştie ce să-nceapă. Sanda-i iese înainte sprintenă, veselă, cu obrajii rumeni de emoţie, îi sare de gât şi-1 sărută fără întrerupere; apoi îl trage de mână, în casă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Tătuţă, să-ţi cânt ceva. Ce vrei? „Şapte gâşte” a dumitale sau „Cucuruz cufrunza-n sus, Ţucu-i ochii cui l-opus”?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Părintele Toader se lasă târât, se-mpiedică de prag mai să pice şi murmură uimit printre dinţi:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Sanda, draga tatei, a naibii să fii, ce-i cu tine astăzi</text:span><text:span text:style-name="T7">…</text:span><text:span text:style-name="T3">?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nici că pot dormi, ci stau cu ochii uitându-mă-n sus. Căpitanul Pavel iese din casă, se uită pe cer, cască de vreo câteva ori a somn, apoi îşi strigă ordonanţa:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Vasile, e hrănit calul?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>E hrănit şi adăpat, domnule căpitan, se aude o voce din întuneric. Adă-1 încoace, bre! căpitanul încalecă şi, când să iasă pe poartă, îmi strigă: Hei, măi signorino, dormi? Signorino!…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Lăsaţi-1 în pace, cine ştie ce visează sărmanul</text:span><text:span text:style-name="T10">…</text:span><text:span text:style-name="T3">!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eu mă scol şi mă apropii de o grupă de soldaţi, care vorbeau prin întuneric.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Voi sunteţi, măi?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Noi, domnule locotenent.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ce credeţi, e mult până la ziuă?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nu, îndată trebuie să se zărească zorile.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>De ce nu fumaţi, bre?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Doară musteţile ni le aprindem, căci tabac nu-i…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Tabacu-i pacostea noastră! Cu foamea o mai duci, dar fără tabac te văd sfinţii, îmi răspunde altul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eu scot tabachera şi-i tratez cu câte o ţigară.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Noi nu dăm cu de ăst domnesc; noi, mai aşa, pe ţărănie, cu de patru… Dar, dă! la nevoie mănânci şi plăcinte</text:span><text:span text:style-name="T13">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Unul din ei, un bănăţean, îmi dă foc pentru ţigară, apoi îşi trage chipiul pe ochi, se şterge pe sub mustăţi şi zice aşa, într-o doară, ca şi când puţin l-ar interesa ceea ce spune:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ştiţi, domnule locotenent, că dracului naţiune de muiere e asta?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Care, măi Vasile?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Păi, fata morarului…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cum dracu&apos;, bre?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Apoi (se şterge pe sub mustăţi), aseară trece ea cu doniţa de lapte şi Toader îi zice: „Cum te cheamă, fă? Gură dulce?”. Dar ea stă locului, îl măsoară aspru cu privirile, şi-i răspunde: „Diaboloî”. Drept să-ţi spun, domnule locotenent, ciudaţi-s pământejii ăştia! Dumneata ce crezi? Ori nai vorbit cu dânsa?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Eu văd că vor să mă descoase şireţii, aşa, de departe, şi zic:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Vă voi spune altă dată.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi mă depărtez. Acum se vede binişor afară. Toţi sunt treji şi focurile ard prin întunericul ce dispare. La roata morii aud strigăte vesele şi râsete: se scaldă soldaţii. Un sunet de goarnă tremură-n vale, altu-i răspunde.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Pe gard, bate din aripi un cocoş şi trâmbiţă vesel: cucurigu! E un fel de bună-dimineaţă şi îndată fierbe tot satul de trâmbiţări.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Giovannina, îmbrobodită cu basma albă, mătură sus, în cerdac, fără să se uite la noi. Şi moara s-a pornit, roata huruie asurzitor în încheieturi. Giacomo stă, alb de făină, în uşa morii şi ne dă: „Buona matina, signori!”.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Lângă trepte, afară, aşteaptă cafeaua, scoţând nouri de aburi în aerul rece al dimineţii. Numai signor Vacano e cu noi, dar nu aşa de vesel ca ieri.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Îndată trebuie să plecăm; de aceea, ne luăm rămas bun de la Vacano şi de la signora Giulia, care tocmai coboară pe trepte, cu pestelca albă dinainte. Numai Giovannina nu-i nicăieri. Cum îmi pare de rău, măcar să-mi fi spus o vorbă bună de drum!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În câteva minute, suntem aşezaţi în ordine de marş. Gornistul pune goarna la gură şi intonează rugăciunea: toţi stau drepţi, nemişcaţi şi aşa-s de puternice, de zguduitoare şi de solemne sunetele acestea, că multora li se </text:span><text:soft-page-break/><text:span text:style-name="T3">umezesc ochii. Darabanele duruie asurzitor şi goarnele sună de marş. Pornim încet, în paşi scurţi şi îndesaţi.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Morarul, signora Giulia şi Giacomo, cu comanacul uns de făină, ne petrec până la poartă, salutându-ne.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Îmi întorc capul înapoi şi mă uit: la fereastră stă Giovannina, cu ochii plânşi, şi-mi flutură mereu din batistă. „Când te-oi mai vedea, vreodată, în viaţa mea</text:span><text:span text:style-name="T12">…</text:span><text:span text:style-name="T3">?”</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Un pârâit de puşti înfîoară zarea, tunuri bubuie în depărtări, spre Magenta, şi-aş vrea să-mi întorc, încă o dată, capul, dar nourii de colb, stârniţi de drum, îmi răpesc orice privire…</text:span></text:p>
+   <text:p text:style-name="Trailer"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>(Junimea literară, anul II, nr. 9, sept. 1905, apud Cartea sângelui, Suceava, ed. Muşatinii, 2002, pp. 135-145.)</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Serafim Cărăşel</text:h>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>De bună seamă că nu l-aţi apucat pe Serafim Cărăşel, diacul de la biserica Sfântului Nicolai din târgul Sucevei. Un moşneguţ prizărit, cu părul cărunt retezat în frunte şi cu mustaţa tuşinată scurt deasupra buzei.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Se îmbrăca cu antereu lung, ca pe vremuri, purta ciubote de iuft, unse cu dohot, iar pe cap şapcă cu cozoroc, de sub care clipeau doi ochi căprui, neastâmpăraţi ca două boabe de argint viu. Era neam cu Solomia, prescurăreasa de la „Maica Domnului” şi cu Isaia Firfirică, dascălul târgului.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel era o moşnegărie plină de draci, ce ştia multe porogănii încă de pe vremea când fusese, peste douăzeci de ani, cătană la împăratul de la Beci. Pe atunci, colindase el lumea, chiar şi pe acolo unde creşte numai urzica şi spinul şi unde şi-a înţărcat dracul copiii.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Lumea-l poreclise „Popa Bâr” şi asta-l scotea din sărite pe Cărăşel.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În tot locul te împiedicai de dânsul: pe drumuri, în bărbieria lui Iordachi Ştirbul din colţ, unde se auzeau şi cloceau toate minciunile mahalalelor, dar, mai ales, îl întâlneai în bolta de la „Şapte draci” ori la „Craiul negru”, cu-o ulcică de vin dinainte.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Era om vesel şi pişicher, dar Dumnezeu ori dracul – nu ştiu care din ei doi – îl înzestrase şi cu darul suptului; ba nici Cărăşel nu se sfia să mărturisească, când se trecea cu deochiul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Măi, mie mi-au dat, la naştere, să beu pe gât de raţă şi, de atunci, m-am pricopsit cu podoaba asta…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Veşnic îl zăreai înconjurat de o mulţime de gură-cască, toţi de-ai craiului, care-l „cinsteau” numai să le-nşire palavre, iar el, după ce lua în cap, minţea ca din carte de-ngheţai numai de ce ieşea dintr-însul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Măi pârliţilor! se răstea, adesea, la dânşii. La ce meşteşug vă pricepeţi voi? Faceţi numai degeaba umbră pământului. Eu am fost, măi bade, cu pajurile împărăteşti în ţara franţuzească, împotriva lui Napoleon împărat, şi solomonar ca mine nu găseşti pe podul pământului; şapte ani am supt la maica ţâţă ca să mă fac zodier şi cetitor în stele. Alung sloata şincalec pe balauri, măi, iar punga mi-i plină de zimţaţi. Trebuie să ştii a trăi, în ziua de azi, ca să poţi prinde oleacă de său, zicea, apoi închidea dintr-un ochi. Căci celui bogat îi leagănă şi dracul copiii, iar celui sărac îi trage mâţa de coadă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>De multe ori, făcea botezul răsteului şi, apoi, ieşea în halul acesta pe drum, spre bucuria băieţilor ce-l înconjurau din toate părţile. Serafim oprea, totdeauna, vreun alunar sau simigiu ce umbra cu tabla, plină de covrigi, pe cap şi cu un scăunaş subsuoară, îi cumpăra marfa şi o împărţea „plozilor”. Se aşeza, apoi, pe un pârleaz, cu cârja de-ndemână între picioare, îşi da cozorocul pe ceafă, şi-i întreba cimilituri:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Măi dimonilor, ce-i aceea: cureluşă unsă, sub pământ ascunsă? Băieţii ridicau din umeri.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Măi zăluzilor, asta-i râma, care îmbla pe sub pământ. Cine va ghicio astălaltă capătă un covrig întreg de la mine: Gâsca ară, omul mână, ghici condeiul ce-i?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Acela-i condeiul, nene Cărăşel! ţipau demonii, întinzând mâna după covrig.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel ridica, atunci, cârja şi se făcea că se ia de dânşii:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Acuş&apos; n-am să vă pot ajunge! Auzi tu obrăznicie de mahalagiu?! Serafim Cărăşel trăia într-o necontenită sfadă şi hârjoneală cu plozii oamenilor, tocmai pentru că-i erau dragi şi-i plăcea să-i tragă pe sfoară.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Odată, fiind în duşi buni, le povesti istoria trişcăi de os pe care o purta, totdeauna, în brâu.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Vedeţi, măi, trişca asta?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Vedem, nene Cărăşel</text:span><text:span text:style-name="T13">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dar ştiţi voi de ce cânt eu aşa de frumos într-însa?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Nu ştim, nene Cărăşel, răspunseră prichindeii, scociorându-se cu un deget în nas şi rozând la covrigii ce erau pe sfârşite.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Păi voi, ţâncilor, ce ştiţi? Abia vi s-a uscat laptele pe bot, iar din nas</text:span><text:span text:style-name="T13">…</text:span><text:span text:style-name="T3"> Ştergeţi-1, măi, că vă picură şi acuma! Aferim! Ruşine obrazului să vă fie; cogeamite feciori ca voi! Ca mâine îmbiaţi după fete, sărind gardurile, şi cu lumânări la nas?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Atunci, ţâncii lui nenea Cărăşel dădură, ca la comandă, cu mâneca pe sub nas, în dreapta şi în stânga, de li se roşea sfârla.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Dacă vrai să ai aşa o trişcă, pândeşti un vultur de cei mari, iai puşca şi</text:span><text:span text:style-name="T13">…</text:span><text:span text:style-name="T3"> dar aveţi voi puşcă acasă?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Avem, nene Cărăşel, avem; tata are una de cele cu crăcăna, răspunse unul din ceata „dimonilor”, dar a ascuns-o mama-n pod ca să nu ne primejduim.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Destul, măi hodoroagă! Cum zic, iai puşca, ocheşti</text:span><text:span text:style-name="T13">…</text:span><text:span text:style-name="T3"> i, când îţi vine vulturul la ţintă, pâc, tragi cocoşul şi dai foc. Tai, acum, piciorul galiţei, îl cureţi de măduvă şi-1 fierbi în lapte clocotit ca să se ducă carnea de pe dânsul. Aşa am făcut eu asta.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel scoate, iarăşi, trişca din brâu şi le-o arată. Băieţii se-ndeasă mai aproape, c-un ochi la diac şi cu altul la trişca de os alb. Glasul lui Cărăşel scade, acum, prefăcându-se într-un şoptit tainic:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În noaptea spre Sfântul Gheorghe, o împli cu vin pelin şi-i astupi borţile cu ceară. Dar la ce, măi Piticot?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Să nu curgă vinul, nene Cărăşel, răspunse iute băiatul dulceţăresei Iordăchioaia.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Când e miezul nopţii, de dorm şi apele – atunci joacă dracii şi strigoii între hotare – pe la vreme aceea mergi în câmp, pe un fânaţ, şi ascunzi fluierul într-un muşinoi de furnici, care-i scos taman pe hotar. Apoi, te-ntorci acasă, fără să te uiţi îndărăpt, iar la nouă zile te duci, iarăşi la miezul nopţii, şi-ţi iai trişca. O scoţi din furnicar, îi destupi borţile şi bei frumuşel vinul; după aceea, o faci înspre casă, cântând din trişcă, dar aşa de frumos că cine te aude trebuie să plângă şi să râdă. Dar, în urma ta, parcă se năruie tot cerul, aşa fac „ei” </text:span><text:soft-page-break/><text:span text:style-name="T3">gălăgie, strigându-te pe nume şi jurându-ţi averi. Să te puie, însă, Tartorul să priveşti îndărăpt, că-ţi suceşte gâtul ca la puiul de vrabie!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Moşneagul îşi roti ochii peste întreaga ceată, mândru de sine şi vesel de spaima ţâncilor.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Cântă-ne ceva, nene Cărăşel! îl rugară băieţii, aşteptând cu nerăbdare să vadă ori de vor plânge şi vor râde, dacă le va cânta diacul din trişcă. Împrejurul ochilor lui Cărăşel flutură, un răstimp, o lumină de zâmbet viclean, apoi dispăru. Diacul începu mai întâi din gură:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Doi ochi am iubit într-a mea viaţă Unul era chior şi altul cu albeaţă</text:span><text:span text:style-name="T14">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Făcând ochii mici, puse trişca de os la gură, îşi rotunji buzele şi ţârlăi de vreo câteva ori.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Băieţii uitară, de curioşi ce erau, că-s cu gurile căscate.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— închideţi-vă leopa, măi, să nu vă intre o scroafă cu purcei înăuntru! tună, atunci, Cărăşel, aruncându-le colb în gură.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Începură să scuipe ca mâţele, dar, pentru asta, i-a şi copt una spânzuratul dulceţăresei, care era cel mai bătrân între dânşii.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În vreme povestirii, scosese diacul chizeaua de tutun, punând-o jos, lângă dânsul, unde o uită ca din pământ. Diavolul de băiat îi suceşte, pe ascuns, o ţigară, presură niţică iarbă de puşcă într-însa şi o vârî iar în chizea.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Înainte de a cânta iar din trişcă, îi vine, din întâmplare, lui Cărăşel gust să tragă o tămâie şi, aflând ţigara sucită, o ia între dinţi şi-o aprinde cu iască.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Puf! puf! Trage diacul un fum, două, şi suflă; însă ghiduşii icneau a râs într-înşii, ascunzându-se unul de altul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Staţi, măi ghiavolilor, să vă mai zic una din trişcă! şi iar suge din ţigară.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Deodată, iarba de puşcă face „sbuf”! şi-i pârleşte mustaţa lui Cărăşel. Băieţii o luară, de cu bună vreme la sănătoasa, strigând din răsputeri:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Popa Bârrr!… Popa Bârrr!…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Serafim se înfurie, acum, şi svârr! cu cârja după ei.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Măi împieliţaţilor şi feciori de lele, am să vă iau de toarta capului, că veţi pomeni şi ţâţa care-aţi supt-o! Ia-n poftiţi mai aproape, să vă joc eu, şi apoi las&apos; pe mine de veţi mai zburda voi!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Demonii ţipau în gura mare:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Popa Bârrr!… Popa Bârrr! şi fugeau de le sfârâiau picioarele, băgând în groază, cu ţipetele lor, toate babele şi câinii din mahalaua Precestei…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel era un pezevenchi şi jumătate şi, măcar că se afla cu un picior în groapă şi cu altul deasupra, totuşi, nu se lăsa de ghiduşii.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Într-un rând, cumpărase cu trei lei „sain” o iapă de la un ţigan, bătrână şi slabă de-i ieşeau coastele prin piele. O aduse acasă, noaptea, ca să nu-1 vadă nimeni; îi legă în bot o lulea cu ciubuc, la gât – o oală spartă, şi, de coadă, un prepeleac: apoi, o priponi la poarte lui Cristian Kauk, un şvab colţat, de la Pătrăuţi, cu care se mânca Cărăşel de vreo câţiva ani.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şvăboaica credea în vrăji mai tare ca în Sfânta Cruce şi, de aceea, când o zări, dimineaţa, la poartă, leşină, gândind că-i făcătură şi zăcu trei săptămâni la pat. Kauk o duse la comună, suduindu-l amarnic pe Cărăşel, căci numai el </text:span><text:soft-page-break/><text:span text:style-name="T3">putea să fie poznaşul. „Domnii” de la comună îl chemară pe Cărăşel printr-o mărcuţă, cum era obiceiul pe vremea aceea, ca să-şi dea seama de fapta lui.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Serafim se duse la comună cu faţa smerită ca un călugăr. Iapa cu pricina se afla în ogradă, slabă de abia se putea ţine pe picioare.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— A cui e iapa asta, jupâne Cărăşel?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Diacul se cârni, se suci, la început, dar în urmă răspunse:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Apoi… e a mea, cinstite persoane.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi cum de îmbla pribeagă pe drumuri?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>A sărit poarta şi a luat-o la sănătoasa</text:span><text:span text:style-name="T5">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Dar de ce i-ai legat luleaua-n bot?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ca să nu muşte.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Şi prepeleacul?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Să nu zvârle din picioare, căci are nărav haramul!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Domnii se uitară cu înţeles unul la altul şi-1 lăsară în pace pe Cărăşel, căci pricepură păcăleala</text:span><text:span text:style-name="T7">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>În bolta de la „Şapte draci” din marginea târgului Sucevei, zbârnâie cobza şi suspină vioara: Serafim Cărăşel, bătrânul diac de la Sfântul Nicolai, e ales căpitan peste gardişti (E vorba de garda naţională din Suceava, care s-a format în anul revoluţionar 1848. Primul căpitan a fost Fischhoffer, un jidov, însă, mai pe urmă, fu ales Cărăşel – nota lui Ion Grămadă) şi face „cinste” de să-mbete un capăt de ţară. El sade pe un poloboc desfundat, cu ulciorul în mână, iar roată-mprejur cinstesc şi joacă cărţi „băieţii lui”, gardiştii, cei mai mulţi – starosti de bresle, cu bărbile ca nişte mături stufoase, şi armeni tineri, cu mustaţa de-abia înspicată.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Au părăsit tejgheaua ca să-ncingă sabia şi să hoinărească, noaptea, pe drumuri.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Crâşmarul Mandache Sorcovăţ scoate din beci vinul cu garafa şi-1 toarnă în ulcele, umblând jur-împrejur pe la mesele ticsite de gardişti înarmaţi cu suliţe şi cu săbii ruginite. Unii au la brâu pistoale ferecate în alămuri galbene, iar pe spate poartă arciş puşti vechi cu cremene. Sunt fîoroşi cu pălăriile lor calabreze, late-n boruri, împodobite cu panaşe şi fleoncuri roşii-albastre, în culorile ţării, pe care-i cusut numărul companiei. Toţi, afară de Cărăşel, căpitanul lor, care n-a vrut să-şi schimbe portul, sunt îmbrăcaţi în tunici albastre cu parole roşii, iar pe picioare au pantaloni suri, de dril, şi ciubote cu tureatcă înaltă.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ce veste se aude în ţară, căpitane Cărăşel?! întreabă Sorcovăţ, împingând spre diac, cu dosul mâinii, o ulcică plină de vin.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Sabie şi foc, jupâne Mandache! Azi, a venit ştafetă că l-au scos pempăratul din ţară şi că oaste-mpărătească bate Beciul [Viena – n.ed.] de trei zile.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Grele plăgi vin pe ţară, nu ne mai rabdă Dumnezeu: celui ce moare în război i se iartă păcatele! răspunde diacul, ridicând ulcica. Noroc să dea Dumnezeu, numai pace-ntre-mpăraţi şi crai!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Asta era vorba lui, când închina cu paharul.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Gri de aur grăieşti, vere! replică Sorcovăţ, ciocnind amândoi ulcelele.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:soft-page-break/><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Serafim îşi dă, cu dosul mâinii, puţintel şapca pe spate, bea vinul dintr-o duşcă şi, ştergându-şi mustaţa cu dreapta, strigă răstit, ca şi când s-ar sfădi cu cineva:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Ce plângi? Ce? Astea-s nevoi, de-acum? Floare la ureche, măi băieţi! Vă temeţi, poate, că va intra sabia-n ţară? Cordunul e deprins cu amarul, că mulţi duşmani au trecut pe la noi, călări şi pe jos, încât mă mir că n-au luat caii lor cu tot pământul pe copite şi să nu-1 svânture în toate părţile lumii! Dar au trecut ca şi o furtună şi noi tot la glia noastră am rămas până astăzi. Că, dacă a mai semănat Dumnezeu bine pe pământ, apoi de mila celor săraci şi necăjiţi a făcut-o. Pe vremea me, cânt trăia Bunăparte, împărat de la ţara franţuzească, era necaz de-şi scuipau bieţii oameni sufletul. Douăzeci de ani a ţinut Bunăparte bătaie cu toţi împăraţii şi craii, de potopise pământul de oameni: femeile şi băieţii purtau plugul de coarne, iar nu bărbaţii, căci erau duşi la bătaie. Nu-i vorbă, şi-a ţara franţuzească era jălanie, căci bătaia e ca şi când ai tăia lemne la trunchi: sar, şi-ntr-o parte, şi-n alta, surcele.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>După ce-ngenunchiase Bunăparte mai toată lumea, mai rămăsese moscalul mare şi tare. Moscalul e mult ca frunza codrului şi se zice că, la vremea de apoi, când se va stârni bătălie între crai şi împăraţi şi ca fi mare cumpănă, de va sufla vântul şi părul de pe bou, numai moscalul are să rămâie pe pământ. Şi-a trimis Bunăparte, împărat de la ţara franţuzească, carte la împăratul nostru de la Beci să-i dea fata şi să-1 ajute cu oaste împotriva rusului alb. împăratul i-a dat fata şi, ca om bătrân ce era, l-a sfătuit să nu scoată sabia. Dar Bunăparte era rânzos şi nedeprins să asculte de altul. Ce crezi Domnia ta? Om plămădit din oţel şi din cremene, vere! Dar, totuşi, l-a răzbit moscalul. Am fost şi eu, atunci, în ţara moscălească, cu Bunăparte. Regimentul meu se chema Bianca…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel povesteşte, a suta oară, istoria aceasta şi, de aceea, nu-l mai ascultă nimeni. Cu părere de rău în ochi, îi priveşte diacul pe rând, cască a somn şi case pe gânduri, cu capul rezemat în palmă şi cu privirile pironite în gol.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Iar s-a trecut cu deochiul!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Pe la mesele murdare, fac gălăgie gardiştii beţi, izbind cu pumnul în masă. Pe podele-s împrăştiate cărţi de joc şi ulcioare goale, iar baragladinele zic şi din gură, şi din scripcă, de gândeşti că piere lumea.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel nici nu-i bagă în seamă, ci clipoceşte mai departe. Într-un colţ, înconjurat de cele trei fete frumoase ale lui Sorcovăţ, şuieră din gură un gardist îndrăzneţ, iar drăcoaicele zâmbesc. Una-i toarnă cântăreţului vin în cupă, alta stă în picioare, cu mâinile în şold şi cu o lumină de zâmbet în ochii şireţi, iar a treia stă plecată, cu coatele pe genunchi, şi ascultă cântecul gardistului:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Foaie verde trei migdale La crâşmuţa cea din vale Vinu-i bun şi oca-i mare, Crâşmăriţa – hâdă tare: Beu voinicii de-a călare</text:span><text:span text:style-name="T8">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Fetele râd, ghiontindu-se, ţiganii zdrăngănesc din cobză, şi gardiştii se-ndeasă cu toţii în jurul cântăreţului, bat din palme şi strigă „Bravo! Bravo!” de răsună bolta.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Mandache Sorcovăţ, roşcovan la faţă şi gros cât o bute, cu pestelcă de </text:span><text:soft-page-break/><text:span text:style-name="T3">piele dinainte şi c-un smoc de chei la cingătoare, stă rezemat de perete şi râde de-i saltă burta.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Poznaşul de gardist îşi răsuceşte mustaţa, zâmbind în colţul gurii, şi urmează, mai departe, cu glas legănat, ochi în ochi cu Tinca, fata lui Mandache, cea plecată cu coatele pe genunchi:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Foaie verde smeurică, La crâşmuţa din vălcică Vinu-i rău şi oca-i mică, Crâşmăriţa -frumuşică: Beu voinicii de se strică</text:span><text:span text:style-name="T15">…</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Viorile ţipă nebune şi gardiştii hohotesc, ciocnind paharele cu cele trei fete.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel se ridică de la masă, rezemându-se-n cârja lustruită de alun, şi pleacă spre casă, fără să asculte de Sorcovăţ, care-l îmbie să cinstească încă un pahar, la botul calului.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Spre răsărit, crângul cerului era galben ca şofranul: se iveau zorile. În colţul unei uliţi, moţăia străjerul de noapte sub un gard şi striga somnoros, în răstimpuri:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Te văd!</text:span><text:span text:style-name="T10">…</text:span><text:span text:style-name="T3"> Te văd</text:span><text:span text:style-name="T10">…</text:span><text:span text:style-name="T3">!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Vezi tu pe dracul! Nici vârful nasului nu ţi-1 zăreşti, zise Cărăşel, care era tare vesel în urma chefului de peste noapte.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>El locuia în mahalaua Precestei, pe uliţa Sălcioarelor, într-o casă veche, cu obloane verzi. Dinainte – ogradă largă, plină de troscot, românită şi păpădie galbenă, ce se împânzea din cerdac şi până-n poartă, unde străjuiau doi brazi înalţi, vestitori de vânturi şi furtuni.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Acasă-1 aşteptau pe Cărăşel cele trei fete ale sale: Viorica, Garofîţa şi Florica, ce trăiau ca nişte mucenice, retrase de lume. Bietele erau bătrâne, bătrâne şi urâte ca o noapte de iarnă. Coseau, mai toată vremea, la gherghef, în liniştea odăilor pline de miresme de gutui şi de odogaci, fără să iasă în lume şi fără să întrebe cineva de dânsele. Numai mătuşa lor, Solomia, prescurăreasa de la „Maica Domnului”, mai dădea, din când în când, pe la ele. într-adevăr, se uscau ca şi busuiocul de la sfintele icoane, cum zicea Cărăşel, pentru care îngrijeau, totdeauna, la masă de o bucăţică mai bună şi de un pahar de vin, vin păstrat într-un şipuşor, sub pat.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>De abătea, însă, vreun străin în sihăstria asta, atunci ele se-mbrăcau în straiele lor mai bune, păstrate în ladă, sub lăcată, îşi puneau zorzoane la gât şi se-mbrobodeau cu barizuri verzi, apoi veneau în odaia în care se afla străinul cu o tablă mare, pe care se afla un gavanos cu dulceaţă de cicoare sau de nuci.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Cărăşel le aşeza tustrele în rând, pe divanul din fund, ce era acoperit ca de sărbătoare, cu o velinţă vrâstată în galben şi ruginiu, ca ogoarele în vremea toamnei, şi le prezenta astfel:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>— Astea-s floricelele mele!</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Ele stăteau nemişcate, cu mâinile pe genunchi, privind când la străin, când la tatăl lor.</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Mahalagiii cei răutăcioşi îl întrebau pe Serafim, mai înainte, în batjocură:</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>De ce nu-ţi măriţi fetele, nene Cărăşel?</text:span></text:p>
+   <text:p text:style-name="Fără_20_spațiere"><text:span text:style-name="T4"><text:s/></text:span><text:span text:style-name="T3"><text:tab/>Să se mai coacă strugurii, măi vere! răspundea el, cu o durere mare în voce şi în suflet, plecând capul în jos.</text:span></text:p>
+   <text:p text:style-name="P2"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="Trailer"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>SFÂRŞIT</text:p>
+  </office:text>
+ </office:body>
+</office:document>

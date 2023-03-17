@@ -1,0 +1,4309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI lang="ro">
+  <teiHeader type="text" status="new">
+    <fileDesc>
+      <titleStmt>
+        <title>D'ale carnavalului</title>
+        <author>Ion-Luca Caragiale</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2004-04-23T14:45:58</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority/>
+        <address></address>
+      </publicationStmt>
+      <sourceDesc default="NO">
+        <p>Written by OpenOffice</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage default="NO">
+        <language id="ro">ISO</language>
+      </langUsage>
+      <textClass default="NO">
+        <keywords>
+          <list type="simple">
+            <item>D'ale carnavalului</item>
+            <item>caragiale</item>
+            <item>teatru</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2004-05-02T00:13:02</date>
+        <respStmt>
+          <name>Adrian Petru Dimulescu</name>
+        </respStmt>
+        <item>revision</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">D'ale carnavulului</titlePart>
+        </docTitle>
+        <docAuthor>Ion-Luca Caragiale</docAuthor>
+      </titlePage>
+      <castList>
+        <head>PERSOANELE</head>
+        <castItem type="role">NAE GIRIMEA, frizer şi subchirurg</castItem>
+        <castItem type="role">IANCU PAMPON</castItem>
+        <castItem type="role">MACHE RAZACHESCU, ce-i mai zice şi "CRĂCĂNEL"</castItem>
+        <castItem type="role">UN CATINDAT LA PERCEPŢIE</castItem>
+        <castItem type="role">IORDACHE, calfă la Girimea</castItem>
+        <castItem type="role">UN IPISTAT</castItem>
+        <castItem type="role">DIDINA MAZU</castItem>
+        <castItem type="role">MIŢA BASTON</castItem>
+        <castItem type="role">UN CHELNER</castItem>
+        <castItem type="role">O MASCĂ</castItem>
+        <castItem type="role">MĂŞTI, PUBLIC, SERGENŢI DE NOAPTE</castItem>
+      </castList>
+      <set>
+        <p>Într-un carnaval, în Bucureşti</p>
+      </set>
+    </front>
+    <body>
+      <div type="act" org="uniform" sample="complete" part="N">
+        <head>ACTUL I</head>
+        <stage>(Un salon de frizărie de mahala. Mobile de paie. Uşe şi fereastră de prăvălie în fund. La dreapta, în planul întâi o uşe; în planul al doilea un lavabo. Ambele planuri din dreapta sunt mascate de restul scenii printr-un "paravent".)</stage>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA I</head>
+          <stage>IORDACHE, apoi PAMPON</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(şade pe un scaun şi dă un brici la piatră, fredonând)</stage>
+            <p>"Şi mă cere, mamă, cere. - Cine dracul te mai cere? -Şi mă cere d-un bărbier..."</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(intrând prin fund)</stage>
+            <p>Aici este frizăria lui d. Nae Girimea?...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(sculându-se politicos)</stage>
+            <p>Da, poftiţi... Barba? Părul?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Nimic...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Atunci, poate, vă spălaţi la cap?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Eu nu mă spăl niciodată la cap, pentru că sufăr de...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>De măsea? Ştii cum ţi-o scoţ? Odată... pac!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei, nu de măsea... sufăr de bătăi...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>De bătăi?... Ştii cum le...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei! Lasă-mă-n pace, omule; nu mă spăl la cap pentru că sufăr de bătăi de inimă. Înţelege odată că n-am venit pentru alişveriş.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Atunci, pentru ce?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Am o trebuinţă cu d. Nae Girimea... Nu cumva eşti d-ta?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu, eu sunt calfă...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>D. Nae nu este aici?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu domnule; îl aştept: trebuie să vie foarte curând...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Atunci îl aştept şi eu... Se poate?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>De ce nu? Poftiţi... (<stage>Îi dă un scaun.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(după o mică pauză)</stage>
+            <p>Mă rog, la d-voastră se fac şi abonamente?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da: 12 rasuri 3 franci, ceva a la "vivat concurenţa!" Să poftească oricare daca le dă mâna; glumeşti d-ta? Vine un ras, ori un tuns 25 de santimuri, cu pudră, unt de migdale, livantă... Pentru frezat, spălat, bătături, se plăteşte supliment.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Şi biletele de abonament le aveţi cu o pecetie, ca ăsta? (<stage>arată biletul pe care-l scoate din portofel.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu... ăsta este din ale vechi; gândesc că numai ăsta a mai rămas. (<stage>îl examinează.</stage>) Pesemne că d-ta ai luat biletul ăsta demult şi ai plecat din Bucureşti. Trebuie să vi-l schimbăm; pe astea le-am tras din circulaţie.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(punând biletul la loc)</stage>
+            <p>Nu; e altceva cu biletul ăsta...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Până acu vreo trei luni le aveam aşa, pentru iconomie adică: punea d. Nae pecetea pe o bucată de hârtie ori de mucava, şi pe urmă la fiecare răsătură trăgeam cu cerneală o dungă, până se făcea douăsprece. Acu, pentru că ni s-a întâmplat o istorie cu un spiţer, a hotărât d. Nae să dea la tipografie să i le facă cu numere: l-am ras? Ţac! I tai numărul.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cu un spiţer? Ce istorie?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Al dracului spiţerul! Închipuieşte-ţi d-ta! Lua un bilet. Îl rădeai, trăgeai o dungă. Să zicem că asta era marţi; bun! Joi, iar o dungă; sâmbătă, alta: trei dungi. Marţea ailaltă, te uitai la bilet: numai o dungă. Peste asta mai trăgeam una; una şi cu una două. Joi mai trăgeam una, care va să zică trei; bun! Marţea ailaltă... biletul alb.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Alb?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>De tot...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cum asta?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aşteaptă să vezi, că e frumoasă... A mers aşa preţ de vreo zece luni de zile, până să băgăm noi de seamă... Muşterii mulţi... l-ai ras, i-ai tras dunga, te culci pe urechea aia, şi nu-i mai ţii altă socoteală. Într-o sâmbătă seară, vine spiţerul, şi nu ştiu cum din vorbă, - era lume multă în prăvălie, - lui d. Nae i se pare că spiţerul cere un bilet, şi-mi zice: "Iordache, un bilet nou lui d. Frichinescu...", aşa-l cheamă. Dar el... zice: "Eu bilet nou? N-am cerut; al meu e nenceput - ..." şi scoate biletul alb ca laptele... Măi, ce dracul! Ne uităm noi lung, eu şi d. Nae, la bilet... pe urmă ne uităm la spiţerul, pe urmă unul la altul, şi d. Nae zice: "Bine!" şi-i trage o dungă. Pleacă spiţerul... Zice d. Nae: "Iordache, biletul spiţerului e cu scamatorie; ia să-l ţinem noi de scurt: ori că ne-a luat bilete, ori că ne-a furat pecetia, ori că şi-a făcut el alta pe model, că prea se-ntinde abonamentul lui ca caşcavalul prăjit..."</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei, în sfârşitul sfârşitului ce era?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Stăi să vezi. Al dracului spiţerul! Asta era într-o sâmbătă. Marţi dimineaţa, altă dungă; - dar acum la însemnam şi cu tibişir pe pervazul uşii; - două; joi alta, trei,... sâmbătă alta...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(cam impacientat)</stage>
+            <p>Patru...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Joi...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei! Spune odată, că n-am vreme de stat.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Parcă ziceai că aştepţi pe d. Nae.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Bine, îl aştept, dar spune odată.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Daca nu mă laşi... Joi, un ras şi un tuns, două dungi: cinci şi cu două şapte; pe bilet şapte, pe uşe şapte. În sfârşit, sâmbătă îl raz iar; dau să scriu dunga: pe bilet erau patru şi cu una acu cinci; pe uşe şapte şi cu una opt. Spiţerul nu ştia că mijloceşte contabilitate dublă. Marţi, pe uşe opt şi cu una nouă; pe bilet trei şi cu una patru; şi pe urmă joi, pândeşte când nu e d. Nae în prăvălie, şi intră; după ce-l raz, zice: "Scrie una, că am luat bilet nou de la d. Nae"... Pe uşe nouă şi cu una zece...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei? Prin urmare...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei! Prin urmare, ştergea dungile cu doftorii, cu metaluri de-ale or de la spiţărie.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Şi cum a rămas?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>N-a vrut d. Nae să facă scandal, măcar că era de un procuror ceva. D. Nae, ştii, mai galant, i-a luat biletul şi vreo cinci franci câţi i-avea în buzunar, i-a făcut un moral bun, din porc şi din măgar nu l-a mai scos, i-a tras vreo două palme şi l-a dat pe uşe afară...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(care a ascultat cu atenţie, ca lovit de o inspiraţie)</stage>
+            <p>A! Ce idee mi-a venit! Parfumurile, odicoloanele, pomădurile, liubemurile Didinii!... Spiţerul!... Da!... Zici că biletele astea le-aţi tras din circulaţie de mai bine de trei luni?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Zici că d. Nae a luat înapoi biletul cu scamatoria de la spiţerul?...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei? Spiţerul în vreme de zece luni cât v-a tras pe sfoară, numai cu un bilet a lucrat?...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ştiu şi eu?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Era peste putinţă. Atunci aţi fi băgat de seamă mai degrabă... Ia adu-ţi aminte bine.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>De unde să-mi aduc aminte!... E de mult...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>A! Ce idee! Să vedem! Mă duc... mă întorc numaidecât... Spune-i lui d. Nae că am să-i vorbesc... Viu cât mai degrabă. (<stage>iese în fund. La ieşire se loveşte cu Miţa, care intră foarte agitată.</stage>) A! Pardon, madam!...</p>
+            <stage>IORDACHE, MIŢA</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA II</head>
+          <stage>IORDACHE, MIŢA</stage>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Iordache! Unde e Nae?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu ştiu; a plecat de azi-dimineaţă şi până acuma nu s-a mai întors. Trebuie să fie, ca să mă pot duce şi eu la masă.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(trântindu-se pe un scaun)</stage>
+            <p>Am să-l aştept şi eu...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Dar daca vine târziu, eu ce să fac? Să rabd de foame? Trebuie să închiz prăvălia şi să mă duc la mâncare...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu ştiu, nu voi să ştiu de nimic... (<stage>patetică.</stage>) Iordache...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Iordache, sunt nenorocită...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>A simţit Crăcănel ceva...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Aş! Crăcănel! - îţi spui că sunt nenorocită...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Pentru?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nae! Nae, pe care l-am iubit, pe care l-am adorat pentru eternitate, până la nebunie... Tu ştii cât l-am iubit?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei! Da. Ei! Ce?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(montându-se treptat)</stage>
+            <p>Nae mă traduce.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aş!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Mă traduce la sigur.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Fugi de-acolo!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>La sigur... De opt zile nu l-am văzut. Îi scriu: "Bibicule, Mangafaua pleacă mâine miercuri la Ploeşti, remâi singură şi ambetată; sunt forte rău bolnavă; vino, să-i tragem un chef..." Şi Năică nici nu-mi răspunde. Iubeşte pe alta, mi s-a făcut semn. În cărţi cade mereu gând la gând cu bucurie, cu dragoste, cu temei, cu întâlnire pe drum de seară cu o damă de verde.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aş! Nu mai crede în mofturile cărţilor, frate...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Trebuie s-o ştiu, trebuie s-o aflu... şi să vedem... O să fie un scandal... da un scandal... cum n-a mai fost până acuma în "Universul".</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aş! Nu-i nimica! Ţi-ai făcut spaimă de gelozie. (<stage>dând din umeri, urcă până-n fund, unde dă piept în piept cu Catindatul de la percepţie.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Un muşteriu! Poate mă cunoaşte... Nu voi să mă compromentez. Trec să aştept în odaie. (<stage>iese pe după paravan în dreapta.</stage>)</p>
+            <p> </p>
+            <stage>IORDACHE, CATINDATUL (legat cu o basma la fălci)</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA III</head>
+          <stage>IORDACHE, CATINDATUL (legat cu o basma la fălci)</stage>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(către public, coborând)</stage>
+            <p>Pfii! Al dracului mă doare!... Dar ştii cum?... lucru mare... Nu mai merge... M-am hotărât. Trebuie s-o încerc şi p-asta...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(care l-a urmărit, coborând înaintează un scaun până în mijlocul scenii)</stage>
+            <p>Ia poftiţi! Poftiţi!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(hotărât)</stage>
+            <p>Ştii s-o scoţi? Scoate-mi-o!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>N-ai idee cum ţi-o scot; până să clipeşti din ochi, o dată, pac!... Ia poftiţi! Poftiţi!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Uf! Mersi!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ia poftiţi...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce n-am pus, domnule? Ce să-ţi mai spui? Ce n-am pus? Mi-am tăbăcit gingiile... Ce n-am pus?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ce să-i spui, domnule? E odată vătămată, s-a isprăvit: picături de rădăcină de cleşte.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce n-am pus?... În sfârşit, astăzi m-a învăţat unul de la noi de la percepţie...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>A! D-ta eşti de la percepţie?...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Da, catindez până la o vacanţă. Nu e vorba, am cu ce trăi; am parte în bogasierie la Ploeşti; îmi trimete parale Nenea Iancu; dar ştii, orişicât poţi zice, trebuie pentru ca să-ţi faci o carieră ca tânăr...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Mai e vorbă...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>A! Eu aş fi avut parale multe, daca nu mă-ncurcam în trataţie de amor pe vremea războiului. O iubeam, o iubeam!... şi ea mă traducea... cu un ofiţer de itidenţie.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei, ş-acuma?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Acuma... nu-ţi spui? Catindez la percepţie. (<stage>mâhnit.</stage>) Dar catindez de mult... Ştii, catindezi azi, catindezi mâine, o lună, două, trei, un an... Bine, până când? Nu zic să mă facă ajutor, ori reghistrat, domnule, dar măcar acolo ceva.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Adică să te înainteze.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Măcar un copist de clasa a doua.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Şi acuma câtă leafă primiţi în mână?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nu ţi-am spus că sunt catindat? Nimic, de doi ani de zile, nimic. (<stage>şade.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nimic?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nimic...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Dar... reţinere nu vă face?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Asta, ce-i dreptul, nu...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Tot e bine... Ei!... ia dezleagă-te.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Pentru ce?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Legat, nu poci...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Pentru că nu poţi căsca gura.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Pentru ce să casc gura?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aminteri cum să ţi-o scot?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce să-mi scoţi?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei, asta-mi place! Pentru ce ai venit aicea?... Măseaua...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Măseaua?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei da, măseaua. (<stage>merge şi scoate instrumentele dintr-o masă.</stage>) Ştii cum ţi-o scot?... până să clipeşti din ochi (<stage>revine lângă Catindat</stage>) odată... pac!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(care s-a sculat)</stage>
+            <p>Uf!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Şezi...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Mersi, am şezut destul...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Trebuie să stai jos... ca să am loc în sus să trag... d-a-m-picioarele cum?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>N-o mai scoţ... mi-a trecut.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Cum ţi-a trecut?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nu ţi-am spus că m-a învăţat unul de la noi de la percepţie... zice c-a citit în cartea lui Matei.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>De la Matei citire?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nu vanghelistul, ăsta e altul, e doftor de bătături în Italia şi face şi văpsea pentru păr...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ei? Să zicem că mă doare! Întâi rabd cât pot... pe urmă, pui doftorii; pe urmă, daca văz că nu mai merge, mă duc hotărât la bărbier să mi-o scoaţă... bun! Cum intru...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei! Prin urmare...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Cum intru, zic serios: ştii s-o scoţi? Scoate-mi-o! De par examplu, adineaori la d-ta... D-ta nici nu înţelegeai ce vreau eu... Şi pe urmă, mă dau în vorbă, mai de una, mai de alta... Dar când intru, simţ odată ca un cuţit (<stage>arată la falcă</stage>), cald, şi pe urmă rece; pe urmă din vorbă-n vorbă, vii d-ta, subfirugul, cu cleştele: atunci deodată simţ iar un cuţit... rece, şi pe urmă numaidecât cald... şi pe urmă nu mai simţ nimic... Vezi d-ta, pesemne, nu ştiu cum devine care va să zică de este al naturii lucru ceva, că măseaua, în interval de conversaţie, de frică trece... Ei... al dracului italianul!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(care a ascultat cu multă atenţie)</stage>
+            <p>Fugi, d-le, cu superstiţiile italieneşti... Îmi pare rău de d-ta, om tânăr!... Bine, d-ta nu vezi cum e naturelul la toate, că trebuie să aibă o bază, măcar cât de mică, dar să fie bază. Ce nu are bază cum poate să fie naturel? Ori să-mi spui d-ta că Matei ăla al d-tale - că eu nu-l cunosc - te-a învăţat adică să mergi prin ploaie fără umbrelă şi să zici, numai aşa la un capriţ, că e soare... şi să nu te ude... Auzi d-ta mofturi italieneşti!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aşa e, decât n-are a face cu măseaua. (<stage>face o grimasă în partea măselii.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ba prea are a face.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ba nu. (<stage>altă grimasă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ba da, tot lucru naturel...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ba nu!... (<stage>altă grimasă.</stage>) Hait!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Iar m-a apucat (<stage>începe să se plimbe</stage>) dar rău... rău de tot...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Vezi... vorba mea... ştiu eu...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(oprindu-se în loc din umblet, şi cu un ton foarte hotărât)</stage>
+            <p>Ştii s-o scoţi? Scoate-mi-o!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Şezi...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL<lb/>(hotărât)</speaker>
+            <p>Adu cleştele. (<stage>şade.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(merge, ia cleştele şi revine)</stage>
+            <p>Zi că te-a ciupit un purice... odată... pac!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(uitându-se ţintă la cleşte şi apoi sculându-se)</stage>
+            <p>Mi-a trecut. Ai văzut? Vorba mea... ştiu eu... Al dracului italianul!...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(plictisit)</stage>
+            <p>A!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(foarte mulţumit)</stage>
+            <p>Salutare, neică, şi mersi! (<stage>pleacă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Stai, domnule!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nu mai pot... e târziu... am treabă la canţilerie, am o groază de avizuri de făcut... Salutare, neică, şi mersi! (<stage>iese repede prin fund.</stage>)</p>
+            <stage>IORDACHE, apoi MIŢA</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IV</head>
+          <stage>IORDACHE, apoi MIŢA</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aşa haplea mai rar... Ce dracul face d. Nae de nu mai vine... Sunt aproape de douăsprece... Mă leşin de foame. (<stage>Miţa intră din dreapta.</stage>) Miţa? O uitasem!...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>N-a venit Nae încă?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Uite ce e, coană Miţo, d-ta tot zici că-l aştepţi; eu mă repez aici aproape să-mbuc ceva şi mă-ntorc numaidecât... nu-i aşa? (<stage>îşi ia pălăria.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Poţi să te duci.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da', nu pleci? Să nu rămâine prăvălia singură...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(nervoasă)</stage>
+            <p>Ţi-am spus o dată: îl aştept până mâine, până poimâine, până o veni!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Atunci mă duc... mă-ntorc la moment. (<stage>iese în fund.</stage>)</p>
+            <stage>MIŢA, apoi PAMPON</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA V</head>
+          <stage>MIŢA, apoi PAMPON</stage>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Să-l aştept, da, să-l aştept... Trebuie să vie... Să mă traducă pe mine Nae... şi să nu-mi răzbun? Peste poate!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(care a intrat)</stage>
+            <p>Mă rog, d. Nae n-a venit încă? (<stage>salută.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(aparte)</stage>
+            <p>Un muştiriu... (<stage>tare.</stage>) Nu, domnule, şi eu îl aştept... Daca poftiţi şi dv. să-l aşteptaţi.. vine ori dânsul ori băiatul...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Mersi, madam. (<stage>şade, aparte.</stage>) Curăţică. (<stage>tare, după o pauză.</stage>) D-voastră sunteţi rudă, ori consoarta dumnealui...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(tristă)</stage>
+            <p>Nici rudă, nici consoartă, d-le... i sunt... adică i-am fost... amică... Am venit pentru o mică afacere.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ca şi mine...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>La d-ta... nu poate fi ca la mine... La mine e chestiune de traducere.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>În amor?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(asemenea)</stage>
+            <p>Da, în amor...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ca şi la mine...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ca şi la d-ta?... Cum?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Mi se pare, adică nu mi se pare... sunt aproape sigur că sunt tradus.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ca şi mine...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Şi numai d. Nae poate să mă puie pe urma aceluia care a devenit în chestiune. A! Dar n-are să-mi scape... Sunt hotărât! Am să-i dau o curăţenie spiţerului să mă pomenească!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>E spiţer?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, desigur spiţer. Aflasem adineori cum îl cheamă de la băiatul de aici.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>De la Iordache...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da; îmi spusese cum îl cheamă, dar i-am uitat numele cu gândul la dovezi, - pentru că am dovezi, - nişte hârtii pe care le-am găsit în odaie la Didina.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Didina...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, amanta mea, cell mai sacru amor, pentru care mi-am sacrificat cariera de militar, fiin'că până să nu o cunosc am fost tist de vardişti la Ploeşti... Şi sunt turbat de gelozie! Toată noaptea n-am dormit...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ah! Mie-mi spui ce-i gelozia?... Numai o noapte n-ai dormit? Nu ştii nimic! Câte nopţi!...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Nu, az-noapte nu a devenit din gelozie, pentru că nu începuse încă chestia... Am jucat la Podul Gârlii conţina cu nişte papugii până la şase az-dimineaţă... I-am ras...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Să nu te bucuri... Şi eu câştig la conţină, dar ce folos! Noroc la cărţi, nenoroc la amor...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Aş! La mine nu e noroc, e ştiinţă: îi iau la sigur... poate că să am o goană nebună, să pierz. Eu joc conţina oarbă cu fantele, şi am eu merchezul meu. Bunioară, cărţile le ţiu în stânga şi joc cu dreapta; am bătut cu fantele, pui cărţile bătutejos, şi fantele la loc în mâna stângă, pentru altă ocazie... Az-noapte i-am stins...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(plictisită)</stage>
+            <p>Nu mai vine Nae...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Astfel dar az-dimineaţă, coniţa mea, pe la şase ceasuri, mă întorc acasă, la Didina; bat la uşe, se scoală somnoroasă şi-mi deschide. Era încă întunerec; aprinz lumânarea... Dar, când viu prea târziu, e totdeauna supărată şi-ncepe să mă certe... Acuma nu zice nimic: se-ntoarce, pardon, cu faţa la perete şi tace. Zic eu (<stage>Miţa plictisită s-a sculat şi se plimbă</stage>) în gândul meu: e supărată... s-o las să doarmă; când o vedeamâine c-am câştigat trei poli, îi trece... Dau să mă dezbrac şi văz jos lângă mescioară două hârtiuţe. M-aplec - cum le-am văzut am simţit un fior rece, - m-aplec, le iau: ce era? Un bilet de abonament la frizăria model a lui d. Nae Girimea...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nae Girimea?... (<stage>se interesează.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, şi un bilet de amor de la o damă către "Bibicul" ei...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>"Bibicul"?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, către spiţerul... Să vezi cum am aflat pe urmă că e spiţer.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(aparte)</stage>
+            <p>"Bibicul"! S-ar putea?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cum am citit hârtiuţele şi am văzut pecetia pe bilet: "Frizăria model, Nae Girimea", mi-am luat iar baltonul şi bastonul şi am ieşit binişor; Didina adormise iar. Mă duc la poliţie, cercetez şi aflu că aici e frizăria. Am venit; d. Nae nu era aici. Băiatul mi-a spus că bilete de astea...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(interesându-se nerăbdătoare)</stage>
+            <p>În sfârşit?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>În sfârşit, ce mai să lungim vorba degeaba, coniţa mea, spiţerul este... După câte mi-a spus băiatul, am fost cu biletul lao spiţărie, am spus că aveam ceva scris pe el şi s-a şters cu un fel de asenţie, şi că aş vrea să ştiu ce era scris... se poate? Şi spiţerii nu ştiu ce-a făcut, ce-a turnat pe bilet, - mirosea a spirt de ţiperig, - şi-n două minute a ieşit iar dungile la loc...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Să fie cu putinţă?...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Le-am numărat: sunt cinzeci şi cinci de dungi. Spiţerul mişel! L-am prins mai rău decât d. Nae: o să-i dau o curăţenie... să-i rup şalele!...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(aparte)</stage>
+            <p>Să fie Nae? A! Ce răzbunare ar fi! (<stage>tare.</stage>) Domnule, zici că biletul de amor este către "Bibicul"?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Şi este iscălit de cine?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>"A ta adorantă, Miţa..."</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Miţa! A! Dumnezeule!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Domnule, eşti sigur că e spiţer?...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Fireşte... Mai sigur se poate? Biletul era alb... spirt de ţiperig şi d-odată cinzeci-şi-cinci de dungi... Le-am numărat... poftim să le numeri şi d-ta...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Şi ai venit aici pentru ca să afli numele omului cu chestia de traducere?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Eu am o presimţire...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Care?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Cum este amanta dumitale?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cum să fie adică?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>De roşu, de ghindă, de tobă, ori de verde?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>De verde...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>De verde?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Şi ai la d-ta biletul cătră "Bibicul", pe care zici că l-ai găsit în odaia damii de verde?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>A' să-l văz degrabă...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(dându-i biletul)</stage>
+            <p>Iacătă-l.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(ia biletul, îl priveşte şi face o mutră grozav de disperată)</stage>
+            <p>A! Am să-mi răzbun!... (<stage>solemnă.</stage>) Domnule, nu te juca cu inima unei femei nenorocite... Spune drept: biletul ăsta l-ai găsit în odaia amantii d-tale? Jură...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(grav)</stage>
+            <p>Pe onoarea mea!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Uite-te la biletul ăsta... l-ai citit? (<stage>citind nervos.</stage>) "Bibicule, Mangafaua pleacă mâine miercuri la Ploeşti, remâi singură şi ambetată; sunt foarte rău bolnavă: vino negreşit, am poftă să-i tragem un chef... A ta adorantă, Miţa..." Ai văzut biletul?... Acuma uite-te la mine bine...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei? (<stage>îi ia înapoi biletul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ei! Eu, eu sunt nenorocita care am scris biletul ăsta...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Se poate?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Da, se poate... (<stage>dezolată.</stage>) Şi omul care a fost la Didina dumitale este amantul meu!...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Amantul dumitale? Spiţerul?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ce spiţer? Nu-i spiţer... (<stage>frământându-se.</stage>) A! Trebuie să am o explicaţie... O să-mi răzbun... o răzbunare teribilă!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(acelaşi joc)</stage>
+            <p>Amantul dumitale? Trebuie să-l ştiu şi eu, trebuie să-l văz. Eu nu mă mulţumesc pe răzbunarea dumitale... Trebuie ca să-mi răzbun eu!... (<stage>se plimbă turbat.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Juri să ne răzbunăm împreună?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Jur!</p>
+            <stage>ACEIAŞI – IORDACHE</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VI</head>
+          <stage>ACEIAŞI – IORDACHE</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(venind repede din fund)</stage>
+            <p>Coană Miţo, eşti aici? Vine.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nae...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>D. Nae.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(dând pe Pampon la o parte şi luând pe Miţa în partea cealaltă)</stage>
+            <p>Pardon. (<stage>Miţii.</stage>) Vine Crăcănel al d-tale. Viu într-un suflet de la birt din colţ... Crăcănel a intrat în birt, a întrebat de prăvălia lui d. Nae Girimea, şi băiatul l-a îndreptat aici. Ascunde-te iute... vine, trebuie să fie la uşe.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Crăcănel! Ce caută?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Treci degrabă în odăiţă. (<stage>Miţa pleacă spre dreapta pe după paravan.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Te duci?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Da... (<stage>lui Iordache.</stage>) Când o pleca, dă-mi de veste... fă-i vânt degrabă...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Bine, da' chestia noastră cum rămâne? (<stage>o urmăreşte până la uşe.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Mai vorbim noi. (<stage>iese repede în dreapta închizând uşa după ea.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(aparte)</stage>
+            <p>Ciudat lucru! Să fie vreo moftangioaică?... (<stage>lui Iordache.</stage>) Mă rog, cine e persoana asta?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>E o damă...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Bine, damă... O văz eu că e damă, dar cine e? (<stage>Crăcănel intră.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet lui Pampon)</stage>
+            <p>Lasă că-ţi spui eu...</p>
+            <stage>ACEIAŞI – CRĂCĂNEL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VII</head>
+          <stage>ACEIAŞI – CRĂCĂNEL</stage>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Mă rog, aici este d. Nae frizerul?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aici este... da'... nu-i acasă.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Dar... mă rog, se-ntoarce?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(lui Iordache aparte)</stage>
+            <p>Cine-i domnul ăsta?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet lui Pampon)</stage>
+            <p>Lasă că-ţi spui eu...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Aud?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu crez să se întoarcă aşa degrabă... Daca aveţi trebuinţă chiar cu d-lui, atunci poftiţi mai pe seară, poate să-l găsiţi...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>În sfârşit, eu tot mai pot aştepta; poate să vie. (<stage>şade.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aşteptaţi degeaba, domnule, vine foarte târziu...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>De unde ştii? Poate vine mai curând...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet lui Pampon)</stage>
+            <p>Cum dracul să-i fac vânt?...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Daca spune o dată omul că vine deseară...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Ei, poate să am noroc. Nu ştii d-ta? De câte ori pleci să stai un ceas şi stai cinci... Ei, de ce adică să nu pleci o dată pentru şapte şi să stai numai unul?... (<stage>se găteşte în faţa unei oglinzi, îşi piaptănă barbetele şi chelia, ia o gazetă şi se pune pe citit. - Iordache şi Pampon dau din umeri. Pampon scoate o pereche de cărţi şi-ncepe să se joace cu ele pe genunchi. Iordache merge la uşa din dreapta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(scoţând capul pe uşă)</stage>
+            <p>Fă-i vânt!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu e chip... Zice că vrea s-aştepte...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ce dracul caută aici?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ştiu eu... caută pe d. Nae...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu-nţeleg.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>I-am spus că d. Nae vine deseară, şi tot zice că-l aşteaptă... A! Stăi, că îi am eu leacul...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Domnul ălălalt s-a dus?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu, e aici...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Să m-aştepte... Bate-mi în uşe când l-ăi exoflisi pe Crăcănel...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Îl exoflisesc acuma, să vezi... (<stage>coboară în scenă. Miţa îşi retrage capul şi închide uşa. Lui Pampon.</stage>) - Dama a zis s-aştepţi...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(încet)</stage>
+            <p>Bine...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(către Crăcănel, care e cufundat în citirea jurnalului)</stage>
+            <p>Ei, boierule, d. Nae nu mai vine... Eu trebuie să-nchiz prăvălia... am treabă să mă duc în târg...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(lăsând gazeta)</stage>
+            <p>A! Închizi?... Atunci, daca închizi, trebuie să mă duc şi eu...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(strângându-şi cărţile)</stage>
+            <p>Fireşte că trebuie să te duci, nu o să te încuie aici.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Daca e aşa... salutare... Mă-ntorc eu mai târziu... (<stage>iese în fund.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Cu plecăciune... S-a dus! Uf! Al dracului dobitoc!... De ce muşterii am eu parte astăzi!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Mă rog, cine e negustorul ăsta?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Urâtul ăsta? Este amantul damii de colo...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON<lb/>(sărind)</speaker>
+            <p>Amantul damii de colo?...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Care a vorbit cu mine adineaori?... Miţa?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da, da!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(fioros)</stage>
+            <p>Bibicul ei? Ăsta e Bibicul?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei, da, frate, când îţi spui o dată; e amantul damii de colo... Ce te prinde mirarea?...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(care şi-a luat pălăria şi bastonul degrabă)</stage>
+            <p>Am pus mâna pe Bibicul! Nu-l las nici mort! Nici mort! (<stage>se repede şi iese glonţ pe uşa din fund.</stage>)</p>
+            <stage>IORDACHE, NAE, apoi MIŢA</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VIII</head>
+          <stage>IORDACHE, NAE, apoi MIŢA</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ăsta este niţel cam ţicnit... De ce muşterii am parte eu astăzi?... Frumos carnaval! S-o scoţ pe Miţa. (<stage>Nae intră.</stage>) D. Nae, în sfârşit! Credeam că nu mai vii.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>De ce?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Te-a căutat doi inşi...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Cine?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Unul nu ştiu cum îl cheamă, ălălalt era Crăcănel...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Crăcănel?...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da; şi coana Miţa... e aici.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(strâmbându-se)</stage>
+            <p>Miţa aici? Nu i-ai spus că nu sunt acasă şi că viu târziu?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>I-am spus, da' a zis că te aştepată până mâine, până poimâine... Am profitat de ocazie şi m-am dus la birt în colţ să mănânc ceva. N-apucasem să gust de două ori, şi hop! Crăcănel vine-n birt şi-ntreabă pe băiat unde e frizăria model a lui d. Nae. Am alergat degrabă să dau de veste coanii Miţii... Era aici şi negustorul ălălalt; zice că are un bilet de abonament să-l schimbe, ori să te-ntrebe ceva... în sfârşit nu ştiu bine...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Care va să zică Miţa e aici?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(care a crăpat uşa mai dinainte şi a auzit ultimele vorbe ale lui Iordache, coborând)</stage>
+            <p>Aici, Bibicule; ce, îţi pare rău?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(făcându-se vesel)</stage>
+            <p>Să-mi pară rău? Cum să-mi pară rău?... Se poate?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(trecând pe lângă Nae, încet)</stage>
+            <p>Trimete de-aici pe Iordache. Am să-ţi spun ceva între patru ochi...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(făcându-se că n-aude)</stage>
+            <p>Auz?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Iordache, daca nu mai ai treabă, fii bun şi ne lasă; am să-i spui ceva lui d. Nae în secret...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Mă duc... să-mi isprăvesc porţia de varză. (<stage>iese în fund.</stage>)</p>
+            <stage>MIŢA, NAE (Miţa merge şi încuie uşa din fund)</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IX</head>
+          <stage>MIŢA, NAE (Miţa merge şi încuie uşa din fund)</stage>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Pentru ce încui uşa?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(în fund)</stage>
+            <p>Poate să vie iar cineva să ne facă deranj... Am să-ţi spui ceva în linişte... (<stage>pauză.</stage>) Nae! (<stage>coboară încet, emoţionată.</stage>) Bibicule! Nu mă mai iubeşti... (<stage>un pas şi se opreşte.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(d-abia întorcându-se)</stage>
+            <p>Ei na! De unde ţi-a mai venit şi-asta-n cap?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(încă un pas)</stage>
+            <p>Pentru ce n-ai venit alaltăieri seara când ţi-am scris?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(acelaşi joc)</stage>
+            <p>Eram bolnav alaltăieri...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(coborând, cu energie)</stage>
+            <p>Minţi!... Ai primit biletul meu?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Unde mi-e biletul? Arată biletul...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(după ce se caută prin toate buzunarele)</stage>
+            <p>Pesemne că l-am pierdut.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>L-ai pierdut? Unde l-ai pierdut?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ştiu eu unde l-am pierdut? Daca ştiam că-l pierz, fireşte că nu-l pierdeam...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu ştii unde l-ai pierdut?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nu...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(straşnică)</stage>
+            <p>Bibicule! Bibicule!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ei?...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Vezi tu sticluţa asta? (<stage>scoate din buzunar o sticluţă mică şi i-o arată.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ei, ce?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ştii ce are înăuntru?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Cerneală...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu cerneală, Năică,... vitrion englezesc!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(dându-se înapoi)</stage>
+            <p>Vitrion? Eşti nebună?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Da, vitrion! Ţi-e frică?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Fireşte că mi-e frică, na!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Pentru ce, daca te ştii curat?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Pentru că tu nu ştii ce e vitrionul...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ba da... e un fel de metal...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nu ştii ce poate face?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ba da; pârleşte, Năică; arde, Bibicule, momentan tot, tot, şi mai ales ochii!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Dă-mi sticluţa...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Aş!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Pentru ce ţii asemenea lucruri? Pentru ce?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(vrând să izbucnească)</stage>
+            <p>Pentru ce?... Îmi trebuie...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Pentru ce îţi trebuie?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(izbucnind)</stage>
+            <p>Pentru ce? (<stage>cu un gest mare, care face pe Nae să-şi acopere ochii, dându-se repede înapoi.</stage>) Pentru dumneata, musiu Năică, şi pentru Didina dumitale!...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(pălind)</stage>
+            <p>Care Didină? Tu ştii ce spui!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Ştii şi d-ta mai bine decât mine; nu umbla cu mofturi, şarlatane. Care Didină, 'ai? Didina, pentru care mă traduci pe mine; Didina, pe care o iubeşti; Didina, la care ai fost az-noapte, mizerabile!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nu e adevărat, am stat acasă bolnav.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Minţi! Adineaori spuneai că nu ştii unde ai pierdut biletul... Să-ţi spui eu: biletul meu l-a găsit în odaie la Didina d-tale respectivul ei.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Respectivul? Pampon?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Vezi! Vezi! Ştii cum îl cheamă; da, unul înalt, bărbos, fioros, cu care o să ai a face chiar astăzi; pentru că s-a întâlnit cu mine aici, mi-a arătat biletul meu, şi eu i-am declarat că omul cu traducerea este acela care mă traduce şi pe mine. (<stage>Nae se plimbă agitat</stage>) amantul meu, fidelul meu amant, căruia eu (<stage>obidită</stage>) i-am fost întotdeauna fidea.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ce-ai făcut?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Pampon te caută să te omoare... A! Dar până să-şi răzbune el, am să vă omor eu, eu! Pe Didina, pe tine, şi pe mine!... (<stage>se trânteşte pe un scaun desperată şi isterică şi-şi ascunde capul în mâini.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(apropiindu-se binişor de ea şi căutând s-o mângâie)</stage>
+            <p>Miţo, neică, vino-ţi în fire...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Lasă-mă! (<stage>îl respinge.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(apucând-o în braţe şi căutându-i buzunarul)</stage>
+            <p>Nu; nu te las, pentru că te iubesc... numai pe tine... te iubesc... numai... pe... tine... (<stage>a găsit buzunarul, a luat sticluţa, se ridică repede şi schimbând tonul.</stage>) Înţelege că e încurcătură la mijloc. Mi-ai pus pe nebunul de Pampon în cap.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>D-ta ţi l-ai pus...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Vrei scandal cu orice preţ?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Da, (<stage>ridicându-se</stage>) vreau scandal, da... pentru că m-ai uitat pe mine, le-ai uitat pe toate: ai uitat că sunt fiică din popor şi sunt violentă; ai uitat că sunt republicană, că-n vinele mele curge sângele martirilor de la 11 fevruarie; (<stage>formidabilă</stage>) ai uitat că sunt ploeşteancă - da, ploeşteancă! - Năică, şi am să-ţi torn o revuluţie, da' o revuluţie... să mă pomeneşti!...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(cam zâmbind)</stage>
+            <p>Nu fi nebună!... Ce-o să faci?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(căutând sticluţa în buzunar)</stage>
+            <p>Ce să fac? (<stage>n-o găseşte</stage>;<stage>se uită rătăcit împrejur... Nae i arată de departe, râzând, sticluţa</stage>;<stage>ea dă un ţipăt.</stage>) A! Mi-ai furat sticluţa, scamatorule! (<stage>repezindu-se la el pe după mobile.</stage>) Dă-mi sticluţa, şarlatane, mizerabile, infame! (<stage>Se aud bătăi tari în uşe.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Taci! Bate cineva!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(de afară)</stage>
+            <p>Deschideţi! Deschideţi degrabă!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu vei deschide, până nu-mi dai sticluţa! (<stage>se pune în dreptul uşii. Nae o dă în lături, trage ivărul şi deschide. Iordache intră repede.</stage>)</p>
+            <stage>ACEIAŞI – IORDACHE</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA X</head>
+          <stage>ACEIAŞI – IORDACHE</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Vine Crăcănel turbat... S-a făcut scandal; l-a bătut ălălalt care era aici. (<stage>Miţii.</stage>) Ascunde-te... Vine!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(apelpisită)</stage>
+            <p>Nu mai voi să ştiu de nimic... Să vie oricine... Voi scandal... voi să mor! (<stage>se repede să ia un brici</stage>;<stage>Iordache se uită afară prin uşe.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(repezindu-se şi smulgându-i briciul, o apucă de amândouă mâinile şi o târăşte spre dreapta)</stage>
+            <p>'Aide dincolo, să-ţi dau sticluţa.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(de la uşă)</stage>
+            <p>Fugiţi, iacătă-l, fugiţi!...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Haide (<stage>târăşte pe Miţa cu multă luptă şi iese cu ea în odaia din dreapta, pe după paravan.</stage>)</p>
+            <stage>IORDACHE, CRĂCĂNEL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA XI</head>
+          <stage>IORDACHE, CRĂCĂNEL</stage>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(intrând prin fund furios, cu pălăria stricată şi tăvălită. Iordache se dă la o parte)</stage>
+            <p>A! Asta nu, asta nu poate să rămâie jos!... Ai mai pomenit d-ta una ca asta, d-le?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ce, d-le!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>D-le, adineaori ştii că am plecat de aici.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>N-apuc s-ajung în colţ şi auz pe urmele mele: "Pst! Pst! Bibicule!" Pe mine mă cheamă Telemac, Mache, nu mă cheamă Bibicul. Îmi văz de drum... Iar: "Pst! Pst! Bibicule!" Eu merg, înainte... Când mă pomenesc că m-apucă cineva pe la spate de guler. Mă întorc. Zice: "Te faci că n-auzi, Bibicule, 'ai?" Eu zic: "Nu mă cheamă Bibicul, d-le, mă cheamă Telemac, Mache". - "Bibicule, zice el, deodată; eşti un mizerabil! Ai făcut un abuz mare; ai înşelat o femeie, dar ai a face acuma cu un bărbat. De mult de caut. Avem să ne răfuim amândoi. Acu nu-i vreme, dar până una alta, ca să ştii cu cine ai a face, poftim o arvună!"... N-apuc să răspunz, domnule, şi şart! Part! Trosc! Pleosc! Patru palme: îmi turteşte pălăria şi mi-o aruncă cât colo. Până să mă plec s-o ridic, infamul se suie într-o trăsură şi pleacă... Chem sergentul... nimini! A! Dar trebuie să ştiu cine este dobitocul ăsta smintit... Trebuie să ştiu! Cum îl cheamă?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ştiu eu cine e ăla?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Este mizerabilul care era adineaori aici cu d-ta, când am venit eu.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu ştiu cum îl cheamă...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Trebuie să ştii, trebuie să-mi spui: nu plec de aicea până nu aflu; chem poliţia, fac scandal!... (<stage>se plimbă făcând gesturi exasperate.</stage>)</p>
+            <stage>ACEIAŞI - CATINDATUL, NAE, apoi PAMPON</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA XII</head>
+          <stage>ACEIAŞI - CATINDATUL, NAE, apoi PAMPON</stage>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(intră prin fund, cu mâna la falcă, văitându-se)</stage>
+            <p>A! A! A! M-a apucat rău... (<stage>se trânteşte pe un scaun.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Şi ai venit iar la doftoria lui Matei? Nu mai merge, tânărule...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>D-le, înţelege odată şi spune-mi...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(ieşind din odaie şi coborând)</stage>
+            <p>Ce e? Ce e, domnule?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Domnule! Un dobitoc, un infam, care era adineaori aici, m-a insultat cu palme pe mine, Mache, ca drept Bibicul...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Pampon a fost! (<stage>cătră Iordache încet.</stage>) Treci dincolo, i-a venit rău nebunii. (<stage>Iordache iese iute la dreapta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>A! A! A! (<stage>se zvârcoleşte pe scaun.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(Catindatului)</stage>
+            <p>Ce e? D-ta ce pofteşti?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(sculându-se şi arătându-şi falca, hotărât)</stage>
+            <p>Ştii s-o scoţi? Scoate-mi-o!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Şezi. (<stage>Catindatul şade.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Domnule, n-am vreme de stat. Spuneţi-mi cum îl cheamă...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(alegându-şi instrumentele)</stage>
+            <p>Nu ştiu, domnule, de unde vrei să ştiu eu numele la toţi muşteriii! (<stage>cătră Catindat.</stage>) A din fund de tot? (<stage>Catindatul dă din cap că da.</stage>) Dezleagă-te. (<stage>Catindatul face fasoane. Nae îl apucă cu putere şi-l dezleagă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(apărând în fund)</stage>
+            <p>Aha! Bibicule, iar d-ta! (<stage>Crăcănel se dă înapoi.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(cu un ochi la ce se petrece între Pampon şi Crăcănel, şi cu altul la Catindat, pe care îl ţine cu putere cercând să-i vâre mâna în gură, şi care se zbate şi nu vrea să se lase)</stage>
+            <p>Numai s-o văz! N-o scoţ!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(înaintând un pas spre Pampon, făcându-şi inimă şi voind să-i dea fiori)</stage>
+            <p>Domnule! Mă cunoşti d-ta pe mine?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cum să nu, Bibicule! (<stage>se apropie binişor de Crăcănel, şi vrea să-l apuce.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(scăpând şi ocolind pe după mobile)</stage>
+            <p>A! Ajutor! Poliţie! Vardist! (<stage>Pampon îl urmăreşte neîmpăcat</stage>;<stage>Crăcănel vrea să iasă prin dreapta pe după paravan, se întâlneşte piept în piept cu Iordache care intră, şi care-l respinge.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(care după o luptă, a reuşit să vâre mâna în gura Catindatului)</stage>
+            <p>Şezi binişor!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(gemând cu gura înfundată şi zvârcolindu-se)</stage>
+            <p>A! A! A!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(care a venit de după paravan, încet lui Nae)</stage>
+            <p>I-a venit pandaliile, era să-şi taie gâtul cu briciul.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>E nebun! Ajutor! Poliţie! Vardişti! (<stage>iese în fugamare prin fund.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Stăi, Bibicule! (<stage>iese furios după el.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(trăgând cu putere)</stage>
+            <p>Nu mişca! (<stage>după ce a tras, iese repede în dreapta, urmărit de Iordache.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(văitându-se cu mâna la falcă)</stage>
+            <p>A! A! A! Mi-a scos alta! Măsea nevinovată, domnule!...</p>
+            <stage>(Cortina)</stage>
+            <stage>(O sală de o parte a unui buget într-un bal mascat de mahala. Două uşi în fund; cea din dreapta dând în bal, cea din stânga într-un coridor de lângă bal. La stânga, în planul din fund, o uşe a cabinetului de toaletă; la dreapta, planul întâi, o uşe dând în sala principală a bufetului. În scenă, mese pentru mâncare, una în fund între cele două uşi, două în faţă, una la dreapta, alta la stânga. La ridicarea cortinii, se aud măsurile din urmă ale unui valţ, şi se vede prin uşa din dreapta, în fund, mişcarea balului.)</stage>
+            <stage>CATINDATUL, în costum şi cu masca scoasă şezând la masa din stânga şi bând rom cu un păhăruţ, apoi CHELNERUL</stage>
+          </sp>
+        </div>
+      </div>
+      <div type="act" org="uniform" sample="complete" part="N">
+        <head>ACTUL II</head>
+        <stage>(O sală de o parte a unui buget într-un bal mascat de mahala. Două uşi în fund; cea din dreapta dând în bal, cea din stânga într-un coridor de lângă bal. La stânga, în planul din fund, o uşe a cabinetului de toaletă; la dreapta, planul întâi, o uşe dând în sala principală a bufetului. În scenă, mese pentru mâncare, una în fund între cele două uşi, două în faţă, una la dreapta, alta la stânga. La ridicarea cortinii, se aud măsurile din urmă ale unui valţ, şi se vede prin uşa din dreapta, în fund, mişcarea balului.)</stage>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA I</head>
+          <stage>CATINDATUL, în costum şi cu masca scoasă şezând la masa din stânga şi bând rom cu un păhăruţ, apoi CHELNERUL</stage>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(bătând în masă)</stage>
+            <p>Chelner!...</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(d-afară)</stage>
+            <p>Vine!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Am început să mă încălzesc... ori magnetismul... ori electricitatea lui Matei... nu ştiu ce e... dar lucrează. Am început să mă-ncălzesc. (<stage>bate în masă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(din dreapta)</stage>
+            <p>Vine, vine!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Unul de la noi de la percepţie m-a învăţat! "Vrei să-ţi treacă? mănâncă, bea, fă petreceri şi magnetizează-te, dar magnetizează-te straşnic cu jamaică..." şi... mă magnetizez. (<stage>bate în masă tare.</stage>) Pfu! Cald!</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(d-afară)</stage>
+            <p>Vine, vine, vine!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nenea Iancu, săracul, daca ar şti cum să magnetizez... şi unde? (<stage>scoate de sub costum din sân o scrisoare şi o citeşte cu chef.</stage>) "Am aflat că umbli prin cafenele şi pe la baluri; dacă mai aflu astfel de chestii, nu-ţi mai trimet nici un gologan, viu să-ţi lungesc urechile; te iau înapoi la prăvălie, şi te pui la ipotropie, măgarule"... Mie adică îmi scrie nenea Iancu. (<stage>bate tare în masă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(intrând din dreapta)</stage>
+            <p>Vine!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Socoteala şi-ncă un rom... ăsta e al patrulea...</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Ba al cincilea...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ba al patrulea...</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Al patrulea l-aţi băut... şi cu unu, care îl comandaţi acuma, cinci...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aşa, cu ăl d-acuma?... Da. (<stage>Chelnerul iese în dreapta.</stage>) Pfu! Cald mi-e... lucrează magnetismul... I-am dat de leac!... Vezi ce e când nu ştie cineva?... Era aproape de mintea omului; durerea devine din măsea, măseaua devine din răceală, răceala devine din frig; - din cald devine că nu mai e frig; daca nu mai e frig, va să zică că răceala se duce şi vine căldura; a venit căldura, a trecut durerea... (<stage>Chelnerul vine.</stage>) Par egzamplu... (<stage>pune mâna pe falcă</stage>) lucrează magnetismul... arde... foc... Pfu! Cald mi-e! (<stage>Chelnerul a pus pe masă romul.</stage>) Un rom şi ţal!</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Cinci romuri: unu şi cinzeci.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(dând romul pe gât)</stage>
+            <p>Şase...</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Nu, cinci...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ba şase... Cinci cu ăsta care l-am băut, şi cu unul, care o să mi-l aduci acuma, şase. (<stage>plăteşte.</stage>) Lucrează straşnic magnetismul... Şi am să tachinez astă-seară!... Da, am să tachinez!... Pe toate am să le tachinez! (<stage>merge cam şovăind la o oglindă în stânga să-şi dreagă miza.</stage>) Straşnic de cald!</p>
+            <stage>CATINDATUL, DIDINA, apoi CHELNERUL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA II</head>
+          <stage>CATINDATUL, DIDINA, apoi CHELNERUL</stage>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(intră prin fund de la stânga, coboară la masa din dreapta şi şade; e în costum de polonez: cazacă cu brandeburguri, măntăluţă cu blană, pantaloni în cizme cu carâmb; în cap căciulă poloneză cu un pompon mare, bătând în masă)</stage>
+            <p>Băiete! (<stage>îşi scoate masca şi se şterge cu batista.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(intrând cu romul)</stage>
+            <p>Vine!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(întorcându-se şi punându-şi masca)</stage>
+            <p>O mască... Am s-o tachinez... (<stage>Chelnerul, după ce a lăsat romul pe masă la stânga, trece la dreapta lângă Didina.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>O bere.</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Vine!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(care a observat pe Catindatul, se întoarce cam cu spatele ca să nu-i vază faţa. Catindatul bea rom, suflă mereu de căldură şi se uită când pe o parte, când pe alta la Didina)</stage>
+            <p>N-a venit Nae încă... (<stage>scoate o scrisorică şi o citeşte.</stage>) "Prea iubita mea angelă, s-a întâmplat un caz de o comedie mare în chestia noastră prin respectivul tău Pampon şi o individă!... Trebuie să ne vedem deseară ca să-ţi spui cum curge în defavor toată intriga asupra romanţului nostru, să juri că devine ca la Teatru, pentru care nu cumva să lipseşte deseară de la bal cum ne-a fost vorba. Trimete-l pe Pampon să joace conţina şi vino negreşit... Al tău adorant până la moarte... Nae"... Douăsprece aproape, şi nu mai vine. (<stage>Chelnerul aduce berea, o pune pe masă la Didina şi iese.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Pfuu! (<stage>Didinii.</stage>) Bonsoar, mască... (<stage>aparte.</stage>) Am s-o tachinez... (<stage>tare.</stage>) Ce mai faci?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(care îndată ce i-a vorbit Catindatul şi-a pus masca)</stage>
+            <p>Bine, mersi! Uite beau o bere... Da' d-ta ce faci?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Şi eu bine, mersi; mă magnetizez cu jamaică.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Îmi pare bine.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Şi mie nu mai puţin, parol! (<stage>aparte cu chef.</stage>) Al dracului ştiu să le tachinez.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(bătând în masă şi sculându-se)</stage>
+            <p>Să-l mai caut în bal...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(bându-şi picătura din fund a paharului)</stage>
+            <p>Ce, te duci, mască?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Da, mască, mă duc. (<stage>Chelnerul vine din dreapta.</stage>) O bere, o plătesc. (<stage>aruncă banii pe masă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(către chelner)</stage>
+            <p>Şi mie o jamaică... (<stage>cătră Didina.</stage>) Nu mai stai niţel? Să mai beau un magnet şi pe urmă te joc.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Nu, mersi.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Să te joc o... conţină oarbă. (<stage>râde.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(aparte)</stage>
+            <p>Conţina oarbă? Să mă fi cunoscând? (<stage>pleacă să iasă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Pe două consumăţii şi-o guriţă mazu. (<stage>râde.</stage>) Straşnic tachinez... (<stage>o urmăreşte până la uşe.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(aparte)</stage>
+            <p>Mazu? M-a cunoscut. (<stage>iese repede, în fund, la dreapta</stage>;<stage>ieşind, pomponul de la căciulă-i cade în scenă</stage>;<stage>chelnerul aduce încă un rom şi-l pune pe masă la stânga, aşteptând.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(întorcându-se de la uşe şi coborând)</stage>
+            <p>Straşnic am tachinat-o... (<stage>gustă din rom şi-l plăteşte.</stage>) Şi mi-e cald... mi-e cald... mi-e foc de cal! (<stage>întorcându-se şi zărind pomponul jos.</stage>) Iacă! I-a căzut polinezului istoria de la căciulă... (<stage>ia pomponul şi şi-l pune-n piept.</stage>) Haha! Acu să vezi cum o tachinez. (<stage>trage repede paharul de rom şi iese iute după Didina.</stage>) Acu să vezi cum am s-o tachinez. (<stage>Se aude în bal polca.</stage>)</p>
+            <stage>CRĂCĂNEL, singur, în costum de bal, intrând din bufert, apoi CHELNERUL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA III</head>
+          <stage>CRĂCĂNEL, singur, în costum de bal, intrând din bufert, apoi CHELNERUL</stage>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(coborând şi scoţându-şi masca)</stage>
+            <p>Îl cheamă Iancu Pampon; i mai zice şi "Conţina cu 5 Fanţi"; a fost trist de vardişti de noapte la Ploeşti: acuma face pe judecătorul de cărţi; e neînsurat, dar precontează pe una Didina Mazu, exmarşandă. I-am luat urma acasă, de acasă la cafenea, de la cafenea iar acasă, şi de acasă aici. Trebuie să fie aici... Am minţit pe Miţa că mă duc la Ploeşti, şi am venit... Mi-am pus costum ca să nu mă cunoască cineva şi să afle Miţa... cum e ea geloasă!... (<stage>bate-n masă</stage>;<stage>chelnerul intră.</stage>) Am zis o bere...</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Vine!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>A! Asta nu poate rămâne jos... Eu, când îmi trage cineva palme... eu turbez!... Cu dinţii îl apuc, nu-l las nici mort până nu-mi spune pentru ce? Pentru ce mi le-a tras? Să ştiu şi eu: pentru ce?... Trebuie să-mi spuie mişelul numaidecât!... (<stage>Chelnerul aduce berea, Crăcănel o bea şi o plăteşte. Chelnerul ia paharul de bere şi paharul de rom rămas pe masa din stânga şi iese.</stage>) Dacă o fi deschis, mă duc drept la el... Dar dacă o fi mascat?... (<stage>se gândeşte.</stage>) A! Am găsit... Mă dau binişor pe lângă toţi bărbaţii şi le zic la ureche: "Eu sunt Bibicul, nene Iancule, nu mai pofteşti?..." Să poftească în bal să-mi tragă... nu! Să poftească, mizerabilul! (<stage>îşi face o ţigară ş-o aprinde. Didina urmărită de Catindatul intră.</stage>) Cineva! (<stage>îşi pune masca.</stage>)</p>
+            <stage>CRĂCĂNEL, DIDINA, CATINDATUL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IV</head>
+          <stage>CRĂCĂNEL, DIDINA, CATINDATUL</stage>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(intrând)</stage>
+            <p>S-a hotărât! Nu pot să scap de dobitocul ăsta... mă cunoaşte.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(urmărind-o pe pasul de polcă, şovăind puţin)</stage>
+            <p>Mască, nu te las; trebuie să facem o polcă.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(plictisită)</stage>
+            <p>Mersi, mască, nu joc; fii băiat cumsecade şi nu te mai ţine după mine...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(aparte)</stage>
+            <p>Straşnic le tachinez!...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Ţi-am spus o dată că aştept pe cineva?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce adică, eu nu sunt cineva?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA<lb/>(foarte plictisită)</speaker>
+            <p>Ba da, decât aştept pe cineva să mă ducă acasă...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Da' ce, eu nu te poci duce acasă?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(aparte)</stage>
+            <p>Ăsta să fie? că prea e obraznic. (<stage>observă scena.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(împingând pe Catindatul, care vrea s-o ia de zor la polcă)</stage>
+            <p>Vai de mine! Mi-am găsit beleau cu d-ta, îmi scoţi sufletul! (<stage>aparte.</stage>) Ce să fac? Cum să scap? A! (<stage>tare.</stage>) Mască, am să te rog ceva: aşteaptă-mă un minut aici... Mă-ntorc îndată...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Da' te-ntorci?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Mai e vorbă...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Să te-ntorci, să nu pleci până nu ne vedem, că ai pierdut ceva.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(plecând)</stage>
+            <p>Eu?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Da... (<stage>aparte.</stage>) Acu am s-o tachinez...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Aş! Mofturi!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Zău!... Cum ai venit, 'ai? N-ai venit cu pampon? Vrei să te duci fără pampon?!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(sărind)</stage>
+            <p>PAMPON?!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Pampon?! Hotărât, mă cunoaşte, trebuie să-mi schimb costumul, să-mi piarză urma... (<stage>iese repede. Catindatul se repede să iasă după ea</stage>;<stage>Crăcănel îl urmăreşte, îl apucă în uşe şi-l trage cu putere înapoi.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(cu tonul sfidător şi melodramatic)</stage>
+            <p>Eu sunt Bi-bi-cul, ne-ne Ian-cu-le!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Eu nenea Iancu? Fugi d-acolo!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(crescendo)</stage>
+            <p>Eu sunt Bibicul, nene Iancule; nu mai pofteşti? Poftim de! Ba nu, nu! Ia poftim...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce să poftesc, domnule? Ştii că eşti curios d-ta!...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(crescendo)</stage>
+            <p>Eu sunt Bibicul, nene Iancule!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Bine, d-ta poţi să fii Bibicul, dar vezi că asta-i asta, că eu nu sunt nenea Iancu... Nenea Iancu e frate-meu...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Atunci, nen-tu Iancu al d-tale, este o canalie!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Da' pentru ce, d-le?...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Asta mă priveşte pe mine...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ba priveşte familia, să mă ierţi...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Şi-l aştept aici, pentru ca să-l iau de piept şi să am o tălmăcire cu d-lui... Să vedem: pentru ce? Da, pentru ce?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aş! Îl aştepţi degeaba: nenea Iancu e la Ploeşti...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Mofturi! E la Bucureşti...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(sărind)</stage>
+            <p>Nenea Iancu la Bucureşti?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da, şi are să vie aici! Îl aştept!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL<lb/>(aparte)</speaker>
+            <p>Nenea Iancu! Să vie aici! M-am topit... Sunt nenorocit!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Şi o să fii faţă şi d-ta la tălmăcire; am să te pui faţă ca să vezi şi d-ta pentru ce nen-tu Iancu al d-tale este o canalie.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(aparte)</stage>
+            <p>Nenea Iancu! Vine nenea Iancu, şi ăsta cum mă cunoaşte, o să mă spuie, o să mă puie faţă!... Trebuie să-mi piarză urma: trebuie să-mi schimb costumul... (<stage>iese fuga în fund la stânga.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Fuge să-i dea de ştire lui nen-su Iancu! Trebuie să-l ţiu de scurt. (<stage>iese fuga după Catindatul. Se aude în bal semnalul cadrilului.</stage>)</p>
+            <stage>MIŢA, singură în domino albastru cu flori, apoi CHELNERUL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA V</head>
+          <stage>MIŢA, singură în domino albastru cu flori, apoi CHELNERUL</stage>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(intrând, îşi scoate masca)</stage>
+            <p>Nu e... N-a venit încă? Îl cunosc... are numai două costume: un cazac şi un turc... N-a venit. Trebuie să se fi dus să-şi ie pe individa! Trebuie să vie împreună! A! Să vie! Dumnezeule! Jur pe tot ce mi-a rămas mai scump, jur pe statua Libertăţii de la Ploeşti, că are să fie o istorie!... (<stage>bate-n masă.</stage>) A! Gelozie! Am să-i omor!</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(intrând din dreapta)</stage>
+            <p>Vine!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Un vermult.</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <p>Vine. (<stage>iese</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Voi să beau, voi să beau (<stage>cadenţând</stage>), căci nu e-n lume altă durere, decât durerea ce simţesc eu... (<stage>Chelnerul aduce paharul. Se aude cadrilul. Miţa bea paharul pe nerăsuflate şi plăteşte. Chelnerul ia paharul şi pleacă.</stage>) Aşa! Să vie acuma. (<stage>îşi pune masca.</stage>)</p>
+            <stage>MIŢA, IORDACHE în costum de turc, apoi CRĂCĂNEL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VI</head>
+          <stage>MIŢA, IORDACHE în costum de turc, apoi CRĂCĂNEL</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(vine suflând la masa din stânga)</stage>
+            <p>Uf! Am asudat... Trebuie să mă dau la o gargariseală. (<stage>bate-n masă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(se-ntoarce, îl vede şi dă un ţipăt)</stage>
+            <p>Turcul! Nae! (<stage>se repede la el.</stage>) Nae! Eu sunt, Miţa. (<stage>îşi scoate masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Miţa! Coana Miţa! Sunt eu, Iordache. (<stage>îşi scoate masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nae a venit?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu... n-a venit...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Minţi! A venit! A! V-am dat de urmă. L-am căutat acasă şi nu l-am găsit; vardistul mi-a spus că a plecat în costul de bal în birje. A venit... E aici... E cu ea... Spune; nu minţi!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei, da, da! A venit, dar a venit şi Crăcănel... (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Crăcănel! Aicea Crăcănel?... (<stage>punându-şi masca.</stage>) Nu-i adevărat! Mangafaua e la Ploeşti.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ba-i prea adevărat! (<stage>Crăcănel intră.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(intră prin fund şi vine ţintă la Iordache)</stage>
+            <p>Eu sunt, Bibicul, nene Iancule, eu sunt Bibicul; nu mă cunoşti?... Poftim de! Ia mai poftim de!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(aparte)</stage>
+            <p>E Crăcănel! Îmi cunoaşte dominul, trebuie să mi-l schimb numaidecât. (<stage>iese repede în fund la stânga.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu răspunzi? Nu pofteşti, nene Iancule?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Eu nu sunt nenea Iancu, eu sunt nenea Iordache... Pe nenea Iancu caută-l în bal...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>În bal? (<stage>iese repede-n fund, dreapta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Un nenea Iancu trebuie să găseşti în tot balul. (<stage>îşi scoate masca.</stage>)</p>
+            <p>IORDACHE, NAE, în costum de cazac, apoi CATINDATUL</p>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VII</head>
+          <p>IORDACHE, NAE, în costum de cazac, apoi CATINDATUL</p>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(din fund, dreapta)</stage>
+            <p>Iordache... (<stage>îşi scoate masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aha! Bine că vii! Ştii cine e în bal? Ia ghici...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Cine?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Miţa...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Miţa!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Şi Crăcănel... fereşte-te! Miţa te caută...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Cum să scap de republicana asta?... Nu găsesc pe Didina să plec...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(din fund)</stage>
+            <p>Peste putinţă să găsesc alt costum: Bibicul ăla o să mă dea de gol lui nenea Iancu... (<stage>îşi scoate masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(îşi pune masca repede; lui Iordache)</stage>
+            <p>Pune-ţi masca! (<stage>Iordache îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Uf! Şi m-am magnetizat!... Lucrează magnetismul... Nu mai poci de cald!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(încet lui Iordache)</stage>
+            <p>Îl cunoşti?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(asemenea)</stage>
+            <p>Tânărul cu măseaua...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(văzându-i)</stage>
+            <p>A! Bună idee. (<stage>vine la ei vesel.</stage>) Mască, mă cunoaşteţi?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nu...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Îmi pare rău, v-aş fi rugat ceva...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet lui Nae)</stage>
+            <p>Să-i scoţi iar măseaua...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(Cantindatului, tare)</stage>
+            <p>Cu plăcere, neică, dar n-am ostromentele...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce ostromente?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Pentru măsea...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(aparte)</stage>
+            <p>Şi ăştia sunt bărbieri... (<stage>tare.</stage>) Aş! Măseaua nu o mai scoţ; i-am dat de leac: călduri cu magnetism de jamaică...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ala-i bun...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Uite ce vream eu să vă rog; eu am un frate mai mare în bal, şi mă cunoaşte, şi n-aş vrea să mă cunoască... Ce e de făcut?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ştiu eu? Şi eu aş vrea să nu mă cunoască cineva în bal: da' dacă te cunoaşte o dată...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu-i alta nimic de făcut decât să plecăm din bal...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nu! Nu voi să plec, voi să mai tachinez, voi să mă magnetizez bine! Am eu o idee...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ce idee?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Costumurile d-voastră sunt de la grandirop, ori particulere?...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Particulere.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Şi al meu tot particuler. Haide să le schimbăm, şi apoi să mai poftească Bibicul să mă puie faţă cu nenea Iancu...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Faină idee! Bravos! Haide!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Haide!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Haide la grandirop! (<stage>ies toţi trei în fund la stânga</stage>) la cabinet de toaletă! (<stage>Se aude mazurca în bal</stage>:<stage>Catindatul iese pe pasul de mazurcă.</stage>)</p>
+            <stage>PAMPON (în costum, intrând din bal)</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VIII</head>
+          <stage>PAMPON (în costum, intrând din bal)</stage>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Este adevărat că sunt tradus: Didina mă înşeală cu Bibicul, cu amantul femeii ăleia. Astă-seară, la cafenea, femeia aia mi-a lăsat un bilet; i-am cunoscut slova, e slova din biletul către Bibicul. Îmi scrie să viu aici, unde amantul ei are întâlnire cu Didina. Nu se poate, zic eu; Didina s-a dus la mătuşică-sa. Merg degrabă acasă, Didina nu e; la mătuşică-sa, Didina nu e. Mă-ntorc acasă, chem slujnica, îi trag două perechi ca la poliţie şi pe urmă o supun la intrigatoriu. Spune că coniţa a plecat în costum polinez... Aici în bal este! Cu el!... Cu Bibicul. A! Bibicule! Ai scos o femeie din minţi - femei! Ochi alunecoşi, inimă zburdalnică!... Astă dată n-ai să scapi... O să-ţi rup şalele... (<stage>bate în masă.</stage>) O mastică! (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CHELNERUL</speaker>
+            <stage>(d-afară)</stage>
+            <p>Vine!</p>
+            <stage>PAMPON, CRĂCĂNEL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IX</head>
+          <stage>PAMPON, CRĂCĂNEL</stage>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(din fund, dreapta)</stage>
+            <p>Nu pot să dau de nenea Iancu, şi l-am pierdut şi pe frate-său... (<stage>văzând pe Pampon.</stage>) Pe ăsta nu l-am cercetat... Acuma îl văz întâi. (<stage>Pampon bate iar în masă</stage>;<stage>Crăcănel coborând doi paşi, tare şi cu ton de sfidare melodramatică.</stage>) Eu sunt Bi-bi-cul...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(sărind)</stage>
+            <p>Bibicul!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da, Bibicul, nene Iancule! (<stage>îşi scoate masca</stage>) nu mai pofteşti?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(îşi scoate masca, fioros, gata să se repează)</stage>
+            <p>A! Care va să zică mă căutai, Bibicule?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(potrivindu-se să-şi ia vânt de scăpare)</stage>
+            <p>Da, nene Iancule...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(acelaşi joc crescendo)</stage>
+            <p>Şi eu te căutam, Bibicule! (<stage>se repede.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(dându-se pe după o masă)</stage>
+            <p>Să nu dai! Să nu dai! Că fac scandal... Chem poliţia... stai să ne desluşim!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Mişelule, să ne desluşim, 'ai? După ce mă ataci la sacrul meu amor; amăgeşti o fiinţă nevinovată... o femeie... femeie! Ochi alunecoşi, inimă zburdalnică!...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(urmându-şi jocul)</stage>
+            <p>Eu? Amăgesc o femeie?... Eu nu am amăgit nici o femeie; ele m-a amăgit pe mine... şi multe; nu ştiu nimic la sufletul meu.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Minţi!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu minţ... Nu da! Nu da! Că fac scandal. Să ne desluşim: e încurcătură la mijloc... Spune care femeie...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>O ştii bine, Didina...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu cunosc nici o Didină. Pe amanta mea o cheamă Miţa...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, pe amanta ta o cheamă Miţa; dar, ca un mişel ce eşti, nu te-ai mulţumit cu o amantă... Ai atacat şi pe amanta mea Didina... Ai nenorocit-o!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu-i adevărat!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Am dovezi: ai uitat la Didina un bilet de abonament la frizerie.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu-i adevărat! Eu nu mă raz cu abonament, eu mă raz à la carte.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Şi un bilet de la amanta ta...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>De la amanta mea? Îţi spui eu că e încurcătură.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Nu e nici o încurcătură, mişelule! Amanta ta, Miţa, îţi scrisese de miercuri că te aşteaptă, că Mangafaua pleacă la Ploeşti.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Miercuri?... Ploeşti?... Mangafaua?...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, şi tu, Bibicul, în loc să te duc la ea, o părăseşti şi te dai pe furiş la amanta mea, la Didina. (<stage>se repede.</stage>) O să-ţi rup oasele... Oasele am să ţi le rup!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(apărându-se)</stage>
+            <p>Stai! Să nu dai, că fac scandal! Mi-e frică de o nenorocire!... (<stage>îşi pune mâna la inimă să o astâmpere.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da! Să-ţi fie frică de o nenorocire; pentru că precum ai vrut tu să nenoroceşti pe Didina... o femeie! Ochi alunecoşi, inimă zburdalnică!... Asemenea să ştii că o să te nenorocesc eu pe tine. (<stage>se repede.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(acelaşi joc)</stage>
+            <p>Stăi! Stăi, omule, pentru Dumnezeu!... Miţa? Miercuri? Ploeşti? Mangafaua?... Dumnezeule! Am o bănuială... Arată-mi biletul... Eu am fost miercuri la Ploeşti...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>La Ploeşti?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da, la Ploeşti... Să fie cu putinţă?... Miţa? A opta?... Arată biletul!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Iacătă-l biletul! (<stage>Crăcănel se apropie să vază biletul</stage>;<stage>Pampon îl apucă cu mâna stângă, şi cu dreapta i-arată hârtia.</stage>) A! Vrei să mă-nşeli? (<stage>îl zguduie.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(sfârşindu-se de la inimă, se moaie din balamale, şi cade pe un scaun)</stage>
+            <p>Miţa! M-a tradus! Apă! Apă!... Mangafaua... eu... eu sunt!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Mangafaua?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da, Mangafaua!... Eu... A opta oară tradus! (<stage>ridicând mâinile la cer.</stage>) Este cu putinţă, domnule?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>A opta oară? (<stage>şade lângă el.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(dezolat)</stage>
+            <p>Nu ţi le mai spui p-alelalte, că sunt halimale, domnule, numai una să ţi-o spui, al şaptelea caz de traducere... în vremea războiului...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cu un muscal?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(plin de obidă)</stage>
+            <p>Nu m-ar fi costisit atâta să fi fost cu un muscal, fiindcă eu eram de la început pentru convenţie... ştii, muscalii luptau pentru cauza sfântă a eliberării popoarelor creştine de sub jugul semilunii barbare... Dar cu un neamţ, domnule!...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Cu un neamţ?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Fă-ţi idee, domnule, ce traducere!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei şi?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(plângând)</stage>
+            <p>Am plâns, cum plâng şi acuma, căci eu ţiu mult la amor; am plâns şi am iertat-o... pe urmă am prins-o iar, şi iar am plâns şi iar am iertat-o; nu de multe ori, dar ca des... aşa cam de vreo cinci, şase ori... Ce-mi ziceam eu? Vorba d-tale: femeie! Ochi alunecoşi...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Inimă zburdalnică!...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Până când, într-o seară, mă duc, domnule, ca de obicei acasă; intru în sală, deşchiz uşa iatacului... întunerec... "Te-ai culcat?" nu răspunde nimini. Inima-ncepe să bată rău; aprinz lumânarea, şi ce găsesc pe masă, domnule?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Un răvăşel: "Mache, m-am plictisit să mai trăiesc cu o rublă ştearsă ca dumneatale. Nu mă căuta; am trecut cu neamţul meu în Bulgaria..."</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>În Bulgaria? Ce căuta neamţul în Bulgaria?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(dezolat)</stage>
+            <p>Nu ştiu! Ei! Ce te faci, Mache?... de desperare, ce am zis eu? Daca n-am avut parte de ce mi-a fost drag pe lume, încai să mă fac martie al independenţii... şi m-am înrolat de bunăvoie...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Volintir?...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>În garda naţională... Ştii, pentru ca să-mi mai uit focul... (<stage>plânge.</stage>) Şi închipuieşte-ţi d-ta acum şi Miţa! (<stage>plânge</stage>) şi garda naţională s-a desfiinţat!...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Care va să zică este un Bibicul...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Se-nţelege; n-ai văzut biletul?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Care va să zică este un Bibicul, care devine în chestie de traducere şi pentru mine şi pentru d-ta...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Fireşte...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(cu tărie)</stage>
+            <p>Nu mai plânge, nu şade frumos, un volintir ca d-ta...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Dacă nu pot să mă stăpânesc! Mi-e naturelul simţitor...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Trebuie să-l găsim! Nu plânge, nu-i frumos! Un volintir! Trebuie să-l regulăm pe Bibicul... Auzi d-ta? Două!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Cum să-l găsim?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Îl găsesc eu, n-ai grije; eu ştiu politica poliţiei. Nu plânge: eşti volintir! Bibicul nostru e aici în bal... Didina mea este aici în bal...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Poate şi Miţa mea...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(repede)</stage>
+            <p>Adică nu! În sfârşit, ce-ţi pasă! Vino cu mine... Nici o vorbă să nu zici. Lasă-mă pe mine, să vezi cum îl înhaţ eu. 'Aide... nu plânge: eşti volintir! Pune-ţi masca, şi 'aide! (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Miţa? Miţa?... (<stage>hotărât.</stage>) Nu!... o mai iert acum, dar daca s-o mai întâmpla încă o dată... hotărât mă însor! (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Haide... nu, nu plânge, eşti volintir!... Şi nici un cuvânt! A! Bibicule! (<stage>ies amândoi în bal.</stage>)</p>
+            <p> </p>
+            <stage>MIŢA în costumul polonez al Didinii, apoi IORDACHE în costumul de cazac al lui Nae</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA X</head>
+          <stage>MIŢA în costumul polonez al Didinii, apoi IORDACHE în costumul de cazac al lui Nae</stage>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(scoţându-şi masca; vine din bufet)</stage>
+            <p>Ce dracul caută Crăcănel aici? Mă minte că se duce la Ploeşti... şi vine la bal... Nu cumva Mangafaua sare garduri?... Ori a simţit ceva?... Mi-am schimbat costumul la grandirop... Nici el, nici Iordache nu mă mai poate cunoaşte... Dar Nae... Năică unde-i?... Unde e pârlitul de Pampon? (<stage>Iordache intră.</stage>) Nae! Să vedem. (<stage>îşi pune masca şi urcă în fund spre stânga.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(venind din fund dreapta şi uitându-se în bal)</stage>
+            <p>A dracului istorie o să iasă... Crăcănel aici, Pampom aici, Miţa aici... Numai de-ar fi plecat Nae şi Didina...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(coborând)</stage>
+            <p>Nae! (<stage>îşi scoate masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>'Ai! (<stage>se întoarce.</stage>) Fugi că mor! Miţa? (<stage>vrea să plece.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(tăindu-i drumul)</stage>
+            <p>Unde pleci, mizerabile?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(îi face semn că merge în bal să danţeze)</stage>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu vrei să mă cunoşti, Năică, 'ai? Nu vrei să-mi vorbeşti? Fugi de mine, 'ai? (<stage>îl apucă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(se smuceşte şi vrea să plece)</stage>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(sărindu-i înainte)</stage>
+            <p>Mişelule, daca mai faci un pas, daca nu vorbeşti, te nenorocesc. A! Mizerabile! Ai gândit că daca mi-ai luat sticluţa cu vitrionul, nu o să mai găsesc alta! Ţi-am făgăduit să-mi răzbun şi...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei apoi, daca o iei pe coarda vitrionului, nu-mi place. (<stage>Miţa face un pas înapoi, el îşi scoate masca.</stage>) Nu sunt Nae; ce pofteşti? Sunt Iordache, na!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>A! Care va să zică v-aţi schimbat costumul, ca să mă jucaţi pe degete!... Şi a crezut domnule Nae că scapă cu atâta de mine?... Unde e Nae?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Trebuie să fi plecat de mult din bal; nu l-am mai văzut; şi a plecat cu cheia; pe mine m-a lăsat pe dinafară. (<stage>Pampon şi Crăcănel se arată în fund şi privesc scena.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>A! Mizerabilul! (<stage>se plimbă agitată.</stage>) Mizerabilul! (<stage>vede pe cei din fund şi-şi pune iute masca</stage>;<stage>Iordache asemenea.</stage>)</p>
+            <stage>ACEIAŞI - PAMPON şi CRĂCĂNEL scoţându-şi măştile</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA XI</head>
+          <stage>ACEIAŞI - PAMPON şi CRĂCĂNEL scoţându-şi măştile</stage>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(lui Crăcănel)</stage>
+            <p>Costumul polinez! E Didina cu Bibicul!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Cu Bibicul...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Pe el! (<stage>Iordache vrea să plece</stage>;<stage>Pampon îl apucă de o parte, Crăcănel de alta, şi-l readuc târâş în scenă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Unde te duci, Bibicule?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Stai să te judec eu, Bibicule...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(zbărându-se între amândoi)</stage>
+            <p>Nu mă cheamă Bibicul, mă cheamă Iordache!...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(aparte)</stage>
+            <p>Pampon! (<stage>trece repede lângă Pampon şi-l trage cu putere deoparte</stage>;<stage>încet.</stage>) Eşti aici? (<stage>îşi arată figura la o parte şi iar se maschează.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Persoana în chestie? Miţa?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(luptând să scape de Crăcănel, îşi scoate masca)</stage>
+            <p>Lasă-mă, domnule!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(ţinându-l din răsputeri)</stage>
+            <p>Stai aci! (<stage>se luptă amândoi.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(lui Pampon repede şi şoptit)</stage>
+            <p>Nu e Bibicul, este Iordache; Bibicul, traducătorul, este îmbrăcat turc.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(sărind)</stage>
+            <p>Turc! Turcul care ne-a tachinat adineaori?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Înţelege odată, domnule, că nu sunt Bibicul! Ce, eşti turbat? Vrei scandal?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(crud)</stage>
+            <p>Da! Vreau scandal...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(după ce a vorbit cu Miţa încet, trecând repede lângă Crăcănel, pe care îl apucă şi-l trage de mână în faţă; Crăcănel din smucitură scapă pe Iordache, care iese repede din bal dând cu tifla înapoi)</stage>
+            <p>Lasă-l! Nu-i ăsta! Am greşit. Bibicul e turcul, turcul care ne-a tachinat adineaori.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Turcul? 'Aide după el... Dar dama asta cine e?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>O damă...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>O damă? Bine... 'Ai după turc. (<stage>pleacă întâi punându-şi masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA<lb/>(încet lui Pampon)</speaker>
+            <p>Nu cumva să-i spui lui Crăcănel...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(asemenea)</stage>
+            <p>N-ai grije. 'Ai după turc! (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>'Aide după turc! (<stage>ies toţi trei în bal.</stage>)</p>
+            <stage>DIDINA în domino roşu, NAE în costumul de la început al Catindatului, vin din bufet; apoi IORDACHE, apoi CATINDATUL şi O MASCĂ tot din bufet</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA XII</head>
+          <stage>DIDINA în domino roşu, NAE în costumul de la început al Catindatului, vin din bufet; apoi IORDACHE, apoi CATINDATUL şi O MASCĂ tot din bufet</stage>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Da. (<stage>îşi scoate masca, Nae asemenea.</stage>) Când am venit adineaori în bal m-a cunoscut unul. El trebuie să fi fost, Crăcănel al tău... ştie că mă cheamă Didina Mazu, ştie de Pampon, ştie că-i zice lui Pampon "Conţina cu 5 Fanţi". În sfârşit, m-a cunoscut bine! D-aia mi-am schimbat costumul. Haide, Haide, Nae, să mergem; mi-e frică... (<stage>se aude cadrilul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Da, haide să mergem, e târziu.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(intrând din bal repede)</stage>
+            <p>Tot aici sunteţi? Pleaţi, plecaţi degrabă! Crăcănel, Pampon şi Miţa, toţi trei, vă caută să facă scandal... Fugiţi!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>'Aide! (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Dacă am putea să ieşim fără să mai dăm prin bal... (<stage>îşi pune masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu se poate, altă ieşire nu-i; haideţi! (<stage>îşi pune şi el masca.</stage>)'</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(cu o Mască pe care o aduce cam cu d-a sila la braţ; e cu chef, îşi scoate masca şi vorbeşte tare de tot)</stage>
+            <p>Aşa sunt eu... Uite şi prietenii.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(încet)</stage>
+            <p>Dracul să te ia!</p>
+          </sp>
+          <sp>
+            <speaker>MASCA</speaker>
+            <stage>(vrând să-i scape de la braţ)</stage>
+            <p>Lasă-mă.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Cine-i ăsta? (<stage>Nae, Iordache şi Didina vorbesc încet deoparte.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aşa sunt eu; când mă magnetizez, mi-e cald... Pfu!... Şi când mi-e cald, pfu! Tachinez... Trebuie să te fac un cadril. Iacă ne-am găsit vizaveaua...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Haide! (<stage>voi să plece.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce vă duceţi? Nu se poate să vă duceţi! (<stage>le taie drumul.</stage>) Trebuie să facem un cadril.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Mersi, drăguţă, ne ducem acasă...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Acasă? Cu costumul meu? Nu se poate. (<stage>strigă tare.</stage>) Dacă vă duceţi, dă-mi înapoi costumul, trebuie să-mi dai costumul, nu te las să pleci cu costumul...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(încet)</stage>
+            <p>Ne mai întârzie dobitocul!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(încet)</stage>
+            <p>Schimbă costumul şi pace!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet)</stage>
+            <p>Nu se poate, o să ieşim prin bal: Miţa cunoaşte costumul...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(încet)</stage>
+            <p>Ce e de făcut?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACH</speaker>
+            <stage>(încet)</stage>
+            <p>Spune-i că mai rămânem...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA<lb/>(încet)</speaker>
+            <p>Şi ne strecurăm binişor şi ieşim...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(tare)</stage>
+            <p>Dacă-i aşa, ştii ce? 'Ai să mai rămânem.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Să mai rămânem...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Să mai rămânem...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aşa da! 'Ai să facem cadrilul...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>În bal?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nu merg în bal.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Atunci aici; sunt magnetizat, am poftă de cadril, să-mi fac vânt. Unde e nenea Iancu să mă vază!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet lui Nae şi Didinei)</stage>
+            <p>Jucaţi-l o figură, două, până uită de costum, şi pe urmă o ştergem. (<stage>vorbesc încet toţi trei.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MASCA</speaker>
+            <p>Ţi-am spus că mi-e frică să nu mă vază bărbatu-meu... (<stage>luptă să scape.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ei! Parcă mie nu mi-e frică de nenea Iancu... (<stage>Masca se smuceşte, scapă şi fuge</stage>;<stage>uitându-se după ea.</stage>) Atâta pagubă! (<stage>merge şi invită la danţ pe Iordache.</stage>) Ei, 'aide! Ce faceţi? (<stage>îşi pune masca pentru danţ.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ei haide, de! (<stage>Se aude o figură ca cadrilului. Nae danţează cu Didina, Catindatul cu Iordache ca damă. La a doua parte a figurii contradanţului, apar în fund Pampon, Crăcănel şi Miţa mascaţi.</stage>)</p>
+            <stage>CEI DE SUS, PAMPON, MIŢA şi CRĂCĂNEL, apoi lume din bal</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA XIII</head>
+          <stage>CEI DE SUS, PAMPON, MIŢA şi CRĂCĂNEL, apoi lume din bal</stage>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Iaca turcul! A! În sfârşit. (<stage>toţi trei coboară melodramatic în faţa Catindatului</stage>;<stage>figura danţului se sparge</stage>;<stage>Didina, Nae şi Iordache se retrag deoparte spre uşa din fund în stânga şi ascultă</stage>;<stage>Miţa mai la spatele lui Crăcănel şi lui Pampon, care s-au oprit ţintă în faţa Catindatului înmărmurit</stage>;<stage>Miţa a scos din buzunar sticluţa şi pândeşte.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(încet)</stage>
+            <p>Pampon!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(încet)</stage>
+            <p>Miţa!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(încet)</stage>
+            <p>Crăcănel!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(fioros)</stage>
+            <p>Jos masca!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(tremurând)</stage>
+            <p>Pentru ce?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Până aici ţi-a fost, Bibicule! (<stage>stau amândoi gata să-l apuce.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Iartă-mă, nene Iancule, nu mai fac! (<stage>pune mâna să-şi scoaţă masca.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(care a pândit momentul, n-apucă el să-şi scoaţă masca, şi-i arunci sticluţa în ochi)</stage>
+            <p>Na, mizerabile! (<stage>fuge prin fund.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>A! Săriţi! Ajutor! (<stage>vrea să fugă.</stage>)</p>
+            <stage>(Pampon şi Crăcănel îl înhaţă şi încep să-i tragă; lume mascată şi nemascată vine fuga din fund la dreapta; Didina, Nae şi Iordache au şi dispărut în fund la stânga.)</stage>
+            <stage>(Cortina)</stage>
+            <stage>(Decorul actului întâi întocmai. Un moment, scena goală. Se aude o birje oprindu-se din goana mare în fund, apoi plecând peste un moment înapoi. Pe urmă se aude zgomotul unei chei deschizând broasca. Uşa se deschide de perete. În scenă întunerec adânc.)</stage>
+            <stage>DIDINA, NAE şi IORDACHE, în costumurile de la bal, mascaţi, intră gâfâind prin fund. - Apoi PAMPON, CRĂCĂNEL şi CATINDATUL de-afară</stage>
+          </sp>
+        </div>
+      </div>
+      <div type="act" org="uniform" sample="complete" part="N">
+        <head>ACTUL III</head>
+        <stage>(Decorul actului întâi întocmai. Un moment, scena goală. Se aude o birje oprindu-se din goana mare în fund, apoi plecând peste un moment înapoi. Pe urmă se aude zgomotul unei chei deschizând broasca. Uşa se deschide de perete. În scenă întunerec adânc.)</stage>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA I</head>
+          <stage>DIDINA, NAE şi IORDACHE, în costumurile de la bal, mascaţi, intră gâfâind prin fund. - Apoi PAMPON, CRĂCĂNEL şi CATINDATUL de-afară</stage>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>În sfârşit, am ajuns... Aprinde o lampă.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Ne urmăreşte, trebuie să ne urmărească. (<stage>Iordache caută pe dibuite chibriturile pe o masă din fund şi răstoarnă nişte sticluţe.</stage>) A! M-ai speriat! (<stage>Iordache aprinde lampa</stage>;<stage>lumină în scenă.</stage>) Uf! (<stage>îşi scoate masca</stage>;<stage>toţi şi le scot şi le aruncă fiecare pe câte-o masă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Iordache, scoate cheia d-afară, şi-ncuie degrab' pe dinăuntru. (<stage>Iordache execută ordinul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Sunt sigură că s-au luat după noi... O să fie un scandal mare... sunt nenorocită.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Lasă-i să vie, n-ai grijă; orişicum, avem pe unde scăpa.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA<lb/>(lui Iordache, care coboară)</speaker>
+            <p>Zici c-ai văzut dumneata când i-a aruncat cu vitrion în ochi?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Am văzut eu, fireşte. A strigat o dată: "Na, mizerabile!" Şi praf! (<stage>face gestul</stage>) şi pe urmă a fugit pân lume.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(desperat)</stage>
+            <p>Cum? Cum să scap de nebuna asta? Cum să mă cotorosesc de republicana? Vrea să mă bage în primejdie!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Ce scandal! O să mijlocească proces, poliţie, procuror, şi pe urmă la juraţi... O să ne dea pân gazete! Să afle la sigur Pampon... Sunt compromentată... Mi-ai omorât viitorul, d-le Nae.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Bine, soro, vina mea este? Păcatele mele!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Da, fireşte, vina d-tale... Dacă ştiai cu ce republicană apilpisită de Ploeşti ai de-a face, nu trebuie să mă-ncurci pe mine.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Bine, neică...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Nu trebuia să mă-ncurci pe mine.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(care a stat în fund la uşe şi a ascultat afară)</stage>
+            <p>St! Tăceţi!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>'Ai?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>ine o birje... (<stage>se aude o birje.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Nu v-am spus că ne-a luat urma...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Tăceţi! (<stage>toţi ascultă</stage>;<stage>birja se opreşte afară în fund.</stage>) S-a oprit aici...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Hait!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Ei sunt!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Tăceţi!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Să stingem lampa... (<stage>merge în vârful degetelor în fund.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(lui Iordache)</stage>
+            <p>Scoate cheia din uşe! (<stage>Iordache scoate cheia. Se aud de afară glasul lui Pampon, al lui Crăcănel şi al Catindatului.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(d-afară)</stage>
+            <p>E lumină! Sunt aici!</p>
+          </sp>
+          <sp>
+            <speaker>NAE, DIDINA şi IORDACHE</speaker>
+            <stage>(coborând în vârful degetelor, misterios)</stage>
+            <p>St!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(d-afară)</stage>
+            <p>Deşchideţi! (<stage>bătăi tari în uşe</stage>;<stage>Didina stinge lampa</stage>;<stage>întunerec</stage>).</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Deşchideţi! (<stage>bătăi mai tari.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Binişor! Încet!</p>
+          </sp>
+          <sp>
+            <speaker>TOŢI DE AFARĂ</speaker>
+            <p>Deşchideţi! (<stage>bătăi tari.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(toţi trei au coborât în faţă de tot)</stage>
+            <p>Ce e de făcut?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Să ieşim în curte pe fereastra din odăiţă... St!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(d-afară)</stage>
+            <p>Ori deşchideţi, ori sparg uşa!...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(d-afară)</stage>
+            <p>Deşchideţi!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(d-afară)</stage>
+            <p>Ori spargem uşa! (<stage>bătăi grozave.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(frângându-şi mâinile)</stage>
+            <p>Sunt mulţi! Sparg uşa; îmi vine rău; mor!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Să fugim.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>'Aide degrabă; e minunat! (<stage>având o inspiraţie.</stage>) Să poftească să spargă uşa... Tii! Mare politică mi-a dat în cap... să poftească să spargă!...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Sunt turbaţi! (<stage>se aud lovituri greţe în broasca uşii.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Lasă, că-i potolesc eu!...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>'Aide degrabă!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>'Aide! (<stage>toţi ies misterios şi degrabă prin uşa din dreapta.</stage>)</p>
+            <p>(Un moment scena goală; se aude lucrare la uşa din fund; uşa se cleatină, se zguduie şi în sfârşit cedează.)</p>
+            <stage>PAMPON, CRĂCĂNEL, CATINDATUL în costumurile de la bal, fără măşti. Catindatul e plin de pete negre pe tot obrazul; intrare fioroasă.</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA II</head>
+          <stage>PAMPON, CRĂCĂNEL, CATINDATUL în costumurile de la bal, fără măşti. Catindatul e plin de pete negre pe tot obrazul; intrare fioroasă.</stage>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>A tins lampa!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Cine are un chibrit?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(se descheie la costum şi scoate dedesubt din jiletcă un chibrit de ceară; îl aprinde şi îl ţine în mână)</stage>
+            <p>Aici este la bărbierul unde mi-a scos măseaua nevinovată!... De-aia, adineaori, în bal, zicea să-mi mai scoaţă una...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(care, la lumina chibritului, a dat ocol cu ochii în scenă)</stage>
+            <p>Nu mai încape vorbă, este aici. Aicea este Bibicul! (<stage>crud.</stage>) Am să-l sfâşiu!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(scrâşnind din dinţi şi zguduind din cap)</stage>
+            <p>Cu dinţii! Cu dinţii am să-l rup! După ce e caz de traducere dublă, ne mai duce din încurcătură în încurcătură; îşi bate joc de noi... Cu dinţii!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(arătând pe Catindatul, care schimbă chibriturile, - când se stinge unul aprinde altul)</stage>
+            <p>Toată încurcătura devine de la dumnealui...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>De la mine?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da, de la dumneata...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Cum de la mine?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Se înţelege...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Pentru ce ţi-ai schimba costumul? Pentru ce ai luat costumul turcului!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(lui Crăcănel)</stage>
+            <p>Nu mi-ai spus d-ta că e nenea Iancu în bal!... (<stage>schimbă chibritul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei! Ş-apoi?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Cum, ş-apoi? Dacă mă prindea nenea Iancu în bal, mă lua la Ploeşti, îmi omora cariera de la percepţie.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Şi cel puţin dacă am fi siguri, sigurisimi că-i aici!... (<stage>către Catindatul</stage>) pentru că d-ta ca un zevzec ce eşti...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Pentru ce mă faci zevzec, d-le?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Pentru că daca nu tachinai, nu se-ntâmpla ce s-a-ntâmplat...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce să-ţi fac? Nu ţi-am spus că nu mă pot stăpâni? Când mă magnetizez, eu tachinez straşnic... Şi nenea Iancu tachinează când are magnet, toţi ai noştri tachinează... da' nu ca mine.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Vezi! Vezi că eşti zevzec, când îşi spui eu că eşti zevzec...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Pentru ce mă faci zevzec, d-le?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Are dreptate... pentru că d-ta ţi-ai schimbat costumul cu o mască, care nu ştii măcar ce fel de persoană e.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Daca nu şi-a scos masca? Nu ţi-am spus că vorbea de măsele?... Era bărbier.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Eu vă spui că sunt aici. Nu ne-am ţinut noi după birja lor? Birja lor nu s-a oprit aici? Nu s-a-ntors înapoi? N-am oprit noi birjarul care-i adusese? Nu s-a-ntors el cu noi şi ne-a arătat că aici i-a lăsat, pe doi bărbaţi şi o damă?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Aici sunt, aici, ascunşi. Trebuie să fie aici o lumânare, o lampă... Cine a fost aici, pentru ce a fugit când am venit noi?... Că a fost cineva aici.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(aprinzând alt chibrit şi mergând la masa unde sunt două lămpi)</stage>
+            <p>Aha! Iacătă o lampă...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Aprinde-o!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(pune mâna pe sticlă, o scoate şi o aruncă jos)</stage>
+            <p>Pfu! Frige!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Ai spart ţilindrul!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>M-a fript!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(repede)</stage>
+            <p>Vezi! Vezi! E stinsă acuma de curând: a stins-o adineaori când eram noi la uşe...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(aprinde alt chibrit şi apucă cu mâna învelită în pulpana hainei ţilindrul de la o altă lampă, pe care o aprinde. Lumină în scenă. - Vede o mască pe masă.)</stage>
+            <p>Iacătă o mască!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(la altă masă)</stage>
+            <p>Aici încă una!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(găsind a treia mască)</stage>
+            <p>Încă una! Trei! Sunt aici! (<stage>examinând masca.</stage>) Este scoasă acum de pe obraz... e caldă... e asudată! (<stage>o miroase tare.</stage>) Asta e masca Didinii! I cunosc mirosul... Să-i căutăm; aici sunt... (<stage>miroase încă o dată tare masca.</stage>) A! A! Data asta, Bibicule, nu mai scapi!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Trebuie să punem mâna pe el!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Trebuie să-mi dea costumul meu!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(fioros)</stage>
+            <p>Am să-l sfâşiiu.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(scrâşnind dinţii)</stage>
+            <p>Cu dinţii am să-l rup!... Cu dinţii!...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(punând mâna la falcă)</stage>
+            <p>Eu nu pot să-l rup cu dinţii, dar trebuie să-mi dea costumul meu! (<stage>Toţi caută în toate părţile, pe sub mobile, pe care le răstoarnă, pe după paravan.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(văzând uşa din dreapta)</stage>
+            <p>O uşe! P-aici! (<stage>dă cu piciorul tare în uşe, uşa se deschide, el se repede afară în odăiţă, urmat de Crăcănel şi Catindatul</stage>;<stage>se aude răsturnare de mobile în dreapta.</stage>)</p>
+            <stage>IORDACHE în costum de oraş, IPISTATUL, doi SERGENŢI DE NOAPTE, apoi PAMPON, CRĂCĂNEL şi CATINDATUL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA III</head>
+          <stage>IORDACHE în costum de oraş, IPISTATUL, doi SERGENŢI DE NOAPTE, apoi PAMPON, CRĂCĂNEL şi CATINDATUL</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(intrând şi oprindu-se în uşe, arată dezordinea din prăvălie Ipistatului; cu ton dezolat)</stage>
+            <p>Iacă, domnule, iacă în ce hal e prăvălia!...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(grav)</stage>
+            <p>Nu-i niminea.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Pesemne a fugit!... (<stage>se aude alt zgomot în odaie.</stage>) Scotocesc în odaie! Să nu fugă pe fereastră!...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(sergenţilor)</stage>
+            <p>După ei degrab'! (<stage>Sergenţii, Ipistatul şi Iordache se reped spre odaie</stage>;<stage>în momentul acesta intră Crăcănel şi Pampon.</stage>) Staţi! Puneţi mâna pe ei! (<stage>Sergenţii înhaţă cu putere unul pe Pampon şi altul pe Crăcănel.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Poliţia!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(care a scos şi el capul pe uşe, să intre)</stage>
+            <p>Poliţia! (<stage>îşi trage repede capul înapoi</stage>;<stage>Iordache merge repede în odaie.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(zbătându-se în mâinile sergentului)</stage>
+            <p>Pentru ce, domnule?</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(bătând din picior şi din mână, aspru)</stage>
+            <p>Vorrrbă!... Ce căutaţi noaptea în prăvăliile negustorilor?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Căutam o persoană...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, o persoană...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(acelaşi joc, mai aspru)</stage>
+            <p>Vorrrbă! Ce persoană?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Pe Bibicul.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Pe Bib...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(acelaşi joc, şi mai aspru)</stage>
+            <p>Vorrrbă!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(intrând repede din dreapta, cu gura mare)</stage>
+            <p>Cum Bibicul, ce Bibicul, care Bibicul, domnule? Mofturi! Aici nu şade Bibicul... ştie d. subcomisar cine şade aicea. Ia-i, d-le subcomisar, sunt pungaşi!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(ţinut strâns de sergent)</stage>
+            <p>Eu pungaş?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Noi pungaşi! Aşa umblă pungaşii îmbrăcaţi?</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(şi mai aspru, acelaşi joc crescendo)</stage>
+            <p>Vorrrbă!... Da' oamenii de treabă aşa umblă?... Pe unde aţi intrat?...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Pe uşe.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, pe...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(foarte aspru)</stage>
+            <p>Vor... vorrrbă!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da, pe uşe. Da' întreabă-i d-ta cum a intrat pe uşe. A spart-o, d-le. Eu eram în odăiţă dincolo; am simţit că sparge cineva uşa: de frică să nu m-apuce în casă să mă omoare, am ieşit pe dincolo pe fereastră ca să dau de ştire la secţie...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu-i adevărat!... Noi...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Am văzut...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(aspru rău de tot)</stage>
+            <p>Vor... vorrrbă! (<stage>sergenţilor.</stage>) - Haide! Luaţi-i! La secţie! (<stage>sergenţii împing pe Crăcănel şi Pampon.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>D-le subcomisar, îmi pare rău... (<stage>sergentul îl împinge.</stage>) Nu! Nu da brânci, domnule!</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(grozav de aspru)</stage>
+            <p>Vorrrbă! (<stage>sergenţilor.</stage>) Haide odată!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(împins de sergent)</stage>
+            <p>Da, da' nu scapă Bibicul cu asta. (<stage>sergentul îl împinge.</stage>) Nu! Nu da brânci, domnule!</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(scrâşnind din dinţi)</stage>
+            <p>Vorrrbă! La secţie! (<stage>sergenţii scot, prin fund, în brânci pe Pampon şi pe Crăcănel.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(merge după ei până la uşe; cum au ieşit, el se întoarce repede înapoi, şi cu tonul foarte dulce)</stage>
+            <p>Iordache... ştii de ce venisem eu?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Cum să nu ştiu, daca ţi-am făcut denunţul să-i iei...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <p>Nu, ştii aşa vine vorba... Uite ce vream să te rog eu: am o listă de lotărie. (<stage>scoate o listă mare.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Iar?</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <p>Un franc numărul... mai sunt numai trei numere!...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ce?</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <p>Un portabac cu muzică: are două cântece. (<stage>scoate portabacul şi-l face să cânte.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Bine, ăsta parcă-l mai puseseşi o dată la lot; aveam şi eu un număr.</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <p>Da, s-a şi tras, la Anul Nou.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei?</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <p>Am câştigat-o; oprisem şi eu un număr... Acu o pun iar, voi să-mi mai încerc norocul... Mă rog ţie, nu mă refuza, pune şi tu unul... să le completăm odată...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(îi dă un franc şi scrie)</stage>
+            <p>Iaca.</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(strânge lista, o bagă în buzunar şi plecând)</stage>
+            <p>Mersi, neică.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(după el)</stage>
+            <p>Ia vezi, nu da drumul negustorilor ălora, până nu venim eu ori d. Nae; să vedem, să nu ne fi luat ceva din prăvălie...</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(oprindu-se în uşe cu intenţie foarte fină)</stage>
+            <p>Vor... vorrrbă! Las' pe mine, îi regulez eu... (<stage>iese învârtindu-şi muzica.</stage>)</p>
+            <stage>IORDACHE singur, apoi CATINDATUL</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IV</head>
+          <stage>IORDACHE singur, apoi CATINDATUL</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Haha! I-am lucrat. Să vedem cum are să prinză politica; eu i-am băgat, el să-i scoaţă; eu i-am regulat, el să-i scape... Până una alta, să vedem de urâtul de dincolo. (<stage>merge la uşa din dreapta.</stage>) Haide, vino!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(foarte sfios intră)</stage>
+            <p>S-a dus?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>S-a dus...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(tremurând)</stage>
+            <p>Dacă mă ducea la poliţie?! Să afle nenea Iancu că m-a dus la poliţie!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Care nenea Iancu?...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Nu ţi-am spus? Nenea Iancu, bogasierul, din Ploeşti... Închipuieşte-ţi, domnule, să afle nenea Iancu că m-a dus la poliţie!...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Las-o asta; te mai doare obrazul?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>De ce? De măsea? Aş! Am magnetizat-o!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Nu de măsea, de vitrion...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Ce vitrion?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Care ţi l-a aruncat în ochi la bal.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Mi-a aruncat şi cu vitrion? Cine mi-a aruncat cu vitrion?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Dama, de. Uite, eşti plin de pete...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aş! Aia a fost cerneală violentă, am cunoscut-o după miros; m-a stropit şi-n gură; îi cunosc gustul: cerneală violentă... Ştii, la noi la percepţie, când pic cerneală pe concept,... o dată cu limba! (<stage>scoate limba şi arată cum linge hârtia</stage>) o şterg... Da' închipuieşte-ţi d-ta, domnule, să afle nenea Iancu că m-a dus la poliţie!...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Cine strică? D-ta. Ce cauţi să te amesteci cu vagabonţii, cu zamparagiii, cu pungaşii... să spargi uşi şi să intri noaptea în prăvăliile oamenilor?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Zicea că să găsim pe Bibicul...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Mofturi!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Bibicul, care mi-a luat în bal costumul meu şi mi l-a dat pe ăsta de turc... (<stage>dezolat.</stage>) Trebuie să-l găsesc, să-mi dea costumul meu; trebuie să mi-l dea... nu pot să plec fără costumul meu.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Stăi, domnule, ce pofteşti d-ta? Costumul? Ţi-l găsesc eu, ţi-l dau eu mâine, poimâine, îţi dau eu garanţie, să m-apuci pe mine, na! Ce mai vrei?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(foarte dezolat)</stage>
+            <p>Îmi trebuie acuma... Cu costumul ăsta de turc nu mă pot duce să-mi iau hainele mele. Nenea Iancu m-a căutat la bal, o să mă caute, o să m-aştepte acasă... Cum să dau cu ochi cu nenea Iancu aşa turc?... Mă ia la Ploeşti, îmi zdrobeşte cariera de la percepţie.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Aş! Vorbă!</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Şi nu-mi poci lua înapoi hainele nemţeşti, nu mă poci duce mâine dimineaţă la canţilerie...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ei, o să lipseşti o zi, ce lucru mare! Tot zici că nu primeşti leafă...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Mă destituie, nu se poate să lipsesc.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ascultă-mă pe mine, măi omule; 'ai mai întâi să tragem clopoţelul la o spiţărie; trebuie să-ţi cureţi obrazul; nu se poate să te duci în lume aşa pârlit...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>E rău de tot?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Eşti ciuruit; numai în albul ochilor n-ai...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Îi închisesem de frica lui nenea Iancu... are palmă grea...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Vino degrabă cu mine; cunosc eu un spiţer care scoate cerneala cum scoatem noi măselele, odată...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Aoleo!</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Vino degrabă, nu mai sta; poate te aşteaptă nenea Iancu. (<stage>suflă în lampă şi-l ia pe Catindatul să plece cu el. Întunerec.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>'Aide... (<stage>ieşind.</stage>) Dar fă-ţi idee, domnule, să afle nenea Iancu că m-a dus la poliţie!... (<stage>ies, închizând bine uşa.</stage>)</p>
+            <stage>MIŢA singură în costumul de la bal, apoi DIDINA asemenea</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA V</head>
+          <stage>MIŢA singură în costumul de la bal, apoi DIDINA asemenea</stage>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(venind din dreapta pe dibuite)</stage>
+            <p>Am găsit fereastra din odăiţă deschisă şi am intrat... L-am nemerit? Ori nu l-am nemerit? Da, trebuie să-l fi nemerit. Da, sunt o cremenală... (<stage>se trage pe dibuite după paravan.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Mare istorie!... Am îngheţat aşteptând afară în frig: a trebuit să intru înapoi pe fereastră. Nae trebuie să vie numaidecât cu Pampon. Trebuie să pândesc când or intra aici, să ies pe fereastră şi pe aici mi-a drumul. Să poftească pe urmă d. Pampon acasă în costum de bal... să-l judec eu...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Auz mişcând... e cineva...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>S-aprinz o lampă... (<stage>merge pe dibuite la masa cu lămpile.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Desigur e cineva...</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(a găsit chibriturile şi aprinde lampa)</stage>
+            <p>Aşa...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>A! (<stage>aparte.</stage>) O femeie! Dama de verde! (<stage>tare.</stage>) A! În sfârşit!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(dând un ţipăt de surprindere, se întoarce)</stage>
+            <p>A! (<stage>aparte.</stage>) O femeie! E republicana!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(fierbând)</stage>
+            <p>V-aţi speriat? Pardon! Mă recomand! Miţa Baston.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(cu contenenţă)</stage>
+            <p>Mersi! Şi eu Didina Mazu.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(jocul crescendo)</stage>
+            <p>Ce cauţi aici, madamo?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(cu un ton mai sus)</stage>
+            <p>Da' d-ta ce cauţi aici, madamo?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(jocul crescendo)</stage>
+            <p>Eu sunt la amantul meu!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(foarte de sus)</stage>
+            <p>Şi eu sunt la amantul meu!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(izbucnind)</stage>
+            <p>La amantul d-tale?... Amantul d-tale... a fost... era... este... amantul meu! D-ta, ca o infamă, mi l-ai răpit! (<stage>luând o poză de atac şi cu tonul tragic.</stage>) Una din noi două trebuie să moară!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(pregătindu-se de luptă)</stage>
+            <p>Să vedem care... Poftim!</p>
+            <p>(Miţa se repede turbată la Didina, care se repede şi ea şi o întâmpină. Amândouă ţipă şi se încleştează, spumând, una de alta.)</p>
+            <stage>ACELEAŞI – NAE</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VI</head>
+          <stage>ACELEAŞI – NAE</stage>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(apărând în fund, rămâne o clipă încremenit)</stage>
+            <p>Să nu daţiu la oglinzi, că sunt cu chirie (<stage>apoi repezindu-se între cele două femei, le descleştează şi le împinge pe una într-o parte, pe alta într-alta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(căzând d-a-ndăratele pe un scaun şi leşinând)</stage>
+            <p>A! A! A! (<stage>nervi.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(acelaşi joc)</stage>
+            <p>A! A! A! (<stage>nervi.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Asta e curat ca la "Norma"... Acu-i acu!... (<stage>se repede şi le zguduite când pe una când pe cealaltă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(deşteptându-se brusc)</stage>
+            <p>Unde-i republicana?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(asemenea)</stage>
+            <p>Unde-i infama? (<stage>se repede iar una spre alta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(oprindu-le la mijloc)</stage>
+            <p>Iar? Bre, femeilor, veniţi-vă-n fire. Vine Pampon! Vine Crăcănel!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Pampon?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Crăcănel?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Da, Pampon şi Crăcănel. I-am scăpat eu de la secţie, unde erau închişi! Am pus la cale toate... Drept mulţumire, Pampon, Crăcănel şi Ipistatul vin aici acum să facă cinste; s-a dus să cumpere vin şi mezeluri. Nu mai e vreme de mofturi! (<stage>Didinii.</stage>) Vrei să te lase Pampon?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(repede)</stage>
+            <p>Ba nu! (<stage>Didina merge în fund şi ascultă afară.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(Miţii)</stage>
+            <p>Vrei să-l laşi pe Crăcănel?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(tristă)</stage>
+            <p>Ah! L-aş lăsa pe Mangafaua pentru tine... dar nu pot; trebuie mai întâi să-mi fac o carieră...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Fă-ţi-o!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Am fost să intru la telegraf.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Electrică ploeşteancă! Ei, şi?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nu m-a primit...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Pentru ce?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Zice că n-am încă vârsta... (<stage>Didina coboară.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Vezi! Apoi nu e mai bun Crăcănel, că nu mai întreabă de vârstă? 'Aide, 'aide! Fiţi fete cuminte, că pe urmă mă supăr pe amândouă...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Dar Crăcănel a aflat... Mangafaua ştie tot...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nu a aflat nimic, nu ştie nimic.</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>A aflat de la Pampon.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Nimic!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>Şi Pampon ştie bine...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Apoi daca n-ascultaţi... Trebuie să vă spun cum i-am liniştit, ca să ştiţi şi voi ce să spuneţi, cum s-o potriviţi. 'Aide, să nu dea peste noi aici. (<stage>le apucă pe amândouă cu câte o mână şi porneşte cu ele spre dreapta</stage>;<stage>Iordache intră.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(din fund)</stage>
+            <p>Vin! Sunt la colţ!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>La colţ? 'Aideţi să punem odată la cale încheierea comediei ăştia... (<stage>Nae, Didina şi Miţa ies, dreapta.</stage>)</p>
+            <stage>IORDACHE, apoi PAMPON şi CRĂCĂNEL, cu butelci, pachete de mezeluri şi franzele la subsuoară, apoi NAE</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VII</head>
+          <stage>IORDACHE, apoi PAMPON şi CRĂCĂNEL, cu butelci, pachete de mezeluri şi franzele la subsuoară, apoi NAE</stage>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(căzând obosit pe un scaun)</stage>
+            <p>De azi-dimineaţă!... De azi-dimineaţă, asta merge într-una aşa! Ce goană! Ce goană turbată! Doamne! Doamne, isprăveşte odată istoria asta! Sunt trei după douăsprezece şi mă leşin de somn şi d-a-mpicioarele!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(intrând cu Crăcănel)</stage>
+            <p>Haha! Domnule Iordache...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Ei! Domnule, ai văzut că nu suntem pungaşi... Stăpânul d-tale, d. Nae, în persoană, ne-a scos de la secţie.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da, domnule Crăcănel...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Nu mă cheamă Crăcănel; mă cheamă Mache Razachescu. (<stage>pune ce a adus pe masă.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(acelaşi joc)</stage>
+            <p>Foarte urât din partea d-tale să te porţi astfel! Noi venisem aici pentru Bibicul, nu pentru ce credeai d-ta: nu avem de un astfel harahterul...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Măcar d-ta să fii ala, să găseşti noaptea despre ziuă în prăvălia d-tale...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Eu n-am prăvălie, domnule: eu nu sunt cupeţ, sunt particoler...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Ştiu, da' zi că ai... să găseşti trei oameni necunoscuţi...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Aşa e, bine zici, trei. Ce s-a făcut urâtul ăla micul... pârlitul... fratele lui nenea Iancu bogasierul? Pe el pentru ce nu l-a luat la secţie?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Pesemne a fugit ca un laş...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Iaca, mie nu-mi pare rău de ce s-a întâmplat, dacă oi câştiga portabacul cu muzică.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(repede)</stage>
+            <p>Aţi pus şi d-voastră la lotăria ipistatului?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Mai era două numere: unul l-am pus eu, şi unul amicul.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(aparte)</stage>
+            <p>S-a complectat? A murit francul!...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Domnul Nae unde este?</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Mi se pare că e dincolo în odaie, să vedem... (<stage>merge pe după paravan</stage>;<stage>către Nae, care intră din dreapta</stage>). Sunt aici, te aşteaptă. Aşa-i că a prins bine politica mea? Femeile s-au dus?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Da, dar o să se întoarcă numaidecât; am regulat bine chestia.</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Cum?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ai să vezi... treci la pod în faţă, şi aşteaptă-le... (<stage>trece în scenă</stage>;<stage>Iordache iese repede în fund.</stage>) Ehei! Salutare, neică!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(vesel, strângându-i mâna)</stage>
+            <p>Salutare şi frăţie!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(vesel, dar solemn, îl apucă de mână)</stage>
+            <p>Mersi, neică; eşti un bărbat, drept să-ţi spui, nu că eşti frizer, dar eşti galant.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da, foarte galant!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Ne-ai făcut şi mie şi prietinului mare bunătate: amândoi o să-ţi rămânem foarte recunoscători de câte ai făcut pentru noi. (<stage>îi strânge mâna călduros.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>N-aveţi de ce! Îmi pare rău... datoria: se-ntâmplase la mine-n casă...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>'Aida de! Nu! Ce-i drept e drept, neică, ai făcut mult pentru noi...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(vesel)</stage>
+            <p>Şi care va să zică Bibicul, era d-ta, 'ai? Bată-te să te bată!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Vezi bine!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Şi Mangafaua nu eram eu?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Aş! Mangafaua era unchiul fetii, epitropul...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Bată-te să te bată. (<stage>râde.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Şi închipuieşte-ţi, neică Năică, daca te întâlneam azi-dimineaţă, când am venit întâi aici, îmi spuneai numaidecât cum a devenit chestia de ai înfăşurat borcănelele cu pomadă, care le-a cumpărat de aici Didina, în ale două bilete... şi ne lămuream, frate.. Dar eu, prost! Să nu-mi dea în gând să întreb măcar pe Didina... Biata Didina!...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(aparte)</stage>
+            <p>Auzi d-ta! Şi eu gândeam că e biletul Miţii...</p>
+            <stage>ACEIAŞI - IPISTATUL - apoi IORDACHE, apoi DIDINA şi MIŢA, amândouă în haine de oraş</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA VIII</head>
+          <stage>ACEIAŞI - IPISTATUL - apoi IORDACHE, apoi DIDINA şi MIŢA, amândouă în haine de oraş</stage>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(intrând repede din fund)</stage>
+            <p>S-a tras lotul... Acum l-am tras!...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Ei?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Ştiu cine l-a câştigat.</p>
+          </sp>
+          <sp>
+            <speaker>IPISTATUL</speaker>
+            <stage>(cu multă naivitate)</stage>
+            <p>Iar eu, domnule, închipuieşte-ţi noroc!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(aparte)</stage>
+            <p>A murit francul!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Tii! Păcat!</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Rău îmi pare. (<stage>se aude uruitul unei birji, care se opreşte în fund.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>St! Tăceţi, mi se pare că s-a oprit aici o birjă...</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Da...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(venind repede din fund)</stage>
+            <p>Două dame, vin două dame.</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(naiv)</stage>
+            <p>Două dame? Ce să caute la minte două dame?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Două dame?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Nu cumva?</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(intrând furioasă prin fund)</stage>
+            <p>A! D-le Iancule, în sfârşit! (<stage>Iordache, Ipistatul şi Nae la o parte vorbesc încet.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Didina! (<stage>Miţa intră furioasă şi se opreşte cu braţele încrucişate în fund.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Miţa? (<stage>caută să se ascunză undeva.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(coborând la el)</stage>
+            <p>Nu te-ascunde, bibiloiule! Gândeai că nu o să te prinz, 'ai? De când te pasc, gândeşti? Aici e la Ploeşti, 'ai? În costum de bal, 'ai? (<stage>Miţa lângă Crăcănel îl judecă încet şi-l zguduie</stage>;<stage>Nae după paravan</stage>;<stage>Iordache şi Ipistatul cară mezelurile şi butelcile în odaia din dreapta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>De azi-dimineaţă de când ai plecat de acasă, câte ceasuri sunt? Ştii?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Îţi spui eu acasă ce a fost...</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Miţo, Miţo, îşi spui acasă...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Nici un cuvânt mai mult! 'Aide!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <p>'Aide acasă!</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Frate, a fost încurcătură, înţelege.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Da, o încurcătură...</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(ieşind de după paravan)</stage>
+            <p>Se înţelege c-a fost o încurcătură, cum se-ntâmplă întotdeauna în carnaval... Ei! D-ale carnavalului! Să-mi daţi voie, coconiţelor, să vă isplic eu încurcătura pe larg la masă. (<stage>Crăcănel şi Pampon foarte mulţumiţi.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>FEMEILE</speaker>
+            <p>La masă?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Da, la masă. Noi, între bărbaţi, pusesem de gând să îmbucăm ceva aicea la noi. Dincolo e cald, masa pusă aşteaptă... Crez că nu o să capăt un refuz?</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(cu tonul de refuz, înţepată)</stage>
+            <p>Mersi, musiu, de invitaţie.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(stăruitor)</stage>
+            <p>Miţo, să mă vezi cu ghete de brunel cu bizeţ pe catafalc!... (<stage>încet.</stage>) Frizer, frizer, da' nu ştii ce băiat galant e.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(Didinii)</stage>
+            <p>Dacă mă iubeşti...</p>
+            <stage>ACEIAŞI - CATINDATUL, curat la faţă, tot în costul de turc</stage>
+          </sp>
+        </div>
+        <div type="scene" org="uniform" sample="complete" part="N">
+          <head>SCENA IX</head>
+          <stage>ACEIAŞI - CATINDATUL, curat la faţă, tot în costul de turc</stage>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(intrând din fund triumfător)</stage>
+            <p>M-a curăţat spiţerul!</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(încet)</stage>
+            <p>Cine-i ăsta?</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <stage>(tot aşa)</stage>
+            <p>Lasă că-ţi spui eu... (<stage>Didina râde.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(Miţii)</stage>
+            <p>Ăstuia i-a dat o nebună la bal cu o sticluţă cu doftorii în ochi!</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(repede)</stage>
+            <p>Şi nu l-a ars?</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>Aş! Era un fel de cerneală violentă. (<stage>Didina trece lângă Nae</stage>;<stage>Miţa şi toţi ceilalţi se grupează în jurul Catindatului şi-l examinează.</stage>) Le-a scos toate?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Toate, uite-te. Îţi dau un franc pe una...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(aparte)</stage>
+            <p>M-a-nşelat spiţerul... mai bine!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(încet Didinii)</stage>
+            <p>Mâine seară la cinci.</p>
+          </sp>
+          <sp>
+            <speaker>DIDINA</speaker>
+            <stage>(asemenea)</stage>
+            <p>Bine!</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(asemenea)</stage>
+            <p>Nu bine, negreşit (<stage>Didina trece şi ea să examineze pe Catindatul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>Nu se mai cunoaşte de loc...</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Da' de loc. (<stage>trece în odaia din dreapta.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Închipuieşte-ţi să mă fi văzut nenea Iancu în halul ăla... (<stage>Toţi îl examinează.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <stage>(încet lui Nae)</stage>
+            <p>Aţi şoptit? Ce ţi-a şoptit? Ce i-ai şoptit?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <stage>(asemenea)</stage>
+            <p>Eşti nebună? Iar începi?... Aşteaptă-mă mâine la opt seara...</p>
+          </sp>
+          <sp>
+            <speaker>MIŢA</speaker>
+            <p>Da... (<stage>se duc amândoi şi ei lângă Catindatul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <stage>(uitându-se în ceafa Catindatului)</stage>
+            <p>Aha! Iaca una a rămas în ceafă: adu francul...</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Las-o aia; aia e de la noi de la percepţie; ştii, am obicei, după ce scriu, şterg condeiul; îl dau prin păr. (<stage>face gestul la ceafă</stage>;<stage>toţi râd.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <stage>(venind din dreapta)</stage>
+            <p>Daca poftiţi, masa e gata.</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <p>Masa? Care va să zică (<stage>lui Nae</stage>) ne-ncurcăm iar?</p>
+          </sp>
+          <sp>
+            <speaker>NAE</speaker>
+            <p>Cu plăcere, neică.</p>
+          </sp>
+          <sp>
+            <speaker>PAMPON</speaker>
+            <p>'Aida la masă.</p>
+          </sp>
+          <sp>
+            <speaker>CRĂCĂNEL</speaker>
+            <p>'Aida! (<stage>toţi au pornit spre dreapta</stage>;<stage>Didina cu Pampon, Miţa cu Crăcănel, Nae cu Catindatul, Iordache cu Ipistatul.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(punând repede mâna la falcă, dă un ţipăt)</stage>
+            <p>Ai! (<stage>se opreşte şi se întoarce în loc</stage>;<stage>toţi fac asemenea.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>TOŢI</speaker>
+            <p>Ce e?</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(umblând agitat)</stage>
+            <p>Pfu! Pfu! Pfu! Iar m-a apucat; dar rău, rău de tot (<stage>cătră Iordache, hotărât.</stage>) Ştii s-o scoţi? Scoate-o. (<stage>Toţi privesc pe loc.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>IORDACHE</speaker>
+            <p>Lasă că-i ştiu eu leacul ei; eu i sunt popa... de la Matei citire... (<stage>se repede la masa din fund, ia o pereche de foarfeci mari şi vine cu ele încruntat, clănţănindu-le ca la tuns</stage>;<stage>Catindatului.</stage>) Şezi! (<stage>Catindatul şade</stage>;<stage>Iordache cu foarfecele clănţănind îl ameninţă să i le bage pe gât.</stage>)</p>
+          </sp>
+          <sp>
+            <speaker>CATINDATUL</speaker>
+            <stage>(ridicându-se înseninat)</stage>
+            <p>Mersi, neică, mi-a trecut! (<stage>toţi pornesc veseli şi râzând spre dreapta.</stage>)</p>
+            <stage>(Cortina)</stage>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

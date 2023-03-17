@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>El Arte de la Guerra</dc:title>
+    <dc:description/>
+    <dc:subject/>
+    <meta:keyword/>
+    <meta:initial-creator>Sun Tzu</meta:initial-creator>
+    
+    <meta:creation-date>2022-09-10T10:36:26Z</meta:creation-date>
+    <dc:date>2022-11-04T12:02:34.533416528</dc:date>
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT50S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="46" meta:paragraph-count="457" meta:word-count="14108" meta:character-count="84909" meta:non-whitespace-character-count="71253"/><meta:user-defined meta:name="contributor">calibre (3.4.0) [https://calibre-ebook.com]</meta:user-defined><meta:user-defined meta:name="date">2020-01-11T23:00:00+00:00</meta:user-defined><meta:user-defined meta:name="identifier"/><meta:user-defined meta:name="language">es</meta:user-defined><meta:user-defined meta:name="publisher" meta:value-type="string">https://www.elejandria.com</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">1261322</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">25931</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17782</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15692</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1290421</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">1261322</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">25929</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">1279102</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1681491</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="0017c972"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">46</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">El Arte de la Guerra</text:p>
+   <text:p text:style-name="Author">Sun Tzu</text:p>
+   <text:p text:style-name="Date">2020-01-11T23:00:00+00:00</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">El Arte de la Guerra</text:h>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:bookmark-start text:name="title.xml#heading_id_3"/><text:bookmark-start text:name="title.xml#heading_id_2"/><text:bookmark-end text:name="title.xml#heading_id_3"/><text:bookmark-end text:name="title.xml#heading_id_2"/></text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main0.xml#heading_id_2"/>Capítulo 1 Sobre la evaluación<text:bookmark-end text:name="main0.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Sun Tzu dice: la guerra es de vital importancia para el Estado; es el dominio de la vida o de la muerte, el camino hacia la supervivencia o la pérdida del Imperio: es forzoso manejarla bien. No reflexionar seriamente sobre todo lo que le concierne es dar prueba de una culpable indiferencia en lo que respecta a la conservación o pérdida de lo que nos es mas querido; y ello no debe ocurrir entre nosotros.</text:p>
+   <text:p text:style-name="Text_20_body">Hay que valorarla en términos de cinco factores fundamentales, y hacer comparaciones entre diversas condiciones de los bandos rivales, con vistas a determinar el resultado de la guerra. El primero de estos factores es la doctrina; el segundo, el tiempo; el tercero, el terreno; el cuarto, el mando; y el quinto, la disciplina.</text:p>
+   <text:p text:style-name="Text_20_body">La doctrina significa aquello que hace que el pueblo esté en armonía con su gobernante, de modo que le siga donde sea, sin temer por sus vidas ni a correr cualquier peligro.</text:p>
+   <text:p text:style-name="Text_20_body">El tiempo significa el Ying y el Yang, la noche y el día, el frío y el calor, días despejados o lluviosos, y el cambio de las estaciones.</text:p>
+   <text:p text:style-name="Text_20_body">El terreno implica las distancias, y hace referencia a dónde es fácil o difícil desplazarse, y si es campo abierto o lugares estrechos, y esto influencia las posibilidades de supervivencia.</text:p>
+   <text:p text:style-name="Text_20_body">El mando ha de tener como cualidades: sabiduría, sinceridad, benevolencia, coraje y disciplina.</text:p>
+   <text:p text:style-name="Text_20_body">Por último, la disciplina ha de ser comprendida como la organización del ejército, las graduaciones y rangos entre los oficiales, la regulación de las rutas de suministros, y la provisión de material militar al ejército.</text:p>
+   <text:p text:style-name="Text_20_body">Estos cinco factores fundamentales han de ser conocidos por cada general. Aquel que los domina, vence; aquel que no, sale derrotado. Por lo tanto, al trazar los planes, han de compararse los siguiente siete factores, valorando cada uno con el mayor cuidado:</text:p>
+   <text:p text:style-name="Text_20_body">¿Qué dirigente es más sabio y capaz?</text:p>
+   <text:p text:style-name="Text_20_body">¿Qué comandante posee el mayor talento?</text:p>
+   <text:p text:style-name="Text_20_body">¿Qué ejército obtiene ventajas de la naturaleza y el terreno?</text:p>
+   <text:p text:style-name="Text_20_body">¿En qué ejército se observan mejor las regulaciones y las instrucciones?</text:p>
+   <text:p text:style-name="Text_20_body">¿Qué tropas son más fuertes?</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>¿Qué ejército tiene oficiales y tropas mejor entrenadas?</text:p>
+   <text:p text:style-name="Text_20_body">¿Qué ejército administra recompensas y castigos de forma más justa?</text:p>
+   <text:p text:style-name="Text_20_body">Mediante el estudio de estos siete factores, seré capaz de adivinar cual de los dos bandos saldrá victorioso y cual será derrotado.</text:p>
+   <text:p text:style-name="Text_20_body">El general que siga mi consejo, es seguro que vencerá. Ese general ha de ser mantenido al mando. Aquel que ignore mi consejo, ciertamente será derrotado. Ese debe ser destituido.</text:p>
+   <text:p text:style-name="Text_20_body">Tras prestar atención a mi consejo y planes, el general debe crear una situación que contribuya a su cumplimiento. Por situación quiero decir que debe tomar en consideración la situación del campo, y actuar de acuerdo con lo que le es ventajoso.</text:p>
+   <text:p text:style-name="Text_20_body">El arte de la guerra se basa en el engaño. Por lo tanto, cuando es capaz de atacar, ha de aparentar incapacidad; cuando las tropas se mueven, aparentar inactividad. Si está cerca del enemigo, ha de hacerle creer que está lejos; si está lejos, aparentar que se está cerca. Poner cebos para atraer al enemigo.</text:p>
+   <text:p text:style-name="Text_20_body">Golpear al enemigo cuando está desordenado. Prepararse contra él cuando está seguro en todas partes. Evitarle durante un tiempo cuando es más fuerte. Si tu oponente tiene un temperamento colérico, intenta irritarle. Si es arrogante, trata de fomentar su egoísmo.</text:p>
+   <text:p text:style-name="Text_20_body">Si las tropas enemigas se hallan bien preparadas tras una reorganización, intenta desordenarlas. Si están unidas, siembra la disensión entre sus filas. Ataca al enemigo cuando no está preparado, y aparece cuando no te espera. Estas son las claves de la victoria para el estratega.</text:p>
+   <text:p text:style-name="Text_20_body">Ahora, si las estimaciones realizadas antes de la batalla indican victoria, es porque los cálculos cuidadosamente realizados muestran que tus condiciones son más favorables que las condiciones del enemigo; si indican derrota, es porque muestran que las condiciones favorables para la batalla son menores. Con una evaluación cuidadosa, uno puede vencer; sin ella, no puede. Muchas menos oportunidades de victoria tendrá aquel que no realiza cálculos en absoluto.</text:p>
+   <text:p text:style-name="Text_20_body">Gracias a este método, se puede examinar la situación, y el resultado aparece claramente.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main1.xml#heading_id_2"/>Capítulo 2 Sobre la iniciación de las acciones<text:bookmark-end text:name="main1.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Una vez comenzada la batalla, aunque estés ganando, de continuar por mucho tiempo, desanimará a tus tropas y embotará tu espada. Si estás sitiando una ciudad, agotarás tus fuerzas. Si mantienes a tu ejército durante mucho tiempo en campaña, tus suministros se agotarán.</text:p>
+   <text:p text:style-name="Text_20_body">Las armas son instrumentos de mala suerte; emplearlas por mucho tiempo producirá calamidades. Como se ha dicho: &quot;Los que a hierro matan, a hierro mueren.&quot; Cuando tus tropas están desanimadas, tu espada embotada, agotadas tus fuerzas y tus suministros son escasos, hasta los tuyos se aprovecharán de tu debilidad para sublevarse. Entonces, aunque tengas consejeros sabios, al final no podrás hacer que las cosas salgan bien.</text:p>
+   <text:p text:style-name="Text_20_body">Por esta causa, he oído hablar de operaciones militares que han sido torpes y repentinas, pero nunca he visto a ningún experto en el arte de la guerra que mantuviese la campaña por mucho tiempo. Nunca es beneficioso para un país dejar que una operación militar se prolongue por mucho tiempo.</text:p>
+   <text:p text:style-name="Text_20_body">Como se dice comúnmente, sé rápido como el trueno que retumba antes de que hayas podido taparte los oídos, veloz como el relámpago que relumbra antes de haber podido pestañear.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, los que no son totalmente conscientes de la desventaja de servirse de las armas no pueden ser totalmente conscientes de las ventajas de utilizarlas.</text:p>
+   <text:p text:style-name="Text_20_body">Los que utilizan los medios militares con pericia no activan a sus tropas dos veces, ni proporcionan alimentos en tres ocasiones, con un mismo objetivo.</text:p>
+   <text:p text:style-name="Text_20_body">Esto quiere decir que no se debe movilizar al pueblo más de una vez por campaña, y que inmediatamente después de alcanzar la victoria no se debe regresar al propio país para hacer una segunda movilización. Al principio esto significa proporcionar alimentos (para las propias tropas), pero después se quitan los alimentos al enemigo.</text:p>
+   <text:p text:style-name="Text_20_body">Si tomas los suministros de armas de tu propio país, pero quitas los alimentos al enemigo, puedes estar bien abastecido de armamento y de provisiones.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando un país se empobrece a causa de las operaciones militares, se debe al transporte de provisiones desde un lugar distante. Si las transportas desde un lugar distante, el pueblo se empobrecerá.</text:p>
+   <text:p text:style-name="Text_20_body">Los que habitan cerca de donde está el ejército pueden vender sus cosechas a precios elevados, <text:soft-page-break/>pero se acaba de este modo el bienestar de la mayoría de la población.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se transportan las provisiones muy lejos, la gente se arruina a causa del alto costo. En los mercados cercanos al ejército, los precios de las mercancías se aumentan. Por lo tanto, las largas campañas militares constituyen una lacra para el país.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se agotan los recursos, los impuestos se recaudan bajo presión. Cuando el poder y los recursos se han agotado, se arruina el propio país. Se priva al pueblo de gran parte de su presupuesto, mientras que los gastos del gobierno para armamentos se elevan.</text:p>
+   <text:p text:style-name="Text_20_body">Los habitantes constituyen la base de un país, los alimentos son la felicidad del pueblo. El príncipe debe respetar este hecho y ser sobrio y austero en sus gastos públicos.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, un general inteligente lucha por desproveer al enemigo de sus alimentos. Cada porción de alimentos tomados al enemigo equivale a veinte que te suministras a ti mismo.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, lo que arrasa al enemigo es la imprudencia, y la motivación de los tuyos en asumir los beneficios de los adversarios.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando recompenses a tus hombres con los beneficios que ostentaban los adversarios los harás luchar por propia iniciativa, y así podrás tomar el poder y la influencia que tenía el enemigo. Es por esto par lo que se dice que donde hay grandes recompensas hay hombres valientes.</text:p>
+   <text:p text:style-name="Text_20_body">Por consiguiente, en una batalla de carros, recompensa primero al que tome al menos diez carros.</text:p>
+   <text:p text:style-name="Text_20_body">Si recompensas a todo el mundo, no habrá suficiente para todos, así pues, ofrece una recompensa a un soldado para animar a todos los demás. Cambia sus colores (de los soldados enemigos hechos prisioneros), utilízalos mezclados con los tuyos. Trata bien a los soldados y préstales atención. Los soldados prisioneros deben ser bien tratados, para conseguir que en el futuro luchen para ti. A esto se llama vencer al adversario e incrementar por añadidura tus propias fuerzas.</text:p>
+   <text:p text:style-name="Text_20_body">Si utilizas al enemigo para derrotar al enemigo, serás poderoso en cualquier lugar a donde vayas.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, lo más importante en una operación militar es la victoria y no la persistencia. Esta última no es beneficiosa. Un ejército es como el fuego: si no lo apagas, se consumirá por sí mismo.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, sabemos que el que está a la cabeza del ejército está a cargo de las vidas de los habitantes y de la seguridad de la nación.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main2.xml#heading_id_2"/>Capítulo 3 Sobre las proposiciones de la victoria y la derrota<text:bookmark-end text:name="main2.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Como regla general, es mejor conservar a un enemigo intacto que destruirlo. Capturar a sus soldados para conquistarlos y dominas a sus jefes.</text:p>
+   <text:p text:style-name="Text_20_body">Un General decía: &quot;Practica las artes marciales, calcula la fuerza de tus adversarios, haz que pierdan su ánimo y dirección, de manera que aunque el ejército enemigo esté intacto sea inservible: esto es ganar sin violencia. Si destruyes al ejército enemigo y matas a sus generales, asaltas sus defensas disparando, reúnes a una muchedumbre y usurpas un territorio, todo esto es ganar por la fuerza.&quot;</text:p>
+   <text:p text:style-name="Text_20_body">Por esto, los que ganan todas las batallas no son realmente profesionales; los que consiguen que se rindan impotentes los ejércitos ajenos sin luchar son los mejores maestros del Arte de la Guerra.</text:p>
+   <text:p text:style-name="Text_20_body">Los guerreros superiores atacan mientras los enemigos están proyectando sus planes. Luego deshacen sus alianzas.</text:p>
+   <text:p text:style-name="Text_20_body">Por eso, un gran emperador decía: &quot;El que lucha por la victoria frente a espadas desnudas no es un buen general.&quot; La peor táctica es atacar a una ciudad. Asediar, acorralar a una ciudad sólo se lleva a cabo como último recurso.</text:p>
+   <text:p text:style-name="Text_20_body">Emplea no menos de tres meses en preparar tus artefactos y otros tres para coordinar los recursos para tu asedio. Nunca se debe atacar por cólera y con prisas. Es aconsejable tomarse tiempo en la planificación y coordinación del plan.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, un verdadero maestro de las artes marciales vence a otras fuerzas enemigas sin batalla, conquista otras ciudades sin asediarlas y destruye a otros ejércitos sin emplear mucho tiempo.</text:p>
+   <text:p text:style-name="Text_20_body">Un maestro experto en las artes marciales deshace los planes de los enemigos, estropea sus relaciones y alianzas, le corta los suministros o bloquea su camino, venciendo mediante estas tácticas sin necesidad de luchar.</text:p>
+   <text:p text:style-name="Text_20_body">Es imprescindible luchar contra todas las facciones enemigas para obtener una victoria completa, de manera que su ejército no quede acuartelado y el beneficio sea total. Esta es la ley del asedio estratégico.</text:p>
+   <text:p text:style-name="Text_20_body">La victoria completa se produce cuando el ejército no lucha, la ciudad no es asediada, la destrucción no se prolonga durante mucho tiempo, y en cada caso el enemigo es vencido por el <text:soft-page-break/>empleo de la estrategia.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, la regla de la utilización de la fuerza es la siguiente: si tus fuerzas son diez veces superiores a las del adversario, rodéalo; si son cinco veces superiores, atácalo; si son dos veces superiores, divídelo.</text:p>
+   <text:p text:style-name="Text_20_body">Si tus fuerzas son iguales en número, lucha si te es posible. Si tus fuerzas son inferiores, manténte continuamente en guardia, pues el más pequeño fallo te acarrearía las peores consecuencias. Trata de mantenerte al abrigo y evita en lo posible un enfrentamiento abierto con él; la prudencia y la firmeza de un pequeño número de personas pueden llegar a cansar y a dominar incluso a numerosos ejércitos.</text:p>
+   <text:p text:style-name="Text_20_body">Este consejo se aplica en los casos en que todos los factores son equivalentes. Si tus fuerzas están en orden mientras que las suyas están inmersas en el caos, si tú y tus fuerzas están con ánimo y ellos desmoralizados, entonces, aunque sean más numerosos, puedes entrar en batalla. Si tus soldados, tus fuerzas, tu estrategia y tu valor son menores que las de tu adversario, entonces debes retirarte y buscar una salida.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, si el bando más pequeño es obstinado, cae prisionero del bando más grande.</text:p>
+   <text:p text:style-name="Text_20_body">Esto quiere decir que si un pequeño ejército no hace una valoración adecuada de su poder y se atreve a enemistarse con una gran potencia, por mucho que su defensa sea firme, inevitablemente se convertirá en conquistado. &quot;Si no puedes ser fuerte, pero tampoco sabes ser débil, serás derrotado.&quot; Los generales son servidores del Pueblo. Cuando su servicio es completo, el Pueblo es fuerte. Cuando su servicio es defectuoso, el Pueblo es débil.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, existen tres maneras en las que un Príncipe lleva al ejército al desastre. Cuando un Príncipe, ignorando los hechos, ordena avanzar a sus ejércitos o retirarse cuando no deben hacerlo; a esto se le llama inmovilizar al ejército. Cuando un Príncipe ignora los asuntos militares, pero comparte en pie de igualdad el mando del ejército, los soldados acaban confusos. Cuando el Príncipe ignora cómo llevar a cabo las maniobras militares, pero comparte por igual su dirección, los soldados están vacilantes. Una vez que los ejércitos están confusos y vacilantes, empiezan los problemas procedentes de los adversarios. A esto se le llama perder la victoria por trastornar el aspecto militar.</text:p>
+   <text:p text:style-name="Text_20_body">Si intentas utilizar los métodos de un gobierno civil para dirigir una operación militar, la operación será confusa.</text:p>
+   <text:p text:style-name="Text_20_body">Triunfan aquellos que:</text:p>
+   <text:p text:style-name="Text_20_body">Saben cuándo luchar y cuándo no.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Saben discernir cuándo utilizar muchas o pocas tropas.</text:p>
+   <text:p text:style-name="Text_20_body">Tienen tropas cuyos rangos superiores e inferiores tienen el mismo objetivo.</text:p>
+   <text:p text:style-name="Text_20_body">Se enfrentan con preparativos a enemigos desprevenidos.</text:p>
+   <text:p text:style-name="Text_20_body">Tienen generales competentes y no limitados por sus gobiernos civiles.</text:p>
+   <text:p text:style-name="Text_20_body">Estas cinco son las maneras de conocer al futuro vencedor.</text:p>
+   <text:p text:style-name="Text_20_body">Hablar de que el Príncipe sea el que da las órdenes en todo es como el General solicitarle permiso al Príncipe para poder apagar un fuego: para cuando sea autorizado, ya no quedan sino cenizas.</text:p>
+   <text:p text:style-name="Text_20_body">Si conoces a los demás y te conoces a ti mismo, ni en cien batallas correrás peligro; si no conoces a los demás, pero te conoces a ti mismo, perderás una batalla y ganarás otra; si no conoces a los demás ni te conoces a ti mismo, correrás peligro en cada batalla.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main3.xml#heading_id_2"/>Capítulo 4 Sobre la medida en la disposición de los medios<text:bookmark-end text:name="main3.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Antiguamente, los guerreros expertos se hacían a sí mismos invencibles en primer lugar, y después aguardaban para descubrir la vulnerabilidad de sus adversarios.</text:p>
+   <text:p text:style-name="Text_20_body">Hacerte invencible significa conocerte a ti mismo; aguardar para descubrir la vulnerabili-dad del adversario significa conocer a los demás.</text:p>
+   <text:p text:style-name="Text_20_body">La invencibilidad está en uno mismo, la vulnerabilidad en el adversario.</text:p>
+   <text:p text:style-name="Text_20_body">Por esto, los guerreros expertos pueden ser invencibles, pero no pueden hacer que sus adversarios sean vulnerables.</text:p>
+   <text:p text:style-name="Text_20_body">Si los adversarios no tienen orden de batalla sobre el que informarse, ni negligencias o fallos de los que aprovecharse, ¿cómo puedes vencerlos aunque estén bien pertrechados? Por esto es por lo que se dice que la victoria puede ser percibida, pero no fabricada.</text:p>
+   <text:p text:style-name="Text_20_body">La invencibilidad es una cuestión de defensa, la vulnerabilidad, una cuestión de ataque.</text:p>
+   <text:p text:style-name="Text_20_body">Mientras no hayas observado vulnerabilidades en el orden de batalla de los adversarios, oculta tu propia formación de ataque, y prepárate para ser invencible, con la finalidad de</text:p>
+   <text:p text:style-name="Text_20_body">preservarte. Cuando los adversarios tienen órdenes de batalla vulnerables, es el momento de salir a atacarlos.</text:p>
+   <text:p text:style-name="Text_20_body">La defensa es para tiempos de escasez, el ataque para tiempos de abundancia.</text:p>
+   <text:p text:style-name="Text_20_body">Los expertos en defensa se esconden en las profundidades de la tierra; los expertos en maniobras de ataque se esconden en las más elevadas alturas del cielo. De esta manera pueden protegerse y lograr la victoria total.</text:p>
+   <text:p text:style-name="Text_20_body">En situaciones de defensa, acalláis las voces y borráis las huellas, escondidos como fantasmas y espíritus bajo tierra, invisibles para todo el mundo. En situaciones de ataque, vuestro movimiento es rápido y vuestro grito fulgurante, veloz como el trueno y el relámpago, para los que no se puede uno preparar, aunque vengan del cielo.</text:p>
+   <text:p text:style-name="Text_20_body">Prever la victoria cuando cualquiera la puede conocer no constituye verdadera destreza. Todo el mundo elogia la victoria ganada en batalla, pero esa victoria no es realmente tan buena.</text:p>
+   <text:p text:style-name="Text_20_body">Todo el mundo elogia la victoria en la batalla, pero lo verdaderamente deseable es poder ver el mundo de lo sutil y darte cuenta del mundo de lo oculto, hasta el punto de ser capaz de alcanzar <text:soft-page-break/>la victoria donde no existe forma.</text:p>
+   <text:p text:style-name="Text_20_body">No se requiere mucha fuerza para levantar un cabello, no es necesario tener una vista aguda para ver el sol y la luna, ni se necesita tener mucho oído para escuchar el retumbar del trueno.</text:p>
+   <text:p text:style-name="Text_20_body">Lo que todo el mundo conoce no se llama sabiduría; la victoria sobre los demás obtenida por medio de la batalla no se considera una buena victoria.</text:p>
+   <text:p text:style-name="Text_20_body">En la antigüedad, los que eran conocidos como buenos guerreros vencían cuando era fácil vencer.</text:p>
+   <text:p text:style-name="Text_20_body">Si sólo eres capaz de asegurar la victoria tras enfrentarte a un adversario en un conflicto armado, esa victoria es una dura victoria. Si eres capaz de ver lo sutil y de darte cuenta de lo oculto, irrumpiendo antes del orden de batalla, la victoria así obtenida es un victoria fácil.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, las victorias de los buenos guerreros no destacan por su inteligencia o su bravura. Así pues, las victorias que ganan en batalla no son debidas a la suerte. Sus victorias no son casualidades, sino que son debidas a haberse situado previamente en posición de poder ganar con seguridad, imponiéndose sobre los que ya han perdido de antemano.</text:p>
+   <text:p text:style-name="Text_20_body">La gran sabiduría no es algo obvio, el mérito grande no se anuncia. Cuando eres capaz de ver lo sutil, es fácil ganar; ¿qué tiene esto que ver con la inteligencia o la bravura?</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se resuelven los problemas antes de que surjan, ¿quién llama a esto inteligencia? Cuando hay victoria sin batalla, ¿quién habla de bravura?</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, los buenos guerreros toman posición en un terreno en el que no pueden perder, y no pasan por alto las condiciones que hacen a su adversario proclive a la derrota.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, un ejército victorioso gana primero y entabla la batalla después; un ejército derrotado lucha primero e intenta obtener la victoria después.</text:p>
+   <text:p text:style-name="Text_20_body">Esta es la diferencia entre los que tienen estrategia y los que no tienen planes premeditados.</text:p>
+   <text:p text:style-name="Text_20_body">Los que utilizan bien las armas cultivan el Camino y observan las leyes. Así pueden gobernar prevaleciendo sobre los corruptos.</text:p>
+   <text:p text:style-name="Text_20_body">Servirse de la armonía para desvanecer la oposición, no atacar un ejército inocente, no hacer prisioneros o tomar botín par donde pasa el ejército, no cortar los árboles ni contaminar los pozos, limpiar y purificar los templos de las ciudades y montañas del camino que atraviesas, no repetir los errores de una civilización decadente, a todo esto se llama el Camino y sus leyes.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el ejército está estrictamente disciplinado, hasta el punto en que los soldados morirían antes que desobedecer las órdenes, y las recompensas y los castigos merecen confianza y están <text:soft-page-break/>bien establecidos, cuando los jefes y oficiales son capaces de actuar de esta forma, pueden vencer a un Príncipe enemigo corrupto.</text:p>
+   <text:p text:style-name="Text_20_body">Las reglas militares son cinco: medición, valoración, cálculo, comparación y victoria. El terreno da lugar a las mediciones, éstas dan lugar a las valoraciones, las valoraciones a los cálculos, éstos a las comparaciones, y las comparaciones dan lugar a las victorias.</text:p>
+   <text:p text:style-name="Text_20_body">Mediante las comparaciones de las dimensiones puedes conocer dónde se haya la victoria o la derrota.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, un ejército victorioso es como un kilo comparado con un gramo; un ejército derrotado es como un gramo comparado con un kilo.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el que gana consigue que su pueblo vaya a la batalla como si estuviera dirigiendo una gran corriente de agua hacia un cañón profundo, esto es una cuestión de orden de batalla.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el agua se acumula en un cañón profundo, nadie puede medir su cantidad, lo mismo que nuestra defensa no muestra su forma. Cuando se suelta el agua, se precipita hacia abajo como un torrente, de manera tan irresistible como nuestro propio ataque.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main4.xml#heading_id_2"/>Capítulo 5 Sobre la firmeza<text:bookmark-end text:name="main4.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">La fuerza es la energía acumulada o la que se percibe. Esto es muy cambiante. Los expertos son capaces de vencer al enemigo creando una percepción favorable en ellos, así obtener la victoria sin necesidad de ejercer su fuerza.</text:p>
+   <text:p text:style-name="Text_20_body">Gobernar sobre muchas personas como si fueran poco es una cuestión de dividirlas en grupos o sectores: es organización. Batallar contra un gran número de tropas como si fueran pocas es una cuestión de demostrar la fuerza, símbolos y señales.</text:p>
+   <text:p text:style-name="Text_20_body">Se refiere a lograr una percepción de fuerza y poder en la oposición. En el campo de batalla se refiere a las formaciones y banderas utilizadas para desplegar las tropas y coordinar sus movimientos.</text:p>
+   <text:p text:style-name="Text_20_body">Lograr que el ejército sea capaz de combatir contra el adversario sin ser derrotado es una cuestión de emplear métodos ortodoxos o heterodoxos.</text:p>
+   <text:p text:style-name="Text_20_body">La ortodoxia y la heterodoxia no es algo fijo, sino que se utilizan como un ciclo. Un emperador que fue un famoso guerrero y administrador, hablaba de manipular las percepciones de los adversarios sobre lo que es ortodoxo y heterodoxo, y después atacar inesperadamente, combinando ambos métodos hasta convertirlo en uno, volviéndose así indefinible para el enemigo.</text:p>
+   <text:p text:style-name="Text_20_body">Que el efecto de las fuerzas sea como el de piedras arrojadas sobre huevos, es una cuestión de lleno y vacío.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando induces a los adversarios a atacarte en tu territorio, su fuerza siempre está vacía (en desventaja); mientras que no compitas en lo que son los mejores, tu fuerza siempre estará llena. Atacar con lo vacío contra lo lleno es como arrojar piedras sobre huevos: de seguro se rompen.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se entabla una batalla de manera directa, la victoria se gana por sorpresa.</text:p>
+   <text:p text:style-name="Text_20_body">El ataque directo es ortodoxo. El ataque indirecto es heterodoxo.</text:p>
+   <text:p text:style-name="Text_20_body">Sólo hay dos clases de ataques en la batalla: el extraordinario por sorpresa y el directo ordinario, pero sus variantes son innumerables. Lo ortodoxo y lo heterodoxo se originan recíprocamente, como un círculo sin comienzo ni fin; ¿quién podría agotarlos?</text:p>
+   <text:p text:style-name="Text_20_body">Cuando la velocidad del agua que fluye alcanza el punto en el que puede mover las piedras, ésta es la fuerza directa. Cuando la velocidad y maniobrabilidad del halcón es tal que puede atacar y <text:soft-page-break/>matar, esto es precisión. Lo mismo ocurre con los guerreros expertos:</text:p>
+   <text:p text:style-name="Text_20_body">su fuerza es rápida, su precisión certera. Su fuerza es como disparar una catapulta, su precisión es dar en el objetivo previsto y causar el efecto esperado.</text:p>
+   <text:p text:style-name="Text_20_body">El desorden llega del orden, la cobardía surge del valor, la debilidad brota de la fuerza.</text:p>
+   <text:p text:style-name="Text_20_body">Si quieres fingir desorden para convencer a tus adversarios y distraerlos, primero tienes que organizar el orden, porque sólo entonces puedes crear un desorden artificial. Si quieres fingir cobardía para conocer la estrategia de los adversarios, primero tienes que ser extremadamente valiente, porque sólo entonces puedes actuar como tímido de manera artificial. Si quieres fingir debilidad para inducir la arrogancia en tus enemigos, primero has de ser extremadamente fuerte porque sólo entonces puedes pretender ser débil.</text:p>
+   <text:p text:style-name="Text_20_body">El orden y el desorden son una cuestión de organización; la cobardía es una cuestión valentía y la de ímpetu; la fuerza y la debilidad son una cuestión de la formación en la batalla.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando un ejército tiene la fuerza del ímpetu (percepción), incluso el tímido se vuelve valiente, cuando pierde la fuerza del ímpetu, incluso el valiente se convierte en tímido. Nada está fijado en las leyes de la guerra: éstas se desarrollan sobre la base del ímpetu.</text:p>
+   <text:p text:style-name="Text_20_body">Con astucia se puede anticipar y lograr que los adversarios se convenzan a sí mismos cómo proceder y moverse; les ayuda a caminar por el camino que les traza. Hace moverse a los enemigos con la perspectiva del triunfo, para que caigan en la emboscada.</text:p>
+   <text:p text:style-name="Text_20_body">Los buenos guerreros buscan la efectividad en la batalla a partir de la fuerza del ímpetu (percepción) y no dependen sólo de la fuerza de sus soldados. Son capaces de escoger a la mejor gente, desplegarlos adecuadamente y dejar que la fuerza del ímpetu logre sus objetivos.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando hay entusiasmo, convicción, orden, organización, recursos, compromiso de los soldados, tienes la fuerza del ímpetu, y el tímido es valeroso. Así es posible asignar a los soldados por sus capacidades, habilidades y encomendarle deberes y responsabilidades adecuadas. El valiente puede luchar, el cuidadoso puede hacer de centinela, y el inteligente puede estudiar, analizar y comunicar. Cada cual es útil.</text:p>
+   <text:p text:style-name="Text_20_body">Hacer que los soldados luchen permitiendo que la fuerza del ímpetu haga su trabajo es como hacer rodar rocas. Las rocas permanecen inmóviles cuando están en un lugar plano, pero ruedan en un plano inclinado; se quedan fijas cuando son cuadradas, pero giran si son redondas. Por lo tanto, cuando se conduce a los hombres a la batalla con astucia, el impulso es como rocas redondas que se precipitan montaña abajo: ésta es la fuerza que produce la victoria.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main5.xml#heading_id_2"/>Capítulo 6 Sobre lo lleno y lo vacío<text:bookmark-end text:name="main5.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Los que anticipan, se preparan y llegan primero al campo de batalla y esperan al adversario están en posición descansada; los que llegan los últimos al campo de batalla, los que improvisan y entablan la lucha quedan agotados.</text:p>
+   <text:p text:style-name="Text_20_body">Los buenos guerreros hacen que los adversarios vengan a ellos, y de ningún modo se dejan atraer fuera de su fortaleza.</text:p>
+   <text:p text:style-name="Text_20_body">Si haces que los adversarios vengan a ti para combatir, su fuerza estará siempre vacía. Si no sales a combatir, tu fuerza estará siempre llena. Este es el arte de vaciar a los demás y de llenarte a ti mismo.</text:p>
+   <text:p text:style-name="Text_20_body">Lo que impulsa a los adversarios a venir hacia ti por propia decisión es la perspectiva de ganar. Lo que desanima a los adversarios de ir hacia ti es la probabilidad de sufrir daños.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando los adversarios están en posición favorable, debes cansarlos. Cuando están bien alimentados, cortar los suministros. Cuando están descansando, hacer que se pongan en movimiento.</text:p>
+   <text:p text:style-name="Text_20_body">Ataca inesperadamente, haciendo que los adversarios se agoten corriendo para salvar sus vidas. Interrumpe sus provisiones, arrasa sus campos y corta sus vías de aprovisionamiento. Aparece en lugares críticos y ataca donde menos se lo esperen, haciendo que tengan que acudir al rescate.</text:p>
+   <text:p text:style-name="Text_20_body">Aparece donde no puedan ir, se dirige hacia donde menos se lo esperen. Para desplazarte cientos de kilómetros sin cansancio, atraviesa tierras despobladas.</text:p>
+   <text:p text:style-name="Text_20_body">Atacar un espacio abierto no significa sólo un espacio en el que el enemigo no tiene defensa. Mientras su defensa no sea estricta - el lugar no esté bien guardado -, los enemigos se desperdigarán ante ti, como si estuvieras atravesando un territorio despoblado.</text:p>
+   <text:p text:style-name="Text_20_body">Para tomar infaliblemente lo que atacas, ataca donde no haya defensa. Para mantener una defensa infaliblemente segura, defiende donde no haya ataque.</text:p>
+   <text:p text:style-name="Text_20_body">Así, en el caso de los que son expertos en el ataque, sus enemigos no saben por dónde atacar.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se cumplen las instrucciones, las personas son sinceramente leales y comprometidas, los planes y preparativos para la defensa implantados con firmeza,</text:p>
+   <text:p text:style-name="Text_20_body">siendo tan sutil y reservado que no se revelan las estrategias de ninguna forma, y los adversarios <text:soft-page-break/>se sienten inseguros, y su inteligencia no les sirve para nada.</text:p>
+   <text:p text:style-name="Text_20_body">Sé extremadamente sutil, discreto, hasta el punto de no tener forma. Sé completamente misterioso y confidencial, hasta el punto de ser silencioso. De esta manera podrás dirigir el destino de tus adversarios.</text:p>
+   <text:p text:style-name="Text_20_body">Para avanzar sin encontrar resistencia, arremete por sus puntos débiles. Para retirarte de manera esquiva, sé más rápido que ellos.</text:p>
+   <text:p text:style-name="Text_20_body">Las situaciones militares se basan en la velocidad: llega como el viento, muévete como el relámpago, y los adversarios no podrán vencerte.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, cuando quieras entrar en batalla, incluso si el adversario está atrincherado en una posición defensiva, no podrá evitar luchar si atacas en el lugar en el que debe acudir irremediablemente al rescate.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando no quieras entrar en batalla, incluso si trazas una línea en el terreno que quieres conservar, el adversario no puede combatir contigo porque le das una falsa pista.</text:p>
+   <text:p text:style-name="Text_20_body">Esto significa que cuando los adversarios llegan para atacarte, no luchas con ellos, sino que estableces un cambio estratégico para confundirlos y llenarlos de incertidumbre.</text:p>
+   <text:p text:style-name="Text_20_body">Por consiguiente, cuando induces a otros a efectuar una formación, mientras que tú mismo permaneces sin forma, estás concentrado, mientras que tu adversario está dividido.</text:p>
+   <text:p text:style-name="Text_20_body">Haz que los adversarios vean como extraordinario lo que es ordinario para ti; haz que vean como ordinario lo que es extraordinario para ti. Esto es inducir al enemigo a efectuar una formación. Una vez vista la formación del adversario, concentras tus tropas contra él. Como tu formación no está a la vista, el adversario dividirá seguramente sus fuerzas.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando estás concentrado formando una sola fuerza, mientras que el enemigo está dividido en diez, estás atacando a una concentración de uno contra diez, así que tus fuerzas superan a las suyas.</text:p>
+   <text:p text:style-name="Text_20_body">Si puedes atacar a unos pocos soldados con muchos, diezmarás el número de tus adversarios.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando estás fuertemente atrincherado, te has hecho fuerte tras buenas barricadas, y no dejas filtrar ninguna información sobre tus fuerzas, sal afuera sin formación precisa, ataca y conquista de manera incontenible.</text:p>
+   <text:p text:style-name="Text_20_body">No han de conocer dónde piensas librar la batalla, porque cuando no se conoce, el enemigo destaca muchos puestos de vigilancia, y en el momento en el que se establecen numerosos puestos sólo tienes que combatir contra pequeñas unidades.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Así pues, cuando su vanguardia está preparada, su retaguardia es defectuosa, y cuando su retaguardia está preparada, su vanguardia presenta puntos débiles.</text:p>
+   <text:p text:style-name="Text_20_body">Las preparaciones de su ala derecha significarán carencia en su ala izquierda. Las preparaciones por todas partes significará ser vulnerable por todas partes.</text:p>
+   <text:p text:style-name="Text_20_body">Esto significa que cuando las tropas están de guardia en muchos lugares, están forzosamente desperdigadas en pequeñas unidades.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se dispone de pocos soldados se está a la defensiva contra el adversario el que dispone de muchos hace que el enemigo tenga que defenderse.</text:p>
+   <text:p text:style-name="Text_20_body">Cuantas más defensas induces a adoptar a tu enemigo, más debilitado quedará.</text:p>
+   <text:p text:style-name="Text_20_body">Así, si conoces el lugar y la fecha de la batalla, puedes acudir a ella aunque estés a mil kilómetros de distancia. Si no conoces el lugar y la fecha de la batalla, entonces tu flanco izquierdo no puede salvar al derecho, tu vanguardia no puede salvar a tu retaguardia, y tu retaguardia no puede salvar a tu vanguardia, ni siquiera en un territorio de unas pocas docenas de kilómetros.</text:p>
+   <text:p text:style-name="Text_20_body">Si tienes muchas más tropas que los demás, ¿cómo puede ayudarte este factor para obtener la victoria?</text:p>
+   <text:p text:style-name="Text_20_body">Si no conoces el lugar y la fecha de la batalla, aunque tus tropas sean más numerosas que las de ellos, ¿cómo puedes saber si vas a ganar o a perder?</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, se dice que la victoria puede ser creada.</text:p>
+   <text:p text:style-name="Text_20_body">Si haces que los adversarios no sepan el lugar y la fecha de la batalla, siempre puedes vencer.</text:p>
+   <text:p text:style-name="Text_20_body">Incluso si los enemigos son numerosos, puede hacerse que no entren en combate.</text:p>
+   <text:p text:style-name="Text_20_body">Por tanto, haz tu valoración sobre ellos para averiguar sus planes, y determinar qué estrategia puede tener éxito y cuál no. Incítalos a la acción para descubrir cuál es el esquema general de sus movimientos y descansa.</text:p>
+   <text:p text:style-name="Text_20_body">Haz algo por o en contra de ellos para su atención, de manera que puedas de ellos para atraer descubrir sus hábitos de comportamiento de ataque y de defensa.</text:p>
+   <text:p text:style-name="Text_20_body">Indúcelos a adoptar formaciones específicas, para conocer sus puntos flacos.</text:p>
+   <text:p text:style-name="Text_20_body">Esto significa utilizar muchos métodos para confundir y perturbar al enemigo con el objetivo de observar sus formas de respuesta hacia ti; después de haberlas observado, actúas en consecuencia, de manera que puedes saber qué clase de situaciones significan vida y cuáles significan muerte.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Pruébalos para averiguar sus puntos fuertes y sus puntos débiles. Por lo tanto, el punto final de la formación de un ejército es llegar a la no forma. Cuando no tienes forma, los informadores no pueden descubrir nada, ya que la información no puede crear una estrategia.</text:p>
+   <text:p text:style-name="Text_20_body">Una vez que no tienes forma perceptible, no dejas huellas que puedan ser seguidas, los informadores no encuentran ninguna grieta por donde mirar y los que están a cargo de la planificación no pueden establecer ningún plan realizable.</text:p>
+   <text:p text:style-name="Text_20_body">La victoria sobre multitudes mediante formaciones precisas debe ser desconocida par las multitudes. Todo el mundo conoce la forma mediante la que resultó vencedor, pero nadie conoce la forma mediante la que aseguró la victoria.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, la victoria en la guerra no es repetitiva, sino que adapta su forma continuamente.</text:p>
+   <text:p text:style-name="Text_20_body">Determinar los cambios apropiados, significa no repetir las estrategias previas para obtener la victoria. Para lograrla, puedo adaptarme desde el principio a cualquier formación que los adversarios puedan adoptar.</text:p>
+   <text:p text:style-name="Text_20_body">Las formaciones son como el agua: la naturaleza del agua es evitar lo alto e ir hacia abajo; la naturaleza de los ejércitos es evitar lo lleno y atacar lo vacío; el flujo del agua está determinado par la tierra; la victoria viene determinada por el adversario.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, un ejército no tiene formación constante, lo mismo que el agua no tiene forma constante: se llama genio a la capacidad de obtener la victoria cambiando y adaptándose según el enemigo.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main6.xml#heading_id_2"/>Capítulo 7 Sobre el enfrentamiento directo e indirecto<text:bookmark-end text:name="main6.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">las autoridades civiles y después reúne y concentra a las tropas, acuartelándolas juntas. Nada es más difícil que la lucha armada.</text:p>
+   <text:p text:style-name="Text_20_body">Luchar con otros cara a cara para conseguir ventajas es lo más arduo del mundo.</text:p>
+   <text:p text:style-name="Text_20_body">La dificultad de la lucha armada es hacer cercanas las distancias largas y convertir los problemas en ventajas.</text:p>
+   <text:p text:style-name="Text_20_body">Mientras que das la apariencia de estar muy lejos, empiezas tu camino y llegas antes que el enemigo.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, haces que su ruta sea larga, atrayéndole con la esperanza de ganar. Cuando emprendes la marcha después que los otros y llegas antes que ellos, conoces la estrategia de hacer que las distancias sean cercanas.</text:p>
+   <text:p text:style-name="Text_20_body">Sírvete de una unidad especial para engañar al enemigo atrayéndole a una falsa persecución, haciéndole creer que el grueso de tus fuerzas está muy lejos; entonces, lanzas una fuerza de ataque sorpresa que llega antes, aunque emprendió el camino después.</text:p>
+   <text:p text:style-name="Text_20_body">Por consiguiente, la lucha armada puede ser provechosa y puede ser peligrosa.</text:p>
+   <text:p text:style-name="Text_20_body">Para el experto es provechosa, para el inexperto peligrosa.</text:p>
+   <text:p text:style-name="Text_20_body">Movilizar a todo el ejército para el combate en aras de obtener alguna ventaja tomaría mucho tiempo, pero combatir por una ventaja con un ejército incompleto tendría como resultado una falta de recursos.</text:p>
+   <text:p text:style-name="Text_20_body">Si te movilizas rápidamente y sin parar día y noche, recorriendo el doble de la distancia habitual, y si luchas por obtener alguna ventaja a miles de kilómetros, tus jefes militares serán hechos prisioneros. Los soldados que sean fuertes llegarán allí primero, los más cansados llegarán después - como regla general, sólo lo conseguirá uno de cada diez.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando la ruta es larga las tropas se cansan; si han gastado su fuerza en la movilización, llegan agotadas mientras que sus adversarios están frescos; así pues, es seguro que serán atacadas.</text:p>
+   <text:p text:style-name="Text_20_body">Combatir por una ventaja a cincuenta kilómetros de distancia frustrará los planes del mando, y, como regla general, sólo la mitad de los soldados lo harán.</text:p>
+   <text:p text:style-name="Text_20_body">Si se combate por obtener una ventaja a treinta kilómetros de distancia, sólo dos de cada tres <text:soft-page-break/>soldados los recorrerán.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, un ejército perece si no está equipado, si no tiene provisiones o si no tiene dinero.</text:p>
+   <text:p text:style-name="Text_20_body">Estas tres cosas son necesarias: no puedes combatir para ganar con un ejército no equipado, o sin provisiones, lo que el dinero facilita.</text:p>
+   <text:p text:style-name="Text_20_body">Por tanto, si ignoras los planes de tus rivales, no puedes hacer alianzas precisas.</text:p>
+   <text:p text:style-name="Text_20_body">A menos que conozcas las montañas y los bosques, los desfiladeros y los pasos, y la condición de los pantanos, no puedes maniobrar con una fuerza armada. A menos que utilices guías locales, no puedes aprovecharte de las ventajas del terreno.</text:p>
+   <text:p text:style-name="Text_20_body">Sólo cuando conoces cada detalle de la condición del terreno puedes maniobrar y guerrear.</text:p>
+   <text:p text:style-name="Text_20_body">Por consiguiente, una fuerza militar se usa según la estrategia prevista, se moviliza mediante la esperanza de recompensa, y se adapta mediante la división y la combinación.</text:p>
+   <text:p text:style-name="Text_20_body">Una fuerza militar se establece mediante la estrategia en el sentido de que distraes al enemigo para que no pueda conocer cuál es tu situación real y no pueda imponer su supremacía. Se moviliza mediante la esperanza de recompensa, en el sentido de que entra en acción cuando ve la posibilidad de obtener una ventaja. Dividir y volver a hacer combinaciones de tropas se hace para confundir al adversario y observar cómo reacciona frente a ti; de esta manera puedes adaptarte para obtener la victoria.</text:p>
+   <text:p text:style-name="Text_20_body">Por eso, cuando una fuerza militar se mueve con rapidez es como el viento; cuando va lentamente es como el bosque; es voraz como el fuego e inmóvil como las montañas.</text:p>
+   <text:p text:style-name="Text_20_body">Es rápida como el viento en el sentido que llega sin avisar y desaparece como el relámpago. Es como un bosque porque tiene un orden. Es voraz como el fuego que devasta una planicie sin dejar tras sí ni una brizna de hierba. Es inmóvil como una montaña cuando se acuartela.</text:p>
+   <text:p text:style-name="Text_20_body">Es tan difícil de conocer como la oscuridad; su movimiento es como un trueno que retumba.</text:p>
+   <text:p text:style-name="Text_20_body">Para ocupar un lugar, divide a tus tropas. Para expandir tu territorio, divide los beneficios.</text:p>
+   <text:p text:style-name="Text_20_body">La regla general de las operaciones militares es desproveer de alimentos al enemigo todo lo que se pueda. Sin embargo, en localidades donde la gente no tiene mucho, es necesario dividir a las tropas en grupos más pequeños para que puedan tomar en diversas partes lo que necesitan, ya que sólo así tendrán suficiente.</text:p>
+   <text:p text:style-name="Text_20_body">En cuanto a dividir el botín, significa que es necesario repartirlo entre las tropas para guardar lo que ha sido ganado, no dejando que el enemigo lo recupere.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Actúa después de haber hecho una estimación. Gana el que conoce primero la medida de lo que está lejos y lo que está cerca: ésta es la regla general de la lucha armada.</text:p>
+   <text:p text:style-name="Text_20_body">El primero que hace el movimiento es el &quot;invitado&quot;, el último es el &quot;anfitrión&quot;. El &quot;invitado&quot; lo tiene difícil, el &quot;anfitrión lo tiene fácil&quot;. Cerca y lejos significan desplazamiento: el cansancio, el hambre y el frío surgen del desplazamiento.</text:p>
+   <text:p text:style-name="Text_20_body">Un antiguo libro que trata de asuntos militares dice: &quot;Las palabras no son escuchadas, par eso se hacen los símbolos y los tambores. Las banderas y los estandartes se hacen a causa de la ausencia de visibilidad.&quot; Símbolos, tambores, banderas y estandartes se utilizan para concentrar y unificar los oídos y los ojos de los soldados. Una vez que están unificados, el valiente no puede actuar solo, ni el tímido puede retirarse solo: ésta es la regla general del empleo de un grupo.</text:p>
+   <text:p text:style-name="Text_20_body">Unificar los oídos y los ojos de los soldados significa hacer que miren y escuchen al unísono de manera que no caigan en la confusión y el desorden. La señales se utilizan para indicar direcciones e impedir que los individuos vayan a donde se les antoje.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, en batallas nocturnas, utiliza fuegos y tambores, y en batallas diurnas sírvete de banderas y estandartes, para manipular los oídos y los ojos de los soldados.</text:p>
+   <text:p text:style-name="Text_20_body">Utiliza muchas señales para confundir las percepciones del enemigo y hacerle temer tu temible poder militar.</text:p>
+   <text:p text:style-name="Text_20_body">De esta forma, haces desaparecer la energía de sus ejércitos y desmoralizas a sus generales.</text:p>
+   <text:p text:style-name="Text_20_body">En primer lugar, has de ser capaz de mantenerte firme en tu propio corazón; sólo entonces puedes desmoralizar a los generales enemigos. Por esto, la tradición afirma que los habitantes de otros tiempos tenían la firmeza para desmoralizar, y la antigua ley de los que conducían carros de combate decía que cuando la mente original es firme, la energía fresca es victoriosa.</text:p>
+   <text:p text:style-name="Text_20_body">De este modo, la energía de la mañana está llena de ardor, la del mediodía decae y la energía de la noche se retira; en consecuencia, los expertos en el manejo de las armas prefieren la energía entusiasta, atacan la decadente y la que se bate en retirada. Son ellos los que dominan la energía.</text:p>
+   <text:p text:style-name="Text_20_body">Cualquier débil en el mundo se dispone a combatir en un minuto si se siente animado, pero cuando se trata realmente de tomar las armas y de entrar en batalla, es poseído por la energía; cuando esta energía se desvanece, se detendrá, estará asustado y se arrepentirá de haber comenzado. La razón por la que esa clase de ejércitos miran por encima del hombro a enemigos fuertes, lo mismo que miran a las doncellas vírgenes, es porque se están aprovechando de su agresividad, estimulada por cualquier causa.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Utilizar el orden para enfrentarse al desorden, utilizar la calma para enfrentarse con los que se agitan, esto es dominar el corazón.</text:p>
+   <text:p text:style-name="Text_20_body">A menos que tu corazón esté totalmente abierto y tu mente en orden, no puedes esperar ser capaz de adaptarte a responder sin límites, a manejar los acontecimientos de manera infalible, a enfrentarte a dificultades graves e inesperadas sin turbarte, dirigiendo cada cosa sin confusión.</text:p>
+   <text:p text:style-name="Text_20_body">Dominar la fuerza es esperar a los que vienen de lejos, aguardar con toda comodidad a los que se han fatigado, y con el estómago saciado a los hambrientos.</text:p>
+   <text:p text:style-name="Text_20_body">Esto es lo que se quiere decir cuando se habla de atraer a otros hacia donde estás, al tiempo que evitas ser inducido a ir hacia donde están ellos.</text:p>
+   <text:p text:style-name="Text_20_body">Evitar la confrontación contra formaciones de combate bien ordenadas y no atacar grandes batallones constituye el dominio de la adaptación.</text:p>
+   <text:p text:style-name="Text_20_body">Por tanto, la regla general de las operaciones militares es no enfrentarse a una gran montaña ni oponerse al enemigo de espaldas a ésta.</text:p>
+   <text:p text:style-name="Text_20_body">Esto significa que si los adversarios están en un terreno elevado, no debes atacarles cuesta arriba, y que cuando efectúan una carga cuesta abajo, no debes hacerles frente.</text:p>
+   <text:p text:style-name="Text_20_body">No persigas a los enemigos cuando finjan una retirada, ni ataques tropas expertas.</text:p>
+   <text:p text:style-name="Text_20_body">Si los adversarios huyen de repente antes de agotar su energía, seguramente hay emboscadas esperándote para atacar a tus tropas; en este caso, debes retener a tus oficiales para que no se lancen en su persecución.</text:p>
+   <text:p text:style-name="Text_20_body">No consumas la comida de sus soldados.</text:p>
+   <text:p text:style-name="Text_20_body">Si el enemigo abandona de repente sus provisiones, éstas han de ser probadas antes de ser comidas, por si están envenenadas.</text:p>
+   <text:p text:style-name="Text_20_body">No detengas a ningún ejército que esté en camino a su país.</text:p>
+   <text:p text:style-name="Text_20_body">Bajo estas circunstancias, un adversario luchará hasta la muerte. Hay que dejarle una salida a un ejército rodeado.</text:p>
+   <text:p text:style-name="Text_20_body">Muéstrales una manera de salvar la vida para que no estén dispuestos a luchar hasta la muerte, y así podrás aprovecharte para atacarles.</text:p>
+   <text:p text:style-name="Text_20_body">No presiones a un enemigo desesperado.</text:p>
+   <text:p text:style-name="Text_20_body">Un animal agotado seguirá luchando, pues esa es la ley de la naturaleza.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Estas son las leyes de las operaciones militares.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main7.xml#heading_id_2"/>Capítulo 8 Sobre los nueve cambios<text:bookmark-end text:name="main7.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Por lo general, las operaciones militares están bajo el del gobernante civil para dirigir al ejército.</text:p>
+   <text:p text:style-name="Text_20_body">El General no debe levantar su campamento en un terreno difícil. Deja que se establezcan relaciones diplomáticas en las fronteras. No permanezcas en un territorio árido ni aislado.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando te halles en un terreno cerrado, prepara alguna estrategia y muévete. Cuando te halles en un terreno mortal, lucha.</text:p>
+   <text:p text:style-name="Text_20_body">Terreno cerrado significa que existen lugares escarpados que te rodean por todas partes, de manera que el enemigo tiene movilidad, que puede llegar e irse con libertad, pero a ti te es difícil salir y volver.</text:p>
+   <text:p text:style-name="Text_20_body">Cada ruta debe ser estudiada para que sea la mejor. Hay rutas que no debes usar, ejércitos que no han de ser atacados, ciudades que no deben ser rodeadas, terrenos sobre los que no se debe combatir, y órdenes de gobernantes civiles que no deben ser obedecidas.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, los generales que conocen las variables posibles para aprovecharse del terreno sabe cómo manejar las fuerzas armadas. Si los generales no saben cómo adaptarse de manera ventajosa, aunque conozcan la condición del terreno, no pueden aprovecharse de él.</text:p>
+   <text:p text:style-name="Text_20_body">Si están al mando de ejércitos, pero ignoran las artes de la total adaptabilidad, aunque conozcan el objetivo a lograr, no pueden hacer que los soldados luchen por él.</text:p>
+   <text:p text:style-name="Text_20_body">Si eres capaz de ajustar la campaña cambiar conforme al ímpetu de las fuerzas, entonces la ventaja no cambia, y los únicos que son perjudicados son los enemigos. Por esta razón, no existe una estructura permanente. Si puedes comprender totalmente este principio, puedes hacer que los soldados actúen en la mejor forma posible.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, las consideraciones de la persona inteligente siempre incluyen el analizar objetivamente el beneficio y el daño. Cuando considera el beneficio, su acción se expande; cuando considera el daño, sus problemas pueden resolverse.</text:p>
+   <text:p text:style-name="Text_20_body">El beneficio y el daño son interdependientes, y los sabios los tienen en cuenta.</text:p>
+   <text:p text:style-name="Text_20_body">Por ello, lo que retiene a los adversarios es el daño, lo que les mantiene ocupados es la acción, y lo que les motiva es el beneficio.</text:p>
+   <text:p text:style-name="Text_20_body">Cansa a los enemigos manteniéndolos ocupados y no dejándoles respirar. Pero antes de lograrlo, tienes que realizar previamente tu propia labor. Esa labor consiste en desarrollar un ejército <text:soft-page-break/>fuerte, un pueblo próspero, una sociedad armoniosa y una manera ordenada de vivir.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, la norma general de las operaciones militares consiste en no contar con que el enemigo no acuda, sino confiar en tener los medios de enfrentarte a él; no contar con que el adversario no ataque, sino confiar en poseer lo que no puede ser atacado.</text:p>
+   <text:p text:style-name="Text_20_body">Si puedes recordar siempre el peligro cuando estás a salvo y el caos en tiempos de orden, permanece atento al peligro y al caos mientras no tengan todavía forma, y evítalos antes de que se presenten; ésta es la mejor estrategia de todas.</text:p>
+   <text:p text:style-name="Text_20_body">Por esto, existen cinco rasgos que son peligrosos en los generales. Los que están dispuestos a morir, pueden perder la vida; los que quieren preservar la vida, pueden ser hechos prisioneros; los que son dados a los apasionamientos irracionales, pueden ser ridiculizados; los que son muy puritanos, pueden ser deshonrados; los que son compasivos, pueden ser turbados.</text:p>
+   <text:p text:style-name="Text_20_body">Si te presentas en un lugar que con toda seguridad los enemigos se precipitarán a defender, las personas compasivas se apresurarán invariablemente a rescatar a sus habitantes, causándose a sí mismos problemas y cansancio.</text:p>
+   <text:p text:style-name="Text_20_body">Estos son cinco rasgos que constituyen defectos en los generales y que son desastrosos para las operaciones militares.</text:p>
+   <text:p text:style-name="Text_20_body">Los buenos generales son de otra manera: se comprometen hasta la muerte, pero no se aferran a la esperanza de sobrevivir; actúan de acuerdo con los acontecimientos, en forma racional y realista, sin dejarse llevar por las emociones ni estar sujetos a quedar confundidos. Cuando ven una buena oportunidad, son como tigres, en caso contrario cierran sus puertas. Su acción y su no acción son cuestiones de estrategia, y no pueden ser complacidos ni enfadados.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main8.xml#heading_id_2"/>Capítulo 9 Sobre la distribución de los medios<text:bookmark-end text:name="main8.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Las maniobras militares son el resultado de los planes y las estrategias en la manera más ventajosa para ganar. Determinan la movilidad y efectividad de las tropas.</text:p>
+   <text:p text:style-name="Text_20_body">Si vas a colocar tu ejército en posición de observar al enemigo, atraviesa rápido las montañas y vigílalos desde un valle.</text:p>
+   <text:p text:style-name="Text_20_body">Considera el efecto de la luz y manténte en la posición más elevada del valle. Cuando combatas en una montaña, ataca desde arriba hacia abajo y no al revés.</text:p>
+   <text:p text:style-name="Text_20_body">Combate estando cuesta abajo y nunca cuesta arriba. Evita que el agua divida tus fuerzas, aléjate de las condiciones desfavorables lo antes que te sea posible. No te enfrentes a los enemigos dentro del agua; es conveniente dejar que pasen la mitad de sus tropas y en ese momento dividirlas y atacarlas.</text:p>
+   <text:p text:style-name="Text_20_body">No te sitúes río abajo. No camines en contra de la corriente, ni en contra del viento.</text:p>
+   <text:p text:style-name="Text_20_body">Si acampas en la ribera de un río, tus ejércitos pueden ser sorprendidos de noche, empujados a ahogarse o se les puede colocar veneno en la corriente. Tus barcas no deben ser amarradas corriente abajo, para impedir que el enemigo aproveche la corriente lanzando sus barcas contra ti. Si atraviesas pantanos, hazlo rápidamente. Si te encuentras frente a un ejército en media de un pantano, permanece cerca de sus plantas acuáticas o respaldado por los árboles.</text:p>
+   <text:p text:style-name="Text_20_body">En una llanura, toma posiciones desde las que sea fácil maniobrar, manteniendo las elevaciones del terreno detrás y a tu derecha, estando las partes más bajas delante y las más altos detrás.</text:p>
+   <text:p text:style-name="Text_20_body">Generalmente, un ejército prefiere un terreno elevado y evita un terreno bajo, aprecia la luz y detesta la oscuridad.</text:p>
+   <text:p text:style-name="Text_20_body">Los terrenos elevados son estimulantes, y por lo tanto, la gente se halla a gusto en ellos, además son convenientes para adquirir la fuerza del ímpetu. Los terrenos bajos son húmedos, lo cual provoca enfermedades y dificulta el combate.</text:p>
+   <text:p text:style-name="Text_20_body">Cuida de la salud física de tus soldados con los mejores recursos disponibles.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando no existe la enfermedad en un ejército, se dice que éste es invencible.</text:p>
+   <text:p text:style-name="Text_20_body">Donde haya montículos y terraplenes, sitúate en su lado soleado, manteniéndolos siempre a tu derecha y detrás.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Colocarse en la mejor parte del terreno es ventajoso para una fuerza militar.</text:p>
+   <text:p text:style-name="Text_20_body">La ventaja en una operación militar consiste en aprovecharse de todos los factores beneficiosos del terreno.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando llueve río arriba y la corriente trae consigo la espuma, si quieres cruzarlo, espera a que escampe.</text:p>
+   <text:p text:style-name="Text_20_body">Siempre que un terreno presente barrancos infranqueables, lugares cerrados, trampas, riesgos, grietas y prisiones naturales, debes abandonarlo rápidamente y no acercarte a él. En lo que a mí concierne, siempre me mantengo alejado de estos accidentes del terreno, de manera que los adversarios estén más cerca que yo de ellos; doy la cara a estos accidentes, de manera que queden a espaldas del enemigo.</text:p>
+   <text:p text:style-name="Text_20_body">Entonces estás en situación ventajosa, y él tiene condiciones desfavorables.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando un ejército se está desplazando, si atraviesa territorios montañosos con muchas corrientes de agua y pozos, o pantanos cubiertos de juncos, o bosques vírgenes llenos de árboles y vegetación, es imprescindible escudriñarlos totalmente y con cuidado, ya que estos lugares ayudan a las emboscadas y a los espías.</text:p>
+   <text:p text:style-name="Text_20_body">Es esencial bajar del caballo y escudriñar el terreno, por si existen tropas escondidas para tenderte una emboscada. También podría ser que hubiera espías al acecho observándote y escuchando tus instrucciones y movimientos.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el enemigo está cerca, pero permanece en calma, quiere decir que se halla en una posición fuerte. Cuando está lejos pero intenta provocar hostilidades, quiere que avances. Si, además, su posición es accesible, eso quiere decir que le es favorable.</text:p>
+   <text:p text:style-name="Text_20_body">Si un adversario no conserva la posición que le es favorable por las condiciones del terreno y se sitúa en otro lugar conveniente, debe ser porque existe alguna ventaja táctica para obrar de esta manera.</text:p>
+   <text:p text:style-name="Text_20_body">Si se mueven los árboles, es que el enemigo se está acercando. Si hay obstáculos entre los matorrales, es que has tomado un mal camino.</text:p>
+   <text:p text:style-name="Text_20_body">La idea de poner muchos obstáculos entre la maleza es hacerte pensar que existen tropas emboscadas escondidas en medio de ella.</text:p>
+   <text:p text:style-name="Text_20_body">Si los pájaros alzan el vuelo, hay tropas emboscadas en el lugar. Si los animales están asustados, existen tropas atacantes. Si se elevan columnas de polvo altas y espesas, hay carros que se están acercando; si son bajas y anchas, se acercan soldados a pie. Humaredas esparcidas significan que se está cortando leña. Pequeñas polvaredas que van y vienen indican que hay que levantar el <text:soft-page-break/>campamento.</text:p>
+   <text:p text:style-name="Text_20_body">Si los emisarios del enemigo pronuncian palabras humildes mientras que éste incrementa sus preparativos de guerra, esto quiere decir que va a avanzar. Cuando se pronuncian palabras altisonantes y se avanza ostentosamente, es señal de que el enemigo se va a retirar.</text:p>
+   <text:p text:style-name="Text_20_body">Si sus emisarios vienen con palabras humildes, envía espías para observar al enemigo y comprobarás que está aumentando sus preparativos de guerra.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando los carros ligeros salen en primer lugar y se sitúan en los flancos, están estableciendo un frente de batalla.</text:p>
+   <text:p text:style-name="Text_20_body">Si los emisarios llegan pidiendo la paz sin firmar un tratado, significa que están tramando algún complot.</text:p>
+   <text:p text:style-name="Text_20_body">Si el enemigo dispone rápidamente a sus carros en filas de combate, es que está esperando refuerzos.</text:p>
+   <text:p text:style-name="Text_20_body">No se precipitarán para un encuentro ordinario si no entienden que les ayudará, o debe haber una fuerza que se halla a distancia y que es esperada en un determinado momento para unir sus tropas y atacarte. Conviene anticipar, prepararse inmediatamente para esta eventualidad.</text:p>
+   <text:p text:style-name="Text_20_body">Si la mitad de sus tropas avanza y la otra mitad retrocede, es que el enemigo piensa atraerte a una trampa.</text:p>
+   <text:p text:style-name="Text_20_body">El enemigo está fingiendo en este caso confusión y desorden para incitarte a que avances.</text:p>
+   <text:p text:style-name="Text_20_body">Si los soldados enemigos se apoyan unos en otros, es que están hambrientos.</text:p>
+   <text:p text:style-name="Text_20_body">Si los aguadores beben en primer lugar, es que las tropas están sedientas.</text:p>
+   <text:p text:style-name="Text_20_body">Si el enemigo ve una ventaja pero no la aprovecha, es que está cansado.</text:p>
+   <text:p text:style-name="Text_20_body">Si los pájaros se reúnen en el campo enemigo, es que el lugar está vacío.</text:p>
+   <text:p text:style-name="Text_20_body">Si hay pájaros sobrevolando una ciudad, el ejército ha huido.</text:p>
+   <text:p text:style-name="Text_20_body">Si se producen llamadas nocturnas, es que los soldados enemigos están atemorizados. Tienen miedo y están inquietos, y por eso se llaman unos a otros.</text:p>
+   <text:p text:style-name="Text_20_body">Si el ejército no tiene disciplina, esto quiere decir que el general no es tomado en serio.</text:p>
+   <text:p text:style-name="Text_20_body">Si los estandartes se mueven, es que está sumido en la confusión.</text:p>
+   <text:p text:style-name="Text_20_body">Las señales se utilizan para unificar el grupo; así pues, si se desplaza de acá para allá sin orden ni <text:soft-page-break/>concierto, significa que sus filas están confusas.</text:p>
+   <text:p text:style-name="Text_20_body">Si sus emisarios muestran irritación, significa que están cansados.</text:p>
+   <text:p text:style-name="Text_20_body">Si matan sus caballos para obtener carne, es que los soldados carecen de alimentos; cuando no tienen marmitas y no vuelven a su campamento, son enemigos completamente desesperados.</text:p>
+   <text:p text:style-name="Text_20_body">Si se producen murmuraciones, faltas de disciplina y los soldados hablan mucho entre sí, quiere decir que se ha perdido la lealtad de la tropa.</text:p>
+   <text:p text:style-name="Text_20_body">Las murmuraciones describen la expresión de los verdaderos sentimientos; las faltas de disciplina indican problemas con los superiores. Cuando el mando ha perdido la lealtad de las tropas, los soldados se hablan con franqueza entre sí sobre los problemas con sus superiores.</text:p>
+   <text:p text:style-name="Text_20_body">Si se otorgan numerosas recompensas, es que el enemigo se halla en un callejón sin salida; cuando se ordenan demasiados castigos, es que el enemigo está desesperado.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando la fuerza de su ímpetu está agotada, otorgan constantes recompensas para tener contentos a los soldados, para evitar que se rebelen en masa. Cuando los soldados están tan agotados que no pueden cumplir las órdenes, son castigados una y otra vez para restablecer la autoridad.</text:p>
+   <text:p text:style-name="Text_20_body">Ser violento al principio y terminar después temiendo a los propios soldados es el colmo de la ineptitud.</text:p>
+   <text:p text:style-name="Text_20_body">Los emisarios que acuden con actitud conciliatoria indican que el enemigo quiere una tregua.</text:p>
+   <text:p text:style-name="Text_20_body">Si las tropas enemigas se enfrentan a ti con ardor, pero demoran el momento de entrar en combate sin abandonar no obstante el terreno, has de observarlos cuidadosamente.</text:p>
+   <text:p text:style-name="Text_20_body">Están preparando un ataque por sorpresa.</text:p>
+   <text:p text:style-name="Text_20_body">En asuntos militares, no es necesariamente más beneficioso ser superior en fuerzas, sólo evitar actuar con violencia innecesaria; es suficiente con consolidar tu poder, hacer estimaciones sobre el enemigo y conseguir reunir tropas; eso es todo.</text:p>
+   <text:p text:style-name="Text_20_body">El enemigo que actúa aisladamente, que carece de estrategia y que toma a la ligera a sus adversarios, inevitablemente acabará siendo derrotado.</text:p>
+   <text:p text:style-name="Text_20_body">Si tu plan no contiene una estrategia de retirada o posterior al ataque, sino que confías exclusivamente en la fuerza de tus soldados, y tomas a la ligera a tus adversarios sin valorar su condición, con toda seguridad caerás prisionero.</text:p>
+   <text:p text:style-name="Text_20_body">Si se castiga a los soldados antes de haber conseguido que sean leales al mando, no obedecerán, <text:soft-page-break/>y si no obedecen, serán difíciles de emplear.</text:p>
+   <text:p text:style-name="Text_20_body">Tampoco podrán ser empleados si no se lleva a cabo ningún castigo, incluso después de haber obtenido su lealtad.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando existe un sentimiento subterráneo de aprecio y confianza, y los corazones de los soldados están ya vinculados al mando, si se relaja la disciplina, los soldados se volverán arrogantes y será imposible emplearlos.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, dirígelos mediante el arte civilizado y unifícalos mediante las artes marciales; esto significa una victoria continua.</text:p>
+   <text:p text:style-name="Text_20_body">Arte civilizado significa humanidad, y artes marciales significan reglamentos. Mándalos con humanidad y benevolencia, unifícalos de manera estricta y firme. Cuando la benevolencia y la firmeza son evidentes, es posible estar seguro de la victoria.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando las órdenes se dan de manera clara, sencilla y consecuente a las tropas, éstas las aceptan. Cuando las órdenes son confusas, contradictorias y cambiantes las tropas no las aceptan o no las entienden.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando las órdenes son razonables, justas, sencillas, claras y consecuentes, existe una satisfacción recíproca entre el líder y el grupo.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main9.xml#heading_id_2"/>Capítulo 10 Sobre la topología<text:bookmark-end text:name="main9.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Algunos terrenos son fáciles, otros difíciles, algunos neutros, otros estrechos, accidentados o abiertos.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el terreno sea accesible, sé el primero en establecer tu posición, eligiendo las alturas soleadas; una posición que sea adecuada para transportar los suministros; así tendrás ventaja cuando libres la batalla.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando estés en un terreno difícil de salir, estás limitado. En este terreno, si tu enemigo no está preparado, puedes vencer si sigues adelante, pero si el enemigo está preparado y sigues adelante, tendrás muchas dificultades para volver de nuevo a él, lo cual jugará en contra tuya.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando es un terreno desfavorable para ambos bandos, se dice que es un terreno neutro. En un terreno neutro, incluso si el adversario te ofrece una ventaja, no te aproveches de ella: retírate, induciendo a salir a la mitad de las tropas enemigas, y entonces cae sobre él aprovechándote de esta condición favorable.</text:p>
+   <text:p text:style-name="Text_20_body">En un terreno estrecho, si eres el primero en llegar, debes ocuparlo totalmente y esperar al adversario. Si él llega antes, no lo persigas si bloquea los desfiladeros. Persíguelo sólo si no los bloquea.</text:p>
+   <text:p text:style-name="Text_20_body">En terreno accidentado, si eres el primero en llegar, debes ocupar sus puntos altos y soleados y esperar al adversario. Si éste los ha ocupado antes, retírate y no lo persigas.</text:p>
+   <text:p text:style-name="Text_20_body">En un terreno abierto, la fuerza del ímpetu se encuentra igualada, y es difícil provocarle a combatir de manera desventajosa para él.</text:p>
+   <text:p text:style-name="Text_20_body">Entender estas seis clases de terreno es la responsabilidad principal del general, y es imprescindible considerarlos.</text:p>
+   <text:p text:style-name="Text_20_body">Éstas son las configuraciones del terreno; los generales que las ignoran salen derrotados.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, entre las tropas están las que huyen, la que se retraen, las que se derrumban, las que se rebelan y las que son derrotadas. Ninguna de estas circunstancias constituyen desastres naturales, sino que son debidas a los errores de los generales.</text:p>
+   <text:p text:style-name="Text_20_body">Las tropas que tienen el mismo ímpetu, pero que atacan en proporción de uno contra diez, salen derrotadas. Los que tienen tropas fuertes pero cuyos oficiales son débiles, quedan retraídos.</text:p>
+   <text:p text:style-name="Text_20_body">Los que tienen soldados débiles al mando de oficiales fuertes, se verán en apuros. Cuando los <text:soft-page-break/>oficiales superiores están encolerizados y son violentos, y se enfrentan al enemigo por su cuenta y por despecho, y cuando los generales ignoran sus capacidades, el ejército se desmoronará.</text:p>
+   <text:p text:style-name="Text_20_body">Como norma general, para poder vencer al enemigo, todo el mando militar debe tener una sola intención y todas las fuerzas militares deben cooperar.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando los generales son débiles y carecen de autoridad, cuando las órdenes no son claras, cuando oficiales y soldados no tienen solidez y las formaciones son anárquicas, se produce revuelta.</text:p>
+   <text:p text:style-name="Text_20_body">Los generales que son derrotados son aquellos que son incapaces de calibrar a los adversarios, entran en combate con fuerzas superiores en número o mejor equipadas, y no seleccionan a sus tropas según los niveles de preparación de las mismas.</text:p>
+   <text:p text:style-name="Text_20_body">Si empleas soldados sin seleccionar a los preparados de los no preparados, a los arrojados y a los timoratos, te estás buscando tu propia derrota.</text:p>
+   <text:p text:style-name="Text_20_body">Estas son las seis maneras de ser derrotado. La comprensión de estas situaciones es la responsabilidad suprema de los generales y deben ser consideradas.</text:p>
+   <text:p text:style-name="Text_20_body">La primera es no calibrar el número de fuerzas; la segunda, la ausencia de un sistema claro de recompensas y castigos; la tercera, la insuficiencia de entrenamiento; la cuarta es la pasión irracional; la quinta es la ineficacia de la ley del orden; y la sexta es el fallo de no seleccionar a los soldados fuertes y resueltos.</text:p>
+   <text:p text:style-name="Text_20_body">La configuración del terreno puede ser un apoyo para el ejército; para los jefes militares, el curso de la acción adecuada es calibrar al adversario para asegurar la victoria y calcular los riesgos y las distancias. Salen vencedores los que libran batallas conociendo estos elementos; salen derrotados los que luchan ignorándolos.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, cuando las leyes de la guerra señalan una victoria segura es claramente apropiado entablar batalla, incluso si el gobierno ha dada órdenes de no atacar. Si las leyes de la guerra no indican una victoria segura, es adecuado no entrar en batalla, aunque el gobierno haya dada la orden de atacar. De este modo se avanza sin pretender la gloria, se ordena la retirada sin evitar la responsabilidad, con el único propósito de proteger a la población y en beneficio también del gobierno; así se rinde un servicio valioso a la nación.</text:p>
+   <text:p text:style-name="Text_20_body">Avanzar y retirarse en contra de las órdenes del gobierno no se hace por interés personal, sino para salvaguardar las vidas de la población y en auténtico beneficio del gobierno. Servidores de esta talla son muy útiles para un pueblo.</text:p>
+   <text:p text:style-name="Text_20_body">Mira por tus soldados como miras por un recién nacido; así estarán dispuestos a seguirte hasta <text:soft-page-break/>los valles más profundos; cuida de tus soldados como cuidas de tus queridos hijos, y morirán gustosamente contigo.</text:p>
+   <text:p text:style-name="Text_20_body">Pero si eres tan amable con ellos que no los puedes utilizar, si eres tan indulgente que no les puedes dar órdenes, tan informal que no puedes disciplinarlos, tus soldados serán como niños mimados y, por lo tanto, inservibles.</text:p>
+   <text:p text:style-name="Text_20_body">Las recompensas no deben utilizarse solas, ni debe confiarse solamente en los castigos. En caso contrario, las tropas, como niños mimosos, se acostumbran a disfrutar o a quedar resentidas por todo. Esto es dañino y los vuelve inservibles.</text:p>
+   <text:p text:style-name="Text_20_body">Si sabes que tus soldados son capaces de atacar, pero ignoras si el enemigo es invulnerable a un ataque, tienes sólo la mitad de posibilidades de ganar. Si sabes que tu enemigo es vulnerable a un ataque, pero ignoras si tus soldados son capaces de atacar, sólo tienes la mitad de posibilidades de ganar. Si sabes que el enemigo es vulnerable a un ataque, y tus soldados pueden llevarlo a cabo, pero ignoras si la condición del terreno es favorable para la batalla, tienes la mitad de probabilidades de vencer.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, los que conocen las artes marciales no pierden el tiempo cuando efectúan sus movimientos, ni se agotan cuando atacan. Debido a esto se dice que cuando te conoces a ti mismo y conoces a los demás, la victoria no es un peligro; cuando conoces el cielo y la tierra, la victoria es inagotable.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main10.xml#heading_id_2"/>Capítulo 11 Sobre las nueve clases de terreno<text:bookmark-end text:name="main10.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Conforme a las leyes de las operaciones militares, existen nueve clases de terreno. Si</text:p>
+   <text:p text:style-name="Text_20_body">intereses locales luchan entre sí en su propio territorio, a éste se le llama terreno de dispersión.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando los soldados están apegados a su casa y combaten cerca de su hogar, pueden ser dispersados con facilidad.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando penetras en un territorio ajeno, pero no lo haces en profundidad, a éste se le llama territorio ligero.</text:p>
+   <text:p text:style-name="Text_20_body">Esto significa que los soldados pueden regresar fácilmente.</text:p>
+   <text:p text:style-name="Text_20_body">El territorio que puede resultarte ventajoso si lo tomas, y ventajoso al enemigo si es él quien lo conquista, se llama terreno clave.</text:p>
+   <text:p text:style-name="Text_20_body">Un terreno de lucha inevitable es cualquier enclave defensivo o paso estratégico.</text:p>
+   <text:p text:style-name="Text_20_body">Un territorio igualmente accesible para ti y para los demás se llama terreno de comunicación.</text:p>
+   <text:p text:style-name="Text_20_body">El territorio que está rodeado por tres territorios rivales y es el primero en proporcionar libre acceso a él a todo el mundo se llama terreno de intersección.</text:p>
+   <text:p text:style-name="Text_20_body">El terreno de intersección es aquel en el que convergen las principales vías de comunicación uniéndolas entre sí: sé el primero en ocuparlo, y la gente tendrá que ponerse de tu lado. Si lo obtienes, te encuentras seguro; si lo pierdes, corres peligro.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando penetras en profundidad en un territorio ajeno, y dejas detrás muchas ciudades y pueblos, a este terreno se le llama difícil.</text:p>
+   <text:p text:style-name="Text_20_body">Es un terreno del que es difícil regresar.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando atraviesas montañas boscosas, desfiladeros abruptos u otros accidentes difíciles de atravesar, a esto se le llama terreno desfavorable.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el acceso es estrecho y la salida es tortuosa, de manera que una pequeña unidad enemiga puede atacarte, aunque tus tropas sean más numerosas, a éste se le llama terreno cercado.</text:p>
+   <text:p text:style-name="Text_20_body">Si eres capaz de una gran adaptación, puedes atravesar este territorio.</text:p>
+   <text:p text:style-name="Text_20_body">Si sólo puedes sobrevivir en un territorio luchando con rapidez, y si es fácil morir si no lo haces, <text:soft-page-break/>a éste se le llama terreno mortal.</text:p>
+   <text:p text:style-name="Text_20_body">Las tropas que se encuentran en un terreno mortal están en la misma situación que si se encontraran en una barca que se hunde o en una casa ardiendo.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, no combatas en un terreno de dispersión, no te detengas en un terreno ligero, no ataques en un terreno clave (ocupado por el enemigo), no dejes que tus tropas sean divididas en un terreno de comunicación. En terrenos de intersección, establece comunicaciones; en terrenos difíciles, entra aprovisionado; en terrenos desfavorables, continúa marchando; en terrenos cercados, haz planes; en terrenos mortales, lucha.</text:p>
+   <text:p text:style-name="Text_20_body">En un terreno de dispersión, los soldados pueden huir. Un terreno ligero es cuando los soldados han penetrado en territorio enemigo, pero todavía no tienen las espaldas cubiertas: por eso, sus mentes no están realmente concentradas y no están listos para la batalla. No es ventajoso atacar al enemigo en un terreno clave; lo que es ventajoso es llegar el primero a él. No debe permitirse que quede aislado el terreno de comunicación, para poder servirse de las rutas de suministros. En terrenos de intersección, estarás a salvo si estableces alianzas; si las pierdes, te encontrarás en peligro. En terrenos difíciles, entrar aprovisionado significa reunir todo lo necesario para estar allí mucho tiempo. En terrenos desfavorables, ya que no puedes atrincherarte en ello, debes apresurarte a salir. En terrenos cercados, introduce tácticas sorpresivas.</text:p>
+   <text:p text:style-name="Text_20_body">Si las tropas caen en un terreno mortal, todo el mundo luchará de manera espontánea. Por esto se dice: &quot;Sitúa a las tropas en un terreno mortal y sobrevivirán.&quot;</text:p>
+   <text:p text:style-name="Text_20_body">Los que eran antes considerados como expertos en el arte de la guerra eran capaces de hacer que el enemigo perdiera contacto entre su vanguardia y su retaguardia, la confianza entre las grandes y las pequeñas unidades, el interés recíproco par el bienestar de los diferentes rangos, el apoyo mutuo entre gobernantes y gobernados, el alistamiento de soldados y la coherencia de sus ejércitos. Estos expertos entraban en acción cuando les era ventajoso, y se retenían en caso contrario.</text:p>
+   <text:p text:style-name="Text_20_body">Introducían cambios para confundir al enemigo, atacándolos aquí y allá, aterrorizándolos y sembrando en ellos la confusión, de tal manera que no les daban tiempo para hacer planes.</text:p>
+   <text:p text:style-name="Text_20_body">Se podría preguntar cómo enfrentarse a fuerzas enemigas numerosas y bien organizadas que se dirigen hacia ti. La respuesta es quitarles en primer lugar algo que aprecien, y después te escucharán.</text:p>
+   <text:p text:style-name="Text_20_body">La rapidez de acción es el factor esencial de la condición de la fuerza militar, aprovechándose de los errores de los adversarios, desplazándose por caminos que no esperan y atacando cuando no están en guardia.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Esto significa que para aprovecharse de la falta de preparación, de visión y de cautela de los adversarios, es necesario actuar con rapidez, y que si dudas, esos errores no te servirán de nada.</text:p>
+   <text:p text:style-name="Text_20_body">En una invasión, por regla general, cuanto más se adentran los invasores en el territorio ajeno, más fuertes se hacen, hasta el punto de que el gobierno nativo no puede ya expulsarlos.</text:p>
+   <text:p text:style-name="Text_20_body">Escoge campos fértiles, y las tropas tendrán suficiente para comer. Cuida de su salud y evita el cansancio, consolida su energía, aumenta su fuerza. Que los movimientos de tus tropas y la preparación de tus planes sean insondables.</text:p>
+   <text:p text:style-name="Text_20_body">Consolida la energía más entusiasta de tus tropas, ahorra las fuerzas sobrantes, mantén en secreto tus formaciones y tus planes, permaneciendo insondable para los enemigos, y espera a que se produzca un punto vulnerable para avanzar.</text:p>
+   <text:p text:style-name="Text_20_body">Sitúa a tus tropas en un punto que no tenga salida, de manera que tengan que morir antes de poder escapar. Porque, ¿ante la posibilidad de la muerte, qué no estarán dispuestas a hacer? Los guerreros dan entonces lo mejor de sus fuerzas. Cuando se hallan ante un grave peligro, pierden el miedo. Cuando no hay ningún sitio a donde ir, permanecen firmes; cuando están totalmente implicados en un terreno, se aferran a él. Si no tienen otra opción, lucharán hasta el final.</text:p>
+   <text:p text:style-name="Text_20_body">Por esta razón, los soldados están vigilantes sin tener que ser estimulados, se alistan sin tener que ser llamados a filas, son amistosos sin necesidad de promesas, y se puede confiar en ellos sin necesidad de órdenes.</text:p>
+   <text:p text:style-name="Text_20_body">Esto significa que cuando los combatientes se encuentran en peligro de muerte, sea cual sea su rango, todos tienen el mismo objetivo, y, por lo tanto, están alerta sin necesidad de ser estimulados, tienen buena voluntad de manera espontánea y sin necesidad de recibir órdenes, y puede confiarse de manera natural en ellos sin promesas ni necesidad de jerarquía.</text:p>
+   <text:p text:style-name="Text_20_body">Prohibe los augurios para evitar las dudas, y los soldados nunca te abandonarán. Si tus soldados no tienen riquezas, no es porque las desdeñen. Si no tienen más longevidad, no es porque no quieran vivir más tiempo. El día en que se da la orden de marcha, los soldados lloran.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, una operación militar preparada con pericia debe ser como una serpiente veloz que contraataca con su cola cuando alguien le ataca por la cabeza, contraataca con la cabeza cuando alguien le ataca por la cola y contraataca con cabeza y cola, cuando alguien le ataca por el medio.</text:p>
+   <text:p text:style-name="Text_20_body">Esta imagen representa el método de una línea de batalla que responde velozmente cuando es atacada. Un manual de ocho formaciones clásicas de batalla dice: &quot;Haz del frente la retaguardia, haz de la retaguardia el frente, con cuatro cabezas y ocho colas. Haz que la cabeza esté en todas partes, y cuando el enemigo arremeta por el centro, cabeza y cola acudirán al rescate.&quot;</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Puede preguntarse la cuestión de si es posible hacer que una fuerza militar sea como una serpiente rápida. La respuesta es afirmativa. Incluso las personas que se tienen antipatía, encontrándose en el mismo barco, se ayudarán entre sí en caso de peligro de zozobrar.</text:p>
+   <text:p text:style-name="Text_20_body">Es la fuerza de la situación la que hace que esto suceda.</text:p>
+   <text:p text:style-name="Text_20_body">Por esto, no basta con depositar la confianza en caballos atados y ruedas fijadas.</text:p>
+   <text:p text:style-name="Text_20_body">Se atan los caballos para formar una línea de combate estable, y se fijan las ruedas para hacer que los carros no se puedan mover. Pero aun así, esto no es suficientemente seguro ni se puede confiar en ello. Es necesario permitir que haya variantes a los cambios que se hacen, poniendo a los soldados en situaciones mortales, de manera que combatan de forma espontánea y se ayuden unos a otros codo con codo: éste es el camino de la seguridad y de la obtención de una victoria cierta.</text:p>
+   <text:p text:style-name="Text_20_body">La mejor organización es hacer que se exprese el valor y mantenerlo constante. Tener éxito tanto con tropas débiles como con tropas aguerridas se basa en la configuración de las circunstancias.</text:p>
+   <text:p text:style-name="Text_20_body">Si obtienes la ventaja del terreno, puedes vencer a los adversarios, incluso con tropas ligeras y débiles; ¿cuánto más te sería posible si tienes tropas poderosas y aguerridas? Lo que hace posible la victoria a ambas clases de tropas es las circunstancias del terreno.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, los expertos en operaciones militares logran la cooperación de la tropa, de tal manera que dirigir un grupo es como dirigir a un solo individuo que no tiene más que una sola opción.</text:p>
+   <text:p text:style-name="Text_20_body">Corresponde al general ser tranquilo, reservado, justo y metódico.</text:p>
+   <text:p text:style-name="Text_20_body">Sus planes son tranquilos y absolutamente secretos para que nadie pueda descubrirlos. Su mando es justo y metódico, así que nadie se atreve a tomarlo a la ligera.</text:p>
+   <text:p text:style-name="Text_20_body">Puede mantener a sus soldados sin información y en completa ignorancia de sus planes.</text:p>
+   <text:p text:style-name="Text_20_body">Cambia sus acciones y revisa sus planes, de manera que nadie pueda reconocerlos. Cambia de lugar su emplazamiento y se desplaza por caminos sinuosos, de manera que nadie pueda anticiparse.</text:p>
+   <text:p text:style-name="Text_20_body">Puedes ganar cuando nadie puede entender en ningún momento cuáles son tus intenciones.</text:p>
+   <text:p text:style-name="Text_20_body">Dice un Gran Hombre: &quot;El principal engaño que se valora en las operaciones militares no se dirige sólo a los enemigos, sino que empieza por las propias tropas, para hacer que le sigan a uno sin saber adónde van.&quot; Cuando un general fija una meta a sus tropas, es como el que sube a un lugar elevado y después retira la escalera. Cuando un general se adentra muy en el interior <text:soft-page-break/>del territorio enemigo, está poniendo a prueba todo su potencial.</text:p>
+   <text:p text:style-name="Text_20_body">Ha hecho quemar las naves a sus tropas y destruir sus casas; así las conduce como un rebaño y todos ignoran hacia dónde se encaminan.</text:p>
+   <text:p text:style-name="Text_20_body">Incumbe a los generales reunir a los ejércitos y ponerlos en situaciones peligrosas. También han de examinar las adaptaciones a los diferentes terrenos, las ventajas de concentrarse o dispersarse, y las pautas de los sentimientos y situaciones humanas.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando se habla de ventajas y de desventajas de la concentración y de la dispersión, quiere decir que las pautas de los comportamientos humanos cambian según los diferentes tipos de terreno.</text:p>
+   <text:p text:style-name="Text_20_body">En general, la pauta general de los invasores es unirse cuando están en el corazón del territorio enemigo, pero tienden a dispersarse cuando están en las franjas fronterizas. Cuando dejas tu territorio y atraviesas la frontera en una operación militar, te hallas en un terreno aislado.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando es accesible desde todos los puntos, es un terreno de comunicación.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando te adentras en profundidad, estás en un terreno difícil. Cuando penetras poco, estás en un terreno ligero.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando a tus espaldas se hallen espesuras infranqueables y delante pasajes estrechos, estás en un terreno cercado.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando no haya ningún sitio a donde ir, se trata de un terreno mortal.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, en un terreno de dispersión, yo unificaría las mentes de los soldados. En un terreno ligero, las mantendría en contacto. En un terreno clave, les haría apresurarse para tomarlo. En un terreno de intersección, prestaría atención a la defensa. En un terreno de comunicación, establecería sólidas alianzas. En un terreno difícil, aseguraría suministros continuados. En un terreno desfavorable, urgiría a mis tropas a salir rápidamente de él. En un terreno cercado, cerraría las entradas. En un terreno mortal, indicaría a mis tropas que no existe ninguna posibilidad de sobrevivir.</text:p>
+   <text:p text:style-name="Text_20_body">Por esto, la psicología de los soldados consiste en resistir cuando se ven rodeados, luchar cuando no se puede evitar, y obedecer en casos extremos.</text:p>
+   <text:p text:style-name="Text_20_body">Hasta que los soldados no se ven rodeados, no tienen la determinación de resistir al enemigo hasta alcanzar la victoria. Cuando están desesperados, presentan una defensa unificada.</text:p>
+   <text:p text:style-name="Text_20_body">Por ello, los que ignoran los planes enemigos no pueden preparar alianzas.</text:p>
+   <text:p text:style-name="Text_20_body">Los que ignoran las circunstancias del terreno no pueden hacer maniobrar a sus fuerzas. Los que no utilizan guías locales no pueden aprovecharse del terreno. Los militares de un gobierno <text:soft-page-break/>eficaz deben conocer todos estos factores.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el ejército de un gobierno eficaz ataca a un gran territorio, el pueblo no se puede unir. Cuando su poder sobrepasa a los adversarios, es imposible hacer alianzas.</text:p>
+   <text:p text:style-name="Text_20_body">Si puedes averiguar los planes de tus adversarios, aprovéchate del terreno y haz maniobrar al enemigo de manera que se encuentre indefenso; en este caso, ni siquiera un gran territorio puede reunir suficientes tropas para detenerte.</text:p>
+   <text:p text:style-name="Text_20_body">Por lo tanto, si no luchas por obtener alianzas, ni aumentas el poder de ningún país, pero extiendes tu influencia personal amenazando a los adversarios, todo ello hace que el país y las ciudades enemigas sean vulnerables.</text:p>
+   <text:p text:style-name="Text_20_body">Otorga recompensas que no estén reguladas y da órdenes desacostumbradas.</text:p>
+   <text:p text:style-name="Text_20_body">Considera la ventaja de otorgar recompensas que no tengan precedentes, observa cómo el enemigo hace promesas sin tener en cuenta los códigos establecidos.</text:p>
+   <text:p text:style-name="Text_20_body">Maneja las tropas como si fueran una sola persona. Empléalas en tareas reales, pero no les hables. Motívalas con recompensas, pero no les comentes los perjuicios posibles.</text:p>
+   <text:p text:style-name="Text_20_body">Emplea a tus soldados sólo en combatir, sin comunicarles tu estrategia. Déjales conocer los beneficios que les esperan, pero no les hables de los daños potenciales. Si la verdad se filtra, tu estrategia puede hundirse. Si los soldados empiezan a preocuparse, se volverán vacilantes y temerosos.</text:p>
+   <text:p text:style-name="Text_20_body">Colócalos en una situación de posible exterminio, y entonces lucharán para vivir. Ponles en peligro de muerte, y entonces sobrevivirán. Cuando las tropas afrontan peligros, son capaces de luchar para obtener la victoria.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, la tarea de una operación militar es fingir acomodarse a las intenciones del enemigo. Si te concentras totalmente en éste, puedes matar a su general aunque estés a kilómetros de distancia. A esto se llama cumplir el objetivo con pericia.</text:p>
+   <text:p text:style-name="Text_20_body">Al principio te acomodas a sus intenciones, después matas a sus generales: ésta es la pericia en el cumplimiento del objetivo.</text:p>
+   <text:p text:style-name="Text_20_body">Así, el día en que se declara la guerra, se cierran las fronteras, se rompen los salvoconductos y se impide el paso de emisarios.</text:p>
+   <text:p text:style-name="Text_20_body">Los asuntos se deciden rigurosamente desde que se comienza a planificar y establecer la estrategia desde la casa o cuartel general.</text:p>
+   <text:p text:style-name="Text_20_body">El rigor en los cuarteles generales en la fase de planificación se refiere al mantenimiento del <text:soft-page-break/>secreto.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el enemigo ofrece oportunidades, aprovéchalas inmediatamente.</text:p>
+   <text:p text:style-name="Text_20_body">Entérate primero de lo que pretende, y después anticípate a él. Mantén la disciplina y adáptate al enemigo, para determinar el resultado de la guerra. Así, al principio eres como</text:p>
+   <text:p text:style-name="Text_20_body">una doncella y el enemigo abre sus puertas; entonces, tú eres como una liebre suelta, y el enemigo no podrá expulsarte.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main11.xml#heading_id_2"/>Capítulo 12 Sobre el arte de atacar por el fuego<text:bookmark-end text:name="main11.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Existen cinco clases de ataques mediante el fuego: quemar a las personas, quemar los suministros, quemar el equipo, quemar los almacenes y quemar las armas.</text:p>
+   <text:p text:style-name="Text_20_body">El uso del fuego tiene que tener una base, y exige ciertos medios. Existen momentos adecuados para encender fuegos, concretamente cuando el tiempo es seco y ventoso.</text:p>
+   <text:p text:style-name="Text_20_body">Normalmente, en ataques mediante el fuego es imprescindible seguir los cambios producidos por éste. Cuando el fuego está dentro del campamento enemigo, prepárate rápidamente desde fuera. Si los soldados se mantienen en calma cuando el fuego se ha declarado, espera y no ataques. Cuando el fuego alcance su punto álgido, síguelo, si puedes; si no, espera.</text:p>
+   <text:p text:style-name="Text_20_body">En general, el fuego se utiliza para sembrar la confusión en el enemigo y así poder atacarle.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el fuego puede ser prendido en campo abierto, no esperes a hacerlo en su interior; hazlo cuando sea oportuno.</text:p>
+   <text:p text:style-name="Text_20_body">Cuando el fuego sea atizado par el viento, no ataques en dirección contraria a éste.</text:p>
+   <text:p text:style-name="Text_20_body">No es eficaz luchar contra el ímpetu del fuego, porque el enemigo luchará en este caso hasta la muerte.</text:p>
+   <text:p text:style-name="Text_20_body">Si ha soplado el viento durante el día, a la noche amainará.</text:p>
+   <text:p text:style-name="Text_20_body">Un viento diurno cesará al anochecer; un viento nocturno cesará al amanecer.</text:p>
+   <text:p text:style-name="Text_20_body">Los ejércitos han de saber que existen variantes de las cinco clases de ataques mediante el fuego, y adaptarse a éstas de manera racional.</text:p>
+   <text:p text:style-name="Text_20_body">No basta saber cómo atacar a los demás con el fuego, es necesario saber cómo impedir que los demás te ataquen a ti.</text:p>
+   <text:p text:style-name="Text_20_body">Así pues, la utilización del fuego para apoyar un ataque significa claridad, y la utilización del agua para apoyar un ataque significa fuerza. El agua puede incomunicar, pero no puede arrasar.</text:p>
+   <text:p text:style-name="Text_20_body">El agua puede utilizarse para dividir a un ejército enemigo, de manera que su fuerza se desuna y la tuya se fortalezca.</text:p>
+   <text:p text:style-name="Text_20_body">Ganar combatiendo o llevar a cabo un asedio victorioso sin recompensar a los que han hecho méritos trae mala fortuna y se hace merecedor de ser llamado avaro. Por eso se dice que un gobierno esclarecido lo tiene en cuenta y que un buen mando militar recompensa el mérito. No <text:soft-page-break/>moviliza a sus tropas cuando no hay ventajas que obtener, ni actúa cuando no hay nada que ganar, ni luchan cuando no existe peligro.</text:p>
+   <text:p text:style-name="Text_20_body">Las armas son instrumentos de mal augurio, y la guerra es un asunto peligroso. Es indispensable impedir una derrota desastrosa, y por lo tanto, no vale la pena movilizar un ejército por razones insignificantes: Las armas sólo deben utilizarse cuando no existe otro remedio.</text:p>
+   <text:p text:style-name="Text_20_body">Un gobierno no debe movilizar un ejército por ira, y los jefes militares no deben provocar la guerra por cólera.</text:p>
+   <text:p text:style-name="Text_20_body">Actúa cuando sea beneficioso; en caso contrario, desiste. La ira puede convertirse en alegría, y la cólera puede convertirse en placer, pero un pueblo destruido no puede hacérsele renacer, y la muerte no puede convertirse en vida. En consecuencia, un gobierno esclarecido presta atención a todo esto, y un buen mando militar lo tiene en cuenta. Ésta es la manera de mantener a la nación a salvo y de conservar intacto a su ejército.</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="main12.xml#heading_id_2"/>Capítulo 13 Sobre la concordia y la discordia<text:bookmark-end text:name="main12.xml#heading_id_2"/></text:h>
+   <text:p text:style-name="First_20_paragraph">Una Operación militar significa un gran esfuerzo para el pueblo, y la guerra puede durar muchos años para obtener una victoria de un día. Así pues, fallar en conocer la situación de los adversarios por economizar en aprobar gastos para investigar y estudiar a la oposición es extremadamente inhumano, y no es típico de un buen jefe militar, de un consejero de gobierno, ni de un gobernante victorioso. Por lo tanto, lo que posibilita a un gobierno inteligente y a un mando militar sabio vencer a los demás y lograr triunfos extraordinarios con esa información esencial.</text:p>
+   <text:p text:style-name="Text_20_body">La información previa no puede obtenerse de fantasmas ni espíritus, ni se puede tener por analogía, ni descubrir mediante cálculos. Debe obtenerse de personas; personas que conozcan la situación del adversario.</text:p>
+   <text:p text:style-name="Text_20_body">Existen cinco clases de espías: el espía nativo, el espía interno, el doble agente, el espía liquidable, y el espía flotante. Cuando están activos todos ellos, nadie conoce sus rutas: a esto se le llama genio organizativo, y se aplica al gobernante.</text:p>
+   <text:p text:style-name="Text_20_body">Los espías nativos se contratan entre los habitantes de una localidad. Los espías internos se contratan entre los funcionarios enemigos. Los agentes dobles se contratan entre los espías enemigos. Los espías liquidables transmiten falsos datos a los espías enemigos. Los espías flotantes vuelven para traer sus informes.</text:p>
+   <text:p text:style-name="Text_20_body">Entre los funcionarios del régimen enemigo, se hallan aquéllos con los que se puede establecer contacto y a los que se puede sobornar para averiguar la situación de su país y descubrir cualquier plan que se trame contra ti, también pueden ser utilizados para crear desavenencias y desarmonía.</text:p>
+   <text:p text:style-name="Text_20_body">En consecuencia, nadie en las fuerzas armadas es tratado con tanta familiaridad como los espías, ni a nadie se le otorgan recompensas tan grandes como a ellos, ni hay asunto más secreto que el espionaje.</text:p>
+   <text:p text:style-name="Text_20_body">Si no se trata bien a los espías, pueden convertirse en renegados y trabajar para el enemigo.</text:p>
+   <text:p text:style-name="Text_20_body">No se pueden utilizar a los espías sin sagacidad y conocimiento; no puede uno servirse de espías sin humanidad y justicia, no se puede obtener la verdad de los espías sin sutileza. Ciertamente, es un asunto muy delicado. Los espías son útiles en todas partes.</text:p>
+   <text:p text:style-name="Text_20_body">Cada asunto requiere un conocimiento previo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Si algún asunto de espionaje es divulgado antes de que el espía haya informado, éste y el que lo haya divulgado deben eliminarse.</text:p>
+   <text:p text:style-name="Text_20_body">Siempre que quieras atacar a un ejército, asediar una ciudad o atacar a una persona, has de conocer previamente la identidad de los generales que la defienden, de sus aliados, sus visitantes, sus centinelas y de sus criados; así pues, haz que tus espías averigüen todo sobre ellos.</text:p>
+   <text:p text:style-name="Text_20_body">Siempre que vayas a atacar y a combatir, debes conocer primero los talentos de los servidores del enemigo, y así puedes enfrentarte a ellos según sus capacidades.</text:p>
+   <text:p text:style-name="Text_20_body">Debes buscar a agentes enemigos que hayan venido a espiarte, sobornarlos e inducirlos a pasarse a tu lado, para poder utilizarlos como agentes dobles. Con la información obtenida de esta manera, puedes encontrar espías nativos y espías internos para contratarlos. Con la información obtenida de éstos, puedes fabricar información falsa sirviéndote de espías liquidables. Con la información así obtenida, puedes hacer que los espías flotantes actúen según los planes previstos.</text:p>
+   <text:p text:style-name="Text_20_body">Es esencial para un gobernante conocer las cinco clases de espionaje, y este conocimiento depende de los agentes dobles; así pues, éstos deben ser bien tratados.</text:p>
+   <text:p text:style-name="Text_20_body">Así, sólo un gobernante brillante o un general sabio que pueda utilizar a los más inteligentes para el espionaje, puede estar seguro de la victoria. El espionaje es esencial para las operaciones militares, y los ejércitos dependen de él para llevar a cabo sus acciones.</text:p>
+   <text:p text:style-name="Text_20_body">No será ventajoso para el ejército actuar sin conocer la situación del enemigo, y conocer la situación del enemigo no es posible sin el espionaje.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">¡Gracias por leer este libro de www.elejandria.com!</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Descubre nuestra colección de obras de dominio público en castellano en nuestra web</text:h>
+   <text:h text:style-name="P3" text:outline-level="4">Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público<text:line-break/>¡Esperamos que lo disfrutéis!</text:h>
+  </office:text>
+ </office:body>
+</office:document>

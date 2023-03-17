@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <author>
+        <name>George Bacovia</name>
+      </author>
+      <titleStmt>
+        <title>Plumb</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Petru Dimulescu</publisher>
+        <address>adrian.dimulescu@free.fr</address>
+        <availability>
+          <p>
+            <p>-
+    ATENŢIE, CONSERVAŢI ACEASTĂ LICENŢĂ DACĂ REDISTRIBUIŢI ACEST FIŞIER -
+    Licenţă Biblioteca Electronică ====================== Versiunea 1, August
+    1998 Copyright (c) Radu Iliescu - Biblioteca Electronică
+    http://www.lme.ro/~byblos/ radu.iliescu@lme.ro Baza de texte a Bibliotecii
+    Electronice poate fi copiată, difuzată şi modificată în condiţiile
+    următoare: 01) Orice copie în scopuri private, în scopuri de ilustrare a
+    învăţămîntului şi în scopuri de cercetare este autorizată. 02)
+    Introducerea oricărui text sau fragment într-un material de largă
+    circulaţie trebuie să se facă însoţită de prezenta licenţă. Prezenţa
+    oricărui text într-un material comercial fără prezenta licenţă este
+    interzisă. 03) Antetul care însoţeste prezentul document trebuie integral
+    păstrat. 04) Menţiunea producătorului original trebuie să existe, precum
+    şi cea a contribuţiilor ulterioare. 05) Orice modificare ulterioară în
+    sensul corectării erorilor sau punerii într-un alt format trebuie
+    neîntîrziat adusă la cunoştinţa administratorului acestei biblioteci.
+    Indicarea diferitelor modificări trebuie explicit precizată, precum şi
+    datată. Acestea conferă autorului statutul de colaborator la Biblioteca
+    Electronică. 06) Acestă licenţă se aplică inclusiv versiunilor ulterioare
+    provenind de la colaboratorii Bibliotecii Electronice. Copist: Radu
+    Iliescu (radu.iliescu@lme.ro) Acest fişier reproduce ediţia Versuri şi
+    proză, Editura Eminescu, Bucureşti, 1987
+    ----------------------------------------Sfîrşitul licenţei Bibliotecii
+    Electronice------------------------------------------</p>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Plumb de George Bacovia.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Plumb</head>
+        <lg>
+          <l>Dormeau adânc sicriele de plumb,</l>
+          <l>Şi flori de plumb şi funerar vestmânt -</l>
+          <l>Stam singur în cavou, şi era vânt,</l>
+          <l>Şi scârţâiau coroanele de plumb.</l>
+        </lg>
+        <lg>
+          <l>Dormea întors amorul meu de plumb</l>
+          <l>Pe flori de plumb, şi-am început să-l strig -</l>
+          <l>Stam singur lângă mort, şi era frig,</l>
+          <l>Şi-i atârnau aripile de plumb.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Pastel</head>
+        <lg>
+          <l>Buciumă toamna</l>
+          <l>Agonic - din fund -</l>
+          <l>Trec păsărele,</l>
+          <l>Şi tainic s-ascund.</l>
+        </lg>
+        <lg>
+          <l>Ţîrîie ploaia...</l>
+          <l>Nu-i nimeni pe drum;</l>
+          <l>Pe-afară de stai</l>
+          <l>Te-năbuşi de fum.</l>
+        </lg>
+        <lg>
+          <l>Departe, pe cîmp,</l>
+          <l>Cad corbii, domol;</l>
+          <l>Şi răgete lungi</l>
+          <l>Pornesc din ocol.</l>
+        </lg>
+        <lg>
+          <l>Tălăngile, trist,</l>
+          <l>Tot sună dogit...</l>
+          <l>Şi tare-i tîrziu,</l>
+          <l>Şi n-am mai murit...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Decor</head>
+        <lg>
+          <l>Copacii albi, copacii negri</l>
+          <l>Stau goi în parcul solitar:</l>
+          <l>Decor de doliu, funerar...</l>
+          <l>Copacii albi, copacii negri.</l>
+        </lg>
+        <lg>
+          <l>În parc regretele plîng iar...</l>
+        </lg>
+        <lg>
+          <l>Cu pene albe, pene negre</l>
+          <l>O pasăre cu glas amar</l>
+          <l>Străbate parcul secular... Cu pene albe, pene negre.</l>
+        </lg>
+        <lg>
+          <l>În parc fantomele apar...</l>
+        </lg>
+        <lg>
+          <l>Şi frunze albe, frunze negre;</l>
+          <l>Copacii albi, copacii negri;</l>
+          <l>Şi pene albe, pene negre,</l>
+          <l>Decor de doliu, funerar...</l>
+        </lg>
+        <lg>
+          <l>În parc ninsoarea cade rar...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Amurg</head>
+        <lg>
+          <l>Trec corbii - ah, "Corbii"</l>
+          <l>Poetului Tradem -</l>
+          <l>Şi curg pe-nnoptat</l>
+          <l>Pe-un tîrg îngheţat,</l>
+        </lg>
+        <lg>
+          <l>Se duc pe pustii...</l>
+          <l>Pe cînd, de argint,</l>
+          <l>În amurg de-argint,</l>
+          <l>S-aprinde crai nou</l>
+        </lg>
+        <lg>
+          <l>Pe zări argintii</l>
+          <l>În vastul cavou...</l>
+          <l>Iubito... ah, "Corbii"</l>
+          <l>Poetului Tradem...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Lacustră</head>
+        <lg>
+          <l>De-atîtea nopţi aud plouînd,</l>
+          <l>Aud materia plîngînd...</l>
+          <l>Sunt singur, şi mă duce-un gînd</l>
+          <l>Spre locuinţele lacustre.</l>
+        </lg>
+        <lg>
+          <l>Şi parcă dorm pe scînduri ude,</l>
+          <l>În spate mă izbeşte-un val -</l>
+          <l>Tresar din somn, şi mi se pare</l>
+          <l>Că n-am tras podul de la mal.</l>
+        </lg>
+        <lg>
+          <l>Un gol istoric se întinde,</l>
+          <l>Pe-aceleaşi vremuri mă găsesc...</l>
+          <l>Şi simt cum de atîta ploaie</l>
+          <l>Piloţii grei se prăbuşesc.</l>
+        </lg>
+        <lg>
+          <l>De-atîtea nopţi aud plouînd,</l>
+          <l>Tot tresărind, tot aşteptînd...</l>
+          <l>Sunt singur, şi mă duce-un gînd</l>
+          <l>Spre locuinţele lacustre...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Gri</head>
+        <lg>
+          <l>Plîns de cobe pe la geamuri se opri,</l>
+          <l>Şi pe lume plumb de iarnă s-a lăsat;</l>
+          <l>"I-auzi corbii!" - mi-am zis singur... şi-am oftat;</l>
+          <l>Ninge gri.</l>
+        </lg>
+        <lg>
+          <l>Ca şi zarea, gîndul meu se înnegri...</l>
+          <l>Şi de lume tot mai singur, mai barbar, -</l>
+          <l>Trist, cu-o pană mătur vatra, solitar...</l>
+          <l>Iar în zarea grea de plumb</l>
+          <l>Ninge gri</l>
+        </lg>
+      </div>
+      <div>
+        <head>Sonet</head>
+        <lg>
+          <l>E-o noapte udă, grea, te-neci afară.</l>
+          <l>Prin ceaţă - obosite, roşii, fără zare -</l>
+          <l>Ard, afumate, triste felinare</l>
+          <l>Ca într-o crîşmă umedă, murdară.</l>
+        </lg>
+        <lg>
+          <l>Prin măhălăli mai neagră noaptea pare...</l>
+          <l>Şivoaie-n case triste inundară -</l>
+          <l>Ş-auzi tuşind o tuse-n sec, amară -</l>
+          <l>Prin ziduri vechi ce stau în dărîmare,</l>
+        </lg>
+        <lg>
+          <l>Ca Edgar Poe mă reîntorc spre casă,</l>
+          <l>Ori ca Verlaine, topit de băutură -</l>
+          <l>Şi-n noaptea asta de nimic nu-mi pasă.</l>
+        </lg>
+        <lg>
+          <l>Apoi, cu paşi de-o nostimă măsură,</l>
+          <l>Prin întunerec bîjbîiesc prin casă,</l>
+          <l>Şi cad, recad, şi nu mai tac din gură.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Amurg de toamnă</head>
+        <lg>
+          <l>Amurg de toamnă pustiu, de humă,</l>
+          <l>Pe cîmp sinistre şoapte trec pe vînt -</l>
+          <l>Departe plopii s-apleacă la pămînt</l>
+          <l>În larg balans anevoios, de gumă.</l>
+        </lg>
+        <lg>
+          <l>Pustiu adînc... şi-ncepe a-nnopta,</l>
+          <l>Şi-aud gemînd amorul meu defunct:</l>
+          <l>Ascult atent privind un singur punct</l>
+          <l>Şi gem, şi plîng, şi rîd, în hî, în ha...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Tablou de iarnă</head>
+        <lg>
+          <l>Ninge grozav pe cîmp la abator</l>
+          <l>Şi sînge cald se scurge pe canal;</l>
+          <l>Plină-i zăpada de sînge animal -</l>
+          <l>Şi ninge mereu pe un trist patinoar...</l>
+        </lg>
+        <lg>
+          <l>E albul aprins de sînge-nchegat,</l>
+          <l>Şi corbii se plimbă prin sînge... şi sug;</l>
+          <l>Dar ceasu-i tîrziu... în zări corbii fug</l>
+          <l>Pe cîmp, la abator, s-a înnoptat.</l>
+        </lg>
+        <lg>
+          <l>Ninge mereu în zarea-nnoptată...</l>
+          <l>Şi-acum cînd geamuri triste se aprind</l>
+          <l>Spre abator vin lupii licărind.</l>
+          <l>- Iubito, sunt eu la uşa îngheţată...</l>
+        </lg>
+      </div>
+      <div>
+        <head>În grădină</head>
+        <lg>
+          <l>Scîrţîie toamna din crengi ostenite</l>
+          <l>Pe garduri bătrîne, pe streşini de lemn,</l>
+          <l>Şi frunzele cad ca un sinistru semn</l>
+          <l>În liniştea grădinii adormite.</l>
+        </lg>
+        <lg>
+          <l>O palidă fată cu gesturi grăbite</l>
+          <l>Aşteaptă pe noul amor...</l>
+          <l>Pe cînd, discordant şi în fiorător,</l>
+          <l>Scîrţîie toamna din crengi ostenite.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Spre toamnă</head>
+        <lg>
+          <l>Pe drumuri delirînd,</l>
+          <l>Pe vreme de toamnă</l>
+          <l>Mă urmăreşte-un gînd</l>
+          <l>Ce mă îndeamnă:</l>
+          <l>- Dispari mai curînd!</l>
+        </lg>
+        <lg>
+          <l>În casa iubitei de-ajung,</l>
+          <l>Eu zgudui fereastra nervos,</l>
+          <l>Şi-o chem ca să vadă cum plouă</l>
+          <l>Frunzişul, în tîrgul ploios.</l>
+        </lg>
+        <lg>
+          <l>Dar, iată, şi-un mort evreiesc...</l>
+          <l>Şi plouă, e moină, noroi -</l>
+          <l>În murmure stranii semite</l>
+          <l>M-adaug şi eu la convoi.</l>
+        </lg>
+        <lg>
+          <l>Şi nimeni nu ştie ce-i asta -</l>
+          <l>M-afund într-o crîşmă să scriu,</l>
+          <l>Sau rîd şi pornesc înspre casă,</l>
+          <l>Ş-acolo mă-nchid ca-n sicriu.</l>
+        </lg>
+        <lg>
+          <l>Şi mereu delirînd,</l>
+          <l>Pe vreme de toamnă,</l>
+          <l>M-adoarme un gînd</l>
+          <l>Ce mă îndeamnă:</l>
+          <l>- Dispari mai curînd!</l>
+        </lg>
+      </div>
+      <div>
+        <head>Pălind</head>
+        <lg>
+          <l>Sunt solitarul pustiilor pieţe</l>
+          <l>Cu tristele becuri cu pală lumină -</l>
+          <l>Cînd sună arama în noaptea deplină</l>
+          <l>Sunt solitarul pustiilor pieţe.</l>
+        </lg>
+        <lg>
+          <l>Tovarăş mi-i rîsul hidos, şi cu umbra</l>
+          <l>Ce sperie cîinii pribegi prin canale;</l>
+          <l>Sub tristele becuri cu razele pale,</l>
+          <l>Tovarăş mi-i rîsul hidos, şi cu umbra</l>
+        </lg>
+        <lg>
+          <l>Sunt solitarul pustiilor pieţe</l>
+          <l>Cu jocuri de umbră ce dau nebunie;</l>
+          <l>Pălind în tăcere şi-n paralizie, -</l>
+          <l>Sunt solitarul pustiilor pieţe...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Amurg violet</head>
+        <lg>
+          <l>Amurg de toamnă violet...</l>
+          <l>Doi plopi, în fund, apar în siluete:</l>
+          <l>- Apostoli în odăjdii violete -</l>
+          <l>Oraşul tot e violet.</l>
+        </lg>
+        <lg>
+          <l>Amurg de toamnă violet...</l>
+          <l>Pe drum e-o lume leneşă, cochetă;</l>
+          <l>Mulţimea toată pare violetă,</l>
+          <l>Oraşul tot e violet.</l>
+        </lg>
+        <lg>
+          <l>Amurg de toamnă violet...</l>
+          <l>Din turn, pe cîmp, văd voievozi cu plete;</l>
+          <l>Străbunii trec în pîlcuri violete,</l>
+          <l>Oraşul tot e violet.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Decembrie</head>
+        <lg>
+          <l>Te uită cum ninge decembre...</l>
+          <l>Spre geamuri, iubito, priveşte -</l>
+          <l>Mai spune s-aducă jăratec</l>
+          <l>Şi focul s-aud cum trosneşte.</l>
+        </lg>
+        <lg>
+          <l>Şi mînă fotoliul spre sobă,</l>
+          <l>La horn să ascult vijelia,</l>
+          <l>Sau zilele mele - totuna -</l>
+          <l>Aş vrea să le-nvăţ simfonia.</l>
+        </lg>
+        <lg>
+          <l>Mai spune s-aducă şi ceaiul,</l>
+          <l>Şi vino şi tu mai aproape, -</l>
+          <l>Citeşte-mi ceva de la poluri</l>
+          <l>Şi ningă... zăpada ne-ngroape.</l>
+        </lg>
+        <lg>
+          <l>Ce cald e aicea la tine,</l>
+          <l>Şi toate din casă mi-s sfinte, -</l>
+          <l>Te uită cum ninge decembre...</l>
+          <l>Nu rîde... citeşte nainte.</l>
+        </lg>
+        <lg>
+          <l>E ziuă şi ce întuneric...</l>
+          <l>Mai spune s-aducă şi lampa -</l>
+          <l>Te uită, zăpada-i cît gardul,</l>
+          <l>Şi-a prins promoroacă şi clampa.</l>
+        </lg>
+        <lg>
+          <l>Eu nu mă mai duc azi acasă...</l>
+          <l>Potop e-napoi şi nainte,</l>
+          <l>Te uită cum ninge decembre...</l>
+          <l>Nu rîde... citeşte nainte.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Negru</head>
+        <lg>
+          <l>Carbonizate flori, noian de negru...</l>
+          <l>Sicrie negre, arse, de metal,</l>
+          <l>Vestminte funerare de mangal,</l>
+          <l>Negru profund, noian de negru...</l>
+        </lg>
+        <lg>
+          <l>Vibrau scîntei de vis... noian de negru;</l>
+          <l>Carbonizat, amorul fumega -</l>
+          <l>Parfum de pene arse, şi ploua...</l>
+          <l>Negru, numai noian de negru...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Nevroză</head>
+        <lg>
+          <l>Afară ninge prăpădind,</l>
+          <l>Iubita cîntă la clavir, -</l>
+          <l>Şi tîrgul stă întunecat,</l>
+          <l>De parcă ninge-n cimitir.</l>
+        </lg>
+        <lg>
+          <l>Iubita cîntă-un marş funebru,</l>
+          <l>Iar eu nedumerit mă mir:</l>
+          <l>De ce să cînte-un marş funebru?</l>
+          <l>Şi ninge ca-ntr-un cimitir.</l>
+        </lg>
+        <lg>
+          <l>Ea plînge şi-a căzut pe clape,</l>
+          <l>Şi geme greu ca în delir...</l>
+          <l>În dezacord clavirul moare,</l>
+          <l>Şi ninge ca-ntr-un cimitir.</l>
+        </lg>
+        <lg>
+          <l>Şi plîng şi eu, şi tremurînd</l>
+          <l>Pe umeri pletele-i resfir...</l>
+          <l>Afară tîrgul stă pustiu,</l>
+          <l>Şi ninge ca-ntr-un cimitir.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Moină</head>
+        <lg>
+          <l>Şi toamna, şi iarna</l>
+          <l>Coboară-amîndouă;</l>
+          <l>Şi plouă, şi ninge -</l>
+          <l>Şi ninge, şi plouă.</l>
+        </lg>
+        <lg>
+          <l>Şi noaptea se lasă</l>
+          <l>Murdară şi goală;</l>
+          <l>Şi galbeni trec bolnavi</l>
+          <l>Copii de la şcoală.</l>
+        </lg>
+        <lg>
+          <l>Şi-s umezi păreţii,</l>
+          <l>Şi-un frig mă cuprinde -</l>
+          <l>Cu cei din morminte</l>
+          <l>Un gînd mă deprinde...</l>
+        </lg>
+        <lg>
+          <l>Şi toamna, şi iarna</l>
+          <l>Coboară-amîndouă;</l>
+          <l>Şi plouă, şi ninge -</l>
+          <l>Şi ninge, şi plouă.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Melancolie</head>
+        <lg>
+          <l>Ce chiot, ce vaiet în toamnă...</l>
+          <l>Şi codrul sălbatec vuieşte -</l>
+          <l>Răsună-n coclauri un bucium,</l>
+          <l>Şi doina mai jalnic porneşte.</l>
+        </lg>
+        <lg>
+          <l>- Ascultă, tu, bine, iubito,</l>
+          <l>Nu plînge şi nu-ţi fie teamă -</l>
+          <l>Ascultă cum greu, din adîncuri,</l>
+          <l>Pămîntul la dînsul ne cheamă...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Rar</head>
+        <lg>
+          <l>Singur, singur, singur,</l>
+          <l>Într-un han, departe -</l>
+          <l>Doarme şi hangiul,</l>
+          <l>Străzile-s deşarte,</l>
+          <l>Singur, singur, singur...</l>
+        </lg>
+        <lg>
+          <l>Plouă, plouă, plouă,</l>
+          <l>Vreme de beţie -</l>
+          <l>Şi s-asculţi pustiul,</l>
+          <l>Ce melancolie!</l>
+          <l>Plouă, plouă, plouă...</l>
+        </lg>
+        <lg>
+          <l>Nimeni, nimeni, nimeni,</l>
+          <l>Cu atît mai bine -</l>
+          <l>Şi de-atîta vreme</l>
+          <l>Nu ştie de mine</l>
+          <l>Nimeni, nimeni, nimeni...</l>
+        </lg>
+        <lg>
+          <l>Tremur, tremur, tremur...</l>
+          <l>Orice ironie</l>
+          <l>Vă rămîne vouă -</l>
+          <l>Noaptea e tîrzie,</l>
+          <l>Tremur, tremur, tremur...</l>
+        </lg>
+        <lg>
+          <l>Veşnic, veşnic, veşnic,</l>
+          <l>Rătăciri de-acuma</l>
+          <l>N-or să mă mai cheme -</l>
+          <l>Peste vise bruma,</l>
+          <l>Veşnic, veşnic, veşnic...</l>
+        </lg>
+        <lg>
+          <l>Singur, singur, singur,</l>
+          <l>Vreme de beţie -</l>
+          <l>I-auzi cum mai plouă,</l>
+          <l>Ce melancolie!</l>
+          <l>Singur, singur, singur...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Nervi de toamnă</head>
+        <lg>
+          <l>E toamnă, e foşnet, e somn...</l>
+          <l>Copacii, pe stradă, oftează;</l>
+          <l>E tuse, e plînset, e gol...</l>
+          <l>Şi-i frig, şi burează.</l>
+        </lg>
+        <lg>
+          <l>Amanţii, mai bolnavi, mai trişti,</l>
+          <l>Pe drumuri fac gesturi ciudate -</l>
+          <l>Iar frunze, de veşnicul somn,</l>
+          <l>Cad grele, udate.</l>
+        </lg>
+        <lg>
+          <l>Eu stau, şi mă duc, şi mă-ntorc,</l>
+          <l>Şi-amanţii profund mă-ntristează -</l>
+          <l>Îmi vine să rîd fără sens,</l>
+          <l>Şi-i frig, şi burează.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Seară tristă</head>
+        <lg>
+          <l>Barbar, cînta femeia-aceea,</l>
+          <l>Tîrziu, în cafeneaua goală,</l>
+          <l>Barbar cînta, dar plin de jale, -</l>
+          <l>Şi-n jur era aşa răscoală...</l>
+          <l>Şi-n zgomot monstru de ţimbale</l>
+          <l>Barbar, cînta femeia-aceea.</l>
+        </lg>
+        <lg>
+          <l>Barbar, cînta femeia-aceea...</l>
+          <l>Şi noi eram o ceată tristă -</l>
+          <l>Prin fumul de ţigări ca-n nouri,</l>
+          <l>Gîndeam la lumi ce nu există...</l>
+          <l>Şi-n lungi, satanice ecouri,</l>
+          <l>Barbar, cînta femeia-aceea.</l>
+        </lg>
+        <lg>
+          <l>Barbar, cînta femeia-aceea,</l>
+          <l>Şi-n jur era aşa răscoală...</l>
+          <l>Şi nici nu ne-am mai dus acasă,</l>
+          <l>Şi-am plîns cu frunţile pe masă,</l>
+          <l>Iar peste noi, în sala goală, -</l>
+          <l>Barbar, cînta femeia-aceea...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Note de toamnă</head>
+        <lg>
+          <l>Tăcere... e toamnă în cetate...</l>
+          <l>Plouă... şi numai ploaia dă cuvînt -</l>
+          <l>E pace de plumb, e vînt, şi pe vînt</l>
+          <l>Grăbite, trec frunze liberate.</l>
+        </lg>
+        <lg>
+          <l>Deschide, dă drumu,-adorato,</l>
+          <l>Cu crengi şi foi uscate am venit;</l>
+          <l>În tîrg, o fată tristă a murit, -</l>
+          <l>Şi-au dus-o pe ploaie, şi-au îngropat-o...</l>
+        </lg>
+        <lg>
+          <l>Dă drumu, e toamnă în cetate -</l>
+          <l>Întreg pămîntul pare un mormînt...</l>
+          <l>Plouă... şi peste tîrg, duse de vînt,</l>
+          <l>Grăbite, trec frunze liberate.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Oh, amurguri</head>
+        <lg>
+          <l>Oh, amurguri violet...</l>
+        </lg>
+        <lg>
+          <l>Vine</l>
+          <l>Iarna cu plînsori de piculine...</l>
+        </lg>
+        <lg>
+          <l>Peste parcul părăsit</l>
+          <l>Cad regrete</l>
+          <l>Şi un negru croncănit...</l>
+        </lg>
+        <lg>
+          <l>Veşnicie,</l>
+          <l>Enervare...</l>
+          <l>Din fanfare funerare</l>
+          <l>Toamna sună, agonie...</l>
+        </lg>
+        <lg>
+          <l>Vînt de gheaţă s-a pornit,</l>
+          <l>Iar sub crengile schelete, -</l>
+          <l>Hohot de smintit.</l>
+        </lg>
+        <lg>
+          <l>Nici o urmă despre tine,</l>
+          <l>- Vine, nu vine...</l>
+          <l>Oh, amurguri violete...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Amurg de iarnă</head>
+        <lg>
+          <l>Amurg de iarnă, sumbru, de metal,</l>
+          <l>Cîmpia albă - un imens rotund -</l>
+          <l>Vîslind, un corb încet vine din fund,</l>
+          <l>Tăind orizontal, diametral.</l>
+        </lg>
+        <lg>
+          <l>Copacii rari şi ninşi par de cristal.</l>
+          <l>Chemări de dispariţie mă sorb,</l>
+          <l>Pe cînd, tăcut, se-ntoarce-acelaşi corb,</l>
+          <l>Tăind orizontal, diametral.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Alean</head>
+        <lg>
+          <l>E-n zori, e frig de toamnă,</l>
+          <l>Şi cît cu ochii vezi</l>
+          <l>Se-ncolăceşte fumul,</l>
+          <l>Şi-i pîclă prin livezi.</l>
+        </lg>
+        <lg>
+          <l>Răsună, trist, de glasuri</l>
+          <l>Cîmpiile pustii, -</l>
+          <l>Şi pocnet lung, şi chiot</l>
+          <l>S-aude-n deal la vii.</l>
+        </lg>
+        <lg>
+          <l>C-un zmeu copiii aleargă,</l>
+          <l>Copil, ca ei, te vezi,</l>
+          <l>Şi plîngi... şi-i frig de toamnă...</l>
+          <l>Şi-i pîclă prin livezi.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Amurg antic</head>
+        <lg>
+          <l>Havuzul din dosul palatului mort</l>
+          <l>Mai aruncă, mai plouă, mai plînge -</l>
+          <l>Şi stropii căzînd, în amurg, iau culori:</l>
+          <l>De sineală, de aur, de sînge.</l>
+        </lg>
+        <lg>
+          <l>Pluteşte un lanţ de lebede albe,</l>
+          <l>Iar visul din parc în lac se răsfrînge -</l>
+          <l>Amurgul de lebede pune culori;</l>
+          <l>De sineală, de aur, de sînge.</l>
+        </lg>
+        <lg>
+          <l>Uitate, statuiele albe privesc,</l>
+          <l>Albe visînd c-un aer ce plînge -</l>
+          <l>Şi lasă amurgul pe ele culori:</l>
+          <l>De sineală, de aur, de sînge.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Pulvis</head>
+        <lg>
+          <l>Imensitate, veşnicie,</l>
+          <l>Tu, haos, care toate-aduni...</l>
+          <l>În golul tău e nebunie. -</l>
+          <l>Şi tu ne faci pe toţi nebuni.</l>
+        </lg>
+        <lg>
+          <l>În faţa ta sunt cel mai laş.</l>
+          <l>Imensitate, veşnicie, -</l>
+          <l>Iubesc o fată din oraş...</l>
+          <l>Învaţă-mă filosofie.</l>
+        </lg>
+        <lg>
+          <l>Imensitate, veşnicie,</l>
+          <l>Pe cînd eu tremur în delir.</l>
+          <l>Cu ce supremă ironie</l>
+          <l>Arăţi în fund un cimitir.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Cuptor</head>
+        <lg>
+          <l>Sunt cîţiva morţi în oraş, iubito,</l>
+          <l>Chiar pentru asta am venit să-ţi spun;</l>
+          <l>Pe catafalc, de căldură-n oraş, -</l>
+          <l>Încet, cadavrele se descompun.</l>
+        </lg>
+        <lg>
+          <l>Ce vii se mişcă şi ei descompuşi,</l>
+          <l>Cu lutul de căldură asudat;</l>
+          <l>E miros de cadavre, iubito,</l>
+          <l>Şi azi, chiar sînul tău e mai lăsat.</l>
+        </lg>
+        <lg>
+          <l>Toarnă pe covoare parfume tari,</l>
+          <l>Adu roze pe tine să le pun;</l>
+          <l>Sunt cîţiva morţi în oraş, iubito,</l>
+          <l>Şi-ncet, cadavrele se descompun...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Toamnă</head>
+        <lg>
+          <l>Răsună din margini de tîrg</l>
+          <l>Un bangăt puternic de armă;</l>
+          <l>E toamnă... metalic s-aud</l>
+          <l>Gorniştii, în fund, la cazarmă.</l>
+        </lg>
+        <lg>
+          <l>S-aude şi-un clopot de şcoală,</l>
+          <l>E vînt, şi-i pustiu, dimineaţă;</l>
+          <l>Hîrtii şi cu frunze, de-a valma,</l>
+          <l>Fac roată-n vîrteje, pe-o piaţă.</l>
+        </lg>
+        <lg>
+          <l>Se uită în zări catedrala,</l>
+          <l>Cu turnu-i sever şi trufaş;</l>
+          <l>Grădina oraşului plînge,</l>
+          <l>Şi-aruncă frunzişu-n oraş.</l>
+        </lg>
+        <lg>
+          <l>Şi vine, ca-n vremuri de demult,</l>
+          <l>Din margini, un bucium de-alarmă,</l>
+          <l>E toamnă... metalic s-au</l>
+          <l>Gorniştii, în fund, la cazarmă.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Singur</head>
+        <lg>
+          <l>Potop, cad stele albe de cristal</l>
+          <l>Şi ninge-n noaptea plină de păcate;</l>
+          <l>La vatră-n para ce abia mai bate -</l>
+          <l>Azi, a murit chiar visul meu final.</l>
+        </lg>
+        <lg>
+          <l>Şi ninge-n miezul nopţii glacial...</l>
+          <l>Şi tu iar tremuri, suflet singuratec, -</l>
+          <l>Pe vatră-n para slabă, în jăratec, -</l>
+          <l>Încet, cad lacrimi roze, de cristal.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Trudit</head>
+        <lg>
+          <l>Iubito, şi iar am venit...</l>
+          <l>Dar astăzi, de-abia mă mai port -</l>
+          <l>Deschide clavirul şi cîntă-mi</l>
+          <l>Un cîntec de mort.</l>
+        </lg>
+        <lg>
+          <l>Şi dacă-am să cad pe covoare</l>
+          <l>În tristul, tăcutul salon, -</l>
+          <l>Tu cîntă nainte, iubito,</l>
+          <l>Încet, monoton.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Amurg</head>
+        <lg>
+          <l>Cu lacrimi mari de sînge</l>
+          <l>Curg frunze de pe ramuri, -</l>
+          <l>Şi-nsîngerat, amurgul</l>
+          <l>Pătrunde-ncet prin geamuri.</l>
+        </lg>
+        <lg>
+          <l>Pe dealurile-albastre,</l>
+          <l>De sînge urcă luna,</l>
+          <l>De sînge pare lacul,</l>
+          <l>Mai roş ca-ntotdeauna.</l>
+        </lg>
+        <lg>
+          <l>La geam tuşeşte-o fată</l>
+          <l>În bolnavul amurg;</l>
+          <l>Şi s-a făcut batista</l>
+          <l>Ca frunzele ce curg.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Altfel</head>
+        <lg>
+          <l>Omul începuse să vorbească singur...</l>
+          <l>Şi totul se mişca în umbre trecătoare -</l>
+          <l>Un cer de plumb de-a pururea domnea,</l>
+          <l>Iar creierul ardea ca flacăra de soare.</l>
+        </lg>
+        <lg>
+          <l>Nimic. Pustiul tot mai larg părea...</l>
+          <l>Şi-n noaptea lui amară tăcuse orice cînt, -</l>
+          <l>Şi-nvineţit de gînduri, cu fruntea în pămînt</l>
+          <l>Omul începuse să vorbească singur...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Panoramă</head>
+        <lg>
+          <l>Plîngea caterinca-fanfară</l>
+          <l>Lugubru în noapte, tîrziu...</l>
+          <l>Şi singur priveam prin ochene,</l>
+          <l>Pierdut în muzeul pustiu...</l>
+        </lg>
+        <lg>
+          <l>Şi-n lumea ochenelor triste</l>
+          <l>Mă prinse sinistre gîndiri -</l>
+          <l>În jurul meu corpuri de ceară,</l>
+          <l>Cu hîde şi fixe priviri.</l>
+        </lg>
+        <lg>
+          <l>Şi-acea caterincă-fanfară</l>
+          <l>Îmi dete un tremur satanic;</l>
+          <l>În racle de sticlă - princese</l>
+          <l>Oftau, în dantele, mecanic.</l>
+        </lg>
+        <lg>
+          <l>Şi-atunci, am fugit plin de groază</l>
+          <l>Din sumbrul muzeu fioros,</l>
+          <l>Oraşul dormea în tăcere,</l>
+          <l>Flaşneta plîngea cavernos.</l>
+        </lg>
+        <lg>
+          <l>Plîngea caterinca-fanfară</l>
+          <l>O arie tristă, uitată...</l>
+          <l>Şi stam împietrit... şi de veacuri,</l>
+          <l>Cetatea părea blesemată.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Finis</head>
+        <lg>
+          <l>Cadavrul impozant pe catafalcul falnic,</l>
+          <l>Sub gaza de argint visa în vasta gală...</l>
+          <l>Iar sînul ei pierdut în mortuara gală -</l>
+          <l>Pe veci oprit, înmărmurise falnic.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Pustiu...</head>
+        <lg>
+          <l>Departe, în cetate viaţa tropota...</l>
+          <l>O, simţurile-mi toate se enervau fantastic...</l>
+          <l>Dar în lugubrul sălii pufneau în rîs sarcastic</l>
+          <l>Şi Poe, şi Baudelaire, şi Rollinat.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Plumb de iarnă</head>
+        <lg>
+          <l>Iarna, de-o vreme, mă duce regretul</l>
+          <l>Prin crînguri, pe margini de linii ferate -</l>
+          <l>Trec singur spre seară pe ape-ngheţate</l>
+          <l>Cînd fîlfîie, pe lume, violetul.</l>
+        </lg>
+        <lg>
+          <l>Paloarea, mutismul minează-al meu piept</l>
+          <l>Pe satele ninse crai-nou cînd apare;</l>
+          <l>Trec singur pe poduri de fier solitare,</l>
+          <l>Şi-aştept în zăpadă... dar ce mai aştept?</l>
+        </lg>
+        <lg>
+          <l>Hau!... hau!... depărtat sub stele-ngheţate...</l>
+          <l>În noaptea grozavă la cine voi bate?...</l>
+          <l>O, vis... o, libertate...</l>
+          <l>Hau!... hau!... depărtat sub stele-ngheţate...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Nocturnă</head>
+        <lg>
+          <l>Stau... şi moina cade, apă, glod...</l>
+          <l>Să nu mai ştiu nimic, ar fi un singur mod -</l>
+          <l>Un bec agonizează, există, nu există, -</l>
+          <l>Un alcoolic trece piaţa tristă.</l>
+        </lg>
+        <lg>
+          <l>Oraşul doarme ud în umezeala grea.</l>
+          <l>Prin zidurile astea, poate, doarme ea, -</l>
+          <l>Case de fier în case de zid,</l>
+          <l>Şi porţile grele se-nchid.</l>
+          <l>Un clavis îngînă-ncet la un etaj,</l>
+          <l>Umbra mea stă în noroi ca un trist bagaj -</l>
+          <l>Stropii sar,</l>
+          <l>Ninge zoios,</l>
+          <l>La un geam, într-un pahar,</l>
+          <l>O roză galbenă se uită-n jos.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Plumb de toamnă</head>
+        <lg>
+          <l>De-acum, tuşind, a şi murit o fată,</l>
+          <l>Un palid visător s-a împuşcat;</l>
+          <l>E toamnă şi de-acuma s-a-nnoptat...</l>
+          <l>- Tu ce mai faci, iubita mea uitată?</l>
+        </lg>
+        <lg>
+          <l>Într-o grădină publică, tăcută,</l>
+          <l>Pe un nebun l-am auzit răcnind.</l>
+          <l>Iar frunzele cu droaia se desprind;</l>
+          <l>E vînt şi-orice speranţă e pierdută.</l>
+        </lg>
+        <lg>
+          <l>Prin tîrgu-nvăluit de sărăcie</l>
+          <l>Am întîlnit un popă, un soldat...</l>
+          <l>De-acum pe cărţi voi adormi uitat,</l>
+          <l>Pierdut într-o provincie pustie.</l>
+        </lg>
+        <lg>
+          <l>De-acum, au şi pornit pe lumea eronată</l>
+          <l>Ecouri de revoltă şi de jale;</l>
+          <l>Tot mai citeşti probleme sociale...</l>
+          <l>Sau, ce mai scrii, iubita mea uitată?</l>
+        </lg>
+      </div>
+      <div>
+        <head>Largo</head>
+        <lg>
+          <l>Muzica sonoriza orice atom...</l>
+          <l>Dor de tine, şi de altă lume,</l>
+          <l>Dor...</l>
+          <l>Plana:</l>
+          <l>Durere fără nume</l>
+          <l>Pe om...</l>
+          <l>Toţi se gîndeau la viaţa lor,</l>
+          <l>La dispariţia lor.</l>
+          <l>Muzica sentimentaliza</l>
+          <l>Obositor, -</l>
+          <l>Dor de tine, şi de altă lume,</l>
+          <l>Dor...</l>
+          <l>Muzica sonoriza orice atom.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Plouă</head>
+        <lg>
+          <l>Da, plouă cum n-am mai văzut...</l>
+          <l>Şi grele tălăngi adormite,</l>
+          <l>Cum sună sub şuri învechite!</l>
+          <l>Cum sună în sufletu-mi mut!</l>
+        </lg>
+        <lg>
+          <l>Oh, plînsul tălăngii cînd plouă!</l>
+        </lg>
+        <lg>
+          <l>Şi ce enervare pe gînd!</l>
+          <l>Ce zi primitivă de tină!</l>
+          <l>O bolnavă fată vecină</l>
+          <l>Răcneşte la ploaie rîzînd...</l>
+        </lg>
+        <lg>
+          <l>Oh, plînsul tălăngii cînd plouă!</l>
+        </lg>
+        <lg>
+          <l>Da, plouă... şi sună umil</l>
+          <l>Ca tot ce-i iubire şi ură -</l>
+          <l>Cu-o muzică tristă, de gură,</l>
+          <l>Pe-aproape s-aude-un copil.</l>
+        </lg>
+        <lg>
+          <l>Oh, plînsul tălăngii cînd plouă!</l>
+          <l>Ce basme tălăngile spun!</l>
+          <l>Ce lume-aşa goală de vise!</l>
+          <l>... Şi cum să nu plîngi în abise,</l>
+          <l>Da, cum să nu mori şi nebun,</l>
+        </lg>
+        <lg>
+          <l>Oh, plînsul tălăngii cînd plouă!</l>
+        </lg>
+      </div>
+      <div>
+        <head>Nervi de primăvară</head>
+        <lg>
+          <l>Primăvară...</l>
+          <l>O pictură parfumată cu vibrări de violet.</l>
+          <l>În vitrină, versuri de un nou poet;</l>
+          <l>În oraş suspină un vals din fanfară.</l>
+        </lg>
+        <lg>
+          <l>O nouă primăvară de visuri şi păreri...</l>
+          <l>O lungă deşteptare zvoneşte împrejur,</l>
+          <l>E clar şi numai soare.</l>
+          <l>La geamul unei fabrici o pală lucrătoare</l>
+          <l>Aruncă o privire în zarea de azur.</l>
+          <l>O nouă primăvară pe vechile dureri...</l>
+        </lg>
+        <lg>
+          <l>Apar din nou ţăranii pe hăul din cîmpie,</l>
+          <l>În infinit pămîntul se simte tresăltînd:</l>
+          <l>Vor fi acum de toate cum este orişicînd,</l>
+          <l>Dar iar rămîne totul o lungă teorie.</l>
+        </lg>
+        <lg>
+          <l>O, cînd va fi un cîntec de alte primăveri?!...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Matinală</head>
+        <lg>
+          <l>Auroră violetă</l>
+          <l>Plouă rouă de culori -</l>
+          <l>Venus, plină de fiori,</l>
+          <l>Pare-o vie violetă.</l>
+        </lg>
+        <lg>
+          <l>Bat la geamul tău încet,</l>
+          <l>Bat cu-o roză sîngeroasă -</l>
+          <l>Vino, floare somnoroasă,</l>
+          <l>Cît pe zări e violet.</l>
+        </lg>
+        <lg>
+          <l>Plîns de ape se repetă,</l>
+          <l>Încă totu-i adormit -</l>
+          <l>Ca în vise s-a pornit</l>
+          <l>Roata morii - violetă.</l>
+        </lg>
+        <lg>
+          <l>Gol e-al sînului buchet,</l>
+          <l>Floare goală, somnoroasă...</l>
+          <l>Trist, cu roza sîngeroasă,</l>
+          <l>Bat la geamul violet.</l>
+        </lg>
+        <lg>
+          <l>Aurora violetă</l>
+          <l>Se pătează de culori -</l>
+          <l>Venus, pală de fiori,</l>
+          <l>Pare-o stinsă violetă...</l>
+        </lg>
+      </div>
+      <div>
+        <head>În parc</head>
+        <lg>
+          <l>Acum, stă parcul devastat, fatal,</l>
+          <l>Mîncat de cancer şi ftizie,</l>
+          <l>Pătat de roşu carne-vie -</l>
+          <l>Acum, se-nşiră scene de spital.</l>
+        </lg>
+        <lg>
+          <l>Atunci, rîdea,</l>
+          <l>Băteau aripi de veselie ;</l>
+          <l>Parfum, polen şi histerie, -</l>
+          <l>Atunci, în parc, şi ea venea.</l>
+        </lg>
+        <lg>
+          <l>Acum, cad foi de sînge-n parcul gol.</l>
+          <l>Pe albe statui feminine ;</l>
+          <l>Pe alb model de forme fine,</l>
+          <l>Acum, se-nşiră scene de viol...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Poemă în oglindă</head>
+        <lg>
+          <l>În salonul plin de vise,</l>
+          <l>În oglinda larg-ovală încadrată în argint,</l>
+          <l>Bate toamna,</l>
+          <l>Şi grădina cangrenată,</l>
+          <l>În oglinda larg-ovală încadrată în argint.</l>
+        </lg>
+        <lg>
+          <l>În fotoliu, ostenită, în largi falduri de mătase,</l>
+          <l>Pe cînd cade violetul,</l>
+          <l>Tu citeşti nazalizînd</l>
+          <l>O poemă decadentă, cadaveric parfumată,</l>
+          <l>Monotonă.</l>
+        </lg>
+        <lg>
+          <l>Eu prevăd poema roză a iubirii viitoare...</l>
+        </lg>
+        <lg>
+          <l>Dar pierdută, cu ochi bolnavi,</l>
+          <l>Furi, ironic, împrejurul din salonul parfumat.</l>
+          <l>Şi privirea-ţi cade vagă peste apa larg-ovală,</l>
+          <l>Pe grădina cangrenată,</l>
+          <l>Peste toamna din oglindă -</l>
+          <l>Adormind...</l>
+        </lg>
+        <lg>
+          <l>Eu prevăd poema roză a iubirii viitoare...</l>
+        </lg>
+        <lg>
+          <l>Însă pal mă duc acuma în grădina devastată</l>
+          <l>Şi pe masa părăsită - albă marmoră sculptată -</l>
+          <l>În veşmintele-mi funebre,</l>
+          <l>Mă întind ca şi un mort,</l>
+          <l>Peste mine punînd roze, flori pălite,-ntîrziate,</l>
+          <l>Ca şi noi...</l>
+        </lg>
+        <lg>
+          <l>Zi, finala melodie din clavirul prăfuit,</l>
+          <l>Or ajunge plînsul apei din havuzele-nnoptate.</l>
+          <l>Vezi, din anticul fotoliu -</l>
+          <l>Agonia violetă,</l>
+          <l>Catafalcul,</l>
+          <l>Şi grădina cangrenată,</l>
+          <l>În oglinda larg-ovală încadrată în argint...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Alb</head>
+        <lg>
+          <l>Orchestra începu cu-o indignare graţioasă,</l>
+          <l>Salonul alb visa cu roze albe -</l>
+          <l>Un vals de voaluri albe...</l>
+          <l>Spaţiu, infinit, de o tristeţe armonioasă...</l>
+        </lg>
+        <lg>
+          <l>În aurora plină de vioare,</l>
+          <l>Balul alb s-a resfirat pe neuitatele cărări -</l>
+          <l>Cîntau clare sărutări...</l>
+          <l>Larg, miniatură de vremuri viitoare...</l>
+        </lg>
+      </div>
+      <div>
+        <head>Nervi de toamnă</head>
+        <lg>
+          <l>La toamnă, cînd frunza va îngălbeni,</l>
+          <l>Cînd pentru ftizici nu se ştie ce noi surprize vor veni, -</l>
+          <l>Alcoolizat, bătut de ploi, cum n-am mai fost cîndva,</l>
+          <l>Tîrziu, în geamul tău, încet, cu o monedă voi suna.</l>
+        </lg>
+        <lg>
+          <l>Şi-n toamna asta udă, mai putredă ca cele ce s-au dus,</l>
+          <l>Cînd geamul tău, în spaima nopţii, ca un prelung final,</l>
+          <l>Voi repeta că anii trec mereu mai greu, şi mai brutal.</l>
+        </lg>
+        <lg>
+          <l>Va bate ploaia... şi tîrziu, la geamul tău voi plînge-ncet...</l>
+          <l>Va rătăci alcoolizat, apoi, în noapte, un schelet, -</l>
+          <l>Nimic tu nu vei auzi din cîte voi avea de spus...</l>
+          <l>În toamna asta udă, mai putredă ca cele ce s-au dus.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Plumb de iarnă</head>
+        <lg>
+          <l>Ninge secular, tăcere, pare a fi bine,</l>
+          <l>Prin oraşul alb, doar vîntul trece-ntîrziat -</l>
+          <l>Ninge, parcă toţi muriră, parcă toţi au înviat...</l>
+        </lg>
+        <lg>
+          <l>Dorm volumele savante-n îngheţatele vitrine.</l>
+        </lg>
+        <lg>
+          <l>Printre ziduri, peste turnuri depărtate,</l>
+          <l>Ninge cu nimic în noaptea vastă, ning bancnote -</l>
+          <l>Numai vîntul singur plînge alte note...</l>
+        </lg>
+        <lg>
+          <l>Umbra mea se adînceşte-n cartiere democrate.</l>
+        </lg>
+        <lg>
+          <l>Ninge grandios în oraşul vast cum nu mai este,</l>
+          <l>Ning la cinematografe grave drame sociale,</l>
+          <l>Pe cînd vîntul hohoteşte-n bulevarde glaciale...</l>
+        </lg>
+        <lg>
+          <l>- Dar cine poate să explice această tristă poveste ?</l>
+        </lg>
+      </div>
+      <div>
+        <head>Note de toamnă</head>
+        <lg>
+          <l>Toamna-n grădină şi-acordă vioara,</l>
+          <l>Strada-i pustie...</l>
+          <l>Oraşul e plin de hambare, -</l>
+          <l>De pînea cea nouă duduie moara.</l>
+        </lg>
+        <lg>
+          <l>O frunză s-a lăsat pe-o mînă-ntinsă care cere...</l>
+        </lg>
+        <lg>
+          <l>Oraşul gol...</l>
+          <l>Cetate depărtată ;</l>
+          <l>Frunzişul smuls...</l>
+          <l>De firele electrice, paralizată,</l>
+          <l>Ca un simbol,</l>
+          <l>O pasăre cade-n oraş, ca o tristeţe mai mult</l>
+        </lg>
+        <lg>
+          <l>Se înserează... şi e tăcere...</l>
+        </lg>
+        <lg>
+          <l>Şi gîndul s-afundă, pierdut vîslaş,</l>
+          <l>Pe-al vremurilor mers -</l>
+          <l>Şi jalea de-a nu mai putea face un vers...</l>
+        </lg>
+        <lg>
+          <l>Sunt cel mai trist din acest oraş.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Monosilab de toamnă</head>
+        <lg>
+          <l>Toamna sună-n geam frunze de metal,</l>
+          <l>Vînt.</l>
+          <l>În tăcerea grea, gînd şi animal</l>
+          <l>Frînt.</l>
+        </lg>
+        <lg>
+          <l>În odaie, trist sună lemnul mut :</l>
+          <l>Poc.</l>
+          <l>Umbre împrejur într-un gol, tăcut,</l>
+          <l>Loc.</l>
+        </lg>
+        <lg>
+          <l>În van peste foi, singur, un condei</l>
+          <l>Frec.</l>
+          <l>Lampa plînge... anii tăi, anii mei</l>
+          <l>Trec.</l>
+        </lg>
+        <lg>
+          <l>Să mă las pe pat, ochii să-i închid,</l>
+          <l>Pot.</l>
+          <l>În curînd, încet va cădea în vid</l>
+          <l>Tot.</l>
+        </lg>
+        <lg>
+          <l>O, va fi cîndva altfel natural,</l>
+          <l>Bis.</l>
+          <l>Toamna sună-n geam frunze de metal,</l>
+          <l>Vis.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Nocturnă</head>
+        <lg>
+          <l>Uitarea venea... a venit.</l>
+          <l>O lacrimă cade jos, totul tace,</l>
+          <l>Lampa obosită a clipit,</l>
+          <l>Orice obiect atins şopteşte : lasă-mă-n pace...</l>
+        </lg>
+        <lg>
+          <l>De-acum...</l>
+          <l>Auzi, ploaia plînge pe drum</l>
+          <l>Pe un adînc tumult,</l>
+          <l>Pe urma unui mic pantof într-un parc de demult...</l>
+        </lg>
+        <lg>
+          <l>Adorm... ascult...</l>
+          <l>Afară, la fereastră, toamna a spus :</l>
+          <l>- Of !...</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

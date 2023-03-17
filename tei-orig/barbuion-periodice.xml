@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Din periodice</title>
+        <author>
+          <name>Ion Barbu</name>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <p>- ATENŢIE, CONSERVAŢI ACEASTĂ LICENŢĂ DACĂ REDISTRIBUIŢI ACEST FIŞIER - 
+
+
+	Licenţă Biblioteca Electronică
+	======================
+
+	Versiunea 1, August 1998 
+
+	Copyright ? Radu Iliescu - Biblioteca Electronică
+
+http://www.lme.ro/~byblos/
+radu.iliescu@lme.ro
+
+	Baza de texte a Bibliotecii Electronice poate fi copiată, difuzată şi modificată în condiţiile următoare:
+
+	01) Orice copie în scopuri private, în scopuri de ilustrare a învăţămîntului şi în scopuri de cercetare este autorizată.
+
+	02) Introducerea oricărui text sau fragment într-un material de largă circulaţie trebuie să se facă însoţită de prezenta licenţă. Prezenţa oricărui text într-un material comercial fără prezenta licenţă este interzisă.
+
+	03) Antetul care însoţeste prezentul document trebuie integral păstrat.
+
+	04) Menţiunea producătorului original trebuie să existe, precum şi cea a contribuţiilor ulterioare.
+
+	05) Orice modificare ulterioară în sensul corectării erorilor sau punerii într-un alt format trebuie neîntîrziat adusă la cunoştinţa administratorului acestei biblioteci. Indicarea diferitelor modificări trebuie explicit precizată, precum şi datată. Acestea conferă autorului statutul de colaborator la Biblioteca Electronică.
+
+	06) Acestă licenţă se aplică inclusiv versiunilor ulterioare provenind de la colaboratorii Bibliotecii Electronice.
+
+	Copist: Radu Iliescu (radu.iliescu@lme.ro)
+
+	Acest fişier reproduce poeziile din ediţia Joc Secund, Editura pentru literatură, 1966.
+
+----------------------------------------Sfîrşitul licenţei Bibliotecii Electronice------------------------------------------</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- one of (recordingStmt scriptStmt listBibl biblStruct biblFull bibl p) -->
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+      <head>Poezii</head>
+
+      <div>
+        <head>Elan</head>
+        <lg>
+          <l>Sunt numai o verigă din marea îndoire,</l>
+          <l>Fragilă, unitatea mi-e pieritoare; dar</l>
+          <l>Un roi de existenţe din moartea mea răsar,</l>
+          <l>Şi-adevăratul nume ce port e: Unduire.</l>
+        </lg>
+        <lg>
+          <l>Deci, arcuit sub timpuri, desfăşur lung ţesut</l>
+          <l>De la plăpînda iarbă la fruntea gînditoare,</l>
+          <l>Şi blondul şir de forme, urcînd din soare-n soare,</l>
+          <l>În largul vieţii revarsă un trecut.</l>
+        </lg>
+        <lg>
+          <l>Din călătoarea undă, din apele eterne,</l>
+          <l>Îmi însuşesc vestmîntul acelor care mor,</l>
+          <l>Şi înnoit şi ager alerg - subtil fior -</l>
+          <l>Prin săli orgolioase ori umede caverne?</l>
+        </lg>
+        <lg>
+          <l>Şi astfel, în pămînturi croindu-mi vaste porţi</l>
+          <l>Spre ritmuri necuprinse de minte vreodată,</l>
+          <l>Aduc Înaltei Cumpeni povara mea, bogată</l>
+          <l>De-atîtea existenţe şi tot atîtea morţi.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Lava</head>
+        <lg>
+          <l>Te-nnăbuşai în pîcla încinsei atmosfere,</l>
+          <l>O, tu, noian de lavă ce-aveai să fii pămîntul!</l>
+          <l>Făptura nu sunase din trîmbiţi de cratere,</l>
+          <l>Nu fulgerase încă, în noaptea ta, cuvîntul?</l>
+        </lg>
+        <lg>
+          <l>Ce surdă clocotire, ce-nceată aşteptare</l>
+          <l>Sub aburii roşiatici, sub aburii de fier,</l>
+          <l>Cînd înspre noi tărîmuri voiai o revărsare,</l>
+          <l>Cînd, oprimat de umbră, tu presimţeai un cer!</l>
+        </lg>
+        <lg>
+          <l>Dar se desprinse vălul, şi-o boltă-ndepărtată</l>
+          <l>Din zîmbetu-i albastru desfăşură spre tine;</l>
+          <l>O clipă-a fost? şi totuşi, sclipirea ei curată</l>
+          <l>Te-a înfrăţit de-a pururi cu sferele senine.</l>
+        </lg>
+        <lg>
+          <l>De-atunci, spre-o altă lume fluida-ţi formă tinde,</l>
+          <l>Cu slava-ntrevăzută un dor fără de saţiu</l>
+          <l>Ar vrea să te-mpreune? şi ca s-o poţi cuprinde,</l>
+          <l>Tentacule lichide îţi adînceşti în spaţiu.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Copacul</head>
+        <lg>
+          <l>Hipnotizat de-adînca şi limpedea lumină</l>
+          <l>A bolţilor destinse deasupra lui, ar vrea</l>
+          <l>Să sfarme zenitul, şi,-nnebunit, să bea,</l>
+          <l>Prin mii de crengi crispate, licoarea opalină.</l>
+        </lg>
+        <lg>
+          <l>Nici vălurile nopţii, nici umeda perdea</l>
+          <l>De nouri nu-i goneşte imagina senină;</l>
+          <l>De-un strălucit albastru viziunea lui e plină,</l>
+          <l>Oricît de multe neguri în juru-i vor cădea?</l>
+        </lg>
+        <lg>
+          <l>Dar cînd augusta toamnă din nou îl înfăşoară</l>
+          <l>În tonuri de crepuscul, cînd toamna prinde iară</l>
+          <l>Sub casca lui de frunze un rod îmbelşugat,</l>
+          <l>Atunci, intrînd în simpla, obşteasca armonie</l>
+          <l>Cu tot ce-l limitează şi-l leagă împăcat,</l>
+          <l>În toamna lui, copacul se-nclină către glie.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Banchizele</head>
+        <lg>
+          <l>Din aspra contpire a gerului polar</l>
+          <l>Cu verzi şi stătătoare pustietăţi lichide,</l>
+          <l>Sinteze transparente de străluciri avide</l>
+          <l>Zbucnesc din somnorosul noian originar.</l>
+        </lg>
+        <lg>
+          <l>Mereu rătăcitoare, substratul lor închide</l>
+          <l>Tot darul unui soare roşiatec şi avar,</l>
+          <l>Apoi, de-a lungul nopţii, tot aurul stelar</l>
+          <l>Şi toată înflorirea reflexelor fluide.</l>
+        </lg>
+        <lg>
+          <l>Iar cînd, tîrziu, prin trude-ndelungi şi fir cu fir</l>
+          <l>Au strîns în năvi de gheaţă un fabulos Ofir,</l>
+          <l>Iluminate, pline de spornica lor muncă,</l>
+        </lg>
+        <lg>
+          <l>Pornesc să-şi întrunească ascunsele comori,</l>
+          <l>Şi peste mări de umbră şi linişte aruncă</l>
+          <l>Efluviile unor neprihănite zori.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Panteism</head>
+        <lg>
+          <l>Vom merge spre fierbintea, frenetica viaţă,</l>
+          <l>Spre sînul ei puternic, cioplit în dur bazalt,</l>
+          <l>Uitat să fie visul şi zborul lui înalt,</l>
+          <l>Uitată plăsmuirea cu aripe de ceaţă!</l>
+        </lg>
+        <lg>
+          <l>Vom coborî spre calda, impudica Cybelă,</l>
+          <l>Pe care flori de fildeş ori umed putregai</l>
+          <l>Îşi înfrăţesc de-a valma teluricul lor trai,</l>
+          <l>Şi-i vom cuprinde coapsa fecundă, de femelă.</l>
+        </lg>
+        <lg>
+          <l>Smulgîndu-ne din cercul puterilor latente,</l>
+          <l>Vieţii universale, adînci, ne vom reda;</l>
+          <l>Iar nervii noştri, hidră cu mii de guri, vor bea</l>
+          <l>Interioara-i mare de flăcări violente.</l>
+        </lg>
+        <lg>
+          <l>Şi peste tot, în trupuri, în roci fierbinţi - orgie</l>
+          <l>De ritmuri vii, de lavă, de freamăt infinit,</l>
+          <l>Cutremurînd vertebre de silex ori granit,</l>
+          <l>Va hohoti, imensă, Vitala Histerie?</l>
+        </lg>
+      </div>
+      <div>
+        <head>Arca</head>
+        <lg>
+          <l>În turburatu-mi suflet am construit o arcă</l>
+          <l>- Informă nălucire de biblic corăbier -,</l>
+          <l>Şi turme-ntregi de gînduri pe puntea ei se-mbarcă,</l>
+          <l>Noroade-ntregi, plecate puternicului cer.</l>
+        </lg>
+        <lg>
+          <l>E vremea să se-abată mînia lui! O ploaia</l>
+          <l>De stropi rigizi întinde zăbrele de oţel.</l>
+          <l>Corabia aleargă? în negura greoaie,</l>
+          <l>Corabia se-nclină, şi-aleargă fără ţel?</l>
+        </lg>
+        <lg>
+          <l>Şi cel din urmă creştet de munte se cufundă?</l>
+          <l>- Spre care ţărm, Stăpîne, spre care Ararat</l>
+          <l>Din bruma depărtării mă poartă-adînca undă?</l>
+          <l>S-a coborît pe ape linţoiu-ntunecat.</l>
+        </lg>
+        <lg>
+          <l>Aud cum se destramă un suflet undeva,</l>
+          <l>Departe, în a ploii acidă melopee?</l>
+          <l>E noapte-n larg? Iar arca te aşteaptă, Jehova,</l>
+          <l>Pe mările din suflet să fereci curcubee.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Munţii</head>
+        <lg>
+          <l>Posomorîta lor înlănţuire</l>
+          <l>Nu e decît un spasm încremenit -</l>
+          <l>Supremă încordare de granit,</l>
+          <l>Rămasă dintr-o altă întocmire.</l>
+        </lg>
+        <lg>
+          <l>Demult, cînd dorul lor nebiruit</l>
+          <l>Îi logodi cu vasta strălucire,</l>
+          <l>Un braţ semeţ au repezit spre fire?</l>
+          <l>Dar gheaţa înălţimii l-a-mpietrit.</l>
+        </lg>
+        <lg>
+          <l>Şi-n vremea ce c-un gest de renunţare</l>
+          <l>Atîtea stînci expiră-n vijelie,</l>
+          <l>Şuvoiul apei neîncăpătoare,</l>
+        </lg>
+        <lg>
+          <l>- Şerpuitoare formă veşnic vie -</l>
+          <l>Prin necuprinsa zărilor cîmpie</l>
+          <l>Se-ndreaptă către mări odihnitoare?</l>
+        </lg>
+      </div>
+      <div>
+        <head>Pentru marile Eleusinii</head>
+        <lg>
+          <l>Cînd calda strălucire a lunilor toride</l>
+          <l>Va prinde să decline, cînd soare potolit</l>
+          <l>Spre golfuri de-ntuneric va luneca trudit,</l>
+          <l>Îşi va rosti chemarea din nou Eumolpide?</l>
+        </lg>
+        <lg>
+          <l>La vorba lui, pătrunsă de-un tăinuit fior,</l>
+          <l>Tu vei ghici durerea Zeiţei pămîntene</l>
+          <l>Şi plînsetul Fecioarei, ce cîmpuri leteene</l>
+          <l>I-e dat mult timp să ude în roua ochilor.</l>
+        </lg>
+        <lg>
+          <l>Şi-n toamna somptuoasă de purpură şi nacru,</l>
+          <l>În toamna unde seara încheagă tonuri vii,</l>
+          <l>Prin surda picurare a orelor tîrzii</l>
+          <l>Îţi vei purta tristeţea, încet, pe Drumul Sacru.</l>
+        </lg>
+        <lg>
+          <l>Nocturne bolţi vor ninge din slăvi misterul lor,</l>
+          <l>Ţi s-o răsfrînge-n suflet tăria-ngîndurată,</l>
+          <l>Iar sfînta ta durere va trece legănată,</l>
+          <l>În ritmuri largi şi grave, de corul sferelor.</l>
+        </lg>
+        <lg>
+          <l>Pe Calichor, în templul încins de roci calcare,</l>
+          <l>Acolo te aşteaptă, cucernic, dorul meu:</l>
+          <l>Acolo vei ajunge în Marea Noapte, greu</l>
+          <l>De gînduri, de nelinişti, de-adîncă-nduioşare.</l>
+        </lg>
+        <lg>
+          <l>Mă vei urma? Cuvîntul va depăna domol</l>
+          <l>Povestea fără nume a nunţii subterane;</l>
+          <l>Uimit, îi vei cuprinde supremele arcane</l>
+          <l>Din culmi nebănuite şi limpezi, de simbol.</l>
+        </lg>
+        <lg>
+          <l>Iar cînd, topit în apa adîncilor mistere,</l>
+          <l>Zeiţei chtoniene întreg te vei fi dat,</l>
+          <l>Cu mîini îngemănate şi gînd cutremurat</l>
+          <l>Îţi voi aduce iarba culeasă în tăcere?</l>
+        </lg>
+      </div>
+      <div>
+        <head>Peisagiu retrospectiv</head>
+        <lg>
+          <l>I</l>
+        </lg>
+        <lg>
+          <l>O, desfrunzirile din urmă!</l>
+          <l>Te uită, vastele păduri</l>
+          <l>Stau veştede sub greaua turmă</l>
+          <l>De nori haotici şi obscuri.</l>
+        </lg>
+        <lg>
+          <l>Te uită, soli ai crustei albe</l>
+          <l>Ce-o să se-aşeze de pe-acum,</l>
+          <l>În dantelări de fine salbe,</l>
+          <l>Pe tufă umedă, pe drum.</l>
+        </lg>
+        <lg>
+          <l>Un cinic puf au nins scaieţii?</l>
+          <l>Şi totuşi, iată-mă venit</l>
+          <l>În faţa toamnei şi-a tristeţii</l>
+          <l>Cu gîndul iarăşi ispitit,</l>
+        </lg>
+        <lg>
+          <l>De-avîntul surd care destinde</l>
+          <l>Tot mai departe largu-i zbor</l>
+          <l>Deasupra zărilor murinde,</l>
+          <l>A sumbrei văi, a tuturor.</l>
+        </lg>
+        <lg>
+          <l>II</l>
+        </lg>
+        <lg>
+          <l>De-a lungul tristelor răzoare</l>
+          <l>Pe care vîntul grămădi</l>
+          <l>Atîtea crengi rătăcitoare,</l>
+          <l>Mîngîietoare vei veni?</l>
+        </lg>
+        <lg>
+          <l>Din glasul toamnei vei renaşte</l>
+          <l>Iubirii mele, vis fugar,</l>
+          <l>Şi însetatul va cunoaşte</l>
+          <l>Beţia vinului tău rar?</l>
+        </lg>
+        <lg>
+          <l>Vei fi atunci izbăvitoarea?</l>
+          <l>Deşi umbrit de-un mort trecut,</l>
+          <l>Îmi vei aduce totuşi floarea</l>
+          <l>Neprihănitului sărut?</l>
+        </lg>
+        <lg>
+          <l>Şi-n pacea-ntinderii, cuvîntul</l>
+          <l>Pe-atîtea buze bănuit,</l>
+          <l>Dar iar intrat în noapte, sfîntul</l>
+          <l>Cuvînt, va fi, va fi rostit?</l>
+        </lg>
+        <lg>
+          <l>III</l>
+        </lg>
+        <lg>
+          <l>Miraj fluid, formă fugară,</l>
+          <l>Străbate surele poteci</l>
+          <l>Şerpuitoare şi coboară</l>
+          <l>În toamna vînturilor reci.</l>
+        </lg>
+        <lg>
+          <l>Dorinţa mea îţi va aprinde</l>
+          <l>Ardori ce nu se pot grăi,</l>
+          <l>Şi-n ciuda umbrei ce se-ntinde</l>
+          <l>Ne vom iubi, ne vom iubi,</l>
+        </lg>
+        <lg>
+          <l>Pînă cînd anii vor aşterne,</l>
+          <l>În colb mărunt, argintul lor;</l>
+          <l>Pînă cînd, greu de ierni eterne,</l>
+          <l>Slăvitul prinţ al orelor</l>
+        </lg>
+        <lg>
+          <l>Va obosi să mai adaste</l>
+          <l>Ivirea ultimilor sloi,</l>
+          <l>Şi bolta nopţii sale vaste</l>
+          <l>Va-ncovoia şi peste noi.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Fulgii</head>
+        <lg>
+          <l>Cad fulgii şovăielnici în stoluri fără număr</l>
+          <l>Din nevăzute urne ei cad pe albul umăr</l>
+          <l>Al dealurilor prinse de-o crustă argintie.</l>
+          <l>
+            <seg>Oştiri de nori aleargă?</seg>
+            <seg>- Ce surdă simpatie,</seg>
+          </l>
+          <l>Nori turburi, nori metalici, spre voi întins mă poartă?</l>
+          <l>Aţi prefăcut în domuri de-argint natura moartă</l>
+          <l>Şi-aţi pus în peisagiu un nou fior de viaţă,</l>
+          <l>Voi, blocuri mohorîte, convoi de-obscură ceaţă!?</l>
+        </lg>
+        <lg>
+          <l>Tot plumbul meu din suflet, o, forme călătoare,</l>
+          <l>Ca voi să se topească în gînduri de ninsoare,</l>
+          <l>Căci, iată, vine vremea cînd - albe, împietrite -</l>
+          <l>Pe gînd descăleca-vor zăpezi neprihănite?</l>
+        </lg>
+        <lg>
+          <l>Cad fulgii şovăielnici, aşa cum în poveste</l>
+          <l>Cad stropi de piatră scumpă, uşor şi leneş, peste</l>
+          <l>Un strălucit războinic, cuprins de-o vraje-adîncă.</l>
+          <l>- Asemenea cîmpiei, sub cerul vînăt încă,</l>
+          <l>Ţinuturi ale minţii, lăsaţi să vă-mpresoare,</l>
+          <l>Lăsaţi să cadă-ntr-una din neaua altui soare,</l>
+          <l>Ce veşnic braţul ritmic al timpului aruncă?</l>
+        </lg>
+        <lg>
+          <l>Cad flori de-argint, de spumă pe lunca-n sărbătoare,</l>
+          <l>Şi vînturi potolite întinsurile-alintă,</l>
+          <l>Şi fluturi albi s-adună în pîlcuri orbitoare,</l>
+        </lg>
+        <lg>
+          <l>- O, suflete, ca lunca te-mbracă-n hiacintă?</l>
+        </lg>
+      </div>
+      <div>
+        <head>Luntrea</head>
+        <lg>
+          <l>Teorbele sonore şi cîntecele toate</l>
+          <l>Au adormit în burgul tîrziei noastre nunţi;</l>
+          <l>Şi în stăruitorul declin, chiar tu renunţi</l>
+          <l>Să întîrzii pe culmea posomorîtă. Poate</l>
+        </lg>
+        <lg>
+          <l>El doar să mai rămînă? el, somptuosul crin</l>
+          <l>Al formei care urcă şi se desprinde, parcă,</l>
+          <l>De malul apei, unde tot gîndul tău se-mbarcă</l>
+          <l>Îndurerat, nesigur şi silnic Lohengrin?</l>
+        </lg>
+        <lg>
+          <l>Sfielnic gînd, tu nu vezi cum luntrea frămîntată</l>
+          <l>Şi lebăda grăbită spre sfintele păduri</l>
+          <l>Vor să-mplineşti porunca? Dar încă nu te-nduri</l>
+          <l>Să laşi ţinutul veşted al nunţii de-altădată!</l>
+        </lg>
+        <lg>
+          <l>Zoreşte, iar pe faldul uşor de hiacint</l>
+          <l>Îmbracă-ntîia armura, şi vechea ta mîndrie</l>
+          <l>Se-nalţă spre uitatul regat, ce te îmbie</l>
+          <l>Statura ta turnată în luminos argint.</l>
+        </lg>
+        <lg>
+          <l>Vei trece? Marii codri fremătători de plîngeri,</l>
+          <l>Înfioraţi de cîte-un romantic hallali,</l>
+          <l>Îşi vor bolti frunzişul; o clipă vor cocli</l>
+          <l>Şi coif, şi scut în jocul virilelor răsfrîngeri;</l>
+        </lg>
+        <lg>
+          <l>Zori neasemuite, apusuri de castele</l>
+          <l>Aprinse, sub metalul curat s-or oglindi,</l>
+          <l>Iar străvezia noapte va creşte şi rodi</l>
+          <l>Prin apele armurii răsade-ntregi de stele;</l>
+        </lg>
+        <lg>
+          <l>Fugarnic sfînt, tu lasă ca fluviul să te poate?</l>
+          <l>Dar dincolo de luntrea îngustă nu privi,</l>
+          <l>Căci apa-ţi va trimite şi va întipări,</l>
+          <l>Întunecată, faţa iubirii voastre moarte!</l>
+        </lg>
+      </div>
+      <div>
+        <head>Cînd va veni declinul</head>
+        <lg>
+          <l>Cu mîini învineţite de umblet lung prin ger</l>
+          <l>Voi reintra în mine cînd va veni declinul;</l>
+          <l>Voi coborî să caut, pierdută-ntr-un ungher,</l>
+          <l>Firida unde arde c-un foc nestins Divinul.</l>
+        </lg>
+        <lg>
+          <l>Şi flăcării voi spune: "Fior al caldei firi,</l>
+          <l>Joc viu ori şovăielnic de galbenă maramă,</l>
+          <l>Vibrare necurmată, zigzag de pîlpîiri,</l>
+          <l>Uşoară şi fierbinte văpaie, te destramă;</l>
+        </lg>
+        <lg>
+          <l>Redă nemărginirii fugarul tău mister?</l>
+          <l>Mereu mai străvezie, mereu mai necuprinsă,</l>
+          <l>Prin sure şi înalte pustiuri de eter</l>
+          <l>Desfăşură pe hăuri o horbotă aprinsă.</l>
+        </lg>
+        <lg>
+          <l>Deasupra ta, deasupra haoticului drum,</l>
+          <l>Cupolele nocturne te-or strejui hieratic;</l>
+          <l>Iar tu vei fi parfumul lunecător, de-acum,</l>
+          <l>Pe-a lumilor întinsă tipsie de jeratic.</l>
+        </lg>
+        <lg>
+          <l>Curînd, sub faldul umbrei nu vei mai desluşi</l>
+          <l>Nici recea Astartee, nici încruntata Gee?</l>
+          <l>Doar spuza sidefată în depărtare, şi</l>
+          <l>În preajmă - goana unor năluci opiacee.</l>
+        </lg>
+        <lg>
+          <l>Vulturi de flăcări, aştrii spre tine s-or purta.</l>
+          <l>Vîslirii lor solemne deschide-atunci ferestre</l>
+          <l>Şi bea din plin vîrtejul stîrnit în preajma ta</l>
+          <l>Cum altădată boarea pădurilor terestre.</l>
+        </lg>
+        <lg>
+          <l>Respiră, creşti mai vastă? în plasma unde doar</l>
+          <l>O singură năvală de năzuinţi se-aprinde,</l>
+          <l>Asemeni unei mare şi lacom protozoar,</l>
+          <l>Înmugurindu-ţi braţe, în noapte le întinde.</l>
+        </lg>
+        <lg>
+          <l>Al tău, al tău, cuprinsul întregului dintîi,</l>
+          <l>Din negura-Andromedii la sorii din Centaur,</l>
+          <l>Stăpînitoare, soarbe tot cerul, şi rămîi</l>
+          <l>Prin marea de funingini năvodul plin cu aur.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Rîul</head>
+        <lg>
+          <l>Din culmea unde, mai presus de nor,</l>
+          <l>Doar gheaţa îşi sculptează diamantul,</l>
+          <l>Te prăvăleai, gigantic clocotitor,</l>
+          <l>Cît zarea-ntins, haotic ca neantul.</l>
+        </lg>
+        <lg>
+          <l>În jurul tău, frînturi de stîncă, lut,</l>
+          <l>Cadavre ale florei uriaşe,</l>
+          <l>Monumentau un nenturnat trecut?</l>
+          <l>Şi nicăieri, în goana pătimaşe,</l>
+        </lg>
+        <lg>
+          <l>Reflux liniştit nu locuia</l>
+          <l>Cu lumea lui năvalnicele ape?</l>
+          <l>Dar anii au trecut? Din matca ta,</l>
+          <l>Prea strîmtă-atunci, ai dispărut aproape.</l>
+        </lg>
+        <lg>
+          <l>Oglindă călătoare, cer mobil,</l>
+          <l>Te-ai încadrat întro uşoară spumă</l>
+          <l>Şi-ţi porţi acum cristalul tău steril</l>
+          <l>Spre-a mărilor îndepărtată brumă.</l>
+        </lg>
+        <lg>
+          <l>Dar murmurul, acord eternizat,</l>
+          <l>Neîncetat mărirea ta o plînge;</l>
+          <l>Şi-ntregul tău trecut, pietrificat,</l>
+          <l>În unda potolită se răsfrînge.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Umanizare</head>
+        <lg>
+          <l>Castelul tău de gheaţă l-am cunoscut, Gîndire;</l>
+          <l>Sub tristele-i arcade mult timp am rătăcit,</l>
+          <l>De noi răsfrîngeri dornic, dar nici o oglindire</l>
+          <l>În stinsele-i cristale ce-ascunzi nu mi-a vorbit;</l>
+          <l>Am părăsit în urmă grandoarea ta polară</l>
+          <l>Şi-am mers, şi-am mers spre caldul pămînt de miazăzi,</l>
+          <l>Şi sub un pîlc de arbori stufoşi, în fapt de seară,</l>
+          <l>Cărarea mea, surprinsă de umbră, se opri.</l>
+        </lg>
+        <lg>
+          <l>Sub acel pîlc de arbori sălbateci, în amurg</l>
+          <l>Mi-ai apărut - sub chipuri necunoscute mie,</l>
+          <l>Cum nu erai acolo, în frigurosul burg,</l>
+          <l>Tu, muzică a formei în zbor, Euritmie!</l>
+        </lg>
+        <lg>
+          <l>Sub înfloriţii arbori, sub ochiul meu uimit,</l>
+          <l>Te-ai resorbit în sunet, în linie, culoare,</l>
+          <l>Te-ai revărsat în lucruri, cum în eternul mit</l>
+          <l>Se revărsa divinul în luturi pieritoare.</l>
+          <l>O, cum întregul suflet al meu ar fi voit</l>
+          <l>Cu cercul undei tale prelungi să se dilate,</l>
+          <l>Să spintece văzduhul şi - larg şi înmiit -</l>
+          <l>Să simtă că vibrează în lumi nenumărate?</l>
+        </lg>
+        <lg>
+          <l>Şi-n acel fapt de seară, uitîndu-mă spre Nord,</l>
+          <l>În ceasul cînd penumbra la orizon descreşte,</l>
+          <l>Iar seara întîrzie un somnolent acord,</l>
+          <l>Mi s-a părut că domul de gheaţă se topeşte.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Convertire</head>
+        <epigraph>Unei femei din Nord</epigraph>
+        <lg>
+          <l>Prin ce-nnodate drumuri, pornind, la ce răscruce</l>
+          <l>Începe noaptea noastră să curgă, nu mai ştiu.</l>
+          <l>Văd doar la geamuri fuga trăsurii ce ne duce</l>
+          <l>C-un sac de somn pe capră - ghebosul.</l>
+        </lg>
+        <lg>
+          <l>În limba ţării tale mă necăjeam a spune</l>
+          <l>Că eşti supremul bine, înaltul meu regat,</l>
+          <l>Că nu cuprinde altă dulceaţă şi minune</l>
+          <l>Oraşul zmeu, oraşul ţestos şi ferecat.</l>
+        </lg>
+        <lg>
+          <l>Cu ochi în jumătate, ce vor să spună "Hai!",</l>
+          <l>Priveai la omul oacheş venit din Valahai.</l>
+          <l>Cu ochi pe jumătate, căci nu ţineai să-l măsuri,</l>
+          <l>Întîia mea cucoană de voaluri şi mătăsuri!</l>
+        </lg>
+        <lg>
+          <l>Pe crengi de vis, doi umezi de muguri, ochii tăi,</l>
+          <l>Se deschideau în floare; cînd lampe din odăi</l>
+          <l>Burau lumină scumpă la geamul de trăsură,</l>
+          <l>Cu foarte mare frică te-am sărutat pe gură.</l>
+        </lg>
+        <lg>
+          <l>Şi te-am rugat cu ciudă, de mila mea plîngînd,</l>
+          <l>Să uiţi de stîngăcia băiatului ce sînt.</l>
+          <l>Că eu visez? cum pruncul flămînd la sîn, la maică,</l>
+          <l>De carnea ta curată şi albă de nemţoaică.</l>
+        </lg>
+        <lg>
+          <l>Mai rară ca răcoarea în luna lui Cuptor,</l>
+          <l>Mi-ai lunecat în braţe, ai desfăcut fuior</l>
+          <l>Tot părul ca un galben, întins eter de miere?</l>
+        </lg>
+        <lg>
+          <l>Şi m-ai făcut c-un lucru de preţ mai ştiutor:</l>
+          <l>Că două sînt, nu una, femeie şi muiere.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Ultimul centaur</head>
+        <epigraph>"Din Soarele îmbrăţişat de Nour"</epigraph>
+        <lg>
+          <l>În ziua din urmă zori, din loc în loc,</l>
+          <l>Năuc? Dar mai spre seară desfăşură deodată</l>
+          <l>Pe asfinţitul verde, cu lespedea mîncată,</l>
+          <l>Regescul vas de gînduri crescut în dobitoc.</l>
+        </lg>
+        <lg>
+          <l>Tăriile topiră nepotrivitul bloc?</l>
+          <l>Tîrziu, spre geruri albe, o carne înnorată</l>
+          <l>Porni în melc de abur, pe cînd, dezgărdinată,</l>
+          <l>Se lămurea din noapte o inimă de foc.</l>
+        </lg>
+        <lg>
+          <l>Statornic gîde, Umbra - mîner masiv şi dîre -</l>
+          <l>Căzu peste jeratec cu grelele satîre,</l>
+          <l>Şi luminosul bulgăr îl despică, felii.</l>
+        </lg>
+        <lg>
+          <l>Pămîntul aţipeşte. Răzleţ, nici un centaur,</l>
+          <l>Dar de nestinsul ropot al clarei herghelii</l>
+          <l>În zăcăminte sună filoanele-i de aur.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Gest</head>
+        <lg>
+          <l>Toiagul vechi, pe care l-a ciuruit, l-a ros</l>
+          <l>Şi cariul, şi custurea, ţi-l trec de-acum. Ca mine</l>
+          <l>Vei ispiti la rîndu-ţi temutele destine,</l>
+          <l>Urcînd şi tu sub cerul de fier şi chinoros.</l>
+        </lg>
+        <lg>
+          <l>Te-aşteaptă mohorîrea pustiului pietros!</l>
+          <l>Nu şovăi, străbate-o; iar cînd - diamantine -</l>
+          <l>Pădurile de gheţuri se vor ivi pe cline,</l>
+          <l>Încrezător azvîrlă ciomagul de prisos;</l>
+        </lg>
+        <lg>
+          <l>Din povîrniş, în steiuri, din stînci, în văgăune</l>
+          <l>Izbit de lespezi, ciotul va face să răsune</l>
+          <l>Cu lung şi mare vuiet tot hăul de granit,</l>
+        </lg>
+        <lg>
+          <l>Dar sus, sub îngînata lumină-abia născîndă,</l>
+          <l>Lăsînd să scape rîsul din pieptul rău sporit,</l>
+          <l>Acopere căderea cu hohot de izbîndă.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Selim</head>
+        <lg>
+          <l>El a venit cînd, singur şi mic, în pragul uşii</l>
+          <l>Îmi răcoream la vîntul de-amurg obrazul-jar,</l>
+          <l>Cînd - ghindă cafenie - picau jos cărăbuşii,</l>
+          <l>Cînd era zarea frunză uscată de stejar.</l>
+        </lg>
+        <lg>
+          <l>Cu ţîţe tăvălite-n funinginea din slavă,</l>
+          <l>Tot mai aproape norii - ei mă-nţărcau întîi;</l>
+          <l>În somn plîngeam să-mi şteargă priveliştea hîrlavă</l>
+          <l>Şi piroteam pe prispă cu pragul căpătîi.</l>
+        </lg>
+        <lg>
+          <l>Dar feţe mai lăţoase, mai cornorate, turmă</l>
+          <l>Năşteau sub ţarc de gene şi se prindeau în şir</l>
+          <l>La hora dezmăţată a spaimei, ce se curmă</l>
+          <l>Tîrziu, cînd mîini de lună presară tibişir?</l>
+        </lg>
+        <lg>
+          <l>Şi haimana, şi pururi încăierat cu vîntul:</l>
+          <l>Din tîrg, în mahalale: din Schei, în vreun cătun,</l>
+          <l>Un strigăt de-nserare îşi trăgăna cuvîntul</l>
+          <l>Ca o manea de moale, şi larg: "Hai, bragă bun".</l>
+        </lg>
+        <lg>
+          <l>Hazliu şi larg, ca turul ce-l vîntură şalvarii,</l>
+          <l>Aşa sporea un strigăt. Şi iacă: ochi gălbui</l>
+          <l>Printre uluci, în umbră, rotiră icusarii.</l>
+          <l>(Amestecul şi aspru, şi blînd, din ochii lui!)</l>
+        </lg>
+        <lg>
+          <l>Săgeţile zvîcneau în puf de rugă.</l>
+          <l>Să nu urmez chemării adînci aş fi putut?</l>
+          <l>La namila din poartă m-am năpustit în fugă,</l>
+          <l>Obrajii să mi-i sprijin pe palmele de lut.</l>
+        </lg>
+        <lg>
+          <l>- Giugiuc, mi-am zis, iar ochii priviră mai cruciş.</l>
+          <l>De mult n-a fost la turcul atît aliş-veliş?</l>
+          <l>Zi darnică, de lapte şi miere, aferim!</l>
+          <l>Hai, ia ce vrei din coşul lui Haivada Selim.</l>
+          <l>Şi trase mucavaua panereului turtit?</l>
+        </lg>
+        <lg>
+          <l>Ca sculele-n sipeturi, aşa mi-aţi răsărit,</l>
+          <l>Alviţe rumenite, minuni de acadele</l>
+          <l>Sticloase - numai tremur, văpăi şi ape, ca</l>
+          <l>Ocheanele de limpezi, de mici, la fel de grele?</l>
+          <l>O rază prăfuită prin toate furnica.</l>
+        </lg>
+        <lg>
+          <l>Şi dîrdîind sub brumă şi colţii de migdale,</l>
+          <l>Rahatul părea urmă de-ngheţ după topit.</l>
+          <l>Un candel cît o nucă, prin perne de halvale,</l>
+          <l>Dormea-n trandafiriul lui şters şi aburit.</l>
+        </lg>
+        <lg>
+          <l>(Răsfrîngeri vechi? Cuvîntul nencăpător nu poate</l>
+          <l>Să zică iazul verde ce-mi tremuraţi şi-acum?</l>
+          <l>Bietul turc legat de biete cleştare?) Dintre toate,</l>
+          <l>El candelul mi-alese, apoi, adus a drum,</l>
+        </lg>
+        <lg>
+          <l>Porni mînat de seară şi înghiţit de cale,</l>
+          <l>Tîrînd opinca-ntoarsă şi creaţă, fără spor,</l>
+          <l>Cădelniţînd din coşul cu dulci zaharicale,</l>
+          <l>Din doniţa-nflorită lovită de picior?</l>
+        </lg>
+        <lg>
+          <l>Acolo? noapte, uliţi şi vaguri suburbane</l>
+          <l>Topiră pe-ndelete năluca lui Selim.</l>
+          <l>În candel, pînza lunii se răsuci - turbane -</l>
+          <l>Şi-o stea ilic de umbră cusu cu ibrişim.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Protocol al unui club Matei Caragiale</head>
+        <epigraph>Preşedinte de onoare Al. Rosetti</epigraph>
+        <lg>
+          <l>"Vis al galeşei Floride şi-al ostroavelor Antile",</l>
+          <l>Orchidee! nu eşti însăşi arta marelui Matei,</l>
+          <l>Cu a selbelor cădere în corole şi mantile</l>
+          <l>Sau cu Anzii albi în funduri ca o moarte de Protei?</l>
+        </lg>
+        <lg>
+          <l>Neajunsă, precum lancea unor iaduri vegetale,</l>
+          <l>Sub sărutul muştei Mima somptuos ca un manşon,</l>
+          <l>Locuieşte cetluită somnurile-i seminale</l>
+          <l>În o rouă de poleiuri: Raşelica Nachmansohn.</l>
+        </lg>
+        <lg>
+          <l>O! vegheat din jilţul Naibei al Pămînturilor Nalte,</l>
+          <l>De atlaz tulip în creştet încheiat cu cap de mort,</l>
+          <l>"Mult" poesc, cioplirea unei rare şi pierdute dalte,</l>
+          <l>Paşadia îşi despoaie înnoptat semeţu-i port.</l>
+        </lg>
+        <lg>
+          <l>O! scuipat de înverzita tuse a spumelor putride,</l>
+          <l>Cocoţat pe naufragii, nefiresc ca într-un ochean,</l>
+          <l>Împuind cămara nopţii cu oracole stupide</l>
+          <l>Gore freamătă-n jiletcă de rîios batracian.</l>
+        </lg>
+        <lg>
+          <l>Cîntec, lebădă străpunsă, sol a harfelor eline,</l>
+          <l>Strămutat pe mîndre prapuri de năierii tăi vikingi</l>
+          <l>Pînă adînc în moleşala quintelor manueline,</l>
+          <l>Alter ego, o! Pantazi, ce atlanticele învingi,</l>
+        </lg>
+        <lg>
+          <l>Liniştit rapsod al stelei ninsă în umbra străvezie,</l>
+          <l>Răsunînd ca din legendă, ca din pînzele dintîi,</l>
+          <l>Liric pur! Închipuirea te petrece în vecie</l>
+          <l>Drept la racla ta de ape cu atolii căpătîi.</l>
+        </lg>
+        <lg>
+          <l>*</l>
+        </lg>
+        <lg>
+          <l>"Vis al galeşei Floride şi-al ostroavelor Antile",</l>
+          <l>Cupă limpede! eşti numai arta marelui Matei.</l>
+          <l>Inima rămîne această moartă, între reci feştile</l>
+          <l>Fumegînd pe Curtea Veche, la pangar, într-un bordei,</l>
+        </lg>
+        <lg>
+          <l>Nu străina frumuseţe, bunul plac şi veresia,</l>
+          <l>Însă schimnica împăcată şi făcliile ce ard!</l>
+          <l>Trupul scade sub velinţe, sufletul e în Rusia,</l>
+          <l>La un orb mormînt de raze, prins în Cavalerul Guard.</l>
+        </lg>
+        <lg>
+          <l>- Ce închide orchideea, ce ne sunt acele Indii</l>
+          <l>Mările creole unde bîntuia piratul Kidd?</l>
+          <l>Consimţind o plecăciune insulelor biacintii,</l>
+          <l>Cartea Crailor la fila cea mai turbure o deschid:</l>
+        </lg>
+        <lg>
+          <l>Acolň, ca de cutremur saltă slova mateină</l>
+          <l>Sub lucrarea Corcoduşei, aspra floare de maidan.</l>
+          <l>În vis mut gabrovenimea cumpăneşte în ruină,</l>
+          <l>Zveltă, surla Judecăţii lasă o umbră pe cadran.</l>
+        </lg>
+        <lg>
+          <l>*</l>
+        </lg>
+        <lg>
+          <l>- Dreaptă pravilă, dar zumzet de vestiri răsăritene,</l>
+          <l>Fiinţa noastră se clădeşte cu scriptura ta, Matei!</l>
+          <l>Prim şi ultim Caragiali, ca o holdă de antene</l>
+          <l>Te alegem viu din vîntul despletitelor idei.</l>
+        </lg>
+        <lg>
+          <l>Iată, arsă în aur roşu şi în a smalţului rigoare</l>
+          <l>Slava netedă şi rară, stricta glorie, o ţii.</l>
+          <l>Neamurile iau aminte. Şi pe Crai va să coboare</l>
+          <l>Greu, cordonul Sfintei Ana al măreţei-împărăţii.</l>
+        </lg>
+      </div>
+      <div>
+        <head>Bălcescu trăind</head>
+        <epigraph>lui Al. Rosetti</epigraph>
+        <lg>
+          <l>Leagăn amar, săracii mei Bălceşti!</l>
+          <l>Lut simplu, smălţuit ca şi o cană,</l>
+          <l>Pe Topolog culcat nu mai boceşti</l>
+          <l>Azi inima dintîi republicană.</l>
+        </lg>
+        <lg>
+          <l>A lui! Căci athanasic au sunat</l>
+          <l>Mii surle. Lespezi cască. Sar sigilii.</l>
+          <l>Şi peste un făcut, absurd regat</l>
+          <l>Un palid oaspe calcă, din Sicilii.</l>
+        </lg>
+        <lg>
+          <l>O, frate cărvunar, întreg trăieşti!</l>
+          <l>Din moarte ai păstrat doar străvezimea,</l>
+          <l>Ci din amurgul pajerii crăieşti</l>
+          <l>Cîrteşte-ntunecat burtăverzimea.</l>
+        </lg>
+        <lg>
+          <l>Ai multursuzei tagme, gianabeţi</l>
+          <l>Cu oftica-nţeleşi şi cu exilul,</l>
+          <l>Un veac avar te vrură sub peceţi,</l>
+          <l>Şi zveltei libertăţi suciră trilul.</l>
+        </lg>
+        <lg>
+          <l>Ce-nseamnă! Astăzi piatră eşti, din unghi,</l>
+          <l>Republicii Române Populare,</l>
+          <l>Adeveritul mare, singur trunchi:</l>
+          <l>Bălcescu, început de calendare.</l>
+        </lg>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta>
+    <meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator>
+    <dc:title>Erotica Romana</dc:title>
+    <dc:description/>
+    <dc:subject>German poetry -- Translations into English</dc:subject>
+    <meta:keyword/>
+    <meta:initial-creator>Johann Wolfgang von Goethe</meta:initial-creator>
+    
+    <meta:creation-date>2023-01-04T08:14:57Z</meta:creation-date>
+    <dc:date>2023-01-26T14:26:14.919032250</dc:date>
+    
+    
+    
+    
+    
+  <meta:editing-duration>PT5M16S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="56" meta:paragraph-count="574" meta:word-count="9838" meta:character-count="58711" meta:non-whitespace-character-count="47546"/><meta:user-defined meta:name="date">2005-04-01</meta:user-defined><meta:user-defined meta:name="identifier">http://www.gutenberg.org/7889</meta:user-defined><meta:user-defined meta:name="language">en</meta:user-defined><meta:user-defined meta:name="rights">Public domain in the USA.</meta:user-defined><meta:user-defined meta:name="source" meta:value-type="string">https://www.gutenberg.org/files/7889/7889-h/7889-h.htm</meta:user-defined></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">131022</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23312</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18179</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12211</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">148013</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">131022</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">23310</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">149199</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2164211</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1473719</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Alegreya" svg:font-family="Alegreya" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya1" svg:font-family="Alegreya" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="Alegreya2" svg:font-family="Alegreya" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Avenir Next Condensed1" svg:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Mono" svg:font-family="&apos;Noto Mono&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Cond" svg:font-family="&apos;Noto Sans Cond&apos;" style:font-adornments="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma"/>
+  <style:font-face style:name="Tahoma1" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Subtle_20_Tango_20_Green" draw:display-name="Subtle Tango Green" draw:style="linear" draw:start-color="#94bd5e" draw:end-color="#5c8526" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="60deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Green" draw:display-name="Tango Green" draw:style="linear" draw:start-color="#8ae234" draw:end-color="#4e9a06" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Tango_20_Yellow" draw:display-name="Tango Yellow" draw:style="linear" draw:start-color="#fce94f" draw:end-color="#c4a000" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="FigureCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="FigureWithCaption" style:family="paragraph" style:parent-style-name="Figure" style:class="extra">
+   <style:paragraph-properties fo:keep-with-next="always" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-name-complex="Tahoma" style:font-family-complex="Tahoma"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="4.001cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="200%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.499cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1.499cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya" fo:font-family="Alegreya" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="0.9cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
+   <style:text-properties fo:font-size="75%" fo:font-weight="bold" style:font-size-asian="75%" style:font-weight-asian="bold" style:font-size-complex="75%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0.254cm" fo:margin-bottom="0.254cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Definition_20_Term" style:display-name="Definition Term" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition">
+   <style:paragraph-properties fo:margin-top="0.152cm" fo:margin-bottom="0.152cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition" style:display-name="Definition Definition" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.076cm" fo:margin-right="0.076cm" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:shadow="none" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="-0.499cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.255cm" style:type="center"/>
+     <style:tab-stop style:position="16.51cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Definition_20_Term_20_Tight" style:display-name="Definition Term Tight" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Definition_20_Definition_20_Tight">
+   <style:paragraph-properties fo:margin-top="0.203cm" fo:margin-bottom="0.203cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Definition_20_Definition_20_Tight" style:display-name="Definition Definition Tight" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Date" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Author" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Date" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="3cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" style:border-line-width-bottom="0.002cm 0.035cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.11pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="First_20_paragraph" style:display-name="First paragraph" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya2" fo:font-family="Alegreya" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="TableCaption" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="italic" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Comentariu" style:family="paragraph" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.3cm" fo:margin-right="0cm" fo:margin-top="0.101cm" fo:margin-bottom="0.4cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Avenir Next Condensed" fo:font-family="&apos;Avenir Next Condensed&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Avenir Next Condensed1" style:font-family-complex="&apos;Avenir Next Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:language-complex="fr" style:country-complex="FR"/>
+  </style:style>
+  <style:style style:name="Epigraph" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="3cm" fo:margin-top="0.15cm" fo:margin-bottom="0.7cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Alegreya1" fo:font-family="Alegreya" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" officeooo:rsid="00550f17"/>
+  </style:style>
+  <style:style style:name="Quote" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="1.499cm" fo:margin-top="0.801cm" fo:margin-bottom="0.801cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="00562461"/>
+  </style:style>
+  <style:style style:name="lg" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="2.54cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0056fa12" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:style>
+  <style:style style:name="Trailer" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="License" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Subtle_20_Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto" fo:background-color="#78a142" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" fo:font-size="13pt" officeooo:rsid="007207cc"/>
+  </style:style>
+  <style:style style:name="SourceDesc" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Yellow" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0.15cm" style:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="#e0c428" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Mono" fo:font-family="&apos;Noto Mono&apos;" style:font-style-name="Regular" style:font-pitch="fixed" officeooo:rsid="0078e924"/>
+  </style:style>
+  <style:style style:name="DocumentLanguage" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Tango_20_Green" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:margin-top="1cm" fo:margin-bottom="1cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:background-color="#6cbe1d" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="#808080 0.18cm 0.18cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="008dcfc5"/>
+  </style:style>
+  <style:style style:name="Opener" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a1d5d7" style:font-relief="embossed"/>
+  </style:style>
+  <style:style style:name="Closer" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00a1d5d7" style:font-relief="engraved"/>
+  </style:style>
+  <style:style style:name="Source_5f_Text" style:display-name="Source_Text" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="StarSymbol" fo:font-family="StarSymbol" fo:font-size="9pt" style:font-name-asian="StarSymbol" style:font-family-asian="StarSymbol" style:font-size-asian="9pt" style:font-name-complex="StarSymbol" style:font-family-complex="StarSymbol" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Strikeout" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Superscript" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Subscript" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="Citation" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Courier New" style:font-family-complex="&apos;Courier New&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Definition" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Label" style:family="text">
+   <style:text-properties fo:color="#00ffff" loext:opacity="100%" style:font-name="Noto Sans Cond" fo:font-family="&apos;Noto Sans Cond&apos;" style:font-style-name="Condensed Bold" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="005d0a88" style:font-name-asian="Lucida Sans Unicode" style:font-family-asian="&apos;Lucida Sans Unicode&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:min-label-distance="0.381cm"/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_2" style:display-name="List 2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="–">
+    <style:list-level-properties text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="0.899cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.199cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.499cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.801cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.101cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.401cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="–">
+    <style:list-level-properties text:space-before="2.7cm" text:min-label-width="0.3cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_3" style:display-name="List 3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="☑">
+    <style:list-level-properties text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="□">
+    <style:list-level-properties text:space-before="0.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_4" style:display-name="List 4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="➢">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="List_20_5" style:display-name="List 5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" text:bullet-char="✗">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.401cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="0.799cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="1.6cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.001cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.399cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.2cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="✗">
+    <style:list-level-properties text:space-before="3.601cm" text:min-label-width="0.4cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_2" style:display-name="Numbering 2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="0.499cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="0.998cm" text:min-label-width="1cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="1.998cm" text:min-label-width="1.251cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="3.249cm" text:min-label-width="1.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="4.748cm" text:min-label-width="1.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="6.549cm" text:min-label-width="2.3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="8.849cm" text:min-label-width="2.6cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="11.449cm" text:min-label-width="2.801cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="14.25cm" text:min-label-width="3.101cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_3" style:display-name="Numbering 3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%" style:num-format="1">
+    <style:list-level-properties text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%" style:num-format="1" text:start-value="2">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%" style:num-format="1" text:start-value="3">
+    <style:list-level-properties text:space-before="6.001cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" style:num-format="1" text:start-value="4">
+    <style:list-level-properties text:space-before="9.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" style:num-format="1" text:start-value="5">
+    <style:list-level-properties text:space-before="12.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" style:num-format="1" text:start-value="6">
+    <style:list-level-properties text:space-before="15.002cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" style:num-format="1" text:start-value="7">
+    <style:list-level-properties text:space-before="18.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" style:num-format="1" text:start-value="8">
+    <style:list-level-properties text:space-before="21.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" style:num-format="1" text:start-value="9">
+    <style:list-level-properties text:space-before="24.003cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" style:num-format="1" text:start-value="10">
+    <style:list-level-properties text:space-before="27.004cm" text:min-label-width="3cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_4" style:display-name="Numbering 4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="I">
+    <style:list-level-properties text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="I" text:start-value="2">
+    <style:list-level-properties text:space-before="0.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="I" text:start-value="3">
+    <style:list-level-properties text:space-before="1cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="I" text:start-value="4">
+    <style:list-level-properties text:space-before="1.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="I" text:start-value="5">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="I" text:start-value="6">
+    <style:list-level-properties text:space-before="2.501cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="I" text:start-value="7">
+    <style:list-level-properties text:space-before="3.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="I" text:start-value="8">
+    <style:list-level-properties text:space-before="3.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="I" text:start-value="9">
+    <style:list-level-properties text:space-before="4.001cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="I" text:start-value="10">
+    <style:list-level-properties text:space-before="4.502cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="Numbering_20_5" style:display-name="Numbering 5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.4cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%.%2%." style:num-suffix="." style:num-format="1" text:start-value="2" text:display-levels="2">
+    <style:list-level-properties text:space-before="0.45cm" text:min-label-width="0.651cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%)" style:num-suffix=")" style:num-format="a" text:start-value="3">
+    <style:list-level-properties text:space-before="1.1cm" text:min-label-width="0.45cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.605cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.395cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.791cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.186cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.581cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.976cm" text:min-label-width="0.395cm"/>
+    <style:text-properties style:font-name="StarSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Author">
+   <style:text-properties officeooo:paragraph-rsid="0016e962"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="First_20_paragraph">
+   <style:text-properties officeooo:paragraph-rsid="0016e962"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0016e962"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="none" officeooo:paragraph-rsid="0016e962"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0016e962"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="lg">
+   <style:text-properties officeooo:paragraph-rsid="0019cf04"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:language="en" fo:country="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="0016e962"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.54cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="1.016cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.508cm" style:dynamic-spacing="false"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">6</text:page-number><text:s/></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Title">Erotica Romana</text:p>
+   <text:p text:style-name="P3">Goethe<text:span text:style-name="T3">, </text:span>Johann Wolfgang von </text:p>
+   <text:p text:style-name="Date">2005-04-01</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Erotica Romana</text:h>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="Subtitle">By Johann Wolfgang Goethe</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">CONTENTS<text:span text:style-name="T3"> /x/</text:span></text:h>
+   <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0001" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">I</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0002" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">II</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0003" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">III</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0004" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">IV</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0005" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">V</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0006" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">VI</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0007" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">VII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0008" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">VIII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0009" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">IX</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0010" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">X</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0011" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XI</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0012" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0013" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XIII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0014" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XIV</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#linkfifteen" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XV</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0015" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XVI</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0016" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XVII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0017" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XVIII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0018" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XIX</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0019" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XX</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0020" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XXI</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0021" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XXII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0022" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XXIII</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0023" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">XXIV</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:a xlink:type="simple" xlink:href="#6836007596349454410_7889-h-0.htm.xhtml#link2H_4_0024" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition">ABOUT THE ELEGIES</text:span></text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">I</text:h>
+   <text:p text:style-name="P12"><text:s text:c="2"/>Here&apos;s where I&apos;ve planted my garden and here I shall care for love&apos;s blossoms—<text:line-break/> <text:s text:c="3"/>As I am taught by my muse, carefully sort them in plots:<text:line-break/> <text:s/>Fertile branches, whose product is golden fruit of my lifetime,<text:line-break/> <text:s text:c="3"/>Set here in happier years, tended with pleasure today.<text:line-break/> <text:s/>You, stand here at my side, good Priapus—albeit from thieves I&apos;ve<text:line-break/> <text:s text:c="3"/>Nothing to fear. Freely pluck, whosoever would eat.<text:line-break/> <text:s/>—Hypocrites, those are the ones! If weakened with shame and bad conscience<text:line-break/> <text:s text:c="3"/>One of those criminals comes, squinting out over my garden,<text:line-break/> <text:s/>Bridling at nature&apos;s pure fruit, punish the knave in his hindparts,<text:line-break/> <text:s text:c="3"/>Using the stake which so red rises there at your loins.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">II</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Tell me ye stones and give me O glorious palaces answer.<text:line-break/> <text:s text:c="3"/>Speak O ye streets but one word. Genius, art thou alive?<text:line-break/> <text:s/>Yes, here within thy sanctified walls there&apos;s a soul in each object,<text:line-break/> <text:s text:c="3"/>ROMA eternal. For me, only, are all things yet mute.<text:line-break/> <text:s/>Who will then tell me in whispers and where must I find just the window<text:line-break/> <text:s text:c="3"/>Where one day she&apos;ll be glimpsed: creature who&apos;ll scorch me with love?<text:line-break/> <text:s/>Can&apos;t I divine yet the paths through which over and over<text:line-break/> <text:s text:c="3"/>To her and from her I&apos;ll go, squandering valuable time?<text:line-break/> <text:s/>Visiting churches and palaces, all of the ruins and the pillars,<text:line-break/> <text:s text:c="3"/>I, a responsible man, profit from making this trip.<text:line-break/> <text:s/>With my business accomplished, ah, then shall only one temple,<text:line-break/> <text:s text:c="3"/>AMOR&apos;s temple alone, take the initiate in.<text:line-break/> <text:s/>Rome, thou art a whole world, it is true, and yet without love this<text:line-break/> <text:s text:c="3"/>World would not be the world, Rome would cease to be Rome.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">III</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>More than ever I dreamed, I have found it: my happy good fortune!<text:line-break/> <text:s text:c="3"/>Cupid sagaciously led past those palazzos so fine.<text:line-break/> <text:s/>He of course knows very well (and I have also discovered)<text:line-break/> <text:s text:c="3"/>What, beneath tapestries rich, gilded boudoirs conceal.<text:line-break/> <text:s/>One may if one wishes call him a blind, wanton boy—but I know you,<text:line-break/> <text:s text:c="3"/>Clever Cupid, too well! O, incorruptible god!<text:line-break/> <text:s/>We were by no means inveigled to enter façades so majestic;<text:line-break/> <text:s text:c="3"/>Somber cortilé we passed, balcony high and gallant,<text:line-break/> <text:s/>Hastening onward until an humble but exquisite portal<text:line-break/> <text:s text:c="3"/>Offered a refuge to both, ardent seeker and guide.<text:line-break/> <text:s/>Here he provides me with ev&apos;rything, sees that I get what I call for;<text:line-break/> <text:s text:c="3"/>Each day that passes he spreads freshly plucked roses for me.<text:line-break/> <text:s/>—Isn&apos;t that heaven on earth? Say, beautiful Lady Borghese,<text:line-break/> <text:s text:c="3"/>What would you give to me more? —You, Nipotina, what yours?<text:line-break/> <text:s/>Banquets and game tables, operas, balls, promenades down the Corso?<text:line-break/> <text:s text:c="3"/>These but deprive my sweet boy of his most opportune times.<text:line-break/> <text:s/>Finery, haughtiness do not entice me. Does one not lift a<text:line-break/> <text:s text:c="3"/>Gown of the finest brocade just as one lifts common wool?<text:line-break/> <text:s/>If she&apos;s to press in comfort a lover against that soft bosom,<text:line-break/> <text:s text:c="3"/>Doesn&apos;t he want her to be free from all brooches and chains?<text:line-break/> <text:s/>Must not the jewelry, and then the lace and the bustles and <text:soft-page-break/>whalebone<text:line-break/> <text:s text:c="3"/>All of it come off entire, if he&apos;s to learn how she feels?<text:line-break/> <text:s/>I encounter no troubles like those. Simple dress of rough homespun,<text:line-break/> <text:s text:c="3"/>At but a lover&apos;s mere touch, tumbles in folds to the floor.<text:line-break/> <text:s/>Quickly he carries the girl as she&apos;s clad in chemise of coarse linen—<text:line-break/> <text:s text:c="3"/>Just as a nursemaid might, playfully up to her bed.<text:line-break/> <text:s/>Drapings of satin are absent; the mattress is quite unembroidered.<text:line-break/> <text:s text:c="3"/>Large is this room where the bed offers its comfort for two.<text:line-break/> <text:s/>Jupiter&apos;s welcome to more from his Juno if he can get it;<text:line-break/> <text:s text:c="3"/>Let any mortal find rest, softer, wherever he can.<text:line-break/> <text:s/>We are content with Cupid&apos;s delights, authentic and naked—<text:line-break/> <text:s text:c="3"/>And with the exquisite creak /crack of the bed as it rocks.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">IV</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Ask whomever you will but you&apos;ll never find out where I&apos;m lodging,<text:line-break/> <text:s text:c="3"/>High society&apos;s lords, ladies so groomed and refined.<text:line-break/> <text:s/>&quot;Tell me, was Werther authentic? Did all of that happen in real life?&quot;<text:line-break/> <text:s text:c="3"/>&quot;Lotte, oh where did she live, Werther&apos;s only true love?&quot;<text:line-break/> <text:s/>How many times have I cursed those frivolous pages that broadcast<text:line-break/> <text:s text:c="3"/>Out among all mankind passions I felt in my youth!<text:line-break/> <text:s/>Were he my brother, why then I &apos;d have murdered poor Werther.<text:line-break/> <text:s text:c="3"/>Yet his despondent ghost couldn&apos;t have sought worse revenge.<text:line-break/> <text:s/>That&apos;s the way &quot;Marlborough,&quot; the ditty, follows the Englishman&apos;s travels<text:line-break/> <text:s text:c="3"/>Down to Livorno from France, thence from Livorno to Rome,<text:line-break/> <text:s/>All of the way into Naples and then, should he flee on to Madras,<text:line-break/> <text:s text:c="3"/>&quot;Marlborough&quot; will surely be there, &quot;Marlborough&quot; sung in the port.<text:line-break/> <text:s/>Happily now I&apos;ve escaped, and my mistress knows Werther and Lotte<text:line-break/> <text:s text:c="3"/>Not a whit better than who might be this man in her bed:<text:line-break/> <text:s/>That he&apos;s a foreigner, footloose and lusty, is all she could tell you,<text:line-break/> <text:s text:c="3"/>Who beyond mountains and snow, dwelt in a house made of wood.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:soft-page-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">V</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Do not, beloved, regret that you yielded to me so quickly:<text:line-break/> <text:s text:c="3"/>I entertain no base, insolent thoughts about you.<text:line-break/> <text:s/>Arrows of Cupid work divers effects. Some do but scratch us:<text:line-break/> <text:s text:c="3"/>Slow and insidious these poison our hearts over years.<text:line-break/> <text:s/>Yet with a head freshly honed and cunningly fledged, certain others<text:line-break/> <text:s text:c="3"/>Pierce to the marrow, inflame rapidly there our blood.<text:line-break/> <text:s/>When gods and goddesses in days of heroes made love, then<text:line-break/> <text:s text:c="3"/>Lust followed look and desire, with no delay, was indulged.<text:line-break/> <text:s/>Surely you don&apos;t think the goddess of love lost a moment reflecting<text:line-break/> <text:s text:c="3"/>When, in Idean grove, Anchises caught her eye.<text:line-break/> <text:s/>Nor did Luna delay about kissing that beautiful dreamer—<text:line-break/> <text:s text:c="3"/>Jealous Aurora had else hastily wakened the lad.<text:line-break/> <text:s/>At the loud banquet Hero regarded Leander—then promptly<text:line-break/> <text:s text:c="3"/>Into dark waters he plunged, ardently swam toward his love.<text:line-break/> <text:s/>When Rhea Silvia, princess and virgin, came down to the Tiber<text:line-break/> <text:s text:c="3"/>Just to fetch water, a god seized her and that is the way<text:line-break/> <text:s/>Mars begat himself sons, a pair of twins whom a she wolf<text:line-break/> <text:s text:c="3"/>Suckled. Today a proud Rome claims to be queen of the world.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">VI</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>We are so pious, we lovers. Discreetly we worship all powers,<text:line-break/> <text:s text:c="3"/>Hoping for favor from each god and each goddess as well.<text:line-break/> <text:s/>We are like you, ye victorious Romans, in this: <text:s/>for we offer<text:line-break/> <text:s text:c="3"/>Gods of all peoples and tribes, over the whole world, a home—<text:line-break/> <text:s/>May the Egyptian, black and austere out of primeval basalt,<text:line-break/> <text:s text:c="3"/>Or from the marble a Greek, form them charming and white—<text:line-break/> <text:s/>Yet the eternal ones do not object to particularism<text:line-break/> <text:s text:c="3"/>(Incense of most precious sort, strewn for just one of their host).<text:line-break/> <text:s/>Therefore we gladly confess to singling a special immortal<text:line-break/> <text:s text:c="3"/>And our devotions each day pledging but solely to her.<text:line-break/> <text:s/>Mischievous celebrants we at these mysteries gay, and so solemn:<text:line-break/> <text:s text:c="3"/>Silence exactly befits rites at which we&apos;re adepts.<text:line-break/> <text:s/>Rather onto our heels by horrible deeds the Erinyes<text:line-break/> <text:s text:c="3"/>We would allure, even Zeus&apos; punishment sooner we&apos;d dare—<text:line-break/> <text:s/>Under that rock, or bound to a tumbling wheel we&apos;d endure it—<text:line-break/> <text:s text:c="3"/>Than we&apos;d withdraw our hearts from the delights of her cult.<text:line-break/> <text:s/>Sweet Opportunity, that is her name. You should meet her.<text:line-break/> <text:s text:c="3"/>Often will she turn up, ever in a new form.<text:line-break/> <text:s/>Daughter of Proteus might well she be whom he sired upon Thetis.<text:line-break/> <text:s text:c="3"/>In metamorphoses they&apos;ve many a hero deceived.<text:line-break/> <text:s/>So now the daughter beguiles the naive and bedazzles the foolish,<text:line-break/> <text:s text:c="3"/>Teases you while you&apos;re asleep; when you awaken, she&apos;s flown.<text:line-break/><text:soft-page-break/> <text:s/>Eagerly yields herself up to the quick, to the active man only.<text:line-break/> <text:s text:c="3"/>He discovers she&apos;s tame, playful and tender and sweet.<text:line-break/> <text:s/>Once she appeared to me, too: a dark-skinned girl, tumbling<text:line-break/> <text:s text:c="3"/>Over her forehead the hair down in waves heavy and dark.<text:line-break/> <text:s/>Round about a delicate neck curled short little ringlets;<text:line-break/> <text:s text:c="3"/>Up from the crown of her head crinkled the unbraided hair.<text:line-break/> <text:s/>When she dashed by me I seized her, mistaking her not. Lovingly<text:line-break/> <text:s text:c="3"/>Kiss and embrace she returned, knowing and teaching me how.<text:line-break/> <text:s/>O how enraptured I was! Ah, say now no more. It&apos;s a bygone.<text:line-break/> <text:s text:c="3"/>But, O pigtails of Rome, still I&apos;m entrammled in you.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">VII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Happily now on classical soil I feel inspiration.<text:line-break/> <text:s text:c="3"/>Voices from present and past speak here evocatively.<text:line-break/> <text:s/>Heeding ancient advice, I leaf through the works of the Ancients<text:line-break/> <text:s text:c="3"/>With an assiduous hand. Daily the pleasure&apos;s renewed.<text:line-break/> <text:s/>Throughout the night, in a different way, I&apos;m kept busy by Cupid—<text:line-break/> <text:s text:c="3"/>If erudition is halved, rapture is doubled that way.<text:line-break/> <text:s/>Do then I not become wise when I trace with my eye her sweet bosom&apos;s<text:line-break/> <text:s text:c="3"/>Form, and the line of her hips stroke with my hand? I acquire,<text:line-break/> <text:s/>As I reflect and compare, my first understanding of marble,<text:line-break/> <text:s text:c="3"/>See with an eye that feels, feel with a hand that sees.<text:line-break/> <text:s/>While my beloved, I grant it, deprives me of moments of daylight,<text:line-break/> <text:s text:c="5"/>She in the nighttime hours gives compensation in full.<text:line-break/> <text:s/>And we do more than just kiss; we prosecute reasoned discussions<text:line-break/> <text:s text:c="3"/>(Should she succumb to sleep, that gives me time for my thoughts).<text:line-break/> <text:s/>In her embrace—it&apos;s by no means unusual—I&apos;ve composed poems<text:line-break/> <text:s text:c="3"/>And the hexameter&apos;s beat gently tapped out on her back,<text:line-break/> <text:s/>Fingertips counting in time with the sweet rhythmic breath of her slumber.<text:line-break/> <text:s text:c="3"/>Air from deep in her breast penetrates mine and there burns.<text:line-break/> <text:s/>Cupid, while stirring the flame in our lamp, no doubt thinks of <text:soft-page-break/>those days when<text:line-break/> <text:s text:c="5"/>For the triumvirs he similar service performed.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">VIII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>&quot;Can you be cruel enough to sadden me thus with reproaches?<text:line-break/> <text:s text:c="3"/>Germans speak, I suppose, bitterly when they&apos;re in love.<text:line-break/> <text:s/>Bear it I must when the gossips bring forth accusations: I&apos;m guilty—<text:line-break/> <text:s text:c="3"/>Or am I not? But, alas, all of my guilt was with you.<text:line-break/> <text:s/>Clothes that you&apos;ve given bear witness for envious neighbors<text:line-break/> <text:s text:c="5"/>That the poor widow no more grieves for her husband alone.<text:line-break/> <text:s/>Did you not thoughtlessly visit me in the disguise of a cleric,<text:line-break/> <text:s text:c="5"/>Muffled all up in a cloak, hair all rounded behind?<text:line-break/> <text:s/>Who was it chose that gray monk if not you? Well then a prelate<text:line-break/> <text:s text:c="3"/>Now is my lover—Ah, who is my prelate but you?<text:line-break/> <text:s/>Never, incredible as it may sound in this clerical city,<text:line-break/> <text:s text:c="3"/>Has any cleric brought me—swear it I will—to his bed.<text:line-break/> <text:s/>I was sufficiently poor, sad to say. I was young. The seducers<text:line-break/> <text:s text:c="3"/>Noted it well. Falconier ogled me often enough.<text:line-break/> <text:s/>One of the pimps for Albani with billets doux very impressive<text:line-break/> <text:s text:c="3"/>Called me to Ostia once. Quattro Fontani next time.<text:line-break/> <text:s/>Who was it did not appear there? Why, who but the very same girl who<text:line-break/> <text:s text:c="3"/>Hated with all of her heart stockings both violet and red.<text:line-break/> <text:s/>For: &apos;In the end you poor girls are the ones who are sure to be cheated.&apos;<text:line-break/> <text:s text:c="3"/>So said my father although—Mother was not much impressed.<text:line-break/> <text:s/>Father was right. Here I stand in the end being cheated and scolded.<text:line-break/> <text:s text:c="3"/>You don&apos;t believe your own words. They&apos;re your excuse to <text:soft-page-break/>escape.<text:line-break/> <text:s/>Go, then. Unworthy of women are men. We, who carry your children<text:line-break/> <text:s text:c="3"/>Next to our hearts, in these hearts loyalty we bear you, too.<text:line-break/> <text:s/>As for you men, when you&apos;ve poured out your potency in our embraces<text:line-break/> <text:s text:c="3"/>And your desires dissipate, love with them passes away.&quot;<text:line-break/> <text:s/>These things expressed, and taking her child from its chair, my beloved<text:line-break/> <text:s text:c="3"/>Presses it close to her heart, kisses it, tears in her eyes.<text:line-break/> <text:s/>I&apos;m now so very ashamed of myself for having permitted<text:line-break/> <text:s text:c="3"/>Gossip of neighbors to spoil picture so eloquent.<text:line-break/> <text:s/>For a short moment a fire may burn darkly while smoke swirls about it.<text:line-break/> <text:s text:c="3"/>Water dashed on the coals suddenly smothers their glow.<text:line-break/> <text:s/>Rapidly then renewed heat overcomes those lowering vapors,<text:line-break/> <text:s text:c="3"/>Sends up a flame that anew bright and more powerful gleams.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">IX</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>How very happy I am here in Rome when I think of the bad days</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Far back there in the north, wrapped in a grayish light.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Over my head there the heavens weighed down so dismal and gloomy;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Colorless, formless, that world round this exhausted man lay.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Seeking myself in myself, an unsatisfied spirit, I brooded,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Spying out pathways dark, lost in dreary reflection.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Here in an æther more clear now a luster encircles my forehead.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Phoebus the god evokes forms, clear are his colors by day.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Bright with the stars comes the evening, ringing with songs that are tender,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>And the glow of the moon, brighter than northern sun.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>What blessedness mortals may know! Am I now dreaming? Or welcomes</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Jupiter, Father, as guest—me, to ambrosial halls?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>See, I lie here extending my arms toward your knees. I am praying:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Hospitality&apos;s god, Jupiter Xenius! Hear:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>How I am come to this place I no longer can say—I was</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Seized up by Hebe. <text:s/>&apos;Twas she led to this sacred hill.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Did you command her a hero to seek and deliver before you?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>May be she erred. Then forgive. Let her mistake profit me!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Does not Fortuna, your daughter, when strewing her glorious presents,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>After the manner of girls, yield to each passing whim?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>You, O hospitable god, will by no means now banish a stranger</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>From your Olympian heights back to the base earth again.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>&quot;Poet, come to your senses!&quot;—Forgive me, Jupiter, is not</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Rome&apos;s Capitoline Hill second Olympus to you?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Suffer me, Jupiter, here and let Hermes guide me at last then</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Past Cestius&apos; Tomb gently to Orkus below.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">X</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>When you were small, you say, neither did others consider you f air, nor</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Even your mother find praise—and I believe it—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Till you grew bigger, developing quietly over the years. I</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Picture you to myself as an unusual child.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Also the blossoms on grapevines are wanting in shape and in color,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Although the fruit when it&apos;s ripe pleases both mankind and gods.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XI</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Kindling autumnal fire in a rustic, convivial fireplace</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>(How the sticks crackle and spew flames and glittering sparks!)</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Strikes me especially pleasant this evening. <text:s/>Before all my tinder</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Dies away into coals, coals then to ashes decline,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>She will be back and new faggots as well as big logs will be blazing,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Making a festival where lovers will warm up the night.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Then in the morning, officious, she&apos;ll leave the bed of her lover,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Rouse adroitly the flames out from their ashes anew.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Cupid has lent to her above others the gift of cajoling</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Up from the ashes desire, just when slumber&apos;s begun.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>All of those greats: Alexander, Caesar and Henry and Fredrick,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Gladly would share with me half of their hard fought renown,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Could I but grant them my bed for one single night, and its comfort,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>But the poor wretches are held stark in cold Orkian grip.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Therefore, ye living, rejoice that love keeps you warm for a while yet,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Until cold Lethe anoints, captures your foot in its flight.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XIII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>They are for you, O ye graces, just a few leaves by a poet</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Onto your pure altar laid, buds of the rose beside,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Offered in confidence. <text:s/>Artists enjoy ateliers which are furnished</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>So as to make for a space Pantheon-like in decor:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Jupiter lowers that godly brow while his Juno looks upward;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Phoebus takes forward strides, shaking his curly head;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>While phlegmatic Minerva peers down on us, frivolous Hermes</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Seems to be looking askance, roguish, though tender as well.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>But it&apos;s to Bacchus, the sensuous dreamer, Cythera sends glances</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Bathed in sweetest desire—even in marble they&apos;re damp.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Thinking about his embrace and its pleasures, she seems to be asking</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Shouldn&apos;t our glorious son here at our side stand erect?</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XIV</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Can&apos;t you hear voices, beloved, out on the Via Flamina?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Reapers are now going home, back from harvesting grain.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>They had journeyed to Rome from afar, and here plaited for Ceres</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Wreaths which the Romans today scorn to make for themselves.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Festivals no longer celebrate Ceres, the nourishing goddess</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Who replaced acorns of old, giving man golden wheat.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Let us commemorate her then ourselves in festival private</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>(Two constitute a whole tribe, when they are two in love).</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Have you by any chance heard how that mystical, strange celebration</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Followed victorious troops back from Eleusis to Rome?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Greeks were the ones who began it, and only to Greeks they proclaimed it</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Even within Roman walls: &quot;Come to the sanctified night.&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Those who were not of the cult kept their distance; neophytes trembled,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Waiting in garments of white, symbol of all that is pure.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Then the initiates must aimlessly wander about through the eerie</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Circles of figures as if pilgriming through their own dreams.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Snakes on the ground were writhing about. Now virgins came bearing</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Caskets securely locked, richly wreathéd with grain.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Surely the gestures of murmuring priests must contain some deep meaning—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Impatient acolytes wait, anxiously hoping for light.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Not until after many a testing and trial did they discover</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>What, within sacred ring, secretive image concealed.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>What was this mystery other than this: <text:s text:c="2"/>that Demeter, goddess,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Once upon a time had to a hero been kind.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>It was to Jason, powerful king of the Cretans, she granted</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Of her immortal self hidden sweet parts to explore.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That made the fortune of Crete! The marital bed of the goddess</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Soon grew pregnant with grain, heavy her bounteous fields.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>As for the rest of the world, it languished away, while Ceres,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Derelict of her true task, dalliance offered in love.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>—Now the initiate youths, having followed this tale, all astonished,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Turned and beckoned their loves—love, do you comprehend?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>See there the sacred shade beneath that bushy-boughed myrtle?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Our satisfaction will there scarcely endanger a world.</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XV</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Cupid is always a scoundrel, and if you believe him he&apos;ll cheat you.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Here&apos;s what the hypocrite said: &quot;Trust me just once more, this time.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I have the best of intentions toward you who have now dedicated—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>I recognize it with thanks—life and writings to me.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Lo, I have followed you hither to Rome, and I&apos;d like to do something</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Here in this far away land pleasing to such an old friend.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Every traveller I&apos;ve ever known has complained of poor treatment:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>He whom I recommend treatment delicious receives.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>You&apos;ve now regarded with awe all the structures which lie here in ruins,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Cultivated your eye, sensing each hallowéd space.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>How you&apos;ve revered the formative will of those ancient artists!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>In their own ateliers often I &apos;ve visited them.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>As for their works, why, I formed those myself—now this time I&apos;m boasting</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Not. Oh come now, admit what I am saying is true.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Where are your own creations, your service to me having slackened?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Where is invention&apos;s glow now? Where is the color all gone?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Friend, do you hope you can create again? —The school of the Ancients</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Yet remains open. <text:s/>Its gates, years have not closed them to you.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I am eternally young, and as teacher I still love the young ones.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Wisdom that comes with old age pleases me not. Listen here:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Wasn&apos;t antiquity young when those fortunate Ancients were living?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Happy then be your life, too: in it antiquity lives.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Where will you find a fit theme for your song? —It is I must provide it.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="4"/>As for a style truly grand, love can alone give you that.&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>All of these claims that sophist asserted. Could I contradict him?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>I am wont to obey, when my commander decrees.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Treacherous now he is keeping his word: giving me themes for my poems</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>While he is stealing my time, potency, presence of mind.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Gazing into her eyes, holding hands, giving kisses, exchanging</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Syllables sweet and those words lovers alone understand,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Murmuring our conversations we stutter in sweet oratory.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Hymns of such sort pass away, wanting prosodical tact.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Goddess of morning, Aurora, as friend of my muse I once knew you.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Has the unprincipled god, Cupid, seduced you now too?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>So that these mornings you come as his sweetheart, awakening me at</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>His festive altar again, where I must celebrate him?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Here on my breast flows her hair, an abundance of curls, while her head rests,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Pressing my arm as it&apos;s bent, so as to pillow her neck.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>What a delicious condition, if only these few tranquil moments</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Could in my memory fix firmly that image of joy</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>When the night rocked us to sleep—but in slumber she&apos;s moving away now,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>From my side turns, as she goes leaving her hand in my hand.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Love in our hearts makes us one, as the genuine need there stays constant;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Only returning desire knows oscillation or change.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Gently her hand presses mine, now she opens her eyes and is looking</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Into my own eyes. No—don&apos;t. Let my thoughts rest on your form!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Please close your eyes. They&apos;re inebriation, confusion, they rob me</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>All too soon of the joy quiet reflection affords.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Grand are the forms of this body and nobly positioned each member.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Had Ariadne lain thus, Theseus never had fled.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>Only a single kiss for these lips and then, O Theseus, leave her;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Look at her eyes—she&apos;s awake! Now you&apos;re eternally bound.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XVI</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Boy, won&apos;t you light me a lamp. &quot;But dear master, there&apos;s light in the sky yet.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Don&apos;t waste your oil and the wick. Don&apos;t close the shutters so soon.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Only the houses are blocking the sun there, it&apos;s not yet the mountains.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Until the curfew shall ring, full half an hour must pass.&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Wretched young fellow, be gone and obey me! My loved one is coming.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Lamplight, console me till then, harbinger warm of the night.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XVII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Poets of old in chorus cried out against those two serpents,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Making them horrible names, hated in all of the world:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Python the one, the other the Hydra of Lerna. These monsters</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Both have now been destroyed, thanks to the deeds of the gods.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Fire-breathing, venomous once, they no longer now depredate our</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Flocks and meadows and woods, fields of golden grain.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>How is it then that some spiteful god in his wrath has</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Raised from the poisonous slime offspring so monstrous again?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>There&apos;s an insidious viper creeps into the loveliest gardens,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Lying in wait to attack all who seek pleasure therein.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Noble Hesperian dragon, I call you courageous and forthright.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Boldly defending your own beautiful apples of gold.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>As for this worm, why he is not guarding at all, for his presence</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Sullies both garden and fruit, till they deserve no defense.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Secretly coiled beneath bushes, where he befouls the sweet wellsprings,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Turning to poisonous drool Cupid&apos;s lifegiving dew.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Happy Lucretius knew how in his day to forego love completely,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Fearing not to enjoy pleasure in anyone&apos;s arms.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Fortunate Ancient, Propertius, for you a slave fetched the girls down</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>From the Aventine Hill, from Tarpeia&apos;s grove.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Cynthia then, when driving you out of such unchaste embraces,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Found you unfaithful, it&apos;s true, but she did find you whole.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Who would today dare attempt to escape from fidelity&apos;s ennui?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Love does not hold one back—only concern for one&apos;s health.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>Even the woman we love may afford us uncertain enjoyment;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Nowhere can feminine lap safely encouch a man&apos;s head.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Matrimonial bed&apos;s insecure and so&apos;s fornication;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Husband, lover and wife pass to each other the hurt.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Think of those ages of gold when Jupiter followed his urges,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Chose Callisto one day, turned to Semel the next.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>It was important to him to find thresholds of temples so sacred</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Pure when, enamoured, he sought powerful entry to them.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Can you imagine the ragings of Juno if in love&apos;s skirmish</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Poisonous weapons on her by her own spouse had been turned?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>But we neo-pagans may not after all be abandoned entirely:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Yet there is speeding a god mercifully over the earth,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Quick and assiduous. Everyone knows him and ought to adore him,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Herald of Zeus: Hermes, the healing god.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Although his father&apos;s temple be fallen, and though of its pillars</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Scarcely a pair yet records ancient glory adored,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Nevertheless the son&apos;s place of worship still stands, and forever</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Will there the ardent requests alternate with the thanks.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Only one favor I beg of you, Graces (I ask it in secret—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Fervent my prayer and deep, out of a passionate breast):</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>My little garden, my sweet one, protect it and do not let any</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Evil come near it nor me. Cupid will hold out his hand:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>O, and entrusting myself to the rascal, I beg you please may I</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Do so in pleasure with no danger or worry or fear.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:soft-page-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XVIII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I cannot think I&apos;d have gone with Julius Caesar to Britain;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>To the Popina right here, Florus would tug me with ease.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Fogs of the dreary north remain a more baleful remembrance</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Than in the kitchens of Rome tribes of assiduous fleas.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>After today, I&apos;ll remember you even more kindly, tavernas,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>You osterias, as you are called, aptly by those here in Rome.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That was the place I encountered my mistress today with the uncle</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Whom she so often deceives, so that she can have me.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Here&apos;s where I sat at a table surrounded by good-natured Germans;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Over on that side the girl, finding a seat for herself</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Next to her mother where, frequently shifting her bench, she arranged</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Nicely for me to perceive profile and curve of her neck;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Speaks just a little more loudly than women in Rome are accustomed;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Significant glance as she pours—misses the glass with the wine</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>So that it spills on the table, and she with a delicate finger</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Over its surface can draw circles in damp arabesque:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Her name entwining in mine, while my eyes most eagerly follow</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>All that her fingertip writes. She is of course well aware</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That I am watching, so finally makes the V of the Roman</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Five, with a virgule before. Quickly, as soon as I&apos;ve seen,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>She interlaces the circles, reducing them all to ornatest</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Patterns—but still the sweet IV stood as engraved in my eye.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I sat there mutely and biting my passionate lips almost bloody</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Half from delight at the ruse, partly from stifled desire:</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>Such a long time until dark, then another four hours of waiting.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>—Sun, who tarries on high, contemplating Rome:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Greater never you&apos;ve nor shall you in future see greater</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Than Rome, O sun, as your priest, Horace, enraptured foretold.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Tarry no longer today. Go seek other realms beneath heaven.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Sooner depart and leave Rome&apos;s seven famed hills to me.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Please do the poet a favor and shorten the glorious hours</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Which the painter devours, eagerly filling his eyes.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Cast now but one ardent glance, while descending, on noble façades and</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Cupolas, pillars, and—last—up at the obelisks. Then</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Hastily plunge to the ocean. Come view all the sooner tomorrow</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>That which, for centuries now, gods have let you enjoy:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Italy&apos;s shoreline so long overgrown with moist reeds, elevations</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Somberly rising to shades cast by the bushes and trees.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>First were but few simple dwellings here, suddenly sunlight discovered</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Nations enlivening hills teeming with fortunate thieves.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Onto this spot they assembled such plunder, in your eye so splendid</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>All earth&apos;s remaining orb scarcely was worthy of note.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>You watched a world being born here, watched the same world sink to ruin,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>And from those ruins yet arise world again greater, perhaps.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>O may I long by your light now behold this Rome. May the Parcæ</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Spin the fine thread of my life slowly, taking great care.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>O but come rushing the moment my love designated so sweetly.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Wonderful! Sound already the chimes? —No, but I heard at least three.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Thus, my dear muses, again you&apos;ve beguiled the monotony for me.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Of this long interval while I was apart from my love.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>All of you now, farewell! I&apos;ll be going now—don&apos;t be offended.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="4"/>For, though you&apos;re proud, you&apos;ll concede: Cupid in my heart comes first.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XIX</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Why did you fail to appear at the cot in the vineyard today, Love?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>As I had promised I would, long I awaited you there.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>&quot;Dear, I had almost arrived when I saw, by good fortune, your uncle</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Standing right there by the vines, looking now this way, now that.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Stealthily I slipped away.&quot; —Alas, what a misapprehension!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>You saw the scarecrow, that&apos;s all. Nothing else drove you away.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Reeds and some discarded garments all hastily cobbled together—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>I helped to make it myself: diligent in my own grief.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>&quot;Well, now his wish is fulfilled. The old gardner&apos;s most dissolute crow has</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Left on this day unscathed nice little garden and niece.&quot;</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XX</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>While there is many an unpleasant sound, I hate to hear barking</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Worse than anything else. Bellowing dogs split my ears.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Nevertheless I do like to hear, and take pleasure in listening</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>To the loud howl of the dog raised from a pup next door.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That is the dog that so bayed one time at my girl that he almost</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Gave our secret away (when she was visiting me).</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Now, when I hear the dog barking I think my beloved is coming—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Or I remember the time, when long awaited she came.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XXI</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I can tell not only about a discomfort far greater than others,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>But of a horror besides, thinking of which will arouse</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Every fiber in me to revulsion. My friends, I confess it:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Great displeasure I take lying alone in my bed.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>But it&apos;s a horror to fear on the pathways of love you&apos;ll discover</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Snakes and their venom beneath roses of eager desire—</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That at the moment supreme, when I&apos;m yielding to pleasure so fully,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Right at my head as it droops, hissing disease may approach.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That&apos;s why Faustina as my companion in bed makes me happy:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Loving she always remains faithful, as I am to her.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Young men are aroused in their passions by obstacles and by excitement;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>I prefer to go slow, savoring pleasures secure.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Is it not bliss to exchange tender kisses containing no dangers,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Sucking into our lungs, carefree, our partner&apos;s own life?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>That is the way our long nights of enjoyment are passed. We listen,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Breast against breast, to the storm, pouring down rain in the wind</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Morning begins to dawn, we expect from these hours approaching</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Blossoms that will adorn festive the coming new day.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Quirites, permit me the joy, and may this, of all pleasures on earth the</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>First and the last, be vouchsafed all of mankind by the god.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XXII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Ah, to uphold one&apos;s respectable name is not easy. The Lady</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Fame has an ancient foe: Cupid, my master and lord.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Oh, by the way, have you heard of the cause of their mutual hatred?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>It&apos;s an old story, I think—Let me just tell it again.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Powerful ever the goddess, but nevertheless to her fellows</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Overbearing and rude, quite unendurable. She</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Had by the gods since time out of mind at their banquets been dreaded,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Yelling with brassiest voice orders to great and to small.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Once, in her arrogance even maintained that she had subjected</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>To her own will, as her slave, Jove&apos;s most illustrious son.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>&quot;One of these days, O father of deities,&quot; cried she in triumph,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>&quot;I shall be bringing you my—Hercules, as if new born.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Don&apos;t think that Hercules be still that boy whom Alcmene once bore you;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>His adulation of me makes him now god upon earth.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>When toward Olympus he gazes, I&apos;ve no doubt you hope that he&apos;s looking</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Piously toward your knees. Hardly. He&apos;s looking for me.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Worthiest man! O the vision of winning my favor makes easy</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Hitherto unexplored paths, under that powerful foot.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I do my part, for I meet him halfway and proclaim his adventures</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Praising his name in advance, even before he&apos;s begun.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>One day you&apos;ll wed me to Hercules. <text:s/>Hero who Amazons conquered</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>That day will overwhelm me. Happily I&apos;ll call him: <text:s/>spouse.&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>All of the gods kept their counsel, and none would reply to the braggart,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Lest in a pique she devise vengeance against one of them.</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>Cupid, escaping attention, slipped off to enslave, however, her hero:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Artlessly conquering by—force of a beautiful girl,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Afterward decked out his couple in mute masquerade: <text:s/>lionskin</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Over her shoulders, the club leaned (by much toil) at her side;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Wiry stiff hair of the hero larded with blossoms, a distaff</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Laid in his fist, to conform strength to the dalliance of love.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Scene now completed and ready to tease, he goes scampering, shouting</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>For all Olympus to hear: &quot;Come, see these glorious deeds!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Heaven and Earth and the Sun on his indefatigable journey</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Over that infinite path never did witness the like!&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Everyone hastened, gulled by the dissolute boy, who feigning</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Earnest, had summoned them all (Fame by no means lagged behind).</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Which of the gods will now smile in sweet condescension on Cupid?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>—Juno! delighted, of course, seeing a man humbled so.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Fame, on the other hand, stood there ashamed, embarrassed, despairing.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>First she just laughed, saying: &quot;Gods, be not deceived. It&apos;s a masque.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I know my hero too well to be fooled by disguises of actors.&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Soon, though, in pain she perceived: Hercules, none but he.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>(Vulcan had not been one thousandth so vexed to discover his playmate</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Under his meshes ensnared, caught with his own lusty friend,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Lying just as the wiles of the net at the most crucial moment</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Deftly embraced their embrace, trapping their instant of joy.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>How those boys, Bacchus and Mercury, guffawed, and freely admitted:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Sweet must be the repose, lying on bosom so fine</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Of this magnificent woman. They turned to Vulcan entreating:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>&quot;Do not release them just yet. Let us inspect them once more.&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>And the old cuckold was cuckold enough to comply with their wishes.)</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="4"/>As for poor Fame, in all haste, burning with wrath she must flee.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Since then no armistice has been proclaimed to the feuding between them.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Let her but favor a man, hot in pursuit is the boy.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>He whom Fame honors most can least defend against Cupid,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>And her most dang&apos;rous attacks strike the most morally proud.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Whoever tries to escape him is dragged down from bad deeds to worse ones.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Yes, he will offer you girls—if like a fool you despise</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>These, only then do you feel from his bow the arrows most vicious:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Heat of man&apos;s love for man, ardent desires toward beasts.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>For those ashamed of him Cupid reserves the bitterest passions,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Mingling for hypocrites their pleasure in vice and remorse.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>But, at the same time, the goddess seeks him, she&apos;s watching and list&apos;ning.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Should find him with you, ill disposed will she be:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Frighten you, frowning austerely, contemptuously, violently casting</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Into the worst of repute houses he&apos;s known to frequent.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Ah, it&apos;s the same with me, too. I haven&apos;t escaped her, the goddess.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Jealously she seeks me out, sweet secret love to expose.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I will submit to the ancient law and in silence revere her,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>For, when great lords fall out, I like the Greeks must atone.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XXIII</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>However comely be strength, or free and undaunted comportment,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Secrecy is for a man most important of all.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Mighty subduer of cities, Discretion, O princess of nations,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Goddess whom I adore, safely you&apos;ve led me thus far.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Now, though, what fate shall befall me? My frivolous muse has now opened</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>—Cupid, the scamp—opens lips hitherto sealed so well.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Difficult is it, alas, to conceal the shame of a monarch;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Hide it can neither his crown, nor a tight Phrygian cap:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Midas has asses ears! the first servant discovers—O horror!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Shame of this secret so weighs, Midas unburdens his heart.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Into the earth for safekeeping the servant must bury the story,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Easing in this way the king: <text:s/>earth must conceal the tale.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Reeds in a trice are sprouting and rustling in murmuring breezes:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>&quot;Midas, o Midas the King—bears the ears of an ass!&quot;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Mine is a secret more pleasant, but even more difficult keeping:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Out of abundance of heart eagerly speaketh my mouth.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>None of my ladyfriends dare I confide in, for they would but chide me;</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Nor any gentleman friend, lest he be rival to me.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Rapture proclaim to the grove, to the echoing cliffs perorate it?</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>One can do that if one&apos;s young, or if one&apos;s lonely enough.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I to hexameters tell, in pentameters I will confide it:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>During the day she was joy, happiness all the night long.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Courted by so many suitors, avoided the snares that were set her</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Now by one bolder than I, now by another in guile,</text:p>
+   <text:p text:style-name="lg"><text:soft-page-break/><text:s text:c="2"/>Cleverly, daintily, always slipped past them, and sure of the byways,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Comes to her lover&apos;s embrace, where he so eagerly waits.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Luna! Don&apos;t rise yet. She&apos;s coming, and must not be seen by the neighbor!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Breezes, rustle the leaves: muffle the sound of her feet.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>And as for you, little poems, o grow and flower, your blossoms</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Cradling themselves in the air, tepid and soft with love&apos;s breath.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Wafting, betray to Quirites, as Midas&apos; reeds did with cheap gossip,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>One happy couple in love, and their sweet secret, at last.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">XXIV</text:h>
+   <text:p text:style-name="lg"><text:s text:c="2"/>I in the back of the garden, the last of the gods, in a corner,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Ineptly formed, must I stand. Evil the inroads of time.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Cucumber vines grow entwining about this primeval lingam,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Cracking it almost in two under the weight of the fruit.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Faggots are heaped all about me against the cold of the winter,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Which I so hate for the crows settling then down on my head,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Which they befoul very shamefully. Summer&apos;s no better: the servants</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Empty their bowels and show insolent, naked behinds.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Filth, above and below! I was clearly in danger of turning</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Into filth myself, toadstool, rotten wood!</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Now, by your efforts, O noblest of artists, I shall recover</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>With fellow gods my just place. And it&apos;s no more than my due.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Jupiter&apos;s throne, so dishonestly won, it was I who secured it:</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Color and ivory, marble and bronze, not to mention the poems.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Now, all intelligent men look upon me in kindness. They like to</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Form their own image of me, just as the poet has done.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Nor do the girls take offense when they see me—by no means the matrons.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>None finds me ugly today, though I am monstrously strong.</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Half a foot long, as reward, your glorious rod (dear poet)</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Proudly shall strut from your loins, when but your dearest commands,</text:p>
+   <text:p text:style-name="lg"><text:s text:c="2"/>Nor shall your member grow weary until you&apos;ve enjoyed the full dozen</text:p>
+   <text:p text:style-name="lg"><text:s text:c="4"/>Artful positions the great poet Philainis describes.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:soft-page-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">ABOUT THE ELEGIES</text:h>
+   <text:p text:style-name="First_20_paragraph">Goethe cultivated a special, italianate hand for this portfolio of twenty-four &quot;elegies,&quot; so called because he was emulating the elegiasts of Imperial Rome, Tibullus, Propertius, Catullus. The Elegies have never before been published as here, together in the cyclical form of their original conception. Experts even denied that the two priapeia (I &amp; XXIV) were by Goethe at all, although they are in the same hand as the rest. To be sure, these two are not numbered, so that I was long undecided as to just what their proper position might be. At one time I imagined they must belong at the middle of the cycle where at the end of Elegy XIII Priapus&apos; mother summons her son. Obviously Goethe, just returned north from his two years in Italy (1786-88), and alienated from prim, courtly friends (especially since he had taken a girlfriend into his cottage), had no thought of publication when he indited these remembrances of Ancient Rome. But he did show them to close friends, one of whom was the wonderful dramatist Friedrich Schiller. In 1795, Schiller undertook a new periodical, Die Horen. This thoughtful and responsible man initiated the journal with an essay of his own, explaining how forms of entertainment are actually at the same time our primary modes of education. It makes for pretty difficult reading in our present, less interested epoch. But he did break the essay up with diversions solicited from the best minds of his era. For a discussion of all this, see</text:p>
+   <text:p text:style-name="P10">Professor Worthy&apos;s Page</text:p>
+   <text:p text:style-name="Text_20_body">For now, it is enough to say that among Schiller&apos;s examples for &quot;aesthetic education,&quot; as he called it, were these Elegies by his much admired friend, Wolfgang Goethe. Editor and author made substantial changes for propriety&apos;s sake—despite Goethe&apos;s having lashed out to the contrary in the first Elegy (which he now suppressed, along with the final one). My attempt <text:soft-page-break/>has been—for the very first time by the way, in any language—to restore Goethe&apos;s cycle to his early conception. Since I have been unwilling to intrude with learned notes, I must apologize for Goethe&apos;s many classical allusions, which were as familiar to his own readership as are, in our publications today, the dense references to media celebrities. Modern editors of what they call the &quot;Roman Elegies&quot; bring abundant annotation, and often detail Goethe&apos;s own emendations. What I bring here is merely translated from his manuscript in the Goethe-Schiller Archive in Weimar.</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/><text:line-break/><text:line-break/><text:line-break/></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">*** END OF THE PROJECT GUTENBERG EBOOK EROTICA ROMANA ***</text:span></text:p>
+   <text:p text:style-name="P8">Updated editions will replace the previous one—the old editions will be renamed.</text:p>
+   <text:p text:style-name="P8">Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You <text:soft-page-break/>may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</text:p>
+   <text:p text:style-name="P8">START: FULL LICENSE</text:p>
+   <text:h text:style-name="P6" text:outline-level="2">THE FULL PROJECT GUTENBERG LICENSE</text:h>
+   <text:p text:style-name="P4">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</text:p>
+   <text:p text:style-name="P8">To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</text:p>
+   <text:p text:style-name="P8">Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P8">1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</text:p>
+   <text:p text:style-name="P8">1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</text:p>
+   <text:p text:style-name="P8">1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</text:p>
+   <text:p text:style-name="P8">1.E. Unless you have removed all references to Project Gutenberg:</text:p>
+   <text:p text:style-name="P8">1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</text:p>
+   <text:p text:style-name="First_20_paragraph"><text:soft-page-break/><text:span text:style-name="T1">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P8">1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P8">1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</text:p>
+   <text:p text:style-name="P8">1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</text:p>
+   <text:p text:style-name="P8">1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to <text:soft-page-break/>the full terms of the Project Gutenberg™ License.</text:p>
+   <text:p text:style-name="P8">1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</text:p>
+   <text:p text:style-name="P8">1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</text:p>
+   <text:p text:style-name="P8">1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</text:p>
+   <text:p text:style-name="P8">• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</text:p>
+   <text:p text:style-name="P8">• You provide a full refund of any money paid by a user who notifies you in <text:soft-page-break/>writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P8">• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</text:p>
+   <text:p text:style-name="P8">• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</text:p>
+   <text:p text:style-name="P8">1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</text:p>
+   <text:p text:style-name="P8">1.F.</text:p>
+   <text:p text:style-name="P8">1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</text:p>
+   <text:p text:style-name="P8">1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the <text:soft-page-break/>“Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</text:p>
+   <text:p text:style-name="P8">1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</text:p>
+   <text:p text:style-name="P8">1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</text:p>
+   <text:p text:style-name="P8">1.F.5. Some states do not allow disclaimers of certain implied warranties or <text:soft-page-break/>the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</text:p>
+   <text:p text:style-name="P8">1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</text:p>
+   <text:p text:style-name="P8">Section 2. Information about the Mission of Project Gutenberg™</text:p>
+   <text:p text:style-name="P8">Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</text:p>
+   <text:p text:style-name="P8">Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project <text:soft-page-break/>Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</text:p>
+   <text:p text:style-name="P8">Section 3. Information about the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P8">The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</text:p>
+   <text:p text:style-name="P8">The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</text:p>
+   <text:p text:style-name="P8">Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</text:p>
+   <text:p text:style-name="P8">Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much </text:span><text:soft-page-break/><text:span text:style-name="T1">paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/donate/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org/donate</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P8">While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</text:p>
+   <text:p text:style-name="P8">International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</text:p>
+   <text:p text:style-name="P8">Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</text:p>
+   <text:p text:style-name="P8">Section 5. General Information About Project Gutenberg™ electronic works</text:p>
+   <text:p text:style-name="P8">Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</text:p>
+   <text:p text:style-name="P8">Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Most people start at our website which has the main PG search facility: </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</text:p>
+   <text:h text:style-name="P7" text:outline-level="2"><text:span text:style-name="T1">The Project Gutenberg eBook of Erotica Romana, by Johann Wolfgang von Goethe</text:span></text:h>
+   <text:p text:style-name="P5"><text:span text:style-name="T1">This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at </text:span><text:a xlink:type="simple" xlink:href="https://www.gutenberg.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Definition"><text:span text:style-name="T1">www.gutenberg.org</text:span></text:span></text:a><text:span text:style-name="T1">. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T2">Title</text:span><text:span text:style-name="T1">: Erotica Romana</text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T2">Author</text:span><text:span text:style-name="T1">: Johann Wolfgang von Goethe</text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T2">Release Date</text:span><text:span text:style-name="T1">: April 1, 2005 [EBook #7889]</text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T2">Language</text:span><text:span text:style-name="T1">: English</text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T2">Credits</text:span><text:span text:style-name="T1">: Produced by Harry Haile, Mike Pullen, and David Widger</text:span></text:p>
+   <text:p text:style-name="P11"><text:line-break/></text:p>
+   <text:p text:style-name="P9">*** START OF THE PROJECT GUTENBERG EBOOK EROTICA ROMANA ***</text:p>
+  </office:text>
+ </office:body>
+</office:document>
